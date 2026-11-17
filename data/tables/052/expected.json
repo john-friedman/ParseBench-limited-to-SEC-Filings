@@ -1,0 +1,45 @@
+{
+  "id": "tables/Home Depot 10-k unrestricted_page58",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <th>in millions</th>\n        <th>February 2, 2025</th>\n        <th>January 28, 2024</th>\n    </tr>\n<tr>\n        <td class=\"\">Land</td>\n<td>$ 9,060</td>\n<td>$ 9,027</td>\n    </tr>\n<tr>\n        <td class=\"\">Buildings and improvements</td>\n<td>20,260</td>\n<td>20,030</td>\n    </tr>\n<tr>\n        <td class=\"\">Furniture, fixtures, and equipment</td>\n<td>18,474</td>\n<td>16,667</td>\n    </tr>\n<tr>\n        <td class=\"\">Leasehold improvements</td>\n<td>2,423</td>\n<td>2,254</td>\n    </tr>\n<tr>\n        <td class=\"\">Construction in progress</td>\n<td>1,521</td>\n<td>1,192</td>\n    </tr>\n<tr>\n        <td class=\"\">Finance leases</td>\n<td>4,045</td>\n<td>4,087</td>\n    </tr>\n<tr>\n        <td class=\"\">Property and equipment, at cost</td>\n<td>55,783</td>\n<td>53,257</td>\n    </tr>\n<tr>\n        <td class=\"\">Less: accumulated depreciation and finance lease amortization</td>\n<td>29,081</td>\n<td>27,103</td>\n    </tr>\n<tr>\n        <td class=\"\">Net property and equipment</td>\n<td>$ 26,702</td>\n<td>$ 26,154</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <th>in millions</th>\n        <th>Fiscal 2024</th>\n        <th>Fiscal 2023</th>\n        <th>Fiscal 2022</th>\n    </tr>\n<tr>\n        <td class=\"\">Depreciation and finance lease amortization expense</td>\n<td>$ 3,283</td>\n<td>$ 3,020</td>\n<td>$ 2,756</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <th>in millions</th>\n        <th>Consolidated Balance Sheet Classification</th>\n        <th>February 2, 2025</th>\n        <th>January 28, 2024</th>\n    </tr>\n<tr>\n        <td class=\"\">Assets:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Operating lease assets</td>\n<td>Operating lease right-of-use assets</td>\n<td>$ 8,592</td>\n<td>$ 7,884</td>\n    </tr>\n<tr>\n        <td class=\"\">Finance lease assets (1)</td>\n<td>Net property and equipment</td>\n<td>2,638</td>\n<td>2,840</td>\n    </tr>\n<tr>\n        <td class=\"\">Total lease assets</td>\n<td></td>\n<td>$ 11,230</td>\n<td>$ 10,724</td>\n    </tr>\n<tr>\n        <td class=\"\">Liabilities:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Current:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Operating lease liabilities</td>\n<td>Current operating lease liabilities</td>\n<td>$ 1,274</td>\n<td>$ 1,050</td>\n    </tr>\n<tr>\n        <td class=\"\">Finance lease liabilities</td>\n<td>Current installments of long-term debt</td>\n<td>272</td>\n<td>268</td>\n    </tr>\n<tr>\n        <td class=\"\">Long-term:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Operating lease liabilities</td>\n<td>Long-term operating lease liabilities</td>\n<td>7,633</td>\n<td>7,082</td>\n    </tr>\n<tr>\n        <td class=\"\">Finance lease liabilities</td>\n<td>Long-term debt, excluding current installments</td>\n<td>2,749</td>\n<td>3,000</td>\n    </tr>\n<tr>\n        <td class=\"\">Total lease liabilities</td>\n<td></td>\n<td>$ 11,928</td>\n<td>$ 11,400</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Home Depot 10-k unrestricted_page58.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000085/hd-20250202.htm",
+      "accession": "0000354950-25-000085",
+      "provider": "datamulehub",
+      "sha256": "cff28db2d142e0e74a2f6460460c9a150d26933fac043782cf790360ca1f0057",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 91,
+            "byte_start": 1322090,
+            "byte_end_exclusive": 1337352
+          },
+          {
+            "table_index_0based": 92,
+            "byte_start": 1337865,
+            "byte_end_exclusive": 1342897
+          },
+          {
+            "table_index_0based": 93,
+            "byte_start": 1343455,
+            "byte_end_exclusive": 1362963
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "6dbdd7bac08a667e88a4f7d5637d432835bd41e320f2229e88791147d897078c",
+    "input_sha256": "da4cfab398439041cfe61aa6980dcee53e361ed2ef41578c67d1dc526d5ae2cf"
+  },
+  "tags": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/ame-2026-08-11_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "* **Madrid at Hope Bay –** Exploration drilling during the third quarter of 2024 totalled 33,100 metres and continued to return wide, high-grade mineralized intervals at the Patch 7 zone, including 18.3 g/t gold over 16.4 metres at 479 metres depth, 16.8 g/t gold over 27.3 metres at 436 metres depth and 11.9 g/t gold over 30.4 metres at 394 metres depth, further confirming the greater thicknesses and higher gold grades in this area compared to the rest of the Madrid deposit\n\n# Third Quarter 2024 Results Conference Call and Webcast Tomorrow\n\nAgnico Eagle's senior management will host a conference call on Thursday, October 31, 2024 at 11:00 AM (E.D.T.) to discuss the Company's financial and operating results.\n\n**<u>Via Webcast:</u>**\n\nTo listen to the live webcast of the conference call, you may register on the Company's website at <u>www.agnicoeagle.com</u>, or directly via the link <u>here</u>.\n\n**<u>Via Phone:</u>**\n\nTo join the conference call by phone, please dial 416.945.7677 or toll-free 1.888.699.1199 to be entered into the call by an operator. To ensure your participation, please call approximately five minutes prior to the scheduled start of the call.\n\nTo join the conference call by phone without operator assistance, you may register your phone number <u>here</u> 30 minutes prior to the scheduled start of the call to receive an instant automated call back.\n\n**<u>Replay Archive:</u>**\n\nPlease dial 289.819.1450 or toll-free 1.888.660.6345, access code 80122#. The conference call replay will expire on November 30, 2024.\n\nThe webcast, along with presentation slides, will be archived for 180 days on the Company's website.\n\n# Third Quarter 2024 Production and Cost Results\n\n**<u>**Production and Cost Results Summary**</u>**\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\"></th>\n      <th colspan=\"2\">Three Months Ended September 30,</th>\n      <th colspan=\"2\">Nine Months Ended September 30,</th>\n    </tr>\n    <tr>\n      <th>2024</th>\n      <th>2023</th>\n      <th>2024</th>\n      <th>2023*</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Gold production (ounces)</td>\n      <td>863,445</td>\n      <td>850,429</td>\n      <td>2,637,935</td>\n      <td>2,536,446</td>\n    </tr>\n    <tr>\n      <td>Gold sales (ounces)</td>\n      <td>855,899</td>\n      <td>843,097</td>\n      <td>2,609,192</td>\n      <td>2,489,503</td>\n    </tr>\n    <tr>\n      <td>Production costs per ounce</td>\n      <td>$ 908</td>\n      <td>$ 893</td>\n      <td>$ 887</td>\n      <td>$ 850</td>\n    </tr>\n    <tr>\n      <td>Total cash costs per ounce</td>\n      <td>$ 921</td>\n      <td>$ 898</td>\n      <td>$ 897</td>\n      <td>$ 857</td>\n    </tr>\n    <tr>\n      <td>AISC per ounce</td>\n      <td>$ 1,286</td>\n      <td>$ 1,210</td>\n      <td>$ 1,214</td>\n      <td>$ 1,162</td>\n    </tr>\n  </tbody>\n</table>\n\n* Production and Cost Results Summary reflects Agnico Eagle's 50% interest in Canadian Malartic up to and including March 30, 2023 and 100% thereafter.\n\n# Gold Production\n\n* Third Quarter of 2024 – Gold production increased when compared to the prior-year period primarily due to higher production from the Nunavut operations, Macassa and Detour Lake, partially offset by lower production at Canadian Malartic and La India\n\n3",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "ame.pdf",
+    "source_sha256": "568c73bda3f348a083288a6d55f24725e0ca7aec735190c46724e8de6d4d4fb5",
+    "annotated_at": "2026-08-11T10:10:53.423Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/ame-2026-08-11_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2809/000110465924113149/tm2423828d4_ex99-1.htm",
+      "accession": "0001104659-24-113149",
+      "provider": "datamulehub",
+      "sha256": "aa2b06fbadba060022ae9c4cbe5a7ce2e56b720d69c7bff9d4d1004557723d1f",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 12,
+            "byte_start": 23902,
+            "byte_end_exclusive": 33531
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "568c73bda3f348a083288a6d55f24725e0ca7aec735190c46724e8de6d4d4fb5",
+    "input_sha256": "f97995d3b2ea49dadae36f4b2ebb0c9ff80e408ffb0dd048af39a95ad21a31d1"
+  },
+  "tags": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "tables/IBM_Annual_Report_2018_page32",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <th>At December 31:</th>\n        <th>2018</th>\n        <th>2017</th>\n        <th>Yr.-to-Yr. Percent Change</th>\n        <th>Yr.-to-Yr. Percent Change Adjusted for Currency</th>\n    </tr>\n        <tr>\n        <td class=\"\">Total backlog</td>\n<td>$116.1</td>\n<td>$121.0</td>\n<td>(4.1)%</td>\n<td>(0.6)%</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <th>For the year ended December 31:</th>\n        <th>2018</th>\n        <th>2017</th>\n        <th>Yr.-to-Yr. Percent Change</th>\n        <th>Yr.-to-Yr. Percent Change Adjusted for Currency</th>\n    </tr>\n        <tr>\n        <td class=\"\">Total signings</td>\n<td>$44,700</td>\n<td>$42,869</td>\n<td>4.3%</td>\n<td>4.9%</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <th>For the year ended December 31:</th>\n        <th>2018</th>\n        <th>2017</th>\n        <th>Yr.-to-Yr. Percent Change</th>\n        <th>Yr.-to-Yr. Percent Change Adjusted for Currency</th>\n    </tr>\n        <tr>\n        <td class=\"\">Systems external revenue</td>\n<td>$8,034</td>\n<td>$8,194</td>\n<td>(2.0)%</td>\n<td>(2.3)%</td>\n    </tr>\n<tr>\n        <td class=\"\">Systems Hardware</td>\n<td>$6,363</td>\n<td>$6,494</td>\n<td>(2.0)%</td>\n<td>(2.3)%</td>\n    </tr>\n<tr>\n        <td class=\"\">IBM Z</td>\n<td></td>\n<td></td>\n<td>(5.4)</td>\n<td>(5.6)</td>\n    </tr>\n<tr>\n        <td class=\"\">Power Systems</td>\n<td></td>\n<td></td>\n<td>8.8</td>\n<td>8.7</td>\n    </tr>\n<tr>\n        <td class=\"\">Storage Systems</td>\n<td></td>\n<td></td>\n<td>(5.5)</td>\n<td>(5.9)</td>\n    </tr>\n<tr>\n        <td class=\"\">Operating Systems Software</td>\n<td>1,671</td>\n<td>1,701</td>\n<td>(1.7)</td>\n<td>(2.4)</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/IBM_Annual_Report_2018_page32.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/51143/000104746919000712/a2237254zex-13.htm",
+      "accession": "0001047469-19-000712",
+      "provider": "datamulehub",
+      "sha256": "61fc323cb1860e000f5858c5f9540ac3a438cf97220340aa3d2125396e5f97ef",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 12,
+            "byte_start": 429552,
+            "byte_end_exclusive": 444277
+          },
+          {
+            "table_index_0based": 13,
+            "byte_start": 448036,
+            "byte_end_exclusive": 462791
+          },
+          {
+            "table_index_0based": 14,
+            "byte_start": 463435,
+            "byte_end_exclusive": 490101
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "4440cfefcb80516f95c092d96fe5f9892c27654fd5f9b3eda5befc0e80f6ee95",
+    "input_sha256": "76ff2f51f3d03e956b87a41e898d20dcb1f8b181b7be30def9f307e7988e849a"
+  },
+  "tags": []
+}

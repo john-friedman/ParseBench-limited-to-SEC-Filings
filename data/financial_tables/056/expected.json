@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/annual-report-2024-3-2026-08-21_page137",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# Board committee reports continued\n\n## Corporate governance\n\nThe Committee regularly reviews, on behalf of the Board, GSK’s corporate governance positioning, the external rating of GSK’s corporate governance practices and emerging corporate governance requirements.\n\n### Board and GLT composition\n\nWe are committed to ensuring the most appropriate composition of our Board and its committees. The Board and management seek to support and encourage an inclusive culture throughout the company and being respectful of our operating environment.\n\nAn effective Board includes a range and balance of skills, experience and knowledge, as well as professional and social-economic background and independence, with individuals who are prepared to challenge each other collaboratively. This mix is complemented by a range of personal Board attributes, including character, intellect, judgement, honesty and courage.\n\nThe Committee in collaboration with all our Non Executive Directors continued to review our talent and succession pipelines and the development plans for key management roles and their successors. During the year, we undertook our regular deep dive of the emerging senior talent that the GLT had identified. These are employees who were exceeding expectations or who are exceptionally talented and who have the potential to take on a GLT role in the future. These discussions include reviewing our strategic approach to talent development planning. The Board seeks to meet with these individuals at employee receptions and through other Board engagement opportunities. Non Executive Directors now also meet more informally with participants in our Enterprise Leadership Programme to get to know them better on a personal level and support their continued development as potential successors to our GLT leaders.\n\nIn 2024, the work of the Committee also included monitoring our performance against the policy objectives we set to ensure that our Board and committee composition and succession planning promotes diversity, inclusion and equal opportunity, pursuant to the principles of the FRC Code. These objectives included gender and ethnicity representation targets for the Board in accordance with the Financial Conduct Authority (FCA)’s diversity targets, which we report on below (as required by the UK Listing Rules). We met or exceeded these objectives in the reporting period.\n\nThe Committee recognises that, going forward, the company will make changes in several areas related to inclusion and diversity to ensure continued compliance with the law and being respectful of our operating environment, including no longer applying a Board diversity policy.\n\n### Board and GLT diversity data collection\n\nIn 2024, diversity data has been gathered directly on a self-identified basis as follows:\n\n– Board members: using a questionnaire\n\n– GLT members: individual election held on GSK's HR database\n\nAs required by the UK Listing Rules, all data published in the following section of the report are as at 31 December 2024 and the date of publication. We also continue to oversee the developing pipeline of direct reports to the GLT. The Committee is reviewing its future position with regards to the collection of diversity data.\n\n### **Sir Jonathan Symonds**\n\nNominations & Corporate Governance Committee Chair\n25 February 2025\n\n## FCA UK Listing Rule 6.6.6R(9) reporting\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>Number of Board members</th>\n      <th>Percentage of the Board</th>\n      <th>Number of senior positions on the Board (CEO, CFO, SID and Chair)</th>\n      <th>Number in Executive Management</th>\n      <th>Percentage of executive management</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b><b>Gender identity or sex</b></b></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Men</td>\n      <td>6</td>\n      <td>50%</td>\n      <td>2</td>\n      <td>6</td>\n      <td>50%</td>\n    </tr>\n    <tr>\n      <td>Women</td>\n      <td>6</td>\n      <td>50%</td>\n      <td>2</td>\n      <td>6</td>\n      <td>50%</td>\n    </tr>\n    <tr>\n      <td>Not specified/preferred not to say</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td><b><b>Ethnic background</b></b></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>White British or other White (including<br>minority white groups)</td>\n      <td>9</td>\n      <td>75%</td>\n      <td>4</td>\n      <td>10</td>\n      <td>83.3%</td>\n    </tr>\n    <tr>\n      <td>Mixed/Multiple Ethnic Groups</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Asian/Asian British</td>\n      <td>2</td>\n      <td>17%</td>\n      <td>—</td>\n      <td>1</td>\n      <td>8.3%</td>\n    </tr>\n    <tr>\n      <td>Black/African/Caribbean/Black British</td>\n      <td>1</td>\n      <td>8%</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Other ethnic group</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Not specified/preferred not to say</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>1</td>\n      <td>8.3%</td>\n    </tr>\n  </tbody>\n</table>\n\n135",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "annual-report-2024 (3).pdf",
+    "source_sha256": "f7a5e0c62114df4ca9a8dd66f0e2ae00ef185acfee0a03cc8686bbd80cb2cade",
+    "annotated_at": "2026-08-21T16:41:14.139Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/annual-report-2024-3-2026-08-21_page137.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm",
+      "accession": "0001131399-25-000007",
+      "provider": "datamulehub",
+      "sha256": "7444753846614e2c3341c8d2c00213f0c72ac186db7d5ac6a22c68b791ac42e7",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 357,
+            "byte_start": 9285612,
+            "byte_end_exclusive": 9331927
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "f7a5e0c62114df4ca9a8dd66f0e2ae00ef185acfee0a03cc8686bbd80cb2cade",
+    "input_sha256": "c8ded95f0a2a56c5d25b19928339e3d019ab90000e2c66de35a36c5cb6e742ae"
+  },
+  "tags": []
+}

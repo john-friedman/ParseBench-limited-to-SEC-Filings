@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/3p-2026-08-12_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "EATON CORPORATION plc BUSINESS SEGMENT INFORMATION\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">Three months ended March 31</th>\n    </tr>\n    <tr>\n      <th>(In millions)</th>\n      <th>2025</th>\n      <th>2024</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Net sales</strong></td>\n      <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n      <td>Electrical Americas</td>\n      <td>$ 3,010</td>\n      <td>$ 2,690</td>\n    </tr>\n    <tr>\n      <td>Electrical Global</td>\n      <td>1,610</td>\n      <td>1,500</td>\n    </tr>\n    <tr>\n      <td>Aerospace</td>\n      <td>979</td>\n      <td>871</td>\n    </tr>\n    <tr>\n      <td>Vehicle</td>\n      <td>617</td>\n      <td>724</td>\n    </tr>\n    <tr>\n      <td>eMobility</td>\n      <td>162</td>\n      <td>158</td>\n    </tr>\n    <tr>\n      <td><strong>Total net sales</strong></td>\n      <td>$ 6,377</td>\n      <td>$ 5,943</td>\n    </tr>\n    <tr>\n      <td><strong>Segment operating profit (loss)</strong></td>\n      <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n      <td>Electrical Americas</td>\n      <td>$ 904</td>\n      <td>$ 785</td>\n    </tr>\n    <tr>\n      <td>Electrical Global</td>\n      <td>300</td>\n      <td>274</td>\n    </tr>\n    <tr>\n      <td>Aerospace</td>\n      <td>226</td>\n      <td>201</td>\n    </tr>\n    <tr>\n      <td>Vehicle</td>\n      <td>96</td>\n      <td>116</td>\n    </tr>\n    <tr>\n      <td>eMobility</td>\n      <td>(4)</td>\n      <td>(4)</td>\n    </tr>\n    <tr>\n      <td><strong>Total segment operating profit</strong></td>\n      <td>1,522</td>\n      <td>1,371</td>\n    </tr>\n    <tr>\n      <td><strong>Corporate</strong></td>\n      <td colspan=\"2\"></td>\n    </tr>\n    <tr>\n      <td>Intangible asset amortization expense</td>\n      <td>(106)</td>\n      <td>(106)</td>\n    </tr>\n    <tr>\n      <td>Interest expense - net</td>\n      <td>(33)</td>\n      <td>(30)</td>\n    </tr>\n    <tr>\n      <td>Pension and other postretirement benefits income</td>\n      <td>5</td>\n      <td>12</td>\n    </tr>\n    <tr>\n      <td>Restructuring program charges</td>\n      <td>(18)</td>\n      <td>(63)</td>\n    </tr>\n    <tr>\n      <td>Other expense - net</td>\n      <td>(193)</td>\n      <td>(184)</td>\n    </tr>\n    <tr>\n      <td><strong>Income before income taxes</strong></td>\n      <td>1,177</td>\n      <td>1,001</td>\n    </tr>\n    <tr>\n      <td>Income tax expense</td>\n      <td>212</td>\n      <td>179</td>\n    </tr>\n    <tr>\n      <td><strong>Net income</strong></td>\n      <td>965</td>\n      <td>822</td>\n    </tr>\n    <tr>\n      <td>Less net income for noncontrolling interests</td>\n      <td>(1)</td>\n      <td>(1)</td>\n    </tr>\n    <tr>\n      <td><strong>Net income attributable to Eaton ordinary shareholders</strong></td>\n      <td>$ 964</td>\n      <td>$ 821</td>\n    </tr>\n  </tbody>\n</table>\n\nSee accompanying notes.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "3p.pdf",
+    "source_sha256": "9abdc01c4952618b11e98848d7f023744aaf01d4698c24c8ccf8d606e41d768a",
+    "annotated_at": "2026-08-12T09:44:52.826Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/3p-2026-08-12_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000011/etn03312025exhibit99.htm",
+      "accession": "0001551182-25-000011",
+      "provider": "datamulehub",
+      "sha256": "4750951e7b3438867cd2d97f85144e0595318c7256b8af9bb42b494a7e7c2e9e",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 1,
+            "byte_start": 59188,
+            "byte_end_exclusive": 91420
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "9abdc01c4952618b11e98848d7f023744aaf01d4698c24c8ccf8d606e41d768a",
+    "input_sha256": "447e4e8aa77ca6ed95f76f8673464ea97119d5c19c40c005d7eb1c42dc7c1ea6"
+  },
+  "tags": []
+}

@@ -1,0 +1,2 @@
+doc2struct>=0.1.6
+parse-bench==2.0.4

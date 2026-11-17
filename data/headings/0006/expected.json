@@ -1,0 +1,74 @@
+{
+  "id": "headings/case-0006-00343cd15be3",
+  "subset": "headings",
+  "dimension": "formatting",
+  "document": "sec_input.html",
+  "expected_markdown": null,
+  "test_rules": [
+    {
+      "type": "heading_structure",
+      "id": "case-0006-00343cd15be3:heading-structure-001",
+      "page": 1,
+      "headings": [
+        {
+          "text": "PART I. FINANCIAL INFORMATION",
+          "level": 2
+        },
+        {
+          "text": "ITEM 1. FINANCIAL STATEMENTS",
+          "level": 3
+        },
+        {
+          "text": "D.R. HORTON, INC. AND SUBSIDIARIES CONSOLIDATED BALANCE SHEETS",
+          "level": 4
+        }
+      ],
+      "tags": [
+        "heading-structure",
+        "financial",
+        "full-document-reviewed"
+      ]
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "3-31-2026-dhi-10q-final.pdf",
+    "source_sha256": "00343cd15be3ae5fc56153a4b5806acce6c19bd70013cf69465a3cbceaada1f5",
+    "source_page": 3,
+    "source_page_count": 64,
+    "cohort": "financial",
+    "annotation_evidence": [
+      "target_page_raster",
+      "adjacent_page_context",
+      "full_document_outline"
+    ],
+    "scoring": "next",
+    "primary_metric": "formatting_v2",
+    "headline": "feature",
+    "headline_reason": "complete page heading list (heading_structure rule)",
+    "next_version": "v0.4",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/headings.jsonl",
+    "parsebench_document": "headings/case-0006-00343cd15be3.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218426000081/dhi-20260331.htm",
+      "accession": "0000882184-26-000081",
+      "provider": "datamulehub",
+      "sha256": "9a610aafe80d10ea7c3a760ea14621848302b7b58f687bc48fcb01c4872ae6c6",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 218856,
+        "byte_end_exclusive": 270222,
+        "page_fragment_index_0based": 2
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "2d92769f82f326528967f37acc0959d30a59eedf28791a3dab1a931a94c0685d",
+    "input_sha256": "e44aec9054fa036f640e176a1bfdef4a1cd6bc3624170d10dca8f82c1658a920"
+  },
+  "tags": [
+    "heading-structure",
+    "financial",
+    "full-document-reviewed"
+  ]
+}

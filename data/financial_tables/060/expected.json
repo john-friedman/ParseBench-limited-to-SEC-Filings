@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/apple1-2026-08-19_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# Products and Services Performance\n\nThe following table shows net sales by category for 2023, 2022 and 2021 (dollars in millions):\n\n<table>\n  <thead>\n    <tr>\n      <th>Net sales by category:</th>\n      <th>2023</th>\n      <th>Change</th>\n      <th>2022</th>\n      <th>Change</th>\n      <th>2021</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>iPhone <sup>(1)</sup></td>\n      <td>$ 200,583</td>\n      <td>(2)%</td>\n      <td>$ 205,489</td>\n      <td>7 %</td>\n      <td>$ 191,973</td>\n    </tr>\n    <tr>\n      <td>Mac <sup>(1)</sup></td>\n      <td>29,357</td>\n      <td>(27)%</td>\n      <td>40,177</td>\n      <td>14 %</td>\n      <td>35,190</td>\n    </tr>\n    <tr>\n      <td>iPad <sup>(1)</sup></td>\n      <td>28,300</td>\n      <td>(3)%</td>\n      <td>29,292</td>\n      <td>(8)%</td>\n      <td>31,862</td>\n    </tr>\n    <tr>\n      <td>Wearables, Home and Accessories <sup>(1)</sup></td>\n      <td>39,845</td>\n      <td>(3)%</td>\n      <td>41,241</td>\n      <td>7 %</td>\n      <td>38,367</td>\n    </tr>\n    <tr>\n      <td>Services <sup>(2)</sup></td>\n      <td>85,200</td>\n      <td>9 %</td>\n      <td>78,129</td>\n      <td>14 %</td>\n      <td>68,425</td>\n    </tr>\n    <tr>\n      <td>Total net sales</td>\n      <td>$ 383,285</td>\n      <td>(3)%</td>\n      <td>$ 394,328</td>\n      <td>8 %</td>\n      <td>$ 365,817</td>\n    </tr>\n  </tbody>\n</table>\n\n(1) Products net sales include amortization of the deferred value of unspecified software upgrade rights, which are bundled in the sales price of the respective product.\n\n(2) Services net sales include amortization of the deferred value of services bundled in the sales price of certain products.\n\n*iPhone*\n\niPhone net sales decreased 2% or $4.9 billion during 2023 compared to 2022 due to lower net sales of non-Pro iPhone models, partially offset by higher net sales of Pro iPhone models.\n\n*Mac*\n\nMac net sales decreased 27% or $10.8 billion during 2023 compared to 2022 due primarily to lower net sales of laptops.\n\n*iPad*\n\niPad net sales decreased 3% or $1.0 billion during 2023 compared to 2022 due primarily to lower net sales of iPad mini and iPad Air, partially offset by the combined net sales of iPad 9th and 10th generation.\n\n*Wearables, Home and Accessories*\n\nWearables, Home and Accessories net sales decreased 3% or $1.4 billion during 2023 compared to 2022 due primarily to lower net sales of Wearables and Accessories.\n\n*Services*\n\nServices net sales increased 9% or $7.1 billion during 2023 compared to 2022 due to higher net sales across all lines of business.\n\nApple Inc. | 2023 Form 10-K | 22",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "apple1.pdf",
+    "source_sha256": "765abd4cf3267c11a8d746b49e25ee17b80fa6d88c4379ddcafd92fac2801f61",
+    "annotated_at": "2026-08-19T17:34:59.548Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/apple1-2026-08-19_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/aapl-20230930.htm",
+      "accession": "0000320193-23-000106",
+      "provider": "datamulehub",
+      "sha256": "c12269ed56c9fa19b96450e845b356b99b2f24f1e90800804112625cd1ac948f",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 15,
+            "byte_start": 389647,
+            "byte_end_exclusive": 410376
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "765abd4cf3267c11a8d746b49e25ee17b80fa6d88c4379ddcafd92fac2801f61",
+    "input_sha256": "139363fc9e01a632ecd9677c88f6c31d937dfab72619d811ab2c051c822c5263"
+  },
+  "tags": []
+}

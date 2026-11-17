@@ -1,0 +1,375 @@
+{
+  "id": "dense_tables/dense_table_395",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# Table 4.11: Consumer Loan Categories by FICO and Vintage (1)\n\n<table>\n<thead>\n<tr><th rowspan=\"2\">(in millions)</th><th colspan=\"6\">Term loans by origination year</th><th rowspan=\"2\">Revolving loans</th><th rowspan=\"2\">Revolving loans converted to term loans</th><th rowspan=\"2\">Total</th></tr>\n<tr><th>2020</th><th>2019</th><th>2018</th><th>2017</th><th>2016</th><th>Prior</th></tr>\n</thead>\n<tbody>\n<tr><td>December 31, 2020</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>By FICO:</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Residential mortgage – first lien</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>800+</td><td>$ 29,365</td><td>28,652</td><td>9,911</td><td>17,416</td><td>22,215</td><td>40,440</td><td>3,391</td><td>493</td><td>151,883</td></tr>\n<tr><td>760-799</td><td>17,154</td><td>9,866</td><td>2,908</td><td>4,380</td><td>4,955</td><td>10,843</td><td>1,361</td><td>274</td><td>51,741</td></tr>\n<tr><td>720-759</td><td>5,274</td><td>3,290</td><td>1,189</td><td>1,829</td><td>2,106</td><td>7,001</td><td>879</td><td>265</td><td>21,833</td></tr>\n<tr><td>680-719</td><td>1,361</td><td>1,084</td><td>490</td><td>678</td><td>831</td><td>4,403</td><td>520</td><td>221</td><td>9,588</td></tr>\n<tr><td>640-679</td><td>376</td><td>287</td><td>148</td><td>192</td><td>226</td><td>2,385</td><td>241</td><td>154</td><td>4,009</td></tr>\n<tr><td>600-639</td><td>55</td><td>56</td><td>44</td><td>56</td><td>92</td><td>1,429</td><td>127</td><td>106</td><td>1,965</td></tr>\n<tr><td>&lt; 600</td><td>14</td><td>29</td><td>36</td><td>44</td><td>66</td><td>1,789</td><td>162</td><td>175</td><td>2,315</td></tr>\n<tr><td>No FICO available</td><td>136</td><td>135</td><td>87</td><td>125</td><td>161</td><td>1,831</td><td>253</td><td>372</td><td>3,100</td></tr>\n<tr><td>Government insured/guaranteed loans (2)</td><td>215</td><td>639</td><td>904</td><td>1,076</td><td>2,367</td><td>25,039</td><td>—</td><td>—</td><td>30,240</td></tr>\n<tr><td>Total residential mortgage – first lien</td><td>53,950</td><td>44,038</td><td>15,717</td><td>25,796</td><td>33,019</td><td>95,160</td><td>6,934</td><td>2,060</td><td>276,674</td></tr>\n<tr><td>Residential mortgage – junior lien</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>800+</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>293</td><td>7,973</td><td>1,819</td><td>10,085</td></tr>\n<tr><td>760-799</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>177</td><td>3,005</td><td>1,032</td><td>4,214</td></tr>\n<tr><td>720-759</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>207</td><td>2,093</td><td>1,034</td><td>3,334</td></tr>\n<tr><td>680-719</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>183</td><td>1,233</td><td>854</td><td>2,270</td></tr>\n<tr><td>640-679</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>103</td><td>503</td><td>493</td><td>1,099</td></tr>\n<tr><td>600-639</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>67</td><td>241</td><td>299</td><td>607</td></tr>\n<tr><td>&lt; 600</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>76</td><td>254</td><td>374</td><td>704</td></tr>\n<tr><td>No FICO available</td><td>22</td><td>39</td><td>41</td><td>39</td><td>32</td><td>83</td><td>441</td><td>276</td><td>973</td></tr>\n<tr><td>Total residential mortgage – junior lien</td><td>22</td><td>39</td><td>41</td><td>39</td><td>32</td><td>1,189</td><td>15,743</td><td>6,181</td><td>23,286</td></tr>\n<tr><td>Credit card</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>800+</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3,860</td><td>1</td><td>3,861</td></tr>\n<tr><td>760-799</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>5,438</td><td>7</td><td>5,445</td></tr>\n<tr><td>720-759</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>7,897</td><td>29</td><td>7,926</td></tr>\n<tr><td>680-719</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>8,854</td><td>60</td><td>8,914</td></tr>\n<tr><td>640-679</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>5,657</td><td>64</td><td>5,721</td></tr>\n<tr><td>600-639</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2,242</td><td>46</td><td>2,288</td></tr>\n<tr><td>&lt; 600</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2,416</td><td>82</td><td>2,498</td></tr>\n<tr><td>No FICO available</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>10</td><td>1</td><td>11</td></tr>\n<tr><td>Total credit card</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>36,374</td><td>290</td><td>36,664</td></tr>\n<tr><td>Auto</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>800+</td><td>2,875</td><td>2,606</td><td>1,211</td><td>731</td><td>452</td><td>104</td><td>—</td><td>—</td><td>7,979</td></tr>\n<tr><td>760-799</td><td>3,036</td><td>2,662</td><td>1,122</td><td>579</td><td>349</td><td>81</td><td>—</td><td>—</td><td>7,829</td></tr>\n<tr><td>720-759</td><td>3,162</td><td>2,514</td><td>1,095</td><td>576</td><td>395</td><td>98</td><td>—</td><td>—</td><td>7,840</td></tr>\n<tr><td>680-719</td><td>3,534</td><td>2,542</td><td>1,066</td><td>545</td><td>400</td><td>105</td><td>—</td><td>—</td><td>8,192</td></tr>\n<tr><td>640-679</td><td>3,381</td><td>1,948</td><td>763</td><td>395</td><td>334</td><td>94</td><td>—</td><td>—</td><td>6,915</td></tr>\n<tr><td>600-639</td><td>2,208</td><td>1,165</td><td>479</td><td>274</td><td>276</td><td>87</td><td>—</td><td>—</td><td>4,489</td></tr>\n<tr><td>&lt; 600</td><td>1,581</td><td>1,357</td><td>730</td><td>463</td><td>533</td><td>186</td><td>—</td><td>—</td><td>4,850</td></tr>\n<tr><td>No FICO available</td><td>13</td><td>37</td><td>5</td><td>10</td><td>18</td><td>10</td><td>—</td><td>—</td><td>93</td></tr>\n<tr><td>Total auto</td><td>19,790</td><td>14,831</td><td>6,471</td><td>3,573</td><td>2,757</td><td>765</td><td>—</td><td>—</td><td>48,187</td></tr>\n<tr><td>Other consumer</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>800+</td><td>353</td><td>287</td><td>94</td><td>35</td><td>10</td><td>71</td><td>2,249</td><td>21</td><td>3,120</td></tr>\n<tr><td>760-799</td><td>342</td><td>279</td><td>93</td><td>29</td><td>10</td><td>34</td><td>1,110</td><td>16</td><td>1,913</td></tr>\n<tr><td>720-759</td><td>262</td><td>258</td><td>107</td><td>35</td><td>11</td><td>30</td><td>915</td><td>26</td><td>1,644</td></tr>\n<tr><td>680-719</td><td>156</td><td>213</td><td>99</td><td>36</td><td>11</td><td>24</td><td>798</td><td>31</td><td>1,368</td></tr>\n<tr><td>640-679</td><td>71</td><td>112</td><td>59</td><td>21</td><td>7</td><td>10</td><td>415</td><td>23</td><td>718</td></tr>\n<tr><td>600-639</td><td>18</td><td>36</td><td>22</td><td>9</td><td>4</td><td>8</td><td>151</td><td>13</td><td>261</td></tr>\n<tr><td>&lt; 600</td><td>13</td><td>41</td><td>30</td><td>12</td><td>5</td><td>7</td><td>161</td><td>18</td><td>287</td></tr>\n<tr><td>No FICO available</td><td>195</td><td>173</td><td>83</td><td>88</td><td>3</td><td>16</td><td>1,248</td><td>43</td><td>1,849</td></tr>\n<tr><td>FICO not required</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>13,249</td><td>—</td><td>13,249</td></tr>\n<tr><td>Total other consumer</td><td>1,410</td><td>1,399</td><td>587</td><td>265</td><td>61</td><td>200</td><td>20,296</td><td>191</td><td>24,409</td></tr>\n<tr><td>Total consumer loans</td><td>$ 75,172</td><td>60,307</td><td>22,816</td><td>29,673</td><td>35,869</td><td>97,314</td><td>79,347</td><td>8,722</td><td>409,220</td></tr>\n</tbody>\n</table>\n\n*(continued on following page)*\n\nWells Fargo & Company 157",
+  "test_rules": [
+    {
+      "type": "table_rowspan",
+      "cell": "(in millions)",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_1276fcec22c92b79"
+    },
+    {
+      "type": "table_colspan",
+      "cell": "term loans by origination year",
+      "expected_colspan": 6,
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_3c92eb9fd99b9c86"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "revolving loans",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_24682edf1c064bf4"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "revolving loans converted to term loans",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_b2c7f1668441f3d8"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "total",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_b9f31b8a28c8969c"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "december 31, 2020",
+      "column_headers": [
+        "(in millions)"
+      ],
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_b1e8504cdcd65a95"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "december 31, 2020",
+      "expected_neighbor": "by fico:",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_52fea79cda2b00ee"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "residential mortgage - junior lien",
+      "expected_neighbor": "800+",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_cec14e3c557e9e79"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "8,914",
+      "expected_neighbor": "5,721",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_2797c128b5160fbd"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "463",
+      "expected_neighbor": "533",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_dc19f7a7bd1a53a7"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "4,850",
+      "expected_neighbor": "93",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_3c376d644ba1dfb3"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "total consumer loans",
+      "expected_neighbor": "$ 75,172",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_3c0116f882928be5"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "29,673",
+      "expected_neighbor": "35,869",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_7fd92f0796d25c0b"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "total consumer loans",
+      "cell_b": "409,220",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_6ff70f9f57b21620"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "(in millions)",
+      "cell_b": "total consumer loans",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_48412ce1b46bfebd"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "2017",
+      "cell_b": "29,673",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_98166510b706350b"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "total",
+      "cell_b": "409,220",
+      "table_anchor_cells": [
+        "revolving loans converted to term loans",
+        "term loans by origination year",
+        "revolving loans",
+        "(in millions)",
+        "total"
+      ],
+      "page": 1,
+      "pdf": "dense_table_395.pdf",
+      "verified": false,
+      "id": "dense_v01_1c2ec5cebf36d5b2"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_395",
+    "gt_status": "reannotated_confirmed",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_395.md",
+    "source_pdf": "/Users/pierre/Code/pdfDataSetOrdered/annualRepport2/2020-annual-report.pdf",
+    "source_page": 159,
+    "source_n_pages": 248,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 480.0,
+      "rows": 48,
+      "cols": 10,
+      "cells": 482,
+      "fill": 1.0,
+      "numeric_ratio": 0.896,
+      "n_items": 511,
+      "tabular_line_ratio": 0.778,
+      "n_blocks": 1
+    },
+    "shape_class": "medium/numeric/portrait",
+    "verify": {
+      "median_cell_len": 3,
+      "words_per_cell": 1.04,
+      "aligned_ratio": 0.988,
+      "row_coverage": 0.762,
+      "text_sha1": "546cc384e8820fc213b1e0931b810d5f761ec119"
+    },
+    "header_preview": "800+ | $ | 29,365 | 28,652 | 9,911 | 17,416 | 22,215 | 40,440 | 3,391 | 493 | 151,883",
+    "draft_check": {
+      "text_layer_numbers": 374,
+      "numeric_coverage": 1.0
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 1.0,
+        "blind_rows": 10,
+        "text_layer_token_precision": 0.9891,
+        "text_layer_token_recall": 1.0,
+        "agreement_with_previous_reference_table_next": 0.99
+      },
+      "review": null,
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_395.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297121000197/wfc-20201231_d2.htm",
+      "accession": "0000072971-21-000197",
+      "provider": "datamulehub",
+      "sha256": "84c1eb6acab418c315520c1a5fbc7dab6edfef6775a00562b54389c6ae850e01",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 237,
+            "byte_start": 7583170,
+            "byte_end_exclusive": 8092834
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "fb514d5474157ee7ba44f69e072c1592bc5b9ee9a02c26ba094eb6dcca09ddf0",
+    "input_sha256": "d867d72967a2bb9a013354bc256de8d792524c518bef18885b348fc5d4242c0b"
+  },
+  "tags": [
+    "dense_table",
+    "medium_columns",
+    "numeric_content",
+    "portrait",
+    "gt_draft"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "financial_tables/Q206EarningsAdobe-2026-08-13_page2",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "The following table shows the Company’s classification of SFAS 123R stock-based compensation, amortization of Macromedia deferred compensation, and amortization of purchased intangibles and incomplete technology on the Consolidated Statements of Income for the quarter ended June 2, 2006.\n\n<table>\n  <thead>\n    <tr>\n        <th> </th>\n        <th colspan=\"2\">Total Stock-based Compensation</th>  <th> </th>\n    </tr>\n    <tr>\n        <th>Income Statement Classifications</th>\n        <th>SFAS 123R</th>\n        <th>Amortization of Macromedia Deferred Compensation(a)</th>\n        <th>Amortization of Purchased Intangibles and Incomplete Technology</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>Cost of revenue – products</td>\n        <td>$ —</td>\n        <td>$ —</td>\n        <td>$ 34,235 (a)</td>\n    </tr>\n    <tr>\n        <td>Cost of revenue – services and support</td>\n        <td>677</td>\n        <td>1,749</td>\n        <td>—</td>\n    </tr>\n    <tr>\n        <td>Research and development</td>\n        <td>12,129</td>\n        <td>5,639</td>\n        <td>500 (b)</td>\n    </tr>\n    <tr>\n        <td>Sales and marketing</td>\n        <td>8,773</td>\n        <td>5,652</td>\n        <td>—</td>\n    </tr>\n    <tr>\n        <td>General and administrative</td>\n        <td>5,043</td>\n        <td>2,219</td>\n        <td>—</td>\n    </tr>\n    <tr>\n        <td>Amortization of purchased intangibles</td>\n        <td>—</td>\n        <td>—</td>\n        <td>17,306 (a)</td>\n    </tr>\n    <tr>\n        <td>Total</td>\n        <td>$ 26,622</td>\n        <td>$ 15,259</td>\n        <td>$ 52,041</td>\n    </tr>\n  </tbody>\n</table>\n\n(a) Relates to Macromedia acquisition\n\n(a) Relates to Macromedia acquisition\n\n(b) Charge for incomplete technology related to a small acquisition\n\n\n\nThe following table shows the Company’s reconciliation of non-GAAP to GAAP operating expenses as a percent of revenue and effective tax rate for the quarter ended June 2, 2006.\n\n<table>\n  <thead>\n    <tr>\n        <th> </th>\n        <th colspan=\"3\">Operating Expense as a Percent of Revenue</th>    <th> </th>\n    </tr>\n    <tr>\n        <th> </th>\n        <th>Research and Development</th>\n        <th>Sales and Marketing</th>\n        <th>General and Administrative</th>\n        <th>Effective Tax Rate</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>GAAP</td>\n        <td>21.0 %</td>\n        <td>33.1 %</td>\n        <td>9.4 %</td>\n        <td>25.2 %</td>\n    </tr>\n    <tr>\n        <td>SFAS 123R stock-based compensation</td>\n        <td>(1.9)</td>\n        <td>(1.4)</td>\n        <td>(0.8)</td>\n        <td>(0.6)</td>\n    </tr>\n    <tr>\n        <td>Amortization of Macromedia deferred compensation</td>\n        <td>(0.9)</td>\n        <td>(0.9)</td>\n        <td>(0.3)</td>\n        <td>0.4</td>\n    </tr>\n    <tr>\n        <td>Amortization of purchased intangibles and incomplete technology</td>\n        <td>(0.1)</td>\n        <td>—</td>\n        <td>—</td>\n        <td>1.3</td>\n    </tr>\n    <tr>\n        <td>Non-GAAP</td>\n        <td>18.1 %</td>\n        <td>30.8 %</td>\n        <td>8.3 %</td>\n        <td>26.3 %</td>\n    </tr>\n  </tbody>\n</table>\n\nThe following table shows the Company’s reconciliation of non-GAAP to GAAP operating expenses for the quarter ended June 2, 2006.\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>Operating Expenses</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>GAAP</td>\n      <td>$ 421,941</td>\n    </tr>\n    <tr>\n      <td>SFAS 123R stock –based compensation</td>\n      <td>(25,945)</td>\n    </tr>\n    <tr>\n      <td>Amortization of Macromedia deferred compensation</td>\n      <td>(13,510)</td>\n    </tr>\n    <tr>\n      <td>Restructuring and other charges</td>\n      <td>(1,235)</td>\n    </tr>\n    <tr>\n      <td>Amortization of purchased intangibles and incomplete technology</td>\n      <td>(17,806)</td>\n    </tr>\n    <tr>\n      <td>Non-GAAP</td>\n      <td><u>$ 363,445</u></td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Q206EarningsAdobe.pdf",
+    "source_sha256": "7f635ca881ae159aee7fbb67a38d60dfe32a4ac1c7bdfbd528d0d87f7bb94e06",
+    "annotated_at": "2026-08-13T06:23:09.811Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Q206EarningsAdobe-2026-08-13_page2.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/796343/000110465906041967/a06-13860_2ex99d1.htm",
+      "accession": "0001104659-06-041967",
+      "provider": "datamulehub",
+      "sha256": "e4e966f6872a237fbe6bc50288440dd5bb8d75eeab7343c6bf2a04bd55fd18a7",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 4,
+            "byte_start": 351608,
+            "byte_end_exclusive": 373981
+          },
+          {
+            "table_index_0based": 5,
+            "byte_start": 375218,
+            "byte_end_exclusive": 395158
+          },
+          {
+            "table_index_0based": 6,
+            "byte_start": 396257,
+            "byte_end_exclusive": 405116
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "7f635ca881ae159aee7fbb67a38d60dfe32a4ac1c7bdfbd528d0d87f7bb94e06",
+    "input_sha256": "052b79ae2ef429103cde903728d5b28f9d5c1e6952497582b66b79d89cc4d788"
+  },
+  "tags": []
+}

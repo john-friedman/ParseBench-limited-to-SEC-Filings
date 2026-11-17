@@ -1,0 +1,42 @@
+{
+  "id": "tables/Goldman Sachs 10-k_page432",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th>MRT Classification</th>\n        <th>MRT Appendix</th>\n    </tr>\n        <tr>\n        <td>EU MRT, GSAMI MRT, GSAMI Senior Management and/or UK MRT</td>\n<td>EU and UK Material Risk Taker Appendix</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Goldman Sachs 10-k_page432.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/a1043_formxofxperformance-.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "19386f4698d99f51ed13e8a241b606b9e379b44879439ec2568dadbdf26e9e8f",
+      "scope": "table",
+      "mapping_url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/0000886982-25-000005-index.htm",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 0,
+            "byte_start": 41162,
+            "byte_end_exclusive": 45078,
+            "row_ranges_0based_end_exclusive": [
+              [
+                0,
+                3
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "5598ba85bbbe4b67c59cc54409d7963a8154c6e0da7848bb3762fab6ed862744",
+    "input_sha256": "bad391d5adab94e7f8188e66702a3d1e64394f436c4d142370f51fc1b981c5ff"
+  },
+  "tags": []
+}

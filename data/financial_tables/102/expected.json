@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/sapshareholder-2026-08-13_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# *Consolidated Balance Sheets*\n*SAP Group*\n\n**PRELIMINARY and UNAUDITED**\n\n(in EUR millions)\n\n**ASSETS**\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>06/30/2005</th>\n      <th>12/31/2004</th>\n      <th>∆</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Intangible assets</td>\n      <td>583</td>\n      <td>525</td>\n      <td>11%</td>\n    </tr>\n    <tr>\n      <td>Property, plant and equipment</td>\n      <td>1,031</td>\n      <td>999</td>\n      <td>3%</td>\n    </tr>\n    <tr>\n      <td>Financial assets</td>\n      <td>104</td>\n      <td>100</td>\n      <td>4%</td>\n    </tr>\n    <tr>\n      <td>FIXED ASSETS</td>\n      <td>1,718</td>\n      <td>1,624</td>\n      <td>6%</td>\n    </tr>\n    <tr>\n      <td>Accounts receivables</td>\n      <td>1,803</td>\n      <td>1,929</td>\n      <td>-7%</td>\n    </tr>\n    <tr>\n      <td>Inventories and other assets</td>\n      <td>629</td>\n      <td>549</td>\n      <td>15%</td>\n    </tr>\n    <tr>\n      <td>Liquid assets/Marketable securities</td>\n      <td>3,451</td>\n      <td>3,207</td>\n      <td>8%</td>\n    </tr>\n    <tr>\n      <td>CURRENT ASSETS</td>\n      <td>5,883</td>\n      <td>5,685</td>\n      <td>3%</td>\n    </tr>\n    <tr>\n      <td>DEFERRED TAXES</td>\n      <td>200</td>\n      <td>206</td>\n      <td>-3%</td>\n    </tr>\n    <tr>\n      <td>PREPAID EXPENSES</td>\n      <td>129</td>\n      <td>70</td>\n      <td>84%</td>\n    </tr>\n    <tr>\n      <td>TOTAL ASSETS</td>\n      <td>7,930</td>\n      <td>7,585</td>\n      <td>5%</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n<thead>\n<tr>\n<th colspan=\"4\">SHAREHOLDERS' EQUITY AND LIABILITIES</th>\n</tr>\n<tr>\n<th></th>\n<th>06/30/2005</th>\n<th>12/31/2004</th>\n<th>∆</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>SHAREHOLDERS' EQUITY</td>\n<td>4,826</td>\n<td>4,594</td>\n<td>5%</td>\n</tr>\n<tr>\n<td>MINORITY INTEREST</td>\n<td>14</td>\n<td>22</td>\n<td>-36%</td>\n</tr>\n<tr>\n<td>RESERVES AND ACCRUED LIABILITIES</td>\n<td>1,501</td>\n<td>1,908</td>\n<td>-21%</td>\n</tr>\n<tr>\n<td>OTHER LIABILITIES</td>\n<td>640</td>\n<td>736</td>\n<td>-13%</td>\n</tr>\n<tr>\n<td>DEFERRED INCOME</td>\n<td>949</td>\n<td>325</td>\n<td>192%</td>\n</tr>\n<tr>\n<td>TOTAL SHAREHOLDERS' EQUITY AND LIABILITIES</td>\n<td>7,930</td>\n<td>7,585</td>\n<td>5%</td>\n</tr>\n<tr>\n<td>Days Sales Outstanding</td>\n<td>70</td>\n<td>71</td>\n<td></td>\n</tr>\n</tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "sapshareholder.pdf",
+    "source_sha256": "e0a68beb57589e3af907879ff46b5019023a76c61f2b3dccfa2a3e8b4d070d66",
+    "annotated_at": "2026-08-13T10:40:05.579Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/sapshareholder-2026-08-13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1000184/000132693205000070/f01032exv99w1.htm",
+      "accession": "0001326932-05-000070",
+      "provider": "datamulehub",
+      "sha256": "166efdea46fc87479d266f27f9d9c8141748f7ae136ea46b9071886f10851b04",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 11,
+            "byte_start": 114252,
+            "byte_end_exclusive": 128526
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "e0a68beb57589e3af907879ff46b5019023a76c61f2b3dccfa2a3e8b4d070d66",
+    "input_sha256": "a9066f7bde92a8a6a5ab2c0a75f2b430b95c397afee512342f26248d71ac0f2b"
+  },
+  "tags": []
+}

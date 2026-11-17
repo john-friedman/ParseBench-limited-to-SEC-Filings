@@ -1,0 +1,54 @@
+{
+  "id": "financial_tables/explo-2026-08-11_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# APPENDIX A – EXPLORATION DETAILS\n\nSMC, Main Break zones and AK deposit at Macassa complex\n\n<table>\n  <thead>\n    <tr>\n      <th>Drill hole</th>\n      <th>Zone / deposit</th>\n      <th>From (metres)</th>\n      <th>To (metres)</th>\n      <th>Depth of midpoint below surface (metres)</th>\n      <th>Estimated true width (metres)</th>\n      <th>Gold grade (g/t) (uncapped)</th>\n      <th>Gold grade (g/t) (capped)*</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>57-1556</td>\n      <td>SMC West</td>\n      <td>152.5</td>\n      <td>155.1</td>\n      <td>1,713</td>\n      <td>2.0</td>\n      <td>12.5</td>\n      <td>12.5</td>\n    </tr>\n    <tr>\n      <td>57-1556</td>\n      <td>SMC West</td>\n      <td>242.5</td>\n      <td>245.0</td>\n      <td>1,710</td>\n      <td>2.2</td>\n      <td>31.8</td>\n      <td>31.8</td>\n    </tr>\n    <tr>\n      <td>58-1142</td>\n      <td>Main Break</td>\n      <td>171.7</td>\n      <td>173.7</td>\n      <td>1,855</td>\n      <td>1.9</td>\n      <td>27.4</td>\n      <td>18.0</td>\n    </tr>\n    <tr>\n      <td>58-1290</td>\n      <td>Main Break</td>\n      <td>194.0</td>\n      <td>197.2</td>\n      <td>1,986</td>\n      <td>3.2</td>\n      <td>19.5</td>\n      <td>19.5</td>\n    </tr>\n    <tr>\n      <td>KLAK-321</td>\n      <td>AK</td>\n      <td>168.6</td>\n      <td>174.7</td>\n      <td>245</td>\n      <td>5.7</td>\n      <td>7.7</td>\n      <td>7.7</td>\n    </tr>\n    <tr>\n      <td>KLAK-339</td>\n      <td>AK</td>\n      <td>176.6</td>\n      <td>178.6</td>\n      <td>251</td>\n      <td>1.9</td>\n      <td>11.8</td>\n      <td>11.8</td>\n    </tr>\n  </tbody>\n</table>\n\n*Results from the Macassa mine use a capping factor ranging from 68.6 g/t to 445.7 g/t gold depending on the zone. Results from AK use a capping factor of 70 g/t gold.\n\nFosterville\n\n<table>\n<thead>\n<tr>\n<th>Drill hole</th>\n<th>Zone</th>\n<th>From (metres)</th>\n<th>To (metres)</th>\n<th>Depth of midpoint below surface (metres)</th>\n<th>Estimated true width (metres)</th>\n<th>Gold grade (g/t) (uncapped)*</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>UDH4996</td>\n<td>Cardinal</td>\n<td>348.8</td>\n<td>353.0</td>\n<td>1,764</td>\n<td>3.2</td>\n<td>6.8</td>\n</tr>\n<tr>\n<td>UDH4999A</td>\n<td rowspan=\"2\">Cardinal</td>\n<td>357.0</td>\n<td>363.6</td>\n<td>1,785</td>\n<td>5.7</td>\n<td>72.8</td>\n</tr>\n<tr>\n<td>including</td>\n<td>363.3</td>\n<td>363.6</td>\n<td>1,787</td>\n<td>0.28</td>\n<td>1,383.2</td>\n</tr>\n<tr>\n<td>UDR062</td>\n<td rowspan=\"2\">Curie</td>\n<td>575.7</td>\n<td>585.1</td>\n<td>705</td>\n<td>7.7</td>\n<td>5.2</td>\n</tr>\n<tr>\n<td>UDR063</td>\n<td>606.3</td>\n<td>619.4</td>\n<td>613</td>\n<td>10.7</td>\n<td>3.0</td>\n</tr>\n</tbody>\n</table>\n\n*Results from the Fosterville mine are uncapped.\n\nExploration Drill Collar Coordinates\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"7\">Exploration Drill Collar Coordinates</th>\n    </tr>\n    <tr>\n      <th>Drill hole</th>\n      <th>UTM East*</th>\n      <th>UTM North*</th>\n      <th>Elevation<br>(metres above<br>sea level)</th>\n      <th>Azimuth<br>(degrees)</th>\n      <th>Dip<br>(degrees)</th>\n      <th>Length<br>(metres)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"7\"><b>Odyssey mine</b></td>\n    </tr>\n    <tr>\n      <td>MEX24-311W</td>\n      <td>718682</td>\n      <td>5334768</td>\n      <td>307</td>\n      <td>147</td>\n      <td>-60</td>\n      <td>2,092</td>\n    </tr>\n    <tr>\n      <td>MEX24-311WA</td>\n      <td>718682</td>\n      <td>5334768</td>\n      <td>307</td>\n      <td>147</td>\n      <td>-60</td>\n      <td>2,048</td>\n    </tr>\n    <tr>\n      <td>MEX24-315</td>\n      <td>718652</td>\n      <td>5334762</td>\n      <td>307</td>\n      <td>161</td>\n      <td>-52</td>\n      <td>1,851</td>\n    </tr>\n    <tr>\n      <td>UGEG-054-002</td>\n      <td>717965</td>\n      <td>5334110</td>\n      <td>-229</td>\n      <td>176</td>\n      <td>-22</td>\n      <td>777</td>\n    </tr>\n    <tr>\n      <td>UGEG-075-007</td>\n      <td>717922</td>\n      <td>5334061</td>\n      <td>-250</td>\n      <td>195</td>\n      <td>-25</td>\n      <td>751</td>\n    </tr>\n    <tr>\n      <td>UGEG-075-022</td>\n      <td>717920</td>\n      <td>5334061</td>\n      <td>-250</td>\n      <td>185</td>\n      <td>-27</td>\n      <td>769</td>\n    </tr>\n    <tr>\n      <td>MEX24-315</td>\n      <td>718652</td>\n      <td>5334762</td>\n      <td>307</td>\n      <td>161</td>\n      <td>-52</td>\n      <td>1,851</td>\n    </tr>\n    <tr>\n      <td>MEX24-316</td>\n      <td>718604</td>\n      <td>5334758</td>\n      <td>308</td>\n      <td>170</td>\n      <td>-57</td>\n      <td>1,876</td>\n    </tr>\n    <tr>\n      <td>MEX24-317</td>\n      <td>718664</td>\n      <td>5334762</td>\n      <td>308</td>\n      <td>160</td>\n      <td>-63</td>\n      <td>2,076</td>\n    </tr>\n    <tr>\n      <td>MEX24-318</td>\n      <td>718652</td>\n      <td>5334763</td>\n      <td>307</td>\n      <td>166</td>\n      <td>-45</td>\n      <td>1,749</td>\n    </tr>\n    <tr>\n      <td>UGOD-075-006</td>\n      <td>717784</td>\n      <td>5334183</td>\n      <td>-321</td>\n      <td>9</td>\n      <td>-41</td>\n      <td>522</td>\n    </tr>\n    <tr>\n      <td>UGOD-075-007</td>\n      <td>717785</td>\n      <td>5334182</td>\n      <td>-320</td>\n      <td>31</td>\n      <td>-35</td>\n      <td>559</td>\n    </tr>\n    <tr>\n      <td>UGOD-075-008</td>\n      <td>717785</td>\n      <td>5334182</td>\n      <td>-321</td>\n      <td>15</td>\n      <td>-37</td>\n      <td>531</td>\n    </tr>\n    <tr>\n      <td colspan=\"7\"><b>Detour Lake</b></td>\n    </tr>\n    <tr>\n      <td>DLM24-820</td>\n      <td>586876</td>\n      <td>5542301</td>\n      <td>296</td>\n      <td>188</td>\n      <td>-69</td>\n      <td>975</td>\n    </tr>\n    <tr>\n      <td>DLM24-829</td>\n      <td>587208</td>\n      <td>5541641</td>\n      <td>292</td>\n      <td>178</td>\n      <td>-61</td>\n      <td>433</td>\n    </tr>\n    <tr>\n      <td>DLM24-859</td>\n      <td>588927</td>\n      <td>5541623</td>\n      <td>284</td>\n      <td>181</td>\n      <td>-61</td>\n      <td>801</td>\n    </tr>\n    <tr>\n      <td>DLM24-882C</td>\n      <td>587880</td>\n      <td>5541938</td>\n      <td>287</td>\n      <td>174</td>\n      <td>-62</td>\n      <td>720</td>\n    </tr>\n    <tr>\n      <td>DLM24-882CW</td>\n      <td>587880</td>\n      <td>5541938</td>\n      <td>287</td>\n      <td>174</td>\n      <td>-62</td>\n      <td>281</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "explo.pdf",
+    "source_sha256": "f2a990d49ae5c217a691e2a26da9eb3fb1fddb78004ad2511e04b56e17e39fdb",
+    "annotated_at": "2026-08-11T10:26:10.728Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/explo-2026-08-11_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2809/000110465924113149/tm2423828d4_ex99-1.htm",
+      "accession": "0001104659-24-113149",
+      "provider": "datamulehub",
+      "sha256": "aa2b06fbadba060022ae9c4cbe5a7ce2e56b720d69c7bff9d4d1004557723d1f",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 174,
+            "byte_start": 1673448,
+            "byte_end_exclusive": 1688104
+          },
+          {
+            "table_index_0based": 175,
+            "byte_start": 1688868,
+            "byte_end_exclusive": 1699525
+          },
+          {
+            "table_index_0based": 176,
+            "byte_start": 1700115,
+            "byte_end_exclusive": 1735327
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "f2a990d49ae5c217a691e2a26da9eb3fb1fddb78004ad2511e04b56e17e39fdb",
+    "input_sha256": "75480ac90edc3eb6f8849afbc98dab208b3fe267fb2fc2c3d5a7d00b417f8bd3"
+  },
+  "tags": []
+}

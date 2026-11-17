@@ -1,0 +1,40 @@
+{
+  "id": "tables/Apple 10-k_page51",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>2025</th>\n        <th>2024</th>\n        <th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Net sales:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">U.S.</td>\n<td>$ 151,790</td>\n<td>$ 142,196</td>\n<td>$ 138,573</td>\n    </tr>\n<tr>\n        <td class=\"\">China (1)</td>\n<td>64,377</td>\n<td>66,952</td>\n<td>72,559</td>\n    </tr>\n<tr>\n        <td class=\"\">Other countries</td>\n<td>199,994</td>\n<td>181,887</td>\n<td>172,153</td>\n    </tr>\n<tr>\n        <td class=\"\">Total net sales</td>\n<td>$ 416,161</td>\n<td>$ 391,035</td>\n<td>$ 383,285</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>2025</th>\n        <th>2024</th>\n    </tr>\n<tr>\n        <td class=\"\">Long-lived assets:</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">U.S.</td>\n<td>$ 40,274</td>\n<td>$ 35,664</td>\n    </tr>\n<tr>\n        <td class=\"\">China (1)</td>\n<td>3,617</td>\n<td>4,797</td>\n    </tr>\n<tr>\n        <td class=\"\">Other countries</td>\n<td>5,943</td>\n<td>5,219</td>\n    </tr>\n<tr>\n        <td class=\"\">Total long-lived assets</td>\n<td>$ 49,834</td>\n<td>$ 45,680</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Apple 10-k_page51.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "accession": "0000320193-25-000079",
+      "provider": "datamulehub",
+      "sha256": "274361a794f84b24d75b4ee98bc8eff5a031b4fc1be1a1210dbc2b10d92c5179",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 51,
+            "byte_start": 1324838,
+            "byte_end_exclusive": 1336661
+          },
+          {
+            "table_index_0based": 52,
+            "byte_start": 1336714,
+            "byte_end_exclusive": 1344781
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "b3499ccf3496e32330e81d00a47f453d443ef27fea029a6f84ac0b88c58f5a12",
+    "input_sha256": "f6716baa95f6e3fb6a1e6938ff008fdc03e2ec341e337c432a51c73e0c3b785b"
+  },
+  "tags": []
+}

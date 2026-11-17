@@ -1,0 +1,35 @@
+{
+  "id": "tables/JNPR.2011.page_82.pdf_110673_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th rowspan=\"3\"></th>\n      <th colspan=\"9\">2010 Acquisitions</th>\n    </tr>\n    <tr>\n      <th colspan=\"2\">Ankeena</th>\n      <th colspan=\"2\">SMobile</th>\n      <th colspan=\"2\">Altor</th>\n      <th colspan=\"2\">Trapeze</th>\n      <th rowspan=\"2\">Total Amount</th>\n    </tr>\n    <tr>\n      <th>Estimated Useful Life (In Years)</th>\n      <th>Amount</th>\n      <th>Estimated Useful Life (In Years)</th>\n      <th>Amount</th>\n      <th>Estimated Useful Life (In Years)</th>\n      <th>Amount</th>\n      <th>Estimated Useful Life (In Years)</th>\n      <th>Amount</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Existing technology</td>\n      <td>4.0</td>\n      <td>$9.0</td>\n      <td>5.0</td>\n      <td>$24.3</td>\n      <td>6.0</td>\n      <td>$13.9</td>\n      <td>5.0</td>\n      <td>$45.0</td>\n      <td>$92.2</td>\n    </tr>\n    <tr>\n      <td>In-process research and development</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>2.8</td>\n      <td>—</td>\n      <td>—</td>\n      <td>2.8</td>\n    </tr>\n    <tr>\n      <td>Core technology</td>\n      <td>4.0</td>\n      <td>3.2</td>\n      <td>—</td>\n      <td>—</td>\n      <td>6.0</td>\n      <td>4.6</td>\n      <td>—</td>\n      <td>—</td>\n      <td>7.8</td>\n    </tr>\n    <tr>\n      <td>Customer contracts and related relationships</td>\n      <td>—</td>\n      <td>—</td>\n      <td>6.0</td>\n      <td>2.1</td>\n      <td>—</td>\n      <td>—</td>\n      <td>7.0</td>\n      <td>8.6</td>\n      <td>10.7</td>\n    </tr>\n    <tr>\n      <td>Support agreements and related relationships</td>\n      <td>—</td>\n      <td>—</td>\n      <td>6.0</td>\n      <td>0.1</td>\n      <td>—</td>\n      <td>—</td>\n      <td>7.0</td>\n      <td>2.6</td>\n      <td>2.7</td>\n    </tr>\n    <tr>\n      <td>Non-compete agreements</td>\n      <td>—</td>\n      <td>—</td>\n      <td>2.0</td>\n      <td>0.1</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>0.1</td>\n    </tr>\n    <tr>\n      <td>OEM customer contracts</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>2.0</td>\n      <td>0.2</td>\n      <td>0.2</td>\n    </tr>\n    <tr>\n      <td>Total</td>\n      <td></td>\n      <td>$12.2</td>\n      <td></td>\n      <td>$26.6</td>\n      <td></td>\n      <td>$21.3</td>\n      <td></td>\n      <td>$56.4</td>\n      <td>$116.5</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/JNPR.2011.page_82.pdf_110673_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1043604/000104360412000006/juniper201110k.htm",
+      "accession": "0001043604-12-000006",
+      "provider": "datamulehub",
+      "sha256": "1f603b11380a8f2b93921adc517263fa8d54a03bb77ea7bb1541cc23a9fdbaf6",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 159,
+            "byte_start": 2430660,
+            "byte_end_exclusive": 2487755
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "37cf95f3f9ec6e57c51564959b9b7bff70a167642ad1f674241e5f7917738e36",
+    "input_sha256": "1d8305dbed93fc6a2e10ccd731be43db4b42d449e5a01bcec1e9583eef748f64"
+  },
+  "tags": []
+}

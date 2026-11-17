@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/shell5-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<page_header>Financial Statements and Supplements</page_header>\n\n## Notes to the Consolidated Financial Statements continued\n\n### 28. Other reserves continued\n\nAccumulated other comprehensive income comprises the following:\n\n**Accumulated other comprehensive income attributable to Shell plc shareholders**\n\n<table>\n<thead>\n<tr>\n <th colspan=9>$ million</th></tr>\n<tr>\n<th></th>\n<th>Currency translation differences</th>\n<th>Equity instruments remeasurements</th>\n<th>Debt instruments remeasurements</th>\n<th>Cash flow hedging (losses)/gains</th>\n<th>Net investment hedging (losses)/gains</th>\n<th>Deferred cost of hedging</th>\n<th>Retirement benefits remeasurements</th>\n<th>Total</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>At January 1, 2023</td>\n<td>(12,590)</td>\n<td>487</td>\n<td>(75)</td>\n<td>(524)</td>\n<td>(1,964)</td>\n<td>(26)</td>\n<td>(2,964)</td>\n<td>(17,656)</td>\n</tr>\n<tr>\n<td>Recognised in other comprehensive income</td>\n<td>1,393</td>\n<td>(67)</td>\n<td>33</td>\n<td>(196)</td>\n<td>(44)</td>\n<td>(273)</td>\n<td>(1,088)</td>\n<td>(242)</td>\n</tr>\n<tr>\n<td>Reclassified to income</td>\n<td>1</td>\n<td>—</td>\n<td>9</td>\n<td>162</td>\n<td>—</td>\n<td>61</td>\n<td>—</td>\n<td>233</td>\n</tr>\n<tr>\n<td>Reclassified to the balance sheet</td>\n<td>—</td>\n<td>—</td>\n<td>(1)</td>\n<td>117</td>\n<td>—</td>\n<td>1</td>\n<td>—</td>\n<td>117</td>\n</tr>\n<tr>\n<td>Reclassified to retained earnings</td>\n<td>—</td>\n<td>(112)</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(112)</td>\n</tr>\n<tr>\n<td>Tax on amounts recognised/reclassified</td>\n<td>3</td>\n<td>(32)</td>\n<td>—</td>\n<td>(12)</td>\n<td>—</td>\n<td>63</td>\n<td>5</td>\n<td>27</td>\n</tr>\n<tr>\n<td>Total, net of tax</td>\n<td>1,397</td>\n<td>(211)</td>\n<td>41</td>\n<td>71</td>\n<td>(44)</td>\n<td>(148)</td>\n<td>(1,083)</td>\n<td>23</td>\n</tr>\n<tr>\n<td>Share of joint ventures and associates</td>\n<td>16</td>\n<td>(202)</td>\n<td>—</td>\n<td>2</td>\n<td>—</td>\n<td>—</td>\n<td>1</td>\n<td>(183)</td>\n</tr>\n<tr>\n<td>Other comprehensive (loss)/income for the period</td>\n<td>1,413</td>\n<td>(413)</td>\n<td>41</td>\n<td>73</td>\n<td>(44)</td>\n<td>(148)</td>\n<td>(1,082)</td>\n<td>(160)</td>\n</tr>\n<tr>\n<td>Less: non-controlling interest</td>\n<td>(36)</td>\n<td>(1)</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>2</td>\n<td>(35)</td>\n</tr>\n<tr>\n<td>Attributable to Shell plc shareholders</td>\n<td>1,377</td>\n<td>(414)</td>\n<td>41</td>\n<td>73</td>\n<td>(44)</td>\n<td>(148)</td>\n<td>(1,080)</td>\n<td>(195)</td>\n</tr>\n<tr>\n<td>At December 31, 2023</td>\n<td>(11,213)</td>\n<td>73</td>\n<td>(34)</td>\n<td>(451)</td>\n<td>(2,008)</td>\n<td>(174)</td>\n<td>(4,044)</td>\n<td>(17,851)</td>\n</tr>\n<tr>\n<td>At January 1, 2022</td>\n<td>(9,563)</td>\n<td>1,294</td>\n<td>3</td>\n<td>(536)</td>\n<td>(2,144)</td>\n<td>(226)</td>\n<td>(8,474)</td>\n<td>(19,646)</td>\n</tr>\n<tr>\n<td>Recognised in other comprehensive income</td>\n<td>(3,422)</td>\n<td>(524)</td>\n<td>(90)</td>\n<td>426</td>\n<td>180</td>\n<td>64</td>\n<td>6,982</td>\n<td>3,616</td>\n</tr>\n<tr>\n<td>Reclassified to income</td>\n<td>437</td>\n<td>—</td>\n<td>12</td>\n<td>(636)</td>\n<td>—</td>\n<td>81</td>\n<td>—</td>\n<td>(106)</td>\n</tr>\n<tr>\n<td>Reclassified to the balance sheet</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(81)</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(81)</td>\n</tr>\n<tr>\n<td>Reclassified to retained earnings</td>\n<td>—</td>\n<td>(32)</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(2)</td>\n<td>(34)</td>\n</tr>\n<tr>\n<td>Tax on amounts recognised/reclassified</td>\n<td>(1)</td>\n<td>33</td>\n<td>—</td>\n<td>59</td>\n<td>—</td>\n<td>55</td>\n<td>(1,516)</td>\n<td>(1,370)</td>\n</tr>\n<tr>\n<td>Total, net of tax</td>\n<td>(2,986)</td>\n<td>(523)</td>\n<td>(78)</td>\n<td>(232)</td>\n<td>180</td>\n<td>200</td>\n<td>5,464</td>\n<td>2,025</td>\n</tr>\n<tr>\n<td>Share of joint ventures and associates</td>\n<td>30</td>\n<td>(283)</td>\n<td>—</td>\n<td>244</td>\n<td>—</td>\n<td>—</td>\n<td>30</td>\n<td>21</td>\n</tr>\n<tr>\n<td>Other comprehensive income/(loss) for the period</td>\n<td>(2,956)</td>\n<td>(806)</td>\n<td>(78)</td>\n<td>12</td>\n<td>180</td>\n<td>200</td>\n<td>5,494</td>\n<td>2,046</td>\n</tr>\n<tr>\n<td>Less: non-controlling interest</td>\n<td>(71)</td>\n<td>(1)</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>16</td>\n<td>(56)</td>\n</tr>\n<tr>\n<td>Attributable to Shell plc shareholders</td>\n<td>(3,027)</td>\n<td>(807)</td>\n<td>(78)</td>\n<td>12</td>\n<td>180</td>\n<td>200</td>\n<td>5,510</td>\n1,990</td>\n</tr>\n<tr>\n<td>At December 31, 2022</td>\n<td>(12,590)</td>\n<td>487</td>\n<td>(75)</td>\n<td>(524)</td>\n<td>(1,964)</td>\n<td>(26)</td>\n<td>(2,964)</td>\n<td>(17,656)</td>\n</tr>\n<tr>\n<td>At January 1, 2021</td>\n<td>(8,175)</td>\n<td>1,144</td>\n<td>31</td>\n<td>(485)</td>\n<td>(2,439)</td>\n<td>(187)</td>\n<td>(15,624)</td>\n<td>(25,735)</td>\n</tr>\n<tr>\n<td>Recognised in other comprehensive income</td>\n<td>(1,841)</td>\n<td>180</td>\n<td>(23)</td>\n<td>88</td>\n<td>295</td>\n<td>(145)</td>\n<td>10,191</td>\n<td>8,745</td>\n</tr>\n<tr>\n<td>Reclassified to income</td>\n<td>368</td>\n<td>—</td>\n<td>(5)</td>\n<td>(38)</td>\n<td>—</td>\n<td>92</td>\n<td>—</td>\n<td>417</td>\n</tr>\n<tr>\n<td>Reclassified to the balance sheet</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(13)</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(13)</td>\n</tr>\n<tr>\n<td>Reclassified to retained earnings</td>\n<td>—</td>\n<td>(45)</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(45)</td>\n</tr>\n<tr>\n<td>Tax on amounts recognised/reclassified</td>\n<td>60</td>\n<td>(35)</td>\n<td>—</td>\n<td>(16)</td>\n<td>—</td>\n<td>14</td>\n<td>(2,993)</td>\n<td>(2,970)</td>\n</tr>\n<tr>\n<td>Total, net of tax</td>\n<td>(1,413)</td>\n<td>100</td>\n<td>(28)</td>\n<td>21</td>\n<td>295</td>\n<td>(39)</td>\n<td>7,198</td>\n<td>6,134</td>\n</tr>\n<tr>\n<td>Share of joint ventures and associates</td>\n<td>(36)</td>\n<td>50</td>\n<td>—</td>\n<td>(72)</td>\n<td>—</td>\n<td>—</td>\n<td>(48)</td>\n<td>(106)</td>\n</tr>\n<tr>\n<td>Other comprehensive (loss)/income for the period</td>\n<td>(1,449)</td>\n<td>150</td>\n<td>(28)</td>\n<td>(51)</td>\n<td>295</td>\n<td>(39)</td>\n<td>7,150</td>\n<td>6,028</td>\n</tr>\n<tr>\n<td>Less: non-controlling interest</td>\n<td>61</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>61</td>\n</tr>\n<tr>\n<td>Attributable to Shell plc shareholders</td>\n<td>(1,388)</td>\n<td>150</td>\n<td>(28)</td>\n<td>(51)</td>\n<td>295</td>\n<td>(39)</td>\n<td>7,150</td>\n<td>6,089</td>\n</tr>\n<tr>\n<td>At December 31, 2021</td>\n<td>(9,563)</td>\n<td>1,294</td>\n<td>3</td>\n<td>(536)</td>\n<td>(2,144)</td>\n<td>(226)</td>\n<td>(8,474)</td>\n<td>(19,646)</td>\n</tr>\n</tbody>\n</table>\n\n311 Shell Annual Report and Accounts 2023",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "shell5.pdf",
+    "source_sha256": "d2a4ebe2283d38b62f65324c2f73748c798f06a922d87ef0e8ccab1943c3de2c",
+    "annotated_at": "2026-08-14T14:10:09.745Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/shell5-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1306965/000130696524000026/shel-20231231.htm",
+      "accession": "0001306965-24-000026",
+      "provider": "datamulehub",
+      "sha256": "5f3ee281b91f4890644227b558e4f10fe7f92804b09681160fdb4425b4392544",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 938,
+            "byte_start": 7705533,
+            "byte_end_exclusive": 7831733
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "d2a4ebe2283d38b62f65324c2f73748c798f06a922d87ef0e8ccab1943c3de2c",
+    "input_sha256": "fc077edd2df0e8036f225b8cc69bd7f6753da60a9bc7eb016b468fbc7d113f9e"
+  },
+  "tags": []
+}

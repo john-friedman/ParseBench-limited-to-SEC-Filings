@@ -1,0 +1,78 @@
+{
+  "id": "headings/case-0018-1f08049ff91d",
+  "subset": "headings",
+  "dimension": "formatting",
+  "document": "sec_input.html",
+  "expected_markdown": null,
+  "test_rules": [
+    {
+      "type": "heading_structure",
+      "id": "case-0018-1f08049ff91d:heading-structure-001",
+      "page": 1,
+      "headings": [
+        {
+          "text": "Grupo Santander results",
+          "level": 2
+        }
+      ],
+      "tags": [
+        "heading-structure",
+        "financial",
+        "full-document-reviewed"
+      ]
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "rt-q2-2026-banco-santander-financial-report-en.pdf",
+    "source_sha256": "1f08049ff91dbff75cda83d139378bd97c5dd37723f303386049899f7c3a8d6c",
+    "source_page": 10,
+    "source_page_count": 90,
+    "cohort": "financial",
+    "annotation_evidence": [
+      "target_page_raster",
+      "adjacent_page_context",
+      "full_document_outline"
+    ],
+    "scoring": "next",
+    "primary_metric": "formatting_v2",
+    "headline": "feature",
+    "headline_reason": "complete page heading list (heading_structure rule)",
+    "next_version": "v0.4",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/headings.jsonl",
+    "parsebench_document": "headings/case-0018-1f08049ff91d.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000076/financieroq226ingles.htm",
+      "accession": "0000891478-26-000076",
+      "provider": "datamulehub",
+      "sha256": "a51abaf4a83d5bcc261518062044e540d9582d8c2d983bbca098373a4ae2950e",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 436352,
+        "byte_end_exclusive": 540964,
+        "page_fragment_index_0based": 10,
+        "assets": [
+          {
+            "url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000076/homegrafitocabeceraa.gif",
+            "sha256": "21812e11c0612aa2fb95ce2f5c80ddf858fb2fd1e25fa5a1195ea8f75228b926",
+            "embedded": true
+          },
+          {
+            "url": "https://www.sec.gov/Archives/edgar/data/891478/000089147826000076/image6.jpg",
+            "sha256": "b5956c8ef03f66da8405017a0cd1491b987c9a8ca38e671b09e419af0fd26278",
+            "embedded": true
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "095c99c2ac617a6312a00fec60fc1bb47668e2bc535767e4484c51544eec0d30",
+    "input_sha256": "e7b26d00fa06b349ba13a5fa888a4c983d01c82356b9f683136d133b62b7cf9a"
+  },
+  "tags": [
+    "heading-structure",
+    "financial",
+    "full-document-reviewed"
+  ]
+}

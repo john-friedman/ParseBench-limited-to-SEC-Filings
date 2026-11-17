@@ -1,0 +1,40 @@
+{
+  "id": "tables/Victoria Secret 10-k_page72",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n<th>February 1, 2025</th>\n<th>February 3, 2024</th>\n    </tr>\n<tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">(in millions)</th>\n    </tr>\n<tr>\n        <td class=\"\"><ins>Senior Secured Debt with Subsidiary Guarantee</ins></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">$387 million Term Loan due August 2028 (\"Term Loan Facility\")</td>\n<td>$ 382</td>\n<td>$ 385</td>\n    </tr>\n<tr>\n        <td class=\"\">Asset-based Revolving Credit Facility due August 2026 (\"ABL Facility\")</td>\n<td>—</td>\n<td>145</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Senior Secured Debt with Subsidiary Guarantee</td>\n<td>382</td>\n<td>530</td>\n    </tr>\n<tr>\n        <td class=\"\"><ins>Senior Debt with Subsidiary Guarantee</ins></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">$600 million, 4.625% Fixed Interest Rate Notes due July 2029 (\"2029 Notes\")</td>\n<td>595</td>\n<td>594</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Senior Debt with Subsidiary Guarantee</td>\n<td>595</td>\n<td>594</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>977</td>\n<td>1,124</td>\n    </tr>\n<tr>\n        <td class=\"\">Current Debt</td>\n<td>(4)</td>\n<td>(4)</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Long-term Debt, Net of Current Portion</td>\n<td>$ 973</td>\n<td>$ 1,120</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <th>Fiscal Year</th>\n<th>(in millions)</th>\n    </tr>\n<tr>\n        <td>2025</td>\n<td>$ 4</td>\n    </tr>\n<tr>\n        <td>2026</td>\n<td>4</td>\n    </tr>\n<tr>\n        <td>2027</td>\n<td>4</td>\n    </tr>\n<tr>\n        <td>2028</td>\n<td>375</td>\n    </tr>\n<tr>\n        <td>2029</td>\n<td>600</td>\n    </tr>\n<tr>\n        <td>Thereafter</td>\n<td>$ —</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Victoria Secret 10-k_page72.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643725000006/vsco-20250201.htm",
+      "accession": "0001856437-25-000006",
+      "provider": "datamulehub",
+      "sha256": "c61188a3b679a072e3532c138c245992615b963995f761959e0a919d49e04d05",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 23,
+            "byte_start": 683465,
+            "byte_end_exclusive": 695655
+          },
+          {
+            "table_index_0based": 54,
+            "byte_start": 1559576,
+            "byte_end_exclusive": 1565422
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "781eb6a63317d22398bf72079fe1ced951d59f718abbf5105511d0d7d8afea64",
+    "input_sha256": "9fe2635724ac43b3f6585f5a3ad6bf8f236fbea983c8a053a968b52e71fe38c5"
+  },
+  "tags": []
+}

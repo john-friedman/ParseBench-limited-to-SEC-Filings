@@ -1,0 +1,30 @@
+{
+  "id": "tables/Kimco-Realty-2023-Annual-Report-Web_page41",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <th>Year Ending December 31,</th>\n        <th>Number of Leases Expiring</th>\n        <th>Square Feet Expiring</th>\n        <th>Total Annual Base Rent Expiring</th>\n        <th>% of Gross Annual Rent</th>\n    </tr>\n        <tr>\n        <td class=\"\">(1)</td>\n<td>115</td>\n<td>381</td>\n<td>$  9,741</td>\n<td>0.7%</td>\n    </tr>\n<tr>\n        <td class=\"\">2024</td>\n<td>814</td>\n<td>3,965</td>\n<td>$  85,798</td>\n<td>6.6%</td>\n    </tr>\n<tr>\n        <td class=\"\">2025</td>\n<td>1,167</td>\n<td>7,756</td>\n<td>$  150,601</td>\n<td>11.6%</td>\n    </tr>\n<tr>\n        <td class=\"\">2026</td>\n<td>1,150</td>\n<td>9,600</td>\n<td>$  164,580</td>\n<td>12.7%</td>\n    </tr>\n<tr>\n        <td class=\"\">2027</td>\n<td>1,178</td>\n<td>9,559</td>\n<td>$  177,095</td>\n<td>13.6%</td>\n    </tr>\n<tr>\n        <td class=\"\">2028</td>\n<td>1,218</td>\n<td>10,467</td>\n<td>$  200,255</td>\n<td>15.4%</td>\n    </tr>\n<tr>\n        <td class=\"\">2029</td>\n<td>796</td>\n<td>7,299</td>\n<td>$  130,729</td>\n<td>10.1%</td>\n    </tr>\n<tr>\n        <td class=\"\">2030</td>\n<td>368</td>\n<td>2,903</td>\n<td>$  65,229</td>\n<td>5.0%</td>\n    </tr>\n<tr>\n        <td class=\"\">2031</td>\n<td>355</td>\n<td>2,350</td>\n<td>$  54,949</td>\n<td>4.2%</td>\n    </tr>\n<tr>\n        <td class=\"\">2032</td>\n<td>381</td>\n<td>2,717</td>\n<td>$  54,113</td>\n<td>4.2%</td>\n    </tr>\n<tr>\n        <td class=\"\">2033</td>\n<td>411</td>\n<td>3,209</td>\n<td>$  61,773</td>\n<td>4.8%</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Kimco-Realty-2023-Annual-Report-Web_page41.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/879101/000120677424000291/kim4270861-ars.pdf",
+      "accession": "0001206774-24-000291",
+      "provider": "datamulehub",
+      "sha256": "1aac173014dade758baf8a14baaafe12521ea668bc51e17c10dec984dabfd36c",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 40,
+        "source_page_count": 168
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "3cfe1aa9f59ffe37658d5cbf34f56b37febb3f49302f395000bbc59749aa8d72",
+    "input_sha256": "0c630821d9473b2ab29c7fb22b84130237a8024d1f71f9ddf0261c61e230e0e7"
+  },
+  "tags": []
+}

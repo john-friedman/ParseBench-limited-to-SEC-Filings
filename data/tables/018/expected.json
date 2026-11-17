@@ -1,0 +1,35 @@
+{
+  "id": "tables/BXP.2008.page_112.pdf_57116_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\"></th>\n      <th>2009</th>\n      <th>2010</th>\n      <th>2011</th>\n      <th>2012</th>\n      <th>2013</th>\n      <th>2014+</th>\n      <th>Total</th>\n      <th>Fair Value</th>\n    </tr>\n    <tr>\n      <th colspan=\"8\">(dollars in thousands)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"9\">Secured debt</td>\n    </tr>\n    <tr>\n      <td>Fixed Rate</td>\n      <td>$95,685</td>\n      <td>$134,803</td>\n      <td>$551,720</td>\n      <td>$106,642</td>\n      <td>$101,068</td>\n      <td>$1,385,232</td>\n      <td>$2,375,150</td>\n      <td>$2,239,309</td>\n    </tr>\n    <tr>\n      <td>Average Interest Rate</td>\n      <td>6.38%</td>\n      <td>7.83%</td>\n      <td>7.02%</td>\n      <td>5.68%</td>\n      <td>6.03%</td>\n      <td>5.97%</td>\n      <td>6.33%</td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Variable Rate</td>\n      <td>183,125</td>\n      <td>30,674</td>\n      <td>71,693</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>$285,492</td>\n      <td>$282,263</td>\n    </tr>\n    <tr>\n      <td colspan=\"9\">Unsecured debt</td>\n    </tr>\n    <tr>\n      <td>Fixed Rate</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>$923,580</td>\n      <td>$548,795</td>\n      <td>$1,472,375</td>\n      <td>$1,202,875</td>\n    </tr>\n    <tr>\n      <td>Average Interest Rate</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>6.36%</td>\n      <td>5.47%</td>\n      <td>5.95%</td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Variable Rate</td>\n      <td>—</td>\n      <td>100,000</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>$100,000</td>\n      <td>$100,111</td>\n    </tr>\n    <tr>\n      <td colspan=\"9\">Unsecured exchangeable debt</td>\n    </tr>\n    <tr>\n      <td>Fixed Rate</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>$848,410</td>\n      <td>$450,000</td>\n      <td>$740,489</td>\n      <td>$2,038,899</td>\n      <td>$1,571,536</td>\n    </tr>\n    <tr>\n      <td>Average Interest Rate</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>3.46%</td>\n      <td>3.79%</td>\n      <td>4.04%</td>\n      <td>3.65%</td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Variable Rate</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Total Debt</td>\n      <td>$278,810</td>\n      <td>$265,477</td>\n      <td>$623,413</td>\n      <td>$955,052</td>\n      <td>$1,474,648</td>\n      <td>$2,674,516</td>\n      <td>$6,271,916</td>\n      <td>$5,396,094</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/BXP.2008.page_112.pdf_57116_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1037540/000119312509042701/d10k.htm",
+      "accession": "0001193125-09-042701",
+      "provider": "datamulehub",
+      "sha256": "4815df1c48346111dedc2049640c26aedb6c1e213b213955b4284e57a092e9c2",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 328,
+            "byte_start": 1660727,
+            "byte_end_exclusive": 1695556
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "9d88571a108bd157062d94b022e27a64f390089b47c85ea81325ffae1f9dd0b7",
+    "input_sha256": "82c47e523cfacface649938d9de531321ad2dce0f7cadaa19665a940aa0afc87"
+  },
+  "tags": []
+}

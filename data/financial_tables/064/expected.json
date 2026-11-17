@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/bh1-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "The same criteria apply to our investments in Japan, which we view as comparable to our major U.S. holdings in importance and long-term value creation opportunity.\n\n<table>\n  <thead>\n    <tr>\n      <th>(Dollars in millions)</th>\n      <th colspan=\"3\">December 31, 2025</th>\n      <th></th>\n    </tr>\n    <tr>\n      <th>Company</th>\n      <th><i>Percentage of</i> Company Owned</th>\n      <th>Cost Basis</th>\n      <th>Market Value</th>\n      <th>2025 Dividends</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Mitsubishi Corporation</td>\n      <td>10.8%</td>\n      <td>$ 4,248</td>\n      <td>$ 9,207</td>\n      <td>$ 273</td>\n    </tr>\n    <tr>\n      <td>ITOCHU Corporation</td>\n      <td>10.1%</td>\n      <td>4,165</td>\n      <td>8,886</td>\n      <td>181</td>\n    </tr>\n    <tr>\n      <td>Mitsui & Co., Ltd.</td>\n      <td>10.4%</td>\n      <td>3,490</td>\n      <td>8,785</td>\n      <td>201</td>\n    </tr>\n    <tr>\n      <td>Marubeni Corporation</td>\n      <td>9.8%</td>\n      <td>1,572</td>\n      <td>4,468</td>\n      <td>105</td>\n    </tr>\n    <tr>\n      <td>Sumitomo Corporation</td>\n      <td>9.7%</td>\n      <td>1,907</td>\n      <td>4,022</td>\n      <td>102</td>\n    </tr>\n    <tr>\n      <td>Total</td>\n      <td></td>\n      <td>$ 15,382</td>\n      <td>$ 35,368</td>\n      <td>$ 862</td>\n    </tr>\n  </tbody>\n</table>\n\nBerkshire has borrowed in Japan an amount roughly equivalent to the yen invested (cost basis), at an average cost of 1.2%, with a weighted-average life of approximately 5.75 years.\n\nTaking these positions together, at year-end they totaled $194 billion in market value, representing nearly two-thirds of our $297.8 billion equity securities portfolio, providing combined dividends of $2.5 billion and yielding 10% on their original cost basis of $24.5 billion.\n\nSeparately, we have meaningful positions in a small number of other companies where our capital allocation has been more dynamic in recent periods, as relative values and opportunities change. In certain cases, the underlying business characteristics are such that, over time, these investments may become part of our core holdings.\n\nWe also hold equity method investments, principally Kraft Heinz and Occidental. Our investment in Kraft Heinz has been disappointing. Even after considering the preferred equity component in our original Heinz investment, our return has been well short of adequate.\n\nAt Berkshire, equity investments are fundamental to our capital allocation activities; responsibility ultimately resides with me as CEO. Ted Weschler manages about 6% of our investments, including a portion of the portfolio formerly overseen by Todd Combs. Ted’s impact extends beyond these investments, as he continues to play a broader role in assessing significant opportunities, providing valuable input on our businesses, and supporting Berkshire in various other ways.\n\nBerkshire’s foundation is second to none. We have a remarkable operating framework (our culture and values) that shapes our strategy and guides how we lead – along with remarkable shareholders.\n\nInsurance will continue to be our core. While its performance will ebb and flow with capital conditions in the industry – perhaps dramatically – that heart of Berkshire will only grow stronger over time, reflecting the structural advantages that define it.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "bh1.pdf",
+    "source_sha256": "fabffe412b09fead042a0847adce37a0d824c9d7def100ca709137a02f2de7eb",
+    "annotated_at": "2026-08-14T02:14:02.039Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/bh1-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526106284/d948018dars.pdf",
+      "accession": "0001193125-26-106284",
+      "provider": "datamulehub",
+      "sha256": "7e3dff35920f2fd4c172fc8ce76e1ea6a32208ad51b39ee75f68e964bbe22da6",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 19,
+        "source_page_count": 154
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "fabffe412b09fead042a0847adce37a0d824c9d7def100ca709137a02f2de7eb",
+    "input_sha256": "1525c01ce1aa230395a7414e4667c7e4cd2ee059b79c8483761e7f456fbeb225"
+  },
+  "tags": []
+}

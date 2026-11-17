@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/t2-2026-08-11_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# <u>Summary of Capital Expenditures</u>\n($ thousands)\n\n<u>Summary of O</u>\n\n($ thousands)\n\n<table>\n<thead>\n<tr>\n<th></th>\n<th colspan=\"2\">Capital Expenditures*</th>\n<th colspan=\"2\">Capitalized Exploration</th>\n</tr>\n<tr>\n<th></th>\n<th>Three Months Ended Sep 30, 2024</th>\n<th>Nine Months Ended Sep 30, 2024</th>\n<th>Three Months Ended Sep 30, 2024</th>\n<th>Nine Months Ended Sep 30, 2024</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Sustaining Capital Expenditures</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>LaRonde</td>\n<td>$ 19,302</td>\n<td>$ 63,125</td>\n<td>$ 473</td>\n<td>1,349</td>\n</tr>\n<tr>\n<td>Canadian Malartic</td>\n<td>36,789</td>\n<td>91,887</td>\n<td>—</td>\n<td>—</td>\n</tr>\n<tr>\n<td>Goldex</td>\n<td>16,505</td>\n<td>39,912</td>\n<td>753</td>\n<td>2,536</td>\n</tr>\n<tr>\n<td>Detour Lake</td>\n<td>77,638</td>\n<td>189,247</td>\n<td>—</td>\n<td>—</td>\n</tr>\n<tr>\n<td>Macassa</td>\n<td>12,200</td>\n<td>28,389</td>\n<td>451</td>\n<td>1,259</td>\n</tr>\n<tr>\n<td>Meliadine</td>\n<td>19,716</td>\n<td>53,664</td>\n<td>2,321</td>\n<td>6,148</td>\n</tr>\n<tr>\n<td>Meadowbank</td>\n<td>30,216</td>\n<td>71,718</td>\n<td>—</td>\n<td>—</td>\n</tr>\n<tr>\n<td>Fosterville</td>\n<td>9,509</td>\n<td>22,298</td>\n<td>—</td>\n<td>—</td>\n</tr>\n<tr>\n<td>Kittila</td>\n<td>17,537</td>\n<td>51,813</td>\n<td>316</td>\n<td>1,181</td>\n</tr>\n<tr>\n<td>Pinos Altos</td>\n<td>7,099</td>\n<td>18,190</td>\n<td>742</td>\n<td>1,662</td>\n</tr>\n<tr>\n<td>La India</td>\n<td>—</td>\n<td>22</td>\n<td>—</td>\n<td>—</td>\n</tr>\n<tr>\n<td>Other</td>\n<td>1,251</td>\n<td>3,520</td>\n<td>144</td>\n<td>989</td>\n</tr>\n<tr>\n<td>Total Sustaining Capital Expenditures</td>\n<td>$ 247,762</td>\n<td>$ 633,785</td>\n<td>$ 5,200</td>\n<td>$ 15,124</td>\n</tr>\n<tr>\n<td>Development Capital Expenditures</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>LaRonde</td>\n<td>$ 16,442</td>\n<td>$ 61,168</td>\n<td>$ —</td>\n<td>—</td>\n</tr>\n<tr>\n<td>Canadian Malartic</td>\n<td>41,824</td>\n<td>121,028</td>\n<td>1,510</td>\n<td>3,702</td>\n</tr>\n<tr>\n<td>Goldex</td>\n<td>1,830</td>\n<td>8,886</td>\n<td>—</td>\n<td>—</td>\n</tr>\n<tr>\n<td>Detour Lake</td>\n<td>52,199</td>\n<td>121,273</td>\n<td>9,051</td>\n<td>26,150</td>\n</tr>\n<tr>\n<td>Macassa</td>\n<td>27,550</td>\n<td>62,008</td>\n<td>7,521</td>\n<td>25,225</td>\n</tr>\n<tr>\n<td>Meliadine</td>\n<td>21,070</td>\n<td>58,164</td>\n<td>1,888</td>\n<td>8,694</td>\n</tr>\n<tr>\n<td>Meadowbank</td>\n<td>7</td>\n<td>(20)</td>\n<td>—</td>\n<td>—</td>\n</tr>\n<tr>\n<td>Fosterville</td>\n<td>8,402</td>\n<td>27,016</td>\n<td>2,531</td>\n<td>9,497</td>\n</tr>\n<tr>\n<td>Kittila</td>\n<td>775</td>\n<td>2,971</td>\n<td>1,171</td>\n<td>5,730</td>\n</tr>\n<tr>\n<td>Pinos Altos</td>\n<td>355</td>\n<td>1,806</td>\n<td>10</td>\n<td>14</td>\n</tr>\n<tr>\n<td>San Nicolás project</td>\n<td>3,422</td>\n<td>15,077</td>\n<td>—</td>\n<td>—</td>\n</tr>\n<tr>\n<td>Other</td>\n<td>15,530</td>\n<td>23,547</td>\n<td>19,745</td>\n<td>34,270</td>\n</tr>\n<tr>\n<td>Total Development Capital Expenditures</td>\n<td>$ 189,406</td>\n<td>$ 502,924</td>\n<td>$ 43,427</td>\n<td>$ 113,282</td>\n</tr>\n<tr>\n<td>Total Capital Expenditures</td>\n<td>$ 437,168</td>\n<td>$ 1,136,709</td>\n<td>$ 48,627</td>\n<td>$ 128,406</td>\n</tr>\n</tbody>\n</table>\n\n**Total Capital Expenditures**\n\n* Excludes capitalized exploration",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "t2.pdf",
+    "source_sha256": "ce2e2eadc26071d113501b92fd61f7a53137e6426006236def888353b580e348",
+    "annotated_at": "2026-08-11T10:14:46.481Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/t2-2026-08-11_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2809/000110465924113149/tm2423828d4_ex99-1.htm",
+      "accession": "0001104659-24-113149",
+      "provider": "datamulehub",
+      "sha256": "aa2b06fbadba060022ae9c4cbe5a7ce2e56b720d69c7bff9d4d1004557723d1f",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 30,
+            "byte_start": 84729,
+            "byte_end_exclusive": 132202
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ce2e2eadc26071d113501b92fd61f7a53137e6426006236def888353b580e348",
+    "input_sha256": "891d3bd803cd9485a7aba3d18e2d1b70fe4403da0a7e1ed7732dbf05385e8831"
+  },
+  "tags": []
+}

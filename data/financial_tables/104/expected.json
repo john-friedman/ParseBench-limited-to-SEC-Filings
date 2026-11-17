@@ -1,0 +1,54 @@
+{
+  "id": "financial_tables/shell-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<page_header>Strategic Report | Performance in the year</page_header>\n\n## Generating shareholder value | Integrated Gas continued\n\nLNG liquefaction plants under construction at December 31, 2023\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>Asset</th>\n      <th>Location</th>\n      <th>Shell interest (%)</th>\n      <th>100% capacity (mtpa) [A]</th>\n      <th>Shell-operated</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Africa</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Nigeria</td>\n      <td>Train 7 [B]</td>\n      <td>Bonny</td>\n      <td>25.6</td>\n      <td>7.6</td>\n      <td>No</td>\n    </tr>\n    <tr>\n      <td><strong>North America</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Canada</td>\n      <td>LNG Canada T1-2 [C]</td>\n      <td>Kitimat</td>\n      <td>40.0</td>\n      <td>14.0</td>\n      <td>No</td>\n    </tr>\n    <tr>\n      <td><strong>Asia</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Qatar</td>\n      <td>QatarEnergy LNG NFE(2) [D]</td>\n      <td>Ras Laffan</td>\n      <td>25.0</td>\n      <td>8.0</td>\n      <td>No</td>\n    </tr>\n    <tr>\n      <td></td>\n      <td>QatarEnergy LNG NFS(2) [E]</td>\n      <td>Ras Laffan</td>\n      <td>25.0</td>\n      <td>6.0</td>\n      <td>No</td>\n    </tr>\n  </tbody>\n</table>\n\n[A] 100% capacity represents the total capacity that all trains are expected to process as reported by the operator.\n\n[B] First LNG is expected later in the 2020s.\n\n[C] Construction started in October 2018 and first LNG is expected around the middle of the 2020s.\n\n[D] Shell holds 25% in the joint venture, which owns 25% of the North Field East expansion project, which has a nameplate capacity of 32 mtpa. First LNG is expected later in the 2020s.\n\n[E] Shell holds 25% in the joint venture, which owns 37.5% of the North Field South expansion project, which has a nameplate capacity of 16 mtpa. First LNG is expected later in the 2020s.\n\nGTL plants in operation at December 31, 2023\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>Asset</th>\n      <th>Location</th>\n      <th>Shell interest (%)</th>\n      <th>100% capacity (b/d) [A]</th>\n      <th>Shell-operated</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Asia</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Malaysia</td>\n      <td>Shell MDS</td>\n      <td>Bintulu</td>\n      <td>72.0</td>\n      <td>14,700</td>\n      <td>Yes</td>\n    </tr>\n    <tr>\n      <td>Qatar</td>\n      <td>Pearl</td>\n      <td>Ras Laffan</td>\n      <td>100.0</td>\n      <td>140,000</td>\n      <td>Yes</td>\n    </tr>\n  </tbody>\n</table>\n\n[A] 100% capacity represents the total capacity of the plant.\n\nIn 2023, we also had interests and rights in the regasification terminals listed below. Extension of leases or rights beyond the periods mentioned below will be reviewed on a case-by-case basis.\n\nLNG regasification terminals\n\n<table>\n<thead>\n<tr>\n<th>Project name</th>\n<th>Location</th>\n<th>Shell capacity rights (mtpa)</th>\n<th>Capacity rights period</th>\n<th>Shell interest (%) and rights</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Costa Azul</td>\n<td>Baja California, Mexico</td>\n<td>2.7</td>\n<td>2008–2028</td>\n<td>Capacity rights</td>\n</tr>\n<tr>\n<td>Cove Point [A]</td>\n<td>Lusby, MD, USA</td>\n<td>1.8</td>\n<td>2003–2023</td>\n<td>Capacity rights</td>\n</tr>\n<tr>\n<td>Dragon LNG</td>\n<td>Milford Haven, UK</td>\n<td>3.1</td>\n<td>2009–2029</td>\n<td>50</td>\n</tr>\n<tr>\n<td>Eemshaven</td>\n<td>Groningen, the Netherlands</td>\n<td>3.1</td>\n<td>2022–2027</td>\n<td>Capacity rights</td>\n</tr>\n<tr>\n<td>Elba Island</td>\n<td>Elba Island, GA, USA</td>\n<td>4.6</td>\n<td>2003–2027</td>\n<td>Leased</td>\n</tr>\n<tr>\n<td>Elba Island</td>\n<td>Elba Island, GA, USA</td>\n<td>2.8</td>\n<td>2006–2036</td>\n<td>Leased</td>\n</tr>\n<tr>\n<td>Elba Island Expansion</td>\n<td>Elba Island, GA, USA</td>\n<td>4.2</td>\n<td>2010–2035</td>\n<td>Leased</td>\n</tr>\n<tr>\n<td>GATE (Gas Access to Europe)</td>\n<td>Rotterdam, the Netherlands</td>\n<td>1.5</td>\n<td>2015–2031</td>\n<td>Capacity rights</td>\n</tr>\n<tr>\n<td>Lake Charles</td>\n<td>Lake Charles, LA, USA</td>\n<td>4.4</td>\n<td>2002–2030</td>\n<td>Leased</td>\n</tr>\n<tr>\n<td>Lake Charles Expansion</td>\n<td>Lake Charles, LA, USA</td>\n<td>8.7</td>\n<td>2005–2030</td>\n<td>Leased</td>\n</tr>\n<tr>\n<td>Singapore SGM</td>\n<td>SLNG, Singapore</td>\n<td>[B]</td>\n<td>2013–2029</td>\n<td>Import rights</td>\n</tr>\n<tr>\n<td>Singapore SETL</td>\n<td>SLNG, Singapore</td>\n<td>[B]</td>\n<td>2018–2035</td>\n<td>Import rights</td>\n</tr>\n<tr>\n<td>Singapore SETL</td>\n<td>SLNG, Singapore</td>\n<td>up to 1.0 [C]</td>\n<td>2021–2025</td>\n<td>Import rights</td>\n</tr>\n<tr>\n<td>Shell Energy India Pvt Ltd (formerly Hazira)</td>\n<td>Gujarat, India</td>\n<td>5</td>\n<td>2005–2035</td>\n<td>100</td>\n</tr>\n<tr>\n<td>Shell LNG Gibraltar</td>\n<td>Gibraltar</td>\n<td>up to 0.04</td>\n<td>2018–2038</td>\n<td>51</td>\n</tr>\n</tbody>\n</table>\n\n[A] Contract expired in August 2023 and was not extended.\n\n[B] Licences to import LNG and sell regasified LNG in Singapore with no volume cap.\n\n[C] Exclusive licence to import LNG and sell regasified LNG in Singapore for up to 1.0 mtpa.\n\n<page_footer>\n<page_number>44</page_number>\nShell Annual Report and Accounts 2023\n</page_footer>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "shell.pdf",
+    "source_sha256": "5ff4d66ead7a2cb35cb7d5d6deda838f54487bbfcf54abbad135efd2ecb0b87d",
+    "annotated_at": "2026-08-14T14:02:01.995Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/shell-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1306965/000130696524000026/shel-20231231.htm",
+      "accession": "0001306965-24-000026",
+      "provider": "datamulehub",
+      "sha256": "5f3ee281b91f4890644227b558e4f10fe7f92804b09681160fdb4425b4392544",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 130,
+            "byte_start": 1620019,
+            "byte_end_exclusive": 1629660
+          },
+          {
+            "table_index_0based": 132,
+            "byte_start": 1632565,
+            "byte_end_exclusive": 1638098
+          },
+          {
+            "table_index_0based": 134,
+            "byte_start": 1639617,
+            "byte_end_exclusive": 1660493
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "5ff4d66ead7a2cb35cb7d5d6deda838f54487bbfcf54abbad135efd2ecb0b87d",
+    "input_sha256": "d4e51d0fe1dcfa937de10e567213ac1d419c56032ce73f8ab2e575c3c4702727"
+  },
+  "tags": []
+}

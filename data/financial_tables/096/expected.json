@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/oralb5-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "**Measures Not Defined by U.S. GAAP**\n\nThe following provides definitions of the non-GAAP measures used in Procter & Gamble’s 2025 Annual Report and the reconciliation to the most closely related GAAP measure. We believe that these measures provide useful perspective on underlying business trends (i.e., trends excluding non-recurring or unusual items) and results and provide a supplemental measure of year-on-year results. The non-GAAP measures described below are used by management in making operating decisions, allocating financial resources and for business strategy purposes. These measures may be useful to investors, as they provide supplemental information about business performance and provide investors a view of our business results through the eyes of management. These measures are also used to evaluate senior management and are a factor in determining their at-risk compensation. These non-GAAP measures are not intended to be considered by the user in place of the related GAAP measure, but rather as supplemental information to our business results. These non-GAAP measures may not be the same as similar measures used by other companies due to possible differences in method and in the items or events being adjusted. Note that certain columns and rows may not add due to rounding.\n\n**Organic sales growth.** Organic sales growth is a non-GAAP measure of sales growth excluding the impacts of acquisitions and divestitures and foreign exchange from year-over-year comparisons. We believe this measure provides investors with a supplemental understanding of underlying sales trends by providing sales growth on a consistent basis. This measure is used in assessing the achievement of management goals for at-risk compensation. The following tables provide a numerical reconciliation of organic sales growth to reported net sales growth:\n\n<table>\n  <thead>\n    <tr>\n      <th>Period</th>\n      <th>Net Sales Growth</th>\n      <th>Foreign Exchange Impact</th>\n      <th>Acquisition &amp; Divestiture Impact/Other¹</th>\n      <th>Organic Sales Growth</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>FY 2025</td>\n      <td>–%</td>\n      <td>1%</td>\n      <td>1%</td>\n      <td>2%</td>\n    </tr>\n    <tr>\n      <td>Q4 FY 2025</td>\n      <td>2%</td>\n      <td>–%</td>\n      <td>–%</td>\n      <td>2%</td>\n    </tr>\n    <tr>\n      <td>Q3 FY 2025</td>\n      <td>(2)%</td>\n      <td>2%</td>\n      <td>1%</td>\n      <td>1%</td>\n    </tr>\n    <tr>\n      <td>Q2 FY 2025</td>\n      <td>2%</td>\n      <td>–%</td>\n      <td>1%</td>\n      <td>3%</td>\n    </tr>\n    <tr>\n      <td>Q1 FY 2025</td>\n      <td>(1)%</td>\n      <td>1%</td>\n      <td>2%</td>\n      <td>2%</td>\n    </tr>\n    <tr>\n      <td>Q4 FY 2024</td>\n      <td>–%</td>\n      <td>2%</td>\n      <td>–%</td>\n      <td>2%</td>\n    </tr>\n    <tr>\n      <td>Q3 FY 2024</td>\n      <td>1%</td>\n      <td>2%</td>\n      <td>–%</td>\n      <td>3%</td>\n    </tr>\n    <tr>\n      <td>Q2 FY 2024</td>\n      <td>3%</td>\n      <td>1%</td>\n      <td>–%</td>\n      <td>4%</td>\n    </tr>\n    <tr>\n      <td>Q1 FY 2024</td>\n      <td>6%</td>\n      <td>1%</td>\n      <td>–%</td>\n      <td>7%</td>\n    </tr>\n    <tr>\n      <td>Q4 FY 2023</td>\n      <td>5%</td>\n      <td>3%</td>\n      <td>–%</td>\n      <td>8%</td>\n    </tr>\n    <tr>\n      <td>Q3 FY 2023</td>\n      <td>4%</td>\n      <td>4%</td>\n      <td>(1)%</td>\n      <td>7%</td>\n    </tr>\n    <tr>\n      <td>Q2 FY 2023</td>\n      <td>(1)%</td>\n      <td>6%</td>\n      <td>–%</td>\n      <td>5%</td>\n    </tr>\n    <tr>\n      <td>Q1 FY 2023</td>\n      <td>1%</td>\n      <td>6%</td>\n      <td>–%</td>\n      <td>7%</td>\n    </tr>\n    <tr>\n      <td>Q4 FY 2022</td>\n      <td>3%</td>\n      <td>4%</td>\n      <td>–%</td>\n      <td>7%</td>\n    </tr>\n    <tr>\n      <td>Q3 FY 2022</td>\n      <td>7%</td>\n      <td>3%</td>\n      <td>–%</td>\n      <td>10%</td>\n    </tr>\n    <tr>\n      <td>Q2 FY 2022</td>\n      <td>6%</td>\n      <td>–%</td>\n      <td>–%</td>\n      <td>6%</td>\n    </tr>\n    <tr>\n      <td>Q1 FY 2022</td>\n      <td>5%</td>\n      <td>(1)%</td>\n      <td>–%</td>\n      <td>4%</td>\n    </tr>\n    <tr>\n      <td>Q4 FY 2021</td>\n      <td>7%</td>\n      <td>(3)%</td>\n      <td>–%</td>\n      <td>4%</td>\n    </tr>\n    <tr>\n      <td>Q3 FY 2021</td>\n      <td>5%</td>\n      <td>(1)%</td>\n      <td>–%</td>\n      <td>4%</td>\n    </tr>\n    <tr>\n      <td>Q2 FY 2021</td>\n      <td>8%</td>\n      <td>–%</td>\n      <td>–%</td>\n      <td>8%</td>\n    </tr>\n    <tr>\n      <td>Q1 FY 2021</td>\n      <td>9%</td>\n      <td>1%</td>\n      <td>(1)%</td>\n      <td>9%</td>\n    </tr>\n    <tr>\n      <td>Q4 FY 2020</td>\n      <td>4%</td>\n      <td>3%</td>\n      <td>(1)%</td>\n      <td>6%</td>\n    </tr>\n    <tr>\n      <td>Q3 FY 2020</td>\n      <td>5%</td>\n      <td>2%</td>\n      <td>(1)%</td>\n      <td>6%</td>\n    </tr>\n    <tr>\n      <td>Q2 FY 2020</td>\n      <td>5%</td>\n      <td>1%</td>\n      <td>(1)%</td>\n      <td>5%</td>\n    </tr>\n    <tr>\n      <td>Q1 FY 2020</td>\n      <td>7%</td>\n      <td>2%</td>\n      <td>(2)%</td>\n      <td>7%</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "oralb5.pdf",
+    "source_sha256": "81756981a1aa45ca3344e0c3b80587c7ec5f1c3de9797e2f032229821bca41c2",
+    "annotated_at": "2026-08-14T09:43:55.531Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/oralb5-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/80424/000119312525191752/d879413dars.pdf",
+      "accession": "0001193125-25-191752",
+      "provider": "datamulehub",
+      "sha256": "f03516f76f3a291574339918478119ea1b875146a2d3d6c4708ddef908cc0272",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 83,
+        "source_page_count": 92
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "81756981a1aa45ca3344e0c3b80587c7ec5f1c3de9797e2f032229821bca41c2",
+    "input_sha256": "1db60d930bc8f384ab16bebec4bd65959e1b95feea65d7961487e9623d6932bf"
+  },
+  "tags": []
+}

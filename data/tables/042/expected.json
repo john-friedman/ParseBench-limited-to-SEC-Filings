@@ -1,0 +1,50 @@
+{
+  "id": "tables/Goldman Sachs 10-k_page84",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <th>$ in billions</th>\n<th class=\"\">Historical principal investments</th>\n    </tr>\n<tr>\n        <td class=\"\">Beginning balance</td>\n<td>$ 16.3</td>\n    </tr>\n<tr>\n        <td class=\"\">Additions</td>\n<td>0.7</td>\n    </tr>\n<tr>\n        <td class=\"\">Dispositions</td>\n<td>(7.9)</td>\n    </tr>\n<tr>\n        <td class=\"\">Net markups/(markdowns)</td>\n<td>0.3</td>\n    </tr>\n<tr>\n        <td class=\"\">Ending balance</td>\n<td>$ 9.4</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n<th colspan=\"2\">As of December</th>\n    </tr>\n<tr>\n        <th>$ in billions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Loans</td>\n<td>$ 8.5</td>\n<td>$ 12.9</td>\n    </tr>\n<tr>\n        <td class=\"\">Debt securities</td>\n<td>9.0</td>\n<td>10.8</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>$ 17.5</td>\n<td>$ 23.7</td>\n    </tr>\n<tr>\n        <td class=\"\">Accounting Classification</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Debt securities at fair value</td>\n<td>51%</td>\n<td>45%</td>\n    </tr>\n<tr>\n        <td class=\"\">Loans at amortized cost</td>\n<td>45%</td>\n<td>49%</td>\n    </tr>\n<tr>\n        <td class=\"\">Loans at fair value</td>\n<td>3%</td>\n<td>3%</td>\n    </tr>\n<tr>\n        <td class=\"\">Loans held for sale</td>\n<td>1%</td>\n<td>3%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n<tr>\n        <td class=\"\">Region</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Americas</td>\n<td>54%</td>\n<td>52%</td>\n    </tr>\n<tr>\n        <td class=\"\">EMEA</td>\n<td>35%</td>\n<td>37%</td>\n    </tr>\n<tr>\n        <td class=\"\">Asia</td>\n<td>11%</td>\n<td>11%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n<tr>\n        <td class=\"\">Industry</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Consumer &amp; Retail</td>\n<td>11%</td>\n<td>11%</td>\n    </tr>\n<tr>\n        <td class=\"\">Financial Institutions</td>\n<td>9%</td>\n<td>6%</td>\n    </tr>\n<tr>\n        <td class=\"\">Healthcare</td>\n<td>12%</td>\n<td>15%</td>\n    </tr>\n<tr>\n        <td class=\"\">Industrials</td>\n<td>14%</td>\n<td>18%</td>\n    </tr>\n<tr>\n        <td class=\"\">Natural Resources &amp; Utilities</td>\n<td>2%</td>\n<td>2%</td>\n    </tr>\n<tr>\n        <td class=\"\">Real Estate</td>\n<td>13%</td>\n<td>11%</td>\n    </tr>\n<tr>\n        <td class=\"\">Technology, Media &amp; Telecommunications</td>\n<td>29%</td>\n<td>28%</td>\n    </tr>\n<tr>\n        <td class=\"\">Other</td>\n<td>10%</td>\n<td>9%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n<th colspan=\"2\">As of December</th>\n    </tr>\n<tr>\n        <th class=\"\">$ in billions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Equity securities</td>\n<td>$ 13.4</td>\n<td>$ 13.2</td>\n    </tr>\n<tr>\n        <td class=\"\">Region</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Americas</td>\n<td>68%</td>\n<td>70%</td>\n    </tr>\n<tr>\n        <td class=\"\">EMEA</td>\n<td>17%</td>\n<td>15%</td>\n    </tr>\n<tr>\n        <td class=\"\">Asia</td>\n<td>15%</td>\n<td>15%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n<tr>\n        <td class=\"\">Industry</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Consumer &amp; Retail</td>\n<td>5%</td>\n<td>6%</td>\n    </tr>\n<tr>\n        <td class=\"\">Financial Institutions</td>\n<td>15%</td>\n<td>11%</td>\n    </tr>\n<tr>\n        <td class=\"\">Healthcare</td>\n<td>6%</td>\n<td>6%</td>\n    </tr>\n<tr>\n        <td class=\"\">Industrials</td>\n<td>7%</td>\n<td>10%</td>\n    </tr>\n<tr>\n        <td class=\"\">Natural Resources &amp; Utilities</td>\n<td>14%</td>\n<td>13%</td>\n    </tr>\n<tr>\n        <td class=\"\">Real Estate</td>\n<td>27%</td>\n<td>30%</td>\n    </tr>\n<tr>\n        <td class=\"\">Technology, Media &amp; Telecommunications</td>\n<td>24%</td>\n<td>22%</td>\n    </tr>\n<tr>\n        <td class=\"\">Other</td>\n<td>2%</td>\n<td>2%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n<th>Vintage</th>\n    </tr>\n<tr>\n        <td>As of December 2024</td>\n<td></td>\n    </tr>\n<tr>\n        <td>2017 or earlier</td>\n<td>22%</td>\n    </tr>\n<tr>\n        <td>2018 - 2020</td>\n<td>28%</td>\n    </tr>\n<tr>\n        <td>2021 - thereafter</td>\n<td>50%</td>\n    </tr>\n<tr>\n        <td>Total</td>\n<td>100%</td>\n    </tr>\n<tr>\n        <td>As of December 2023</td>\n<td></td>\n    </tr>\n<tr>\n        <td>2016 or earlier</td>\n<td>25%</td>\n    </tr>\n<tr>\n        <td>2017 - 2019</td>\n<td>26%</td>\n    </tr>\n<tr>\n        <td>2020 - thereafter</td>\n<td>49%</td>\n    </tr>\n<tr>\n        <td>Total</td>\n<td>100%</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Goldman Sachs 10-k_page84.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "d554e0a5bf3de29bb63f28f76d693d7cc759f6dcde34d6a8657a6ee6d3580a24",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 123,
+            "byte_start": 2613442,
+            "byte_end_exclusive": 2619410
+          },
+          {
+            "table_index_0based": 124,
+            "byte_start": 2620459,
+            "byte_end_exclusive": 2650501
+          },
+          {
+            "table_index_0based": 125,
+            "byte_start": 2651253,
+            "byte_end_exclusive": 2671909
+          },
+          {
+            "table_index_0based": 126,
+            "byte_start": 2673873,
+            "byte_end_exclusive": 2681289
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "26a583fd3ee486e0aa6d4ef90ddb94e8ae6a4baffeb5171908e8b32bbb39009e",
+    "input_sha256": "8130059972b41644965fb796128618ac380c492784cf88923f60256f2837bee4"
+  },
+  "tags": []
+}

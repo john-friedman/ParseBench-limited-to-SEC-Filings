@@ -1,0 +1,35 @@
+{
+  "id": "tables/Home Depot 10-k unrestricted_page47",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n        <tbody><tr>\n        <th>in millions</th>\n        <th>Fiscal 2024</th>\n        <th>Fiscal 2023</th>\n        <th>Fiscal 2022</th>\n    </tr>\n        <tr>\n        <td class=\"\">Cash Flows from Operating Activities:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Net earnings</td>\n<td>$ 14,806</td>\n<td>$ 15,143</td>\n<td>$ 17,105</td>\n    </tr>\n<tr>\n        <td class=\"\">Reconciliation of net earnings to net cash provided by operating activities:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Depreciation and amortization, excluding amortization of intangible assets</td>\n<td>3,336</td>\n<td>3,061</td>\n<td>2,796</td>\n    </tr>\n<tr>\n        <td class=\"\">Intangible asset amortization</td>\n<td>425</td>\n<td>186</td>\n<td>179</td>\n    </tr>\n<tr>\n        <td class=\"\">Stock-based compensation expense</td>\n<td>442</td>\n<td>380</td>\n<td>366</td>\n    </tr>\n<tr>\n        <td class=\"\">Changes in receivables, net</td>\n<td>174</td>\n<td>134</td>\n<td>111</td>\n    </tr>\n<tr>\n        <td class=\"\">Changes in merchandise inventories</td>\n<td>(743)</td>\n<td>4,137</td>\n<td>(2,830)</td>\n    </tr>\n<tr>\n        <td class=\"\">Changes in other current assets</td>\n<td>86</td>\n<td>(184)</td>\n<td>(311)</td>\n    </tr>\n<tr>\n        <td class=\"\">Changes in accounts payable and accrued expenses</td>\n<td>518</td>\n<td>(1,411)</td>\n<td>(2,577)</td>\n    </tr>\n<tr>\n        <td class=\"\">Changes in deferred revenue</td>\n<td>(165)</td>\n<td>(318)</td>\n<td>(526)</td>\n    </tr>\n<tr>\n        <td class=\"\">Changes in income taxes payable</td>\n<td>809</td>\n<td>(25)</td>\n<td>(107)</td>\n    </tr>\n<tr>\n        <td class=\"\">Changes in deferred income taxes</td>\n<td>15</td>\n<td>(245)</td>\n<td>138</td>\n    </tr>\n<tr>\n        <td class=\"\">Other operating activities</td>\n<td>107</td>\n<td>314</td>\n<td>271</td>\n    </tr>\n<tr>\n        <td class=\"\">Net cash provided by operating activities</td>\n<td>19,810</td>\n<td>21,172</td>\n<td>14,615</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash Flows from Investing Activities:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Capital expenditures</td>\n<td>(3,485)</td>\n<td>(3,226)</td>\n<td>(3,119)</td>\n    </tr>\n<tr>\n        <td class=\"\">Payments for businesses acquired, net</td>\n<td>(17,644)</td>\n<td>(1,514)</td>\n<td>—</td>\n    </tr>\n<tr>\n        <td class=\"\">Other investing activities</td>\n<td>98</td>\n<td>11</td>\n<td>(21)</td>\n    </tr>\n<tr>\n        <td class=\"\">Net cash used in investing activities</td>\n<td>(21,031)</td>\n<td>(4,729)</td>\n<td>(3,140)</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash Flows from Financing Activities:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Proceeds from (repayments of) short-term debt, net</td>\n<td>316</td>\n<td>—</td>\n<td>(1,035)</td>\n    </tr>\n<tr>\n        <td class=\"\">Proceeds from long-term debt, net of discounts</td>\n<td>10,010</td>\n<td>1,995</td>\n<td>6,942</td>\n    </tr>\n<tr>\n        <td class=\"\">Repayments of long-term debt</td>\n<td>(1,536)</td>\n<td>(1,271)</td>\n<td>(2,491)</td>\n    </tr>\n<tr>\n        <td class=\"\">Repurchases of common stock</td>\n<td>(649)</td>\n<td>(7,951)</td>\n<td>(6,696)</td>\n    </tr>\n<tr>\n        <td class=\"\">Proceeds from sales of common stock</td>\n<td>395</td>\n<td>323</td>\n<td>264</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash dividends</td>\n<td>(8,929)</td>\n<td>(8,383)</td>\n<td>(7,789)</td>\n    </tr>\n<tr>\n        <td class=\"\">Other financing activities</td>\n<td>(301)</td>\n<td>(156)</td>\n<td>(188)</td>\n    </tr>\n<tr>\n        <td class=\"\">Net cash used in financing activities</td>\n<td>(694)</td>\n<td>(15,443)</td>\n<td>(10,993)</td>\n    </tr>\n<tr>\n        <td class=\"\">Change in cash and cash equivalents</td>\n<td>(1,915)</td>\n<td>1,000</td>\n<td>482</td>\n    </tr>\n<tr>\n        <td class=\"\">Effect of exchange rate changes on cash and cash equivalents</td>\n<td>(186)</td>\n<td>3</td>\n<td>(68)</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash and cash equivalents at beginning of year</td>\n<td>3,760</td>\n<td>2,757</td>\n<td>2,343</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash and cash equivalents at end of year</td>\n<td>$ 1,659</td>\n<td>$ 3,760</td>\n<td>$ 2,757</td>\n    </tr>\n<tr>\n        <td class=\"\">Supplemental Disclosures:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Cash paid for income taxes</td>\n<td>$ 3,653</td>\n<td>$ 5,023</td>\n<td>$ 5,435</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash paid for interest, net of interest capitalized</td>\n<td>2,199</td>\n<td>1,809</td>\n<td>1,449</td>\n    </tr>\n<tr>\n        <td class=\"\">Non-cash capital expenditures</td>\n<td>250</td>\n<td>364</td>\n<td>351</td>\n    </tr>\n<tr>\n        <td class=\"\">Non-cash acquisition purchase consideration (Note 13)</td>\n<td>321</td>\n<td>—</td>\n<td>—</td>\n    </tr>\n</tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Home Depot 10-k unrestricted_page47.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000085/hd-20250202.htm",
+      "accession": "0000354950-25-000085",
+      "provider": "datamulehub",
+      "sha256": "cff28db2d142e0e74a2f6460460c9a150d26933fac043782cf790360ca1f0057",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 68,
+            "byte_start": 972512,
+            "byte_end_exclusive": 1046957
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "0f52161abf1cdeaf86705d7fa73814a44567995817a0c06edcddccd1b817a393",
+    "input_sha256": "31a7681ae5380c37f2fb2cfad2c18125c8c0e59c71d018c375928db532eecf38"
+  },
+  "tags": []
+}

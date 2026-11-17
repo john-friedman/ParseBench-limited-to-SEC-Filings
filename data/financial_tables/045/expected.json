@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page30",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "*(5) Sales reflect retail deliveries. China and India & Asia Pacific industry reflects aggregate for major markets where the Company competes (China (PC), Japan (PC), India (PC), South Korea (PC and Pickups), Australia, New Zealand and AGD). Market share is based on retail/registrations except, as noted above, in India where market share is based on wholesale volumes*\n*Maserati excluded from volumes and market share*\n*Leapmotor excluded from volumes and market share of the region*\n\nIn 2024, 23.9 million vehicles were sold in China, which represents a 4.7 percent year-over-year increase. The automotive industry grew by 4.8 percent in India due to new model launches from local OEMs lifting the market, dropped 6.7 percent in Japan due to local OEM regulatory issues, 2 percent increase in Australia coming from a strong sales increase in hybrid models, decreased 4.4 percent in South Korea due to sales decline from local brands and New Zealand decreased by 13.9 percent due to the withdrawal of government incentives. The automotive industry in AGD experienced a sales decrease of 5.6 percent due to economic slowdown in key markets during the year.\n\nWe sell a range of vehicles in the China and India & Asia Pacific segment, including small and compact cars, premium mid-size cars, UVs and light CVs. Although our smallest segment by vehicle sales, the China and India & Asia Pacific segment represents a significant growth opportunity and we are invested in building relationships with key partners in India to increase our manufacturing footprint and presence in the region. In the China and India & Asia Pacific segment we also distribute vehicles that are manufactured in the U.S. and Europe through our dealers and distributors.\n\n## *China and India & Asia Pacific Distribution*\n\nIn the key markets in the China and India & Asia Pacific segment (China, Australia, India, Japan, South Korea and AGD), Stellantis vehicles are sold by our 100 percent owned subsidiaries or through DPCA to local independent dealers. Dongfeng Peugeot Citroën Automobile Sales Co (“DPCS”) markets the vehicles produced by DPCA under various license agreements in China, and a Stellantis fully-owned national sales company in China operates and manages the import vehicles’ sales in China (except Maserati). We also operate through national sales companies in Australia, Japan, India, Malaysia and South Korea. In AGD and smaller markets, we have agreements with general distributors.\n\n## *China and India & Asia Pacific Dealer and Customer Financing*\n\nIn China, we operate 100 percent owned finance and lease companies, Stellantis Automotive Finance Co., Ltd and, since April 2023, following the finalization of an equity transfer agreement with Dongfeng, Stellantis Leasing Services Co Ltd. These entities allow us to support our sales activities in China offering to our dealer networks and retail and commercial customers, a full range of wholesale and retail financing as well as financial and operational leasing products. Cooperation agreements are also in place with third-party financial institutions to provide dealer network and retail customer financing in India, South Korea, Australia and Japan.\n\n## ***Maserati***\n\nThe following table shows the distribution of Maserati sales by geographic regions and as a percentage of total sales for each of the years ended December 31, 2024, 2023 and 2022:\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th><strong><b>2024 Sales</b></strong></th>\n      <th><strong>As a percentage of 2024 sales</strong></th>\n      <th><strong>2023 Sales</strong></th>\n      <th><strong>As a percentage of 2023 sales</strong></th>\n      <th><strong>2022 Sales</strong></th>\n      <th><strong>As a percentage of <b>2022 sales</b></strong></th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>U.S./Mexico</td>\n      <td>4,807</td>\n      <td>32.6 %</td>\n      <td>7,907</td>\n      <td>29.6 %</td>\n      <td>6,945</td>\n      <td>29.7 %</td>\n    </tr>\n    <tr>\n      <td>Europe top 4<sup>(1)</sup></td>\n      <td>3,733</td>\n      <td>25.4 %</td>\n      <td>6,035</td>\n      <td>22.6 %</td>\n      <td>5,442</td>\n      <td>23.3 %</td>\n    </tr>\n    <tr>\n      <td>China</td>\n      <td>1,209</td>\n      <td>8.2 %</td>\n      <td>4,367</td>\n      <td>16.4 %</td>\n      <td>4,680</td>\n      <td>20.0 %</td>\n    </tr>\n    <tr>\n      <td>Japan</td>\n      <td>1,102</td>\n      <td>7.5 %</td>\n      <td>1,729</td>\n      <td>6.5 %</td>\n      <td>1,238</td>\n      <td>5.3 %</td>\n    </tr>\n    <tr>\n      <td>Other countries</td>\n      <td>3,874</td>\n      <td>26.3 %</td>\n      <td>6,651</td>\n      <td>24.9 %</td>\n      <td>5,099</td>\n      <td>21.8 %</td>\n    </tr>\n    <tr>\n      <td><strong><b>Total</b></strong></td>\n      <td><strong>14,725</strong></td>\n      <td><strong>100.0 %</strong></td>\n      <td><strong>26,689</strong></td>\n      <td><strong>100.0 %</strong></td>\n      <td><strong>23,404</strong></td>\n      <td><strong>100.0 %</strong></td>\n    </tr>\n  </tbody>\n</table>\n*(1) Italy, United Kingdom, Germany and Switzerland*\n*China includes Hong Kong*\n*U.S. includes Mexico and Puerto Rico*\n\nIn 2024, a total of 14.7 thousand Maserati vehicles were sold, a decrease of 12 thousand units compared to 2023. This result is mainly influenced by lower Grecale volumes, reduced appetite for western OEM luxury products in China, the\n\n30",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Stellantis-NV-20241231-Annual-Report.pdf",
+    "source_sha256": "8863db35ee58aa658101b3e06148bd5cf62503542dd9b1ae31b8f7e3dd202aa6",
+    "annotated_at": "2026-08-21T17:44:31.987Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page30.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548425000013/stellantis-20241231.htm",
+      "accession": "0001605484-25-000013",
+      "provider": "datamulehub",
+      "sha256": "8c091fc8484651b8f35e9a6cb267afdc871222516a86fb13071942d8f06deab8",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 28,
+            "byte_start": 2139092,
+            "byte_end_exclusive": 2186124
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "8863db35ee58aa658101b3e06148bd5cf62503542dd9b1ae31b8f7e3dd202aa6",
+    "input_sha256": "e06a4a15f389a96776f24ec8d56538f5722621c5f910fb63439a6cafa9ca0f07"
+  },
+  "tags": []
+}

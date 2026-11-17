@@ -1,0 +1,35 @@
+{
+  "id": "tables/Victoria_Secret_10-k__p5_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n<th>February 1, 2025</th>\n<th>February 3, 2024</th>\n    </tr>\n<tr>\n        <td class=\"\">Beauty and Accessories (a)</td>\n<td>324</td>\n<td>307</td>\n    </tr>\n<tr>\n        <td class=\"\">Full Assortment</td>\n<td>181</td>\n<td>156</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>505</td>\n<td>463</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Victoria_Secret_10-k__p5_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643725000006/vsco-20250201.htm",
+      "accession": "0001856437-25-000006",
+      "provider": "datamulehub",
+      "sha256": "c61188a3b679a072e3532c138c245992615b963995f761959e0a919d49e04d05",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 9,
+            "byte_start": 217025,
+            "byte_end_exclusive": 221630
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "2fccb42e2a92943527a487954ab5cb5613501152984e84ca710e21ae9fb7be05",
+    "input_sha256": "6517353fcc1586c627feb94063a98cc1c1f6e9ef481b468b5ea2ff7e0285d44b"
+  },
+  "tags": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/chevron-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "## financial and operating highlights\n\n<table>\n  <thead>\n    <tr>\n      <th>financial highlights¹</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Net income (loss) attributable to Chevron Corporation</td>\n      <td>$ 35,465</td>\n      <td>$ 15,625</td>\n      <td>$ (5,543)</td>\n    </tr>\n    <tr>\n      <td>Sales and other operating revenues</td>\n      <td>$ 235,717</td>\n      <td>$ 155,606</td>\n      <td>$ 94,471</td>\n    </tr>\n    <tr>\n      <td>Cash flow from operating activities</td>\n      <td>$ 49,602</td>\n      <td>$ 29,187</td>\n      <td>$ 10,577</td>\n    </tr>\n    <tr>\n      <td>Capital expenditures (Capex)</td>\n      <td>$ 11,974</td>\n      <td>$ 8,056</td>\n      <td>$ 8,922</td>\n    </tr>\n    <tr>\n      <td>Capital and exploratory expenditures (C&E)</td>\n      <td>$ 12,296</td>\n      <td>$ 8,553</td>\n      <td>$ 9,517</td>\n    </tr>\n    <tr>\n      <td>Acquisitions of businesses, net of cash received</td>\n      <td>$ 2,862</td>\n      <td>$ -</td>\n      <td>$ (373)</td>\n    </tr>\n    <tr>\n      <td>C&E plus acquisitions (Company investment)</td>\n      <td>$ 15,158</td>\n      <td>$ 8,553</td>\n      <td>$ 9,144</td>\n    </tr>\n    <tr>\n      <td>Affiliate C&E</td>\n      <td><b>$ 3,366</b></td>\n      <td>$ 3,167</td>\n      <td>$ 3,982</td>\n    </tr>\n    <tr>\n      <td>Total assets at year-end</td>\n      <td>$ 257,709</td>\n      <td>$ 239,535</td>\n      <td>$ 239,790</td>\n    </tr>\n    <tr>\n      <td>Total debt and finance lease obligations at year-end</td>\n      <td>$ 23,339</td>\n      <td>$ 31,369</td>\n      <td>$ 44,315</td>\n    </tr>\n    <tr>\n      <td>Chevron Corporation stockholders’ equity at year-end</td>\n      <td>$ 159,282</td>\n      <td>$ 139,067</td>\n      <td>$ 131,688</td>\n    </tr>\n    <tr>\n      <td>Common shares outstanding at year-end (Thousands)²</td>\n      <td>1,901,048</td>\n      <td>1,915,638</td>\n      <td>1,911,018</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Per-share data</td>\n    </tr>\n    <tr>\n      <td>Net income (loss) attributable to Chevron Corporation – diluted</td>\n      <td>$ 18.28</td>\n      <td>$ 8.14</td>\n      <td>$ (2.96)</td>\n    </tr>\n    <tr>\n      <td>Cash dividends</td>\n      <td>$ 5.68</td>\n      <td>$ 5.31</td>\n      <td>$ 5.16</td>\n    </tr>\n    <tr>\n      <td>Chevron Corporation stockholders’ equity</td>\n      <td>$ 83.79</td>\n      <td>$ 72.60</td>\n      <td>$ 68.91</td>\n    </tr>\n    <tr>\n      <td>Debt ratio³</td>\n      <td>12.8%</td>\n      <td>18.4%</td>\n      <td>25.2%</td>\n    </tr>\n    <tr>\n      <td>Net debt ratio³</td>\n      <td>3.3%</td>\n      <td>15.6%</td>\n      <td>22.7%</td>\n    </tr>\n    <tr>\n      <td>Return on stockholders’ equity³</td>\n      <td>23.8%</td>\n      <td>11.5%</td>\n      <td>(4.0)%</td>\n    </tr>\n    <tr>\n      <td>Return on average capital employed³</td>\n      <td>20.3%</td>\n      <td>9.4%</td>\n      <td>(2.8)%</td>\n    </tr>\n  </tbody>\n</table>\n\n<sup>1</sup> Millions of dollars, except per-share amounts\n\n<sup>2</sup> Net of Chevron Benefit Plan Trust shares, see page 64 for more information\n\n<sup>3</sup> See pages 48–49 for additional information",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "chevron.pdf",
+    "source_sha256": "469e652cb51bb1626aa495100b9831a18eda78c9a7bafdc101a75f20a5de4e89",
+    "annotated_at": "2026-08-14T05:35:12.989Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/chevron-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312523099324/d433226dars.pdf",
+      "accession": "0001193125-23-099324",
+      "provider": "datamulehub",
+      "sha256": "4e90668e7d7314741beb95184d76b3db503ea4d5f17a03f684c5f8850b17af2b",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 23,
+        "source_page_count": 116
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "469e652cb51bb1626aa495100b9831a18eda78c9a7bafdc101a75f20a5de4e89",
+    "input_sha256": "51aa3330a8f26adb4a366afb7bbbbb95a5f299b3b0e498fa560f68e62c0b56ce"
+  },
+  "tags": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/disney1-2026-08-19_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "The stations we own are as follows:\n\n<table>\n  <thead>\n    <tr>\n      <th>TV Station</th>\n      <th>Market</th>\n      <th>Television Market<br>Ranking<sup>(1)</sup></th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>WABC</td>\n      <td>New York, NY</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <td>KABC</td>\n      <td>Los Angeles, CA</td>\n      <td>2</td>\n    </tr>\n    <tr>\n      <td>WLS</td>\n      <td>Chicago, IL</td>\n      <td>3</td>\n    </tr>\n    <tr>\n      <td>WPVI</td>\n      <td>Philadelphia, PA</td>\n      <td>4</td>\n    </tr>\n    <tr>\n      <td>KGO</td>\n      <td>San Francisco, CA</td>\n      <td>6</td>\n    </tr>\n    <tr>\n      <td>KTRK</td>\n      <td>Houston, TX</td>\n      <td>8</td>\n    </tr>\n    <tr>\n      <td>WTVD</td>\n      <td>Raleigh-Durham, NC</td>\n      <td>24</td>\n    </tr>\n    <tr>\n      <td>KFSN</td>\n      <td>Fresno, CA</td>\n      <td>55</td>\n    </tr>\n  </tbody>\n</table>\n\n<sup>(1)</sup> Based on Nielsen Media Research, U.S. Television Household Estimates, January 1, 2021.\n\n<u>International Channels</u>\n\nOur International Channels focus on General Entertainment, Sports and/or Family programming and operate under four significant brands: Disney; ESPN; Fox; and Star. The channels air programming from the Company’s content production groups, locally produced content and licensed programming.\n\nThe Company’s increased focus on DTC distribution in international markets is expected to negatively impact the International Channels business as we shift the primary means of monetizing our content from licensing of linear channels to distribution on our DTC platforms.\n\n<u>General Entertainment</u>\n\nThe Company operates approximately 245 General Entertainment channels outside the U.S. primarily under the Fox, National Geographic and Star brands, which are broadcast in approximately 45 languages and 180 countries/territories.\n\nFox branded channels air a variety of scripted, reality and documentary programming. Channels are often thematically branded, focusing on such topics as comedy, cooking, crime, movies and travel, and are broadcast in most regions internationally.\n\nNational Geographic branded channels air scripted and documentary programming on such topics as natural history, adventure, science, exploration and culture, and are broadcast in most regions internationally.\n\nStar branded channels air a variety of scripted, reality and documentary programming primarily in India. Channels are also broadcast in other countries in Asia Pacific.\n\nIn addition, the Company operates UTV and Bindass branded channels principally in India. UTV Action and UTV Movies offer Bollywood movies as well as Hollywood, Asian and Indian regional movies dubbed in Hindi. Bindass is a youth entertainment channel.\n\n<u>Sports</u>\n\nThe Company operates approximately 55 Sports channels outside the U.S. under the ESPN, Fox and Star brands, which are broadcast in approximately 10 languages and 100 countries/territories.\n\nESPN branded channels primarily operate in Latin America, Asia Pacific and Europe. In the Netherlands, the ESPN branded channels are operated by Eredivisie Media & Marketing CV (EMM), which has the media and sponsorship rights of the Dutch Premier League for soccer. The Company owns 51% of EMM.\n\nFox branded sports channels primarily operate in Latin America, Asia Pacific and Europe. Fox Sports Premium, a pay television service in Argentina, airs the matches of the professional soccer league in Argentina.\n\nStar branded sports channels primarily operate in India and certain other countries in Asia Pacific. Star has rights to various sports programming including cricket, soccer, tennis and field hockey.\n\n<u>Family</u>\n\nThe Company operates approximately 85 Family channels outside the U.S. primarily under the Disney brand, which are broadcast in approximately 30 languages and 180 countries/territories.\n\nDisney branded television channels include Disney Channel, Disney Junior, Disney XD and Disney International HD.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "disney1.pdf",
+    "source_sha256": "089dfc809dabcb197ea09c4d9723d0b58a05c0ec34905088ad99066b2151f18c",
+    "annotated_at": "2026-08-19T06:51:55.327Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/disney1-2026-08-19_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448921000220/dis-20211002.htm",
+      "accession": "0001744489-21-000220",
+      "provider": "datamulehub",
+      "sha256": "b8befec977cea0d75d17c4799e2c97502c215cbe5e2fea2b59b89bd38ec488c6",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 10,
+            "byte_start": 630963,
+            "byte_end_exclusive": 639648
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "089dfc809dabcb197ea09c4d9723d0b58a05c0ec34905088ad99066b2151f18c",
+    "input_sha256": "ece99b0664fa45b1c5237696298a3b60d095680bf2b5489f3ae56cee3667c6f5"
+  },
+  "tags": []
+}

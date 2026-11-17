@@ -1,0 +1,50 @@
+{
+  "id": "tables/Home Depot 10-k unrestricted_page71",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">Fiscal 2024</th>\n        <th colspan=\"2\">Fiscal 2023</th>\n        <th colspan=\"2\">Fiscal 2022</th>\n    </tr>\n<tr>\n        <td class=\"\">Per share weighted average fair value</td>\n<td colspan=\"2\">$ 95.50</td>\n<td colspan=\"2\">$ 66.01</td>\n<td colspan=\"2\">$ 70.21</td>\n    </tr>\n<tr>\n        <td class=\"\">Risk-free interest rate</td>\n<td colspan=\"2\">4.2 %</td>\n<td colspan=\"2\">3.6 %</td>\n<td colspan=\"2\">2.5 %</td>\n    </tr>\n<tr>\n        <td class=\"\">Expected volatility</td>\n<td colspan=\"2\">24.6 %</td>\n<td colspan=\"2\">26.7 %</td>\n<td colspan=\"2\">27.0 %</td>\n    </tr>\n<tr>\n        <td class=\"\">Dividend yield</td>\n<td colspan=\"2\">2.4 %</td>\n<td colspan=\"2\">2.8 %</td>\n<td colspan=\"2\">2.4 %</td>\n    </tr>\n<tr>\n        <td class=\"\">Expected term</td>\n<td colspan=\"2\">6 years</td>\n<td colspan=\"2\">6 years</td>\n<td colspan=\"2\">6 years</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <th class=\"\">shares in thousands</th>\n        <th>Number of Shares</th>\n        <th colspan=\"2\">Weighted Average Exercise Price</th>\n    </tr>\n<tr>\n        <td class=\"\">Outstanding at beginning of year</td>\n<td>3,085</td>\n<td colspan=\"2\">$ 189.97</td>\n    </tr>\n<tr>\n        <td class=\"\">Granted</td>\n<td>175</td>\n<td colspan=\"2\">383.15</td>\n    </tr>\n<tr>\n        <td class=\"\">Exercised</td>\n<td>(1,036)</td>\n<td colspan=\"2\">138.64</td>\n    </tr>\n<tr>\n        <td class=\"\">Forfeited</td>\n<td>(23)</td>\n<td colspan=\"2\">306.00</td>\n    </tr>\n<tr>\n        <td class=\"\">Outstanding at end of year</td>\n<td>2,201</td>\n<td colspan=\"2\">228.23</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <th>in millions</th>\n        <th colspan=\"2\">Fiscal 2024</th>\n        <th colspan=\"2\">Fiscal 2023</th>\n        <th colspan=\"2\">Fiscal 2022</th>\n    </tr>\n<tr>\n        <td class=\"\">Total intrinsic value of stock options exercised</td>\n<td colspan=\"2\">$ 254</td>\n<td colspan=\"2\">$ 152</td>\n<td colspan=\"2\">$ 61</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <th>shares in thousands, dollars in millions, except for per share amounts</th>\n        <th>Number of Shares</th>\n        <th colspan=\"2\">Intrinsic Value</th>\n        <th>Weighted Average Remaining Life</th>\n        <th colspan=\"2\">Weighted Average Exercise Price</th>\n    </tr>\n<tr>\n        <td class=\"\">Outstanding</td>\n<td>2,201</td>\n<td colspan=\"2\">$ 404</td>\n<td>5.0 years</td>\n<td colspan=\"2\">$ 228.23</td>\n    </tr>\n<tr>\n        <td class=\"\">Exercisable</td>\n<td>1,411</td>\n<td colspan=\"2\">320</td>\n<td>3.6 years</td>\n<td colspan=\"2\">185.43</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Home Depot 10-k unrestricted_page71.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000085/hd-20250202.htm",
+      "accession": "0000354950-25-000085",
+      "provider": "datamulehub",
+      "sha256": "cff28db2d142e0e74a2f6460460c9a150d26933fac043782cf790360ca1f0057",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 128,
+            "byte_start": 1860784,
+            "byte_end_exclusive": 1875021
+          },
+          {
+            "table_index_0based": 129,
+            "byte_start": 1876037,
+            "byte_end_exclusive": 1884880
+          },
+          {
+            "table_index_0based": 130,
+            "byte_start": 1885365,
+            "byte_end_exclusive": 1890542
+          },
+          {
+            "table_index_0based": 131,
+            "byte_start": 1891046,
+            "byte_end_exclusive": 1898881
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "6104b575ce756513f1eb880085215dde227a5eb90c3fa1630557dba208d6f726",
+    "input_sha256": "55dc305ef934eb8dee871e1e97e5005d83f7755026c4dd11f7c6bb44645d6687"
+  },
+  "tags": []
+}

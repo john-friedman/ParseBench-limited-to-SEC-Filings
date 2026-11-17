@@ -1,0 +1,389 @@
+{
+  "id": "dense_tables/dense_table_412",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "Financial statements\n\n# 32. Capital and reserves – continued\n\n$ million\n\n<table>\n<thead>\n<tr><th rowspan=\"2\">Treasury shares</th><th rowspan=\"2\">Foreign currency translation reserve</th><th rowspan=\"2\">Investments in equity instruments</th><th rowspan=\"2\">Cash flow hedges</th><th rowspan=\"2\">Costs of hedging</th><th rowspan=\"2\">Total fair value reserves</th><th rowspan=\"2\">Profit and loss account</th><th rowspan=\"2\">bp shareholders’ equity</th><th colspan=\"2\">Non-controlling interests</th><th rowspan=\"2\">Total equity</th></tr>\n<tr><th>Hybrid bonds</th><th>Other interest</th></tr>\n</thead>\n<tbody>\n<tr><td>(12,153)</td><td>(2,643)</td><td>—</td><td>(183)</td><td>(73)</td><td>(256)</td><td>34,732</td><td>67,553</td><td>13,390</td><td>2,047</td><td>82,990</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>15,239</td><td>15,239</td><td>586</td><td>55</td><td>15,880</td></tr>\n<tr><td>—</td><td>728</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>728</td><td>—</td><td>26</td><td>754</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>488</td><td>(110)</td><td>378</td><td>—</td><td>378</td><td>—</td><td>—</td><td>378</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(192)</td><td>(192)</td><td>—</td><td>—</td><td>(192)</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(1,504)</td><td>(1,504)</td><td>—</td><td>—</td><td>(1,504)</td></tr>\n<tr><td>—</td><td>—</td><td>38</td><td>—</td><td>—</td><td>38</td><td>—</td><td>38</td><td>—</td><td>—</td><td>38</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>15</td><td>—</td><td>15</td><td>—</td><td>15</td><td>—</td><td>—</td><td>15</td></tr>\n<tr><td>—</td><td>728</td><td>38</td><td>503</td><td>(110)</td><td>431</td><td>13,543</td><td>14,702</td><td>586</td><td>81</td><td>15,369</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(4,831)</td><td>(4,831)</td><td>—</td><td>(403)</td><td>(5,234)</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>(1)</td><td>—</td><td>(1)</td><td>—</td><td>(1)</td><td>—</td><td>—</td><td>(1)</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(8,167)</td><td>(8,167)</td><td>—</td><td>—</td><td>(8,167)</td></tr>\n<tr><td>830</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(301)</td><td>669</td><td>—</td><td>—</td><td>669</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(1)</td><td>(1)</td><td>176</td><td>—</td><td>175</td></tr>\n<tr><td>—</td><td>(5)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(5)</td><td>(586)</td><td>—</td><td>(591)</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>363</td><td>363</td><td>—</td><td>(81)</td><td>282</td></tr>\n<tr><td>(11,323)</td><td>(1,920)</td><td>38</td><td>319</td><td>(183)</td><td>174</td><td>35,339</td><td>70,283</td><td>13,566</td><td>1,644</td><td>85,493</td></tr>\n<tr><td>(12,624)</td><td>(9,572)</td><td>—</td><td>(851)</td><td>(176)</td><td>(1,027)</td><td>51,815</td><td>75,463</td><td>13,041</td><td>1,935</td><td>90,439</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(2,487)</td><td>(2,487)</td><td>519</td><td>611</td><td>(1,357)</td></tr>\n<tr><td>—</td><td>6,914</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>6,914</td><td>—</td><td>(61)</td><td>6,853</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>671</td><td>103</td><td>774</td><td>—</td><td>774</td><td>—</td><td>—</td><td>774</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>402</td><td>402</td><td>—</td><td>—</td><td>402</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(225)</td><td>(225)</td><td>—</td><td>—</td><td>(225)</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>408</td><td>408</td><td>—</td><td>—</td><td>408</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>(4)</td><td>—</td><td>(4)</td><td>—</td><td>(4)</td><td>—</td><td>—</td><td>(4)</td></tr>\n<tr><td>—</td><td>6,914</td><td>—</td><td>667</td><td>103</td><td>770</td><td>(1,902)</td><td>5,782</td><td>519</td><td>550</td><td>6,851</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(4,365)</td><td>(4,365)</td><td>—</td><td>(294)</td><td>(4,659)</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>1</td><td>—</td><td>1</td><td>—</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>820</td><td>—</td><td>—</td><td>820</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(10,493)</td><td>(10,493)</td><td>—</td><td>—</td><td>(10,493)</td></tr>\n<tr><td>471</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>194</td><td>847</td><td>—</td><td>—</td><td>847</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(4)</td><td>(4)</td><td>374</td><td>—</td><td>370</td></tr>\n<tr><td>—</td><td>15</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>15</td><td>(544)</td><td>—</td><td>(529)</td></tr>\n<tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(513)</td><td>(513)</td><td>—</td><td>(144)</td><td>(657)</td></tr>\n<tr><td>(12,153)</td><td>(2,643)</td><td>—</td><td>(183)</td><td>(73)</td><td>(256)</td><td>34,732</td><td>67,553</td><td>13,390</td><td>2,047</td><td>82,990</td></tr>\n</tbody>\n</table>\n\nbp Annual Report and Form 20-F 2023 237",
+  "test_rules": [
+    {
+      "type": "table_rowspan",
+      "cell": "treasury shares",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_cee6b42bdd52c602"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "foreign currency translation reserve",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_55ebdf27a61790f8"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "investments in equity instruments",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_33cb8a038277ca0b"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "cash flow hedges",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_a73ed2cb825967fc"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "costs of hedging",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_cef490140d0b5430"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "total fair value reserves",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_8c7539d47d067b21"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "profit and loss account",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_c80a45b5a5998415"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "bp shareholders' equity",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_47dc5b703e26d50b"
+    },
+    {
+      "type": "table_colspan",
+      "cell": "non-controlling interests",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_c4f8af61031d2f7c"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "total equity",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_b9dd3e5e9560c28d"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "431",
+      "expected_neighbor": "13,543",
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_384f7d3cbeb475bc"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "15,369",
+      "expected_neighbor": "(5,234)",
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_91c10b37bd9c4519"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "(11,323)",
+      "expected_neighbor": "(1,920)",
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_a5a9b601993bf68f"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "174",
+      "expected_neighbor": "35,339",
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_b7aad9addf18dc05"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "85,493",
+      "expected_neighbor": "90,439",
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_c376fd7c4a228d06"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "770",
+      "expected_neighbor": "(1,902)",
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_4135564df0e96357"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "6,851",
+      "expected_neighbor": "(4,659)",
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_a0fc0bc4586b1ead"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "(11,323)",
+      "cell_b": "85,493",
+      "table_anchor_cells": [
+        "foreign currency translation reserve",
+        "investments in equity instruments",
+        "total fair value reserves",
+        "non-controlling interests",
+        "profit and loss account"
+      ],
+      "page": 1,
+      "pdf": "dense_table_412.pdf",
+      "verified": false,
+      "id": "dense_v01_0cd6484f473ee1fb"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_412",
+    "gt_status": "reannotated_confirmed",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_412.md",
+    "source_pdf": "/Users/pierre/Code/pdfDataSetOrdered/annualRepports/bp-annual-report-and-form-20f-2023.pdf",
+    "source_page": 239,
+    "source_n_pages": 300,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 424.5,
+      "rows": 39,
+      "cols": 11,
+      "cells": 420,
+      "fill": 0.979,
+      "numeric_ratio": 0.943,
+      "n_items": 427,
+      "tabular_line_ratio": 0.886,
+      "n_blocks": 1
+    },
+    "shape_class": "medium/numeric/portrait",
+    "verify": {
+      "median_cell_len": 1,
+      "words_per_cell": 1.02,
+      "aligned_ratio": 0.94,
+      "row_coverage": 0.886,
+      "text_sha1": "8caf63f2adec60d05188d61b6c86a10a446827ab"
+    },
+    "header_preview": "Treasury | currency | Investments in | Total | Profit and | bp",
+    "draft_check": {
+      "text_layer_numbers": 157,
+      "numeric_coverage": 1.0
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 1.0,
+        "blind_rows": 10,
+        "text_layer_token_precision": 1.0,
+        "text_layer_token_recall": 1.0,
+        "agreement_with_previous_reference_table_next": 1.0
+      },
+      "review": null,
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_412.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/313807/000031380724000008/bp-20231231.htm",
+      "accession": "0000313807-24-000008",
+      "provider": "datamulehub",
+      "sha256": "083057d76ad5d70043bc53dbd31af8a50f60fb37f148177952d657dc817c72e3",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 241,
+            "byte_start": 6071048,
+            "byte_end_exclusive": 6277927
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "74e6e4c94d933ecf4f7e2b60b46b80baccb619ddedb0f64c761b3db9190282bf",
+    "input_sha256": "fbf5980544ca37f77a2ae91eac24341bc2a7214fb40ee534b196e7f022605a13"
+  },
+  "tags": [
+    "dense_table",
+    "medium_columns",
+    "numeric_content",
+    "portrait",
+    "gt_draft"
+  ]
+}

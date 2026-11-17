@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/Visa-Fiscal-2025-Annual-Report-1-2026-08-21_page32",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "## **CORPORATE RESPONSIBILITY AND SUSTAINABILITY**\n\nVisa is committed to operating as a responsible, ethical, inclusive and sustainable company. As a trusted network and global leader in digital payments, Visa strives to join with clients, partners and other stakeholders to empower people, businesses and communities to thrive. Visa’s purpose is to uplift everyone, everywhere by being the best way to pay and be paid. While we work toward this goal, we are committed to managing the risks and opportunities that arise from environmental and social issues and providing strong executive and Board oversight of our overall strategy. Our 2024 CRS Report, as well as other CRS-related resources are available in the CRS Resources section of our corporate website at *corporate.visa.com/en/about-visa/crs/resources.html*. See *Available Information* below.\n\n## **INTELLECTUAL PROPERTY**\n\nWe own and manage the Visa brand, which stands for acceptance, security, convenience, speed and reliability. Our portfolio of Visa-owned trademarks is important to our business. Generally, trademark registrations are valid indefinitely as long as they are in use and/or maintained. We give our clients access to these assets through agreements with our issuers and acquirers, which authorize the use of our trademarks in connection with their participation in our payments network. Additionally, we own many patents and patent applications related to our business and continue to pursue patents in emerging technologies that may have applications in our business. We rely on a combination of patent, trademark, copyright and trade secret laws in the U.S. and other jurisdictions, as well as confidentiality procedures and contractual provisions, to protect our proprietary technology.\n\n## **COMPETITION**\n\nThe global payments industry continues to undergo dynamic and rapid change. Existing and emerging competitors compete with Visa’s network and payment solutions for consumers and for participation by financial institutions and sellers. Technology and innovation are shifting consumer habits and driving growth opportunities in ecommerce, GenAI agent-based commerce, mobile payments, blockchain technology and digital currencies, including stablecoins. These advances are enabling new entrants, many of which depart from traditional network payment models. In certain countries, the evolving regulatory landscape is creating local networks or enabling additional processing competition.\n\nWe compete against all forms of payment. These include paper-based payments, primarily cash and checks, and all forms of electronic payments. Our electronic payment competitors principally include the ones listed below.\n\n***Global or Multi-regional Networks:*** These networks typically offer a range of branded, general purpose card payment products that consumers can use at millions of merchant locations around the world. Examples include American Express, Diners Club/Discover (now owned by Capital One), JCB, Mastercard and UnionPay. These competitors may be more concentrated in specific geographic regions, such as Discover in the U.S. and JCB in Japan, or have a leading position in certain countries, such as UnionPay in China. See *Item 1A—Regulatory Risks—Government-imposed obligations and/or restrictions on international payments systems may prevent us from competing against providers in certain countries, including significant markets such as China and India.* Based on available data, Visa is one of the largest retail electronic funds transfer networks used throughout the world.\n\nThe following chart compares our network with certain network competitors for calendar year 2024<sup>(1)</sup>:\n\n<table>\n    <thead>\n        <tr>\n            <th></th>\n            <th>Visa</th>\n            <th>American Express</th>\n            <th>Diners Club /<br>Discover</th>\n            <th>JCB</th>\n            <th>Mastercard</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>Payments Volume ($B)</td>\n            <td>13,433</td>\n            <td>1,750</td>\n            <td>253</td>\n            <td>319</td>\n            <td>8,014</td>\n        </tr>\n        <tr>\n            <td>Total Volume ($B)<sup>(2)</sup></td>\n            <td>15,927</td>\n            <td>1,765</td>\n            <td>266</td>\n            <td>327</td>\n            <td>9,757</td>\n        </tr>\n        <tr>\n            <td>Total Transactions (B)</td>\n            <td>311</td>\n            <td>12</td>\n            <td>4</td>\n            <td>7</td>\n            <td>204</td>\n        </tr>\n        <tr>\n            <td>Cards (M)</td>\n            <td>4,805</td>\n            <td>147</td>\n            <td>72</td>\n            <td>167</td>\n            <td>3,146</td>\n        </tr>\n    </tbody>\n</table>\n\n<sup>(1)</sup> American Express, Diners Club / Discover, JCB and Mastercard data sourced from The Nilson Report issue 1288 (June 2025). Includes all consumer, small business and commercial credit, debit and prepaid cards for Visa and Mastercard and includes all consumer, small business and commercial credit cards, including business from third-party issuers, for American Express, Diners Club / Discover, and JCB. JCB figures include other payment-related products and some figures are estimates. Mastercard excludes Maestro and Cirrus figures.\n<sup>(2)</sup> Total volume is the sum of payments volume and cash volume. Cash volume generally consists of cash access transactions, balance access transactions, balance transfers and convenience checks.\n\n***Local and Regional Networks:*** Operated in many countries, these networks often have the support of government influence or mandate. In some cases, they are owned by financial institutions or payment processors.\n\n17",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Visa-Fiscal-2025-Annual-Report (1).pdf",
+    "source_sha256": "663d47a33535cb809b86c46a553d2e35cae75bc26593d378c61f7caf4e9a4279",
+    "annotated_at": "2026-08-21T17:39:22.514Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Visa-Fiscal-2025-Annual-Report-1-2026-08-21_page32.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000637/v014524-ars.pdf",
+      "accession": "0001308179-25-000637",
+      "provider": "datamulehub",
+      "sha256": "50377feb2f7fa51cad3a1168487c3268b5cb261004f31b12dfa5e2230d68c85b",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 31,
+        "source_page_count": 136
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "663d47a33535cb809b86c46a553d2e35cae75bc26593d378c61f7caf4e9a4279",
+    "input_sha256": "dbfc9bf639473240289cfe6d55883d65cdca2d77427acea7a14bad07da62aa59"
+  },
+  "tags": []
+}

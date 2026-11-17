@@ -1,0 +1,65 @@
+{
+  "id": "headings/case-0043-5398813dd2cc",
+  "subset": "headings",
+  "dimension": "formatting",
+  "document": "sec_input.html",
+  "expected_markdown": null,
+  "test_rules": [
+    {
+      "type": "heading_structure",
+      "id": "case-0043-5398813dd2cc:heading-structure-001",
+      "page": 1,
+      "headings": [
+        {
+          "text": "Cautionary statement",
+          "level": 2
+        }
+      ],
+      "tags": [
+        "heading-structure",
+        "financial",
+        "full-document-reviewed"
+      ]
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "bp-second-quarter-2026-results.pdf",
+    "source_sha256": "5398813dd2cc9af8edc4e5b65ff2179411ffc638ef0b2bc0244c50d5617488be",
+    "source_page": 40,
+    "source_page_count": 41,
+    "cohort": "financial",
+    "annotation_evidence": [
+      "target_page_raster",
+      "adjacent_page_context",
+      "full_document_outline"
+    ],
+    "scoring": "next",
+    "primary_metric": "formatting_v2",
+    "headline": "feature",
+    "headline_reason": "complete page heading list (heading_structure rule)",
+    "next_version": "v0.4",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/headings.jsonl",
+    "parsebench_document": "headings/case-0043-5398813dd2cc.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/313807/000165495426007201/a0879p.htm",
+      "accession": "0001654954-26-007201",
+      "provider": "datamulehub",
+      "sha256": "c4e6eb51d8b31b3d7987280075c7ab1f5fc8a6da0f0ad06d80c15eaa86a8e1ea",
+      "scope": "section",
+      "extraction": {
+        "unit": "section",
+        "byte_start": 1703394,
+        "byte_end_exclusive": 1712290
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "bf75ce317d23acfc088ee7427ecdc80f83904ed8979b7485a37efbc081ff8070",
+    "input_sha256": "1d9e48653c8eb31e2b392b42d335535fa0f0ece451882d4f5f8b41aeb8bbe807"
+  },
+  "tags": [
+    "heading-structure",
+    "financial",
+    "full-document-reviewed"
+  ]
+}

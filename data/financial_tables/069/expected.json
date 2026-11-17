@@ -1,0 +1,94 @@
+{
+  "id": "financial_tables/chevron2-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "Management's Discussion and Analysis of Financial Condition and Results of Operations\n\nConsolidated Statement of Income\n\nComparative amounts for certain income statement categories are shown below. A discussion of variances between 2021 and 2020 can be found in the “Consolidated Statement of Income” section on pages 39 and 40 of the company’s 2021 Annual Report on Form 10-K.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Sales and other operating revenues</td>\n      <td>$ 235,717</td>\n      <td>$ 155,606</td>\n      <td>$ 94,471</td>\n    </tr>\n  </tbody>\n</table>\n\nSales and other operating revenues increased in 2022 mainly due to higher refined product, crude oil, and natural gas prices and higher refined product sales volumes.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Income (loss) from equity affiliates</td>\n      <td>$ 8,585</td>\n      <td>$ 5,657</td>\n      <td>$ (472)</td>\n    </tr>\n  </tbody>\n</table>\n\nIncome from equity affiliates improved in 2022 mainly due to higher upstream-related earnings from Tengizchevroil in Kazakhstan and Angola LNG and higher downstream-related earnings from GS Caltex in Korea, partially offset by lower earnings from CPChem. Refer to Note 15 Investments and Advances for a discussion of Chevron’s investments in affiliated companies.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Other income</td>\n      <td>$ 1,950</td>\n      <td>$ 1,202</td>\n      <td>$ 693</td>\n    </tr>\n  </tbody>\n</table>\n\nOther income increased in 2022 mainly due to a favorable swing in foreign currency effects, higher interest income and lower charges associated with the early retirement of debt, partially offset by lower gains on asset sales.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Purchased crude oil and products</td>\n      <td>$ 145,416</td>\n      <td>$ 92,249</td>\n      <td>$ 52,148</td>\n    </tr>\n  </tbody>\n</table>\n\nCrude oil and product purchases increased in 2022 primarily due to higher crude oil, natural gas, and refined product prices.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Operating, selling, general and administrative expenses</td>\n      <td>$ 29,026</td>\n      <td>$ 24,740</td>\n      <td>$ 24,536</td>\n    </tr>\n  </tbody>\n</table>\n\nOperating, selling, general and administrative expenses increased in 2022 primarily due to higher transportation expenses, early contract termination charge at Sabine Pass and costs associated with planned refinery turnarounds.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Exploration expense</td>\n      <td>$ 974</td>\n      <td>$ 549</td>\n      <td>$ 1,537</td>\n    </tr>\n  </tbody>\n</table>\n\nExploration expenses in 2022 increased primarily due to higher charges for well write-offs.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Depreciation, depletion and amortization</td>\n      <td>$ 16,319</td>\n      <td>$ 17,925</td>\n      <td>$ 19,508</td>\n    </tr>\n  </tbody>\n</table>\n\nDepreciation, depletion and amortization expenses decreased in 2022 primarily due to lower rates and lower production, partially offset by higher impairment and write-off charges.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Taxes other than on income</td>\n      <td>$ 4,032</td>\n      <td>$ 3,963</td>\n      <td>$ 2,839</td>\n    </tr>\n  </tbody>\n</table>\n\nTaxes other than on income increased in 2022 primarily due to higher taxes on production, partially offset by lower excise taxes.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Interest and debt expense</td>\n      <td>$ 516</td>\n      <td>$ 712</td>\n      <td>$ 697</td>\n    </tr>\n  </tbody>\n</table>\n\nInterest and debt expenses decreased in 2022 mainly due to lower debt balances.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Other components of net periodic benefit costs</td>\n      <td>$ 295</td>\n      <td>$ 688</td>\n      <td>$ 880</td>\n    </tr>\n  </tbody>\n</table>\n\nOther components of net periodic benefit costs decreased in 2022 primarily due to lower pension settlement costs, as fewer lump-sum pension distributions were made in the current year.\n\n<table>\n  <thead>\n    <tr>\n      <th>Millions of dollars</th>\n      <th>2022</th>\n      <th>2021</th>\n      <th>2020</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Income tax expense (benefit)</td>\n      <td>$ 14,066</td>\n      <td>$ 5,950</td>\n      <td>$ (1,892)</td>\n    </tr>\n  </tbody>\n</table>\n\nChevron Corporation 2022 Annual Report\n41",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "chevron2.pdf",
+    "source_sha256": "a4a1adb8d2df2ed2c6401e822258351ea527292d88ba8049ceeec70c34fe9771",
+    "annotated_at": "2026-08-14T05:37:20.248Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/chevron2-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341023000009/cvx-20221231.htm",
+      "accession": "0000093410-23-000009",
+      "provider": "datamulehub",
+      "sha256": "46d2953c75a5148299ca9bef724fc9745d3108915981d6eb44acbdfb7e2b9a50",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 65,
+            "byte_start": 1507685,
+            "byte_end_exclusive": 1512339
+          },
+          {
+            "table_index_0based": 66,
+            "byte_start": 1512887,
+            "byte_end_exclusive": 1517532
+          },
+          {
+            "table_index_0based": 67,
+            "byte_start": 1518599,
+            "byte_end_exclusive": 1523224
+          },
+          {
+            "table_index_0based": 68,
+            "byte_start": 1523683,
+            "byte_end_exclusive": 1528334
+          },
+          {
+            "table_index_0based": 69,
+            "byte_start": 1528692,
+            "byte_end_exclusive": 1533365
+          },
+          {
+            "table_index_0based": 70,
+            "byte_start": 1533825,
+            "byte_end_exclusive": 1538455
+          },
+          {
+            "table_index_0based": 71,
+            "byte_start": 1538779,
+            "byte_end_exclusive": 1543437
+          },
+          {
+            "table_index_0based": 72,
+            "byte_start": 1543849,
+            "byte_end_exclusive": 1548490
+          },
+          {
+            "table_index_0based": 73,
+            "byte_start": 1548871,
+            "byte_end_exclusive": 1553505
+          },
+          {
+            "table_index_0based": 74,
+            "byte_start": 1553803,
+            "byte_end_exclusive": 1558458
+          },
+          {
+            "table_index_0based": 75,
+            "byte_start": 1558878,
+            "byte_end_exclusive": 1563519
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "a4a1adb8d2df2ed2c6401e822258351ea527292d88ba8049ceeec70c34fe9771",
+    "input_sha256": "7c5aa4afc46c3161b85da54d373db51c52f7731dc618e5b8eab50dae7268d9c0"
+  },
+  "tags": []
+}

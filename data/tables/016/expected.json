@@ -1,0 +1,35 @@
+{
+  "id": "tables/Apple_10-k__p25_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>2025</th>\n        <th>Change</th>\n        <th>2024</th>\n        <th>Change</th>\n        <th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Americas</td>\n<td>$  178,353</td>\n<td>7 %</td>\n<td>$  167,045</td>\n<td>3 %</td>\n<td>$  162,560</td>\n    </tr>\n<tr>\n        <td class=\"\">Europe</td>\n<td>111,032</td>\n<td>10 %</td>\n<td>101,328</td>\n<td>7 %</td>\n<td>94,294</td>\n    </tr>\n<tr>\n        <td class=\"\">Greater China</td>\n<td>64,377</td>\n<td>(4)%</td>\n<td>66,952</td>\n<td>(8)%</td>\n<td>72,559</td>\n    </tr>\n<tr>\n        <td class=\"\">Japan</td>\n<td>28,703</td>\n<td>15 %</td>\n<td>25,052</td>\n<td>3 %</td>\n<td>24,257</td>\n    </tr>\n<tr>\n        <td class=\"\">Rest of Asia Pacific</td>\n<td>33,696</td>\n<td>10 %</td>\n<td>30,658</td>\n<td>4 %</td>\n<td>29,615</td>\n    </tr>\n<tr>\n        <td class=\"\">Total net sales</td>\n<td>$  416,161</td>\n<td>6 %</td>\n<td>$  391,035</td>\n<td>2 %</td>\n<td>$  383,285</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Apple_10-k__p25_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "accession": "0000320193-25-000079",
+      "provider": "datamulehub",
+      "sha256": "274361a794f84b24d75b4ee98bc8eff5a031b4fc1be1a1210dbc2b10d92c5179",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 14,
+            "byte_start": 357759,
+            "byte_end_exclusive": 376277
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "48962afe3f63b5cf9d8973d53d3798e1a0f82bbfda6485909e48ed666f9a9354",
+    "input_sha256": "9385b723f52645490abbb1814be99babce32abbe1ea555b1411883e498917b62"
+  },
+  "tags": []
+}

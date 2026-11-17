@@ -1,0 +1,54 @@
+{
+  "id": "financial_tables/infosys8-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n<thead>\n<tr><th rowspan=\"2\">Particulars</th><th colspan=\"2\">Year ended March 31,</th></tr>\n<tr><th>2025</th><th>2024</th></tr>\n</thead>\n<tbody>\n<tr>\n<td>Infosys Consulting S.R.L. (Argentina)</td>\n<td>1</td>\n<td>2</td>\n</tr>\n<tr>\n<td>Infosys South Africa (Pty) Ltd</td>\n<td>45</td>\n<td>29</td>\n</tr>\n<tr>\n<td>Infosys Business Solutions LLC</td>\n<td>4</td>\n<td>3</td>\n</tr>\n<tr>\n<td>WongDoody GmbH <em>(formerly known as oddity GmbH)</em></td>\n<td>11</td>\n<td>6</td>\n</tr>\n<tr>\n<td>oddity code GmbH</td>\n<td>–</td>\n<td>1</td>\n</tr>\n<tr>\n<td>BASE life science AG</td>\n<td>15</td>\n<td>17</td>\n</tr>\n<tr>\n<td>BASE life science S.r.l.</td>\n<td>2</td>\n<td>–</td>\n</tr>\n<tr>\n<td>BASE life science Inc.</td>\n<td>10</td>\n<td>–</td>\n</tr>\n<tr>\n<td>BASE life science Ltd.</td>\n<td>12</td>\n<td>2</td>\n</tr>\n<tr>\n<td>BASE life science GmbH</td>\n<td>5</td>\n<td>1</td>\n</tr>\n<tr>\n<td>BASE life science SL</td>\n<td>12</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Infosys Norway</td>\n<td>37</td>\n<td>15</td>\n</tr>\n<tr>\n<td>Danske IT</td>\n<td>–</td>\n<td>16</td>\n</tr>\n<tr>\n<td>Insemi Technology Service</td>\n<td>7</td>\n<td>–</td>\n</tr>\n<tr>\n<td>EdgeVerve Systems Limited</td>\n<td>93</td>\n<td>19</td>\n</tr>\n<tr>\n<td>Infosys Germany Holding GmbH</td>\n<td>7</td>\n<td>–</td>\n</tr>\n<tr>\n<td>Infosys Nova Holdings LLC</td>\n<td>436</td>\n<td>–</td>\n</tr>\n<tr>\n<td>In-tech group Ltd.</td>\n<td>1</td>\n<td>–</td>\n</tr>\n<tr>\n<td></td>\n<td><strong>9,522</strong></td>\n<td><strong>9,327</strong></td>\n</tr>\n<tr>\n<td>Purchase of shared services including facilities and personnel</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Infosys BPM Limited</td>\n<td>9</td>\n<td>7</td>\n</tr>\n<tr>\n<td>WongDoody, Inc</td>\n<td>6</td>\n<td>11</td>\n</tr>\n<tr>\n<td>Infosys McCamish Systems LLC</td>\n<td>1</td>\n<td>–</td>\n</tr>\n<tr>\n<td>WongDoody limited Taipei</td>\n<td>–</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Infosys Green Forum</td>\n<td>42</td>\n<td>36</td>\n</tr>\n<tr>\n<td>Kaleidoscope Animations, Inc.</td>\n<td>1</td>\n<td>–</td>\n</tr>\n<tr>\n<td>Infosys (Czech Republic) Limited s.r.o.</td>\n<td>–</td>\n<td>4</td>\n</tr>\n<tr>\n<td>Infosys Mexico</td>\n<td>1</td>\n<td>4</td>\n</tr>\n<tr>\n<td>Outbox systems Inc. dba Simplus (US)</td>\n<td>2</td>\n<td>7</td>\n</tr>\n<tr>\n<td>Infosys Consulting AG</td>\n<td>2</td>\n<td>2</td>\n</tr>\n<tr>\n<td>Infosys Automotive and Mobility GmbH &amp; Co.KG</td>\n<td>150</td>\n<td>6</td>\n</tr>\n<tr>\n<td>Portland Group Pty Ltd</td>\n<td>–</td>\n<td>1</td>\n</tr>\n<tr>\n<td>WongDoody GmbH <em>(formerly known as oddity GmbH)</em></td>\n<td>9</td>\n<td>2</td>\n</tr>\n<tr>\n<td>oddity Jungle GmbH</td>\n<td>–</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Infosys Nova Holdings LLC</td>\n<td>2</td>\n<td>–</td>\n</tr>\n<tr>\n<td>Infosys Technologies (Sweden) AB.</td>\n<td>1</td>\n<td>–</td>\n</tr>\n<tr>\n<td>Infosys Singapore Pte. Ltd.</td>\n<td>9</td>\n<td>–</td>\n</tr>\n<tr>\n<td>GuideVision, s.r.o.</td>\n<td>1</td>\n<td>–</td>\n</tr>\n<tr>\n<td>WongDoody Code d.o.o</td>\n<td>1</td>\n<td>–</td>\n</tr>\n<tr>\n<td>BASE life science A/S</td>\n<td>3</td>\n<td>–</td>\n</tr>\n<tr>\n<td></td>\n<td><strong>240</strong></td>\n<td><strong>82</strong></td>\n</tr>\n</tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\">Particulars</th>\n      <th colspan=\"2\">Year ended March 31,</th>\n    </tr>\n    <tr>\n      <th>2025</th>\n      <th>2024</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Interest income</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Infosys Turkey Bilgi Teknolojileri Limited Sirketi</td>\n      <td>–</td>\n      <td>2</td>\n    </tr>\n    <tr>\n      <td>Insemi Technology Service</td>\n      <td>1</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td></td>\n      <td><strong>1</strong></td>\n      <td><strong>2</strong></td>\n    </tr>\n    <tr>\n      <td><strong>Guarantee income</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Infosys Singapore Pte. Ltd</td>\n      <td>1</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <td></td>\n      <td><strong>1</strong></td>\n      <td><strong>1</strong></td>\n    </tr>\n    <tr>\n      <td><strong>Dividend income</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>EdgeVerve Systems Limited</td>\n      <td>525</td>\n      <td>1,089</td>\n    </tr>\n    <tr>\n      <td>Infosys Consulting Holding AG</td>\n      <td>148</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Infosys BPM Limited</td>\n      <td>849</td>\n      <td>1,887</td>\n    </tr>\n    <tr>\n      <td></td>\n      <td><strong>1,522</strong></td>\n      <td><strong>2,976</strong></td>\n    </tr>\n    <tr>\n      <td><strong>Sale of services</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Infosys China</td>\n      <td>16</td>\n      <td>13</td>\n    </tr>\n    <tr>\n      <td>Infosys Mexico</td>\n      <td>23</td>\n      <td>30</td>\n    </tr>\n    <tr>\n      <td>Infy Consulting Company Limited</td>\n      <td>56</td>\n      <td>74</td>\n    </tr>\n    <tr>\n      <td>Infosys BPM Limited</td>\n      <td>147</td>\n      <td>112</td>\n    </tr>\n    <tr>\n      <td>Fluido Oy</td>\n      <td>4</td>\n      <td>2</td>\n    </tr>\n    <tr>\n      <td>Fluido Denmark A/S</td>\n      <td>4</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Infosys Luxembourg S.a.r.l</td>\n      <td>163</td>\n      <td>146</td>\n    </tr>\n    <tr>\n      <td>Infosys Middle East FZ LLC</td>\n      <td>26</td>\n      <td>26</td>\n    </tr>\n    <tr>\n      <td>Infosys McCamish Systems LLC</td>\n      <td>90</td>\n      <td>401</td>\n    </tr>\n    <tr>\n      <td>Infosys Sweden</td>\n      <td>92</td>\n      <td>91</td>\n    </tr>\n    <tr>\n      <td>Infosys Shanghai</td>\n      <td>2</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <td>EdgeVerve Systems Limited</td>\n      <td>1,001</td>\n      <td>961</td>\n    </tr>\n    <tr>\n      <td>Infosys Public Services</td>\n      <td>659</td>\n      <td>696</td>\n    </tr>\n    <tr>\n      <td>Infosys Compaz Pte Ltd</td>\n      <td>160</td>\n      <td>176</td>\n    </tr>\n    <tr>\n      <td>Infosys Consulting Ltda</td>\n      <td>–</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <td>Simplus Australia Pty Ltd</td>\n      <td>2</td>\n      <td>5</td>\n    </tr>\n    <tr>\n      <td>Infosys Chile SpA</td>\n      <td>7</td>\n      <td>9</td>\n    </tr>\n    <tr>\n      <td>Infosys Automotive and Mobility GmbH & Co. KG</td>\n      <td>–</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <td>Blue Acorn iCi Inc</td>\n      <td>2</td>\n      <td>2</td>\n    </tr>\n    <tr>\n      <td>Kaleidoscope Animations, Inc.</td>\n      <td>1</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Infosys Singapore Pte. Ltd.</td>\n      <td>–</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <td>BASE life science A/S</td>\n      <td>14</td>\n      <td>8</td>\n    </tr>\n    <tr>\n      <td>BASE life science GmbH</td>\n      <td>1</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Infosys Poland Sp. Z.o.o</td>\n      <td>–</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Infosys Business Solutions LLC</td>\n      <td>–</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <td>Infosys South Africa (Pty) Ltd</td>\n      <td>2</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <td>HIPUS Co., Ltd</td>\n      <td>–</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <td>BASE life science AG</td>\n      <td>4</td>\n      <td>4</td>\n    </tr>\n    <tr>\n      <td>Infosys Public Services Canada Inc.</td>\n      <td>32</td>\n      <td>46</td>\n    </tr>\n  </tbody>\n</table>\n\n<page_footer>\nInfosys Integrated Annual Report 2024-25\n<page_number>287</page_number>\n</page_footer>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "infosys8.pdf",
+    "source_sha256": "bc8303a1334907cb248c98ffb464f4cf30633cdcb796ee94d33945f4e447ec04",
+    "annotated_at": "2026-08-14T13:47:12.066Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/infosys8-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067491/000106749125000010/exv99w09.htm",
+      "accession": "0001067491-25-000010",
+      "provider": "datamulehub",
+      "sha256": "69f0075ea355954004468af9e9702202bb94f5f233f2568ae0d0b77bad995820",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 332,
+            "byte_start": 1694540,
+            "byte_end_exclusive": 1758094
+          }
+        ],
+        "row_ranges_0based_end_exclusive": [
+          [
+            0,
+            2
+          ],
+          [
+            67,
+            151
+          ]
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "bc8303a1334907cb248c98ffb464f4cf30633cdcb796ee94d33945f4e447ec04",
+    "input_sha256": "22bf8e7582795c8e3cf0c1c437565949443a2b659a35770ec6888a3f0dfd4ed6"
+  },
+  "tags": []
+}

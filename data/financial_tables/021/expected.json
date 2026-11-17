@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/McD---2024-Annual-Report-to-Shareholders-2026-08-21_page32",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "# MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES\n\n## MARKET INFORMATION AND DIVIDEND POLICY\n\nThe Company's common stock trades under the symbol MCD and is listed on the New York Stock Exchange in the U.S.\n\nThe number of shareholders of record and beneficial owners of the Company's common stock as of January 31, 2025 was estimated to be 4,900,000.\n\nGiven the Company's returns on its capital investments and significant cash provided by operations, management believes it is prudent to reinvest in the business to drive profitable growth and use excess cash flow to return cash to shareholders over time through dividends and share repurchases. The Company has paid dividends on common stock for 49 consecutive years through 2024 and has increased the dividend amount at least once every year. As in the past, future dividend amounts will be considered after reviewing profitability expectations and financing needs, and will be declared at the discretion of the Company's Board of Directors.\n\n## ISSUER PURCHASES OF EQUITY SECURITIES\n\nThe following table presents information related to repurchases of common stock the Company made during the quarter ended December 31, 2024*:\n\n<table>\n  <thead>\n    <tr>\n      <th><i>Date</i></th>\n      <th><i>Total Number of<br>Shares Purchased</i></th>\n      <th><i>Average Price<br>Paid per Share</i></th>\n      <th><i>Total Number of<br>Shares Purchased as<br>Part of Publicly<br>Announced Plans or<br>Programs<sup>(1)</sup></i></th>\n      <th><i>Approximate Dollar<br>Value of Shares<br>that May Yet<br>Be Purchased Under<br>the Plans or Programs<sup>(1)</sup></i></th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>October 1-31, 2024</td>\n      <td>628,221</td>\n      <td>$ 303.12</td>\n      <td>628,221</td>\n      <td>$ 3,778,506,751</td>\n    </tr>\n    <tr>\n      <td>November 1-30, 2024</td>\n      <td>4,272</td>\n      <td>293.88</td>\n      <td>4,272</td>\n      <td>3,777,251,244</td>\n    </tr>\n    <tr>\n      <td>December 1-31, 2024</td>\n      <td>1,091,441</td>\n      <td>297.19</td>\n      <td>1,091,441</td>\n      <td>3,452,880,797</td>\n    </tr>\n    <tr>\n      <td>    Total</td>\n      <td>1,723,934</td>\n      <td>$ 299.35</td>\n      <td>1,723,934</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n* <i>Subject to applicable law, the Company may repurchase shares directly in the open market, in privately negotiated transactions, or pursuant to derivative instruments and plans complying with Rule 10b5-1, among other types of transactions and arrangements.</i>\n(1) On December 31, 2019, the Company's Board of Directors approved a share repurchase program, effective January 1, 2020 with no specified expiration date, that authorized the purchase of up to $15.0 billion of the Company's outstanding common stock. On November 21, 2024, the Company's Board of Directors terminated the 2020 Program, effective December 31, 2024, and replaced it with a new share repurchase program, effective January 1, 2025, that authorized the purchase of up to $15.0 billion of the Company's outstanding common stock with no specified expiration date. As of December 31, 2024, no further share repurchases may be made under the 2020 Program; future share repurchases will be made pursuant to the 2025 Program.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "McD - 2024 Annual Report to Shareholders.pdf",
+    "source_sha256": "cbd9e57bd1672552c8099753e30005d799554b635d2250d072fb90a9dabc739a",
+    "annotated_at": "2026-08-21T15:30:40.927Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/McD---2024-Annual-Report-to-Shareholders-2026-08-21_page32.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/63908/000110465925032675/tm257733d2_ars.pdf",
+      "accession": "0001104659-25-032675",
+      "provider": "datamulehub",
+      "sha256": "4b27b55f7d6c480eb5ea7f420ffc997c210f22041167ccfaf22823c688c78303",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 31,
+        "source_page_count": 82
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "cbd9e57bd1672552c8099753e30005d799554b635d2250d072fb90a9dabc739a",
+    "input_sha256": "d7a47ce776d7a6d36da6fc5c8d61032384f749edde7fcb6c8d07f1bbe8ee9ab3"
+  },
+  "tags": []
+}

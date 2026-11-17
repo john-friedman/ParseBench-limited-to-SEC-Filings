@@ -1,0 +1,35 @@
+{
+  "id": "tables/Goldman Sachs 10-k_page136",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n<thead>\n      <tr>\n        <td class=\"\"></td>\n        <th colspan=\"3\">Year Ended December</th>\n    </tr>\n        <tr>\n        <th>$ in millions</th>\n<th>2024</th>\n<th>2023</th>\n<th>2022</th>\n    </tr>\n</thead>\n<tbody>\n<tr>\n        <td class=\"\">Preferred stock</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Beginning balance</td>\n<td>$ 11,203</td>\n<td>$ 10,703</td>\n<td>$ 10,703</td>\n    </tr>\n<tr>\n        <td class=\"\">Issued</td>\n<td>4,250</td>\n<td>1,500</td>\n<td>–</td>\n    </tr>\n<tr>\n        <td class=\"\">Redeemed</td>\n<td>(2,200)</td>\n<td>(1,000)</td>\n<td>–</td>\n    </tr>\n<tr>\n        <td class=\"\">Ending balance</td>\n<td>13,253</td>\n<td>11,203</td>\n<td>10,703</td>\n    </tr>\n<tr>\n        <td class=\"\">Common stock</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Beginning balance</td>\n<td>9</td>\n<td>9</td>\n<td>9</td>\n    </tr>\n<tr>\n        <td class=\"\">Issued</td>\n<td>–</td>\n<td>–</td>\n<td>–</td>\n    </tr>\n<tr>\n        <td class=\"\">Ending balance</td>\n<td>9</td>\n<td>9</td>\n<td>9</td>\n    </tr>\n<tr>\n        <td class=\"\">Share-based awards</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Beginning balance</td>\n<td>5,121</td>\n<td>5,696</td>\n<td>4,211</td>\n    </tr>\n<tr>\n        <td class=\"\">Issuance and amortization of share-based awards</td>\n<td>2,741</td>\n<td>2,098</td>\n<td>4,110</td>\n    </tr>\n<tr>\n        <td class=\"\">Delivery of common stock underlying share-based awards</td>\n<td>(2,483)</td>\n<td>(2,504)</td>\n<td>(2,468)</td>\n    </tr>\n<tr>\n        <td class=\"\">Forfeiture of share-based awards</td>\n<td>(231)</td>\n<td>(169)</td>\n<td>(157)</td>\n    </tr>\n<tr>\n        <td class=\"\">Ending balance</td>\n<td>5,148</td>\n<td>5,121</td>\n<td>5,696</td>\n    </tr>\n<tr>\n        <td class=\"\">Additional paid-in capital</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Beginning balance</td>\n<td>60,247</td>\n<td>59,050</td>\n<td>56,396</td>\n    </tr>\n<tr>\n        <td class=\"\">Delivery of common stock underlying share-based awards</td>\n<td>2,476</td>\n<td>2,549</td>\n<td>2,516</td>\n    </tr>\n<tr>\n        <td class=\"\">Cancellation of share-based awards in satisfaction of withholding tax requirements</td>\n<td>(1,331)</td>\n<td>(1,345)</td>\n<td>(1,591)</td>\n    </tr>\n<tr>\n        <td class=\"\">Preferred stock issuance costs</td>\n<td>10</td>\n<td>5</td>\n<td>–</td>\n    </tr>\n<tr>\n        <td class=\"\">Issuance of common stock in connection with acquisition</td>\n<td>–</td>\n<td>–</td>\n<td>1,730</td>\n    </tr>\n<tr>\n        <td class=\"\">Other</td>\n<td>(26)</td>\n<td>(12)</td>\n<td>(1)</td>\n    </tr>\n<tr>\n        <td class=\"\">Ending balance</td>\n<td>61,376</td>\n<td>60,247</td>\n<td>59,050</td>\n    </tr>\n<tr>\n        <td class=\"\">Retained earnings</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Beginning balance</td>\n<td>143,688</td>\n<td>139,372</td>\n<td>131,811</td>\n    </tr>\n<tr>\n        <td class=\"\">Net earnings</td>\n<td>14,276</td>\n<td>8,516</td>\n<td>11,261</td>\n    </tr>\n<tr>\n        <td class=\"\">Dividends and dividend equivalents declared on common stock and share-based awards</td>\n<td>(3,801)</td>\n<td>(3,591)</td>\n<td>(3,203)</td>\n    </tr>\n<tr>\n        <td class=\"\">Dividends declared on preferred stock</td>\n<td>(717)</td>\n<td>(599)</td>\n<td>(497)</td>\n    </tr>\n<tr>\n        <td class=\"\">Preferred stock redemption premium</td>\n<td>(34)</td>\n<td>(10)</td>\n<td>–</td>\n    </tr>\n<tr>\n        <td class=\"\">Ending balance</td>\n<td>153,412</td>\n<td>143,688</td>\n<td>139,372</td>\n    </tr>\n<tr>\n        <td class=\"\">Accumulated other comprehensive income/(loss)</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Beginning balance</td>\n<td>(2,918)</td>\n<td>(3,010)</td>\n<td>(2,068)</td>\n    </tr>\n<tr>\n        <td class=\"\">Other comprehensive income/(loss)</td>\n<td>216</td>\n<td>92</td>\n<td>(942)</td>\n    </tr>\n<tr>\n        <td class=\"\">Ending balance</td>\n<td>(2,702)</td>\n<td>(2,918)</td>\n<td>(3,010)</td>\n    </tr>\n<tr>\n        <td class=\"\">Stock held in treasury, at cost</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Beginning balance</td>\n<td>(100,445)</td>\n<td>(94,631)</td>\n<td>(91,136)</td>\n    </tr>\n<tr>\n        <td class=\"\">Repurchased</td>\n<td>(8,000)</td>\n<td>(5,796)</td>\n<td>(3,500)</td>\n    </tr>\n<tr>\n        <td class=\"\">Reissued</td>\n<td>33</td>\n<td>29</td>\n<td>20</td>\n    </tr>\n<tr>\n        <td class=\"\">Other</td>\n<td>(88)</td>\n<td>(47)</td>\n<td>(15)</td>\n    </tr>\n<tr>\n        <td class=\"\">Ending balance</td>\n<td>(108,500)</td>\n<td>(100,445)</td>\n<td>(94,631)</td>\n    </tr>\n<tr>\n        <td class=\"\">Total shareholders' equity</td>\n<td>$121,996</td>\n<td>$116,905</td>\n<td>$117,189</td>\n    </tr>\n</tbody>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Goldman Sachs 10-k_page136.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "d554e0a5bf3de29bb63f28f76d693d7cc759f6dcde34d6a8657a6ee6d3580a24",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 232,
+            "byte_start": 4193327,
+            "byte_end_exclusive": 4268532
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "b1bd11f4b1327e82db9ada4ce5ec3e101eaf8e9d936d7688b9f7d78da06ac214",
+    "input_sha256": "d679328ae9fa8ad26b59b59f6637fa24d450ed605ce6b5f7116884fa48ad1e6a"
+  },
+  "tags": []
+}

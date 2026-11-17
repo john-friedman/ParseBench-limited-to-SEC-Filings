@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/2Q05FS-2026-08-11_page9",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<u>**TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY, LTD.**</u>\n<u>**CONSOLIDATED STATEMENT OF CASH FLOWS**</u>\n\n**For the Six Months and Three Months Ended June 30, 2005**\n\n(Figures in Million of New Taiwan Dollars (NTD) and U.S. Dollars (USD))<sup>(1)</sup>\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">6 Months 2005</th>\n      <th>Q2 2005</th>\n      <th>Q1 2005</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>USD</th>\n      <th>NTD</th>\n      <th>NTD</th>\n      <th>NTD</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Cash Flows from Operating Activities:</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Consolidated Net Income</td>\n      <td><b>1,118</b></td>\n      <td>35,187</td>\n      <td>18,369</td>\n      <td>16,818</td>\n    </tr>\n    <tr>\n      <td>Depreciation &amp; Amortization</td>\n      <td><b>1,207</b></td>\n      <td>37,980</td>\n      <td>19,490</td>\n      <td>18,490</td>\n    </tr>\n    <tr>\n      <td>Deferred Income Tax</td>\n      <td><b>(37)</b></td>\n      <td>(1,180)</td>\n      <td>(634)</td>\n      <td>(546)</td>\n    </tr>\n    <tr>\n      <td>Investment Gain Recognized by Equity Method</td>\n      <td><b>(20)</b></td>\n      <td>(623)</td>\n      <td>(226)</td>\n      <td>(397)</td>\n    </tr>\n    <tr>\n      <td>Accrued Pension Cost</td>\n      <td>10</td>\n      <td>311</td>\n      <td>171</td>\n      <td>140</td>\n    </tr>\n    <tr>\n      <td>Changes in Working Capital &amp; Others</td>\n      <td><b>(148)</b></td>\n      <td>(4,662)</td>\n      <td>(8,686)</td>\n      <td>4,024</td>\n    </tr>\n    <tr>\n      <td>Net Cash Provided from Operating Activities</td>\n      <td><b>2,130</b></td>\n      <td>67,013</td>\n      <td>28,484</td>\n      <td>38,529</td>\n    </tr>\n    <tr>\n      <td>Cash Flows from Investing Activities:</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Decrease in Short-Term Investments</td>\n      <td>151</td>\n      <td>4,751</td>\n      <td>3,337</td>\n      <td>1,414</td>\n    </tr>\n    <tr>\n      <td>Increase in Long-Term Investments</td>\n      <td><b>(107)</b></td>\n      <td>(3,364)</td>\n      <td>(2,003)</td>\n      <td>(1,361)</td>\n    </tr>\n    <tr>\n      <td>Acquisition of Fixed Assets</td>\n      <td><b>(1,769)</b></td>\n      <td>(55,662)</td>\n      <td>(14,115)</td>\n      <td>(41,547)</td>\n    </tr>\n    <tr>\n      <td>Proceeds from Sales of Long-Term Investments</td>\n      <td>49</td>\n      <td>1,533</td>\n      <td>1,525</td>\n      <td>8</td>\n    </tr>\n    <tr>\n      <td>Proceeds from Disposal of Properties</td>\n      <td>4</td>\n      <td>127</td>\n      <td>(54)</td>\n      <td>181</td>\n    </tr>\n    <tr>\n      <td>Increase in Deferred Assets</td>\n      <td><b>(16)</b></td>\n      <td>(518)</td>\n      <td>(232)</td>\n      <td>(286)</td>\n    </tr>\n    <tr>\n      <td>Increase in Deposit-Out</td>\n      <td>0</td>\n      <td>(7)</td>\n      <td>(6)</td>\n      <td>(1)</td>\n    </tr>\n    <tr>\n      <td>Decrease in Other Assets</td>\n      <td>0</td>\n      <td>5</td>\n      <td>(62)</td>\n      <td>67</td>\n    </tr>\n    <tr>\n      <td>Net Cash Used in Investing Activities</td>\n      <td><b>(1,688)</b></td>\n      <td>(53,135)</td>\n      <td>(11,610)</td>\n      <td>(41,525)</td>\n    </tr>\n    <tr>\n      <td>Cash Flows from Financing Activities:</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Decrease in Short-Term Bank Loans</td>\n      <td><b>(2)</b></td>\n      <td>(63)</td>\n      <td>(63)</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>Decrease in Long-Term Bank Loans</td>\n      <td><b>(30)</b></td>\n      <td>(946)</td>\n      <td>(945)</td>\n      <td>(1)</td>\n    </tr>\n    <tr>\n      <td>Proceeds From Disposal of Treasury Stocks</td>\n      <td>2</td>\n      <td>49</td>\n      <td>23</td>\n      <td>26</td>\n    </tr>\n    <tr>\n      <td>Decrease in Guarantee Deposits &amp; Others</td>\n      <td>35</td>\n      <td>1,106</td>\n      <td>1,147</td>\n      <td>(41)</td>\n    </tr>\n    <tr>\n      <td>Bonus Paid to Directors and Supervisors</td>\n      <td>(7)</td>\n      <td>(231)</td>\n      <td>(231)</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>Increase in Minority Interest</td>\n      <td>0</td>\n      <td>11</td>\n      <td>11</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>Issuance of Stocks Option</td>\n      <td>4</td>\n      <td>117</td>\n      <td>82</td>\n      <td>35</td>\n    </tr>\n    <tr>\n      <td>Net Cash Provided from Financing Activities</td>\n      <td>2</td>\n      <td>43</td>\n      <td>24</td>\n      <td>19</td>\n    </tr>\n    <tr>\n      <td>Net Decrease in Cash and Cash Equivalents</td>\n      <td>444</td>\n      <td>13,921</td>\n      <td>16,898</td>\n      <td>(2,977)</td>\n    </tr>\n    <tr>\n      <td>Effect of Exchange Rate Changes</td>\n      <td>(1)</td>\n      <td>(47)</td>\n      <td>(33)</td>\n      <td>(14)</td>\n    </tr>\n    <tr>\n      <td>Cash and Cash Equivalents at Beginning of Period</td>\n      <td>2,368</td>\n      <td>74,531</td>\n      <td>0</td>\n      <td>74,531</td>\n    </tr>\n    <tr>\n      <td>Cash and Cash Equivalents at End of Period</td>\n      <td>2,811</td>\n      <td>88,405</td>\n      <td>16,865</td>\n      <td>71,540</td>\n    </tr>\n  </tbody>\n</table>\n\n*Note : (1) New Taiwan dollar amounts have been translated into U.S. dollars at the rate of NTD31.47 per U.S. dollar, the weighted average exchange rate for the six months of 2005.*\n\nlogo",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "2Q05FS.pdf",
+    "source_sha256": "1ec6f689c70d7876dbb425b6f1ee06c5ab4ca49c637cd469b2ec9bd0164b2aec",
+    "annotated_at": "2026-08-13T04:12:59.247Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/2Q05FS-2026-08-11_page9.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000114554905001365/u99951e6vk.htm",
+      "accession": "0001145549-05-001365",
+      "provider": "datamulehub",
+      "sha256": "a6c8ec268b792b6f5b09c6a7e756c66c876dbef723ec0f27d257767d17498fee",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 57,
+            "byte_start": 383584,
+            "byte_end_exclusive": 410009
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "1ec6f689c70d7876dbb425b6f1ee06c5ab4ca49c637cd469b2ec9bd0164b2aec",
+    "input_sha256": "e723cfea5f7842c21326978cbe6facd738394214c04440ca84d3ff32964e2e03"
+  },
+  "tags": []
+}

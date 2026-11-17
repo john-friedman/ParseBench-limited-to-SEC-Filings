@@ -1,0 +1,49 @@
+{
+  "id": "financial_tables/barclay2-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<page_header>Barclays PLC Annual Report 2025\n<page_number>308</page_number></page_header>\n\n## Risk performance - Credit risk (continued)\n\n### Retail forbearance programmes\n\nForbearance on the Group's principal retail portfolios is presented below. The principal portfolios account for 98% (2024: 98%) of total retail forbearance balances.\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"7\">Analysis of Key Portfolios in Forbearance Programmes</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">Balances on Forbearance Programmes</th>\n      <th rowspan=\"2\">Marked to market LTV of forbearance balances: balance weighted</th>\n      <th rowspan=\"2\">Marked to market LTV of forbearance balances: valuation weighted</th>\n      <th rowspan=\"2\">Impairment allowances marked against balances on forbearance programmes</th>\n      <th rowspan=\"2\">Total balances on forbearance programmes coverage ratio</th>\n    </tr>\n    <tr><th></th><th>Total</th><th>% of gross retail loans and advances</th></tr>\n    <tr><th></th><th>£m</th><th>£m</th><th>%</th><th>%</th><th>£m</th><th>%</th></tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>As at 31 December 2025</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td><strong>Barclays UK</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>UK Home Loans</td>\n      <td><strong>574</strong></td>\n      <td><strong>0.3</strong></td>\n      <td><strong>51.2</strong></td>\n      <td><strong>40.8</strong></td>\n      <td><strong>12</strong></td>\n      <td><strong>2.1</strong></td>\n    </tr>\n    <tr>\n      <td>UK cards<sup>1</sup></td>\n      <td><strong>308</strong></td>\n      <td><strong>1.8</strong></td>\n      <td><strong>n/a</strong></td>\n      <td><strong>n/a</strong></td>\n      <td><strong>146</strong></td>\n      <td><strong>47.4</strong></td>\n    </tr>\n    <tr>\n      <td>UK personal loans<sup>1</sup></td>\n      <td><strong>114</strong></td>\n      <td><strong>1.3</strong></td>\n      <td><strong>n/a</strong></td>\n      <td><strong>n/a</strong></td>\n      <td><strong>69</strong></td>\n      <td><strong>60.5</strong></td>\n    </tr>\n    <tr>\n      <td>Barclays Partner Finance</td>\n      <td><strong>12</strong></td>\n      <td><strong>1.0</strong></td>\n      <td><strong>n/a</strong></td>\n      <td><strong>n/a</strong></td>\n      <td><strong>8</strong></td>\n      <td><strong>65.0</strong></td>\n    </tr>\n    <tr>\n      <td><strong>Barclays US Consumer Bank</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>US cards</td>\n      <td><strong>495</strong></td>\n      <td><strong>1.7</strong></td>\n      <td><strong>n/a</strong></td>\n      <td><strong>n/a</strong></td>\n      <td><strong>239</strong></td>\n      <td><strong>48.3</strong></td>\n    </tr>\n    <tr>\n      <td><strong>As at 31 December 2024</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td><strong>Barclays UK</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>UK Home Loans</td>\n      <td>473</td>\n      <td>0.3</td>\n      <td>51.3</td>\n      <td>41.8</td>\n      <td>10</td>\n      <td>2.1</td>\n    </tr>\n    <tr>\n      <td>UK cards</td>\n      <td>192</td>\n      <td>1.7</td>\n      <td>n/a</td>\n      <td>n/a</td>\n      <td>76</td>\n      <td>39.6</td>\n    </tr>\n    <tr>\n      <td>UK personal loans</td>\n      <td>51</td>\n      <td>1.3</td>\n      <td>n/a</td>\n      <td>n/a</td>\n      <td>34</td>\n      <td>66.7</td>\n    </tr>\n    <tr>\n      <td>Barclays Partner Finance</td>\n      <td>16</td>\n      <td>1.0</td>\n      <td>n/a</td>\n      <td>n/a</td>\n      <td>9</td>\n      <td>56.3</td>\n    </tr>\n    <tr>\n      <td><strong>Barclays US Consumer Bank</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>US cards</td>\n      <td>448</td>\n      <td>1.6</td>\n      <td>n/a</td>\n      <td>n/a</td>\n      <td>209</td>\n      <td>46.7</td>\n    </tr>\n    <tr>\n      <td><strong>Head Office</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Italy Mortgages</td>\n      <td>12</td>\n      <td>30.0</td>\n      <td>78.5</td>\n      <td>48.9</td>\n      <td>2</td>\n      <td>16.7</td>\n    </tr>\n  </tbody>\n</table>\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"7\">Analysis of Portfolios- held for sale in Forbearance Programmes</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">Balances on Forbearance Programmes</th>\n      <th rowspan=\"2\">Marked to market LTV of forbearance balances: balance weighted</th>\n      <th rowspan=\"2\">Marked to market LTV of forbearance balances: valuation weighted</th>\n      <th rowspan=\"2\">Impairment allowances marked against balances on forbearance programmes</th>\n      <th rowspan=\"2\">Total balances on forbearance programmes coverage ratio</th>\n    </tr>\n    <tr><th></th><th>Total</th><th>% of gross retail loans and advances</th></tr>\n    <tr><th></th><th>£m</th><th>£m</th><th>%</th><th>%</th><th>£m</th><th>%</th></tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>As at 31 December 2025</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td><strong>Head Office</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>German consumer finance business</td>\n      <td><strong>—</strong></td>\n      <td><strong>—</strong></td>\n      <td><strong>—</strong></td>\n      <td><strong>—</strong></td>\n      <td><strong>—</strong></td>\n      <td><strong>—</strong></td>\n    </tr>\n    <tr>\n      <td><strong>As at 31 December 2024</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td><strong>Head Office</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>German consumer finance business</td>\n      <td>27</td>\n      <td>0.7</td>\n      <td>n/a</td>\n      <td>n/a</td>\n      <td>18</td>\n      <td>66.7</td>\n    </tr>\n  </tbody>\n</table>\n\nNote:\n\n1 Tesco Bank balances included for 2025.\n\n**UK home loans:** Forbearance balances increased to £574m (2024: £473m) due to a sustained level of new flow, combined with high retention from the elevated inflow in 2024.\n\n**UK cards:** Balances on forbearance increased to £308m (2024: £192m) due to the inclusion of Tesco Bank and the proportion of the portfolio on forbearance remained relatively stable.\n\n**UK personal loans**: Balances on forbearance increased to £114m (2024: £51m), due to the inclusion of Tesco Bank and the proportion of the portfolio on forbearance remained stable.\n\n**Barclays Partner Finance:** Balances on forbearance reduced to £12m (2024: £16m) in line with the reduction in the overall portfolio.\n\n**US cards:** Forbearance balances increased to £495m (2024: £448m) reflecting an increase in new enrolments in 2025 following delinquency trends through the year.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "barclay2.pdf",
+    "source_sha256": "231be28bc7a399b998c831d5218f93fce91623abdd4cf3699fd4e27f5baf4b39",
+    "annotated_at": "2026-08-16T23:49:13.296Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/barclay2-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/312069/000031206926000004/bcs-20251231.htm",
+      "accession": "0000312069-26-000004",
+      "provider": "datamulehub",
+      "sha256": "66f782b157cb7dceb22a167bf7efde2b90ce70449522c3670e0c1658c7c4864c",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 941,
+            "byte_start": 32211204,
+            "byte_end_exclusive": 32276409
+          },
+          {
+            "table_index_0based": 942,
+            "byte_start": 32276577,
+            "byte_end_exclusive": 32306399
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "231be28bc7a399b998c831d5218f93fce91623abdd4cf3699fd4e27f5baf4b39",
+    "input_sha256": "c769b7d4ffec4e41e822b6723f15172542d4f4750a7c710b41011445a58f7817"
+  },
+  "tags": []
+}

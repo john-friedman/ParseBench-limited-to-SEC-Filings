@@ -1,0 +1,49 @@
+{
+  "id": "financial_tables/shell2-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<page_header>Strategic Report | Performance in the year</page_header>\n\n## Generating shareholder value | Oil and gas information continued\n\n### Oil and gas production available for sale\n\n**Crude oil and natural gas liquids [A]**\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"7\">Thousand barrels</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">2023</th>\n      <th colspan=\"2\">2022</th>\n      <th colspan=\"2\">2021</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>Shell subsidiaries</th>\n      <th>Shell share of joint ventures and associates</th>\n      <th>Shell subsidiaries</th>\n      <th>Shell share of joint ventures and associates</th>\n      <th>Shell subsidiaries</th>\n      <th>Shell share of joint ventures and associates</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Europe</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Italy</td>\n      <td>8,373</td>\n      <td>–</td>\n      <td>9,091</td>\n      <td>–</td>\n      <td>9,677</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>UK</td>\n      <td>23,458</td>\n      <td>–</td>\n      <td>23,905</td>\n      <td>–</td>\n      <td>25,554</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Other [B]</td>\n      <td>2,493</td>\n      <td>524</td>\n      <td>3,722</td>\n      <td>621</td>\n      <td>5,456</td>\n      <td>1,205</td>\n    </tr>\n    <tr>\n      <td>Total Europe</td>\n      <td>34,324</td>\n      <td>524</td>\n      <td>36,718</td>\n      <td>621</td>\n      <td>40,687</td>\n      <td>1,205</td>\n    </tr>\n    <tr>\n      <td><strong>Asia</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Brunei</td>\n      <td>1,271</td>\n      <td>14,395</td>\n      <td>3,256</td>\n      <td>16,282</td>\n      <td>1,076</td>\n      <td>17,894</td>\n    </tr>\n    <tr>\n      <td>Kazakhstan</td>\n      <td>38,765</td>\n      <td>–</td>\n      <td>29,667</td>\n      <td>–</td>\n      <td>35,592</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Malaysia</td>\n      <td>12,630</td>\n      <td>–</td>\n      <td>16,759</td>\n      <td>–</td>\n      <td>17,983</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Oman</td>\n      <td>82,849</td>\n      <td>–</td>\n      <td>82,006</td>\n      <td>–</td>\n      <td>78,745</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Russia</td>\n      <td>–</td>\n      <td>–</td>\n      <td>10,955</td>\n      <td>1,963</td>\n      <td>21,012</td>\n      <td>7,769</td>\n    </tr>\n    <tr>\n      <td>Other [B]</td>\n      <td>25,240</td>\n      <td>7,443</td>\n      <td>24,965</td>\n      <td>7,498</td>\n      <td>30,061</td>\n      <td>7,548</td>\n    </tr>\n    <tr>\n      <td>Total Asia</td>\n      <td>160,755</td>\n      <td>21,838</td>\n      <td>167,608</td>\n      <td>25,743</td>\n      <td>184,469</td>\n      <td>33,211</td>\n    </tr>\n    <tr>\n      <td>Total Oceania [B]</td>\n      <td>10,370</td>\n      <td>–</td>\n      <td>9,391</td>\n      <td>–</td>\n      <td>11,844</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td><strong>Africa</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Nigeria</td>\n      <td>37,137</td>\n      <td>–</td>\n      <td>27,554</td>\n      <td>–</td>\n      <td>35,911</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Other [B]</td>\n      <td>1,084</td>\n      <td>–</td>\n      <td>1,855</td>\n      <td>–</td>\n      <td>5,540</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Total Africa</td>\n      <td>38,221</td>\n      <td>–</td>\n      <td>29,409</td>\n      <td>–</td>\n      <td>41,451</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td><strong>North America</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>USA</td>\n      <td>112,912</td>\n      <td>–</td>\n      <td>121,690</td>\n      <td>–</td>\n      <td>164,811</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Canada</td>\n      <td>597</td>\n      <td>–</td>\n      <td>687</td>\n      <td>–</td>\n      <td>2,640</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Total North America</td>\n      <td>113,509</td>\n      <td>–</td>\n      <td>122,377</td>\n      <td>–</td>\n      <td>167,451</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td><strong>South America</strong></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Argentina</td>\n      <td>12,152</td>\n      <td>627</td>\n      <td>9,023</td>\n      <td>2,587</td>\n      <td>4,836</td>\n      <td>1,566</td>\n    </tr>\n    <tr>\n      <td>Brazil</td>\n      <td>136,825</td>\n      <td>–</td>\n      <td>127,862</td>\n      <td>–</td>\n      <td>126,566</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Other [B]</td>\n      <td>1,425</td>\n      <td>–</td>\n      <td>1,583</td>\n      <td>–</td>\n      <td>1,620</td>\n      <td>–</td>\n    </tr>\n    <tr>\n      <td>Total South America</td>\n      <td>150,402</td>\n      <td>627</td>\n      <td>138,468</td>\n      <td>2,587</td>\n      <td>133,022</td>\n      <td>1,566</td>\n    </tr>\n    <tr>\n      <td>Total</td>\n      <td>507,581</td>\n      <td>22,989</td>\n      <td>503,971</td>\n      <td>28,951</td>\n      <td>578,924</td>\n      <td>35,982</td>\n    </tr>\n  </tbody>\n</table>\n\n[A] Reflects 100% of production of subsidiaries except in respect of production-sharing contracts (PSCs), where the figures shown represent the entitlement of the subsidiaries concerned under those contracts.\n\n[B] Comprises countries where production was lower than 10,100 thousand barrels or where specific disclosures are prohibited.\n\n**Synthetic crude oil**\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"4\">Thousand barrels</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>2023</th>\n      <th>2022</th>\n      <th>2021</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>Shell subsidiaries</th>\n      <th>Shell subsidiaries</th>\n      <th>Shell subsidiaries</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>North America - Canada</td>\n      <td>19,102</td>\n      <td>16,949</td>\n      <td>19,891</td>\n    </tr>\n  </tbody>\n</table>\n\n<page_footer>\n<page_number>59</page_number>\nShell Annual Report and Accounts 2023\n</page_footer>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "shell2.pdf",
+    "source_sha256": "0482f0e61d1d987db3009bf5d9842d1c2885184f14c2324d2ea18109d2cf22e6",
+    "annotated_at": "2026-08-14T14:04:13.606Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/shell2-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1306965/000130696524000026/shel-20231231.htm",
+      "accession": "0001306965-24-000026",
+      "provider": "datamulehub",
+      "sha256": "5f3ee281b91f4890644227b558e4f10fe7f92804b09681160fdb4425b4392544",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 171,
+            "byte_start": 1938917,
+            "byte_end_exclusive": 1992225
+          },
+          {
+            "table_index_0based": 173,
+            "byte_start": 1993705,
+            "byte_end_exclusive": 1997706
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "0482f0e61d1d987db3009bf5d9842d1c2885184f14c2324d2ea18109d2cf22e6",
+    "input_sha256": "c5396c93a1c2ea88d00f0f0463424dca20987beb94bdcaa63974fa0d1e516565"
+  },
+  "tags": []
+}

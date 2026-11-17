@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/Q3-2025-GAAP-and-Non-GAAP-Earnings-Tables-2026-08-13_page7",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "**RECONCILIATION OF GAAP TO ADJUSTED NON-GAAP FINANCIAL MEASURES**\n\n(Millions) (Unaudited)\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>Three Months Ended June 28, 2025</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>GAAP gross profit</td>\n      <td>$ 3,059</td>\n    </tr>\n    <tr>\n      <td>GAAP gross margin</td>\n      <td>40%</td>\n    </tr>\n    <tr>\n      <td>Stock-based compensation, amortization of acquisition-related intangibles, acquisition-related and other costs</td>\n      <td>267</td>\n    </tr>\n    <tr>\n      <td>Inventory and related charges associated with U.S. export restrictions</td>\n      <td>800</td>\n    </tr>\n    <tr>\n      <td>Non-GAAP gross profit (as adjusted to exclude inventory and related charges associated with U.S. export restrictions)</td>\n      <td>$ 4,126</td>\n    </tr>\n    <tr>\n      <td>Non-GAAP gross margin (as adjusted to exclude inventory and related charges associated with U.S. export restrictions)</td>\n      <td>54%</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Q3+2025+GAAP+and+Non-GAAP+Earnings+Tables_.pdf",
+    "source_sha256": "81a5d606dd8ef11d89e6f7d8b8aa75f4266489f5b69513a4532bf1975d669185",
+    "annotated_at": "2026-08-13T06:05:16.399Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Q3-2025-GAAP-and-Non-GAAP-Earnings-Tables-2026-08-13_page7.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000163/q32025991.htm",
+      "accession": "0000002488-25-000163",
+      "provider": "datamulehub",
+      "sha256": "6923b2589e90765e4d715f38a541a9d393b02289ac4971b8994329340f58b4b7",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 4,
+            "byte_start": 148823,
+            "byte_end_exclusive": 154989
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "81a5d606dd8ef11d89e6f7d8b8aa75f4266489f5b69513a4532bf1975d669185",
+    "input_sha256": "daca6655a65b531d563aff3e895569ef4a7985cdaf804ee2616d6f9fbffae573"
+  },
+  "tags": []
+}

@@ -1,0 +1,399 @@
+{
+  "id": "dense_tables/dense_table_459",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# NVIDIA CORPORATION AND SUBSIDIARIES\n# CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY\n\n<table>\n<thead>\n<tr><th rowspan=\"2\">(In millions, except per share data)</th><th colspan=\"2\">Common Stock Outstanding</th><th rowspan=\"2\">Additional Paid-in Capital</th><th rowspan=\"2\">Treasury Stock</th><th rowspan=\"2\">Accumulated Other Comprehensive Income (Loss)</th><th rowspan=\"2\">Retained Earnings</th><th rowspan=\"2\">Total Shareholders' Equity</th></tr>\n<tr><th>Shares</th><th>Amount</th></tr>\n</thead>\n<tbody>\n<tr><td>Balances, January 26, 2020</td><td>2,450</td><td>$ 3</td><td>$ 7,043</td><td>$ (9,814)</td><td>$ 1</td><td>$ 14,971</td><td>$ 12,204</td></tr>\n<tr><td>Net income</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>4,332</td><td>4,332</td></tr>\n<tr><td>Other comprehensive income</td><td>—</td><td>—</td><td>—</td><td>—</td><td>18</td><td>—</td><td>18</td></tr>\n<tr><td>Issuance of common stock from stock plans</td><td>40</td><td>—</td><td>194</td><td>—</td><td>—</td><td>—</td><td>194</td></tr>\n<tr><td>Tax withholding related to vesting of restricted stock units</td><td>(11)</td><td>—</td><td>—</td><td>(942)</td><td>—</td><td>—</td><td>(942)</td></tr>\n<tr><td>Cash dividends declared and paid ($0.16 per common share)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(395)</td><td>(395)</td></tr>\n<tr><td>Fair value of partially vested equity awards assumed in connection with acquisitions</td><td>—</td><td>—</td><td>86</td><td>—</td><td>—</td><td>—</td><td>86</td></tr>\n<tr><td>Stock-based compensation</td><td>—</td><td>—</td><td>1,396</td><td>—</td><td>—</td><td>—</td><td>1,396</td></tr>\n<tr><td>Balances, January 31, 2021</td><td>2,479</td><td>3</td><td>8,719</td><td>(10,756)</td><td>19</td><td>18,908</td><td>16,893</td></tr>\n<tr><td>Net income</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>9,752</td><td>9,752</td></tr>\n<tr><td>Other comprehensive loss</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(30)</td><td>—</td><td>(30)</td></tr>\n<tr><td>Issuance of common stock from stock plans</td><td>35</td><td>—</td><td>281</td><td>—</td><td>—</td><td>—</td><td>281</td></tr>\n<tr><td>Tax withholding related to vesting of restricted stock units</td><td>(8)</td><td>—</td><td>(614)</td><td>(1,290)</td><td>—</td><td>—</td><td>(1,904)</td></tr>\n<tr><td>Cash dividends declared and paid ($0.16 per common share)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(399)</td><td>(399)</td></tr>\n<tr><td>Fair value of partially vested equity awards assumed in connection with acquisitions</td><td>—</td><td>—</td><td>18</td><td>—</td><td>—</td><td>—</td><td>18</td></tr>\n<tr><td>Stock-based compensation</td><td>—</td><td>—</td><td>2,001</td><td>—</td><td>—</td><td>—</td><td>2,001</td></tr>\n<tr><td>Retirement of Treasury Stock</td><td>—</td><td>—</td><td>(20)</td><td>12,046</td><td>—</td><td>(12,026)</td><td>—</td></tr>\n<tr><td>Balances, January 30, 2022</td><td>2,506</td><td>3</td><td>10,385</td><td>—</td><td>(11)</td><td>16,235</td><td>26,612</td></tr>\n<tr><td>Net income</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>4,368</td><td>4,368</td></tr>\n<tr><td>Other comprehensive loss</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(32)</td><td>—</td><td>(32)</td></tr>\n<tr><td>Issuance of common stock from stock plans</td><td>31</td><td>—</td><td>355</td><td>—</td><td>—</td><td>—</td><td>355</td></tr>\n<tr><td>Tax withholding related to vesting of restricted stock units</td><td>(8)</td><td>—</td><td>(1,475)</td><td>—</td><td>—</td><td>—</td><td>(1,475)</td></tr>\n<tr><td>Shares repurchased</td><td>(63)</td><td>(1)</td><td>(4)</td><td>—</td><td>—</td><td>(10,034)</td><td>(10,039)</td></tr>\n<tr><td>Cash dividends declared and paid ($0.16 per common share)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(398)</td><td>(398)</td></tr>\n<tr><td>Stock-based compensation</td><td>—</td><td>—</td><td>2,710</td><td>—</td><td>—</td><td>—</td><td>2,710</td></tr>\n<tr><td>Balances, January 29, 2023</td><td>2,466</td><td>$ 2</td><td>$ 11,971</td><td>$ —</td><td>$ (43)</td><td>$ 10,171</td><td>$ 22,101</td></tr>\n</tbody>\n</table>\n\nSee accompanying notes to the consolidated financial statements.\n\n49",
+  "test_rules": [
+    {
+      "type": "table_rowspan",
+      "cell": "(in millions, except per share data)",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_78e2c69642d9b9ad"
+    },
+    {
+      "type": "table_colspan",
+      "cell": "common stock outstanding",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_f4c7b2e1a8555517"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "balances, january 26, 2020",
+      "column_headers": [
+        "(in millions, except per share data)"
+      ],
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_58d57de17910924e"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 3",
+      "column_headers": [
+        "common stock outstanding",
+        "amount"
+      ],
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_fd6b48e0f8e449f8"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ (9,814)",
+      "column_headers": [
+        "treasury stock"
+      ],
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_f59ae223525f36b7"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 12,204",
+      "column_headers": [
+        "total shareholders' equity"
+      ],
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_587f72e1b4e285d7"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "balances, january 26, 2020",
+      "expected_neighbor": "2,450",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_5b9a50103deccd40"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "$ 7,043",
+      "expected_neighbor": "$ (9,814)",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_4da04a6b7df3652e"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "$ 12,204",
+      "expected_neighbor": "4,332",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_ba137d67bfe90e94"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "(614)",
+      "expected_neighbor": "(1,290)",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_b3e7deb1af68e2e5"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "(1,904)",
+      "expected_neighbor": "(399)",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_bbd204f3e9c2c606"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "balances, january 29, 2023",
+      "expected_neighbor": "2,466",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_7af1c06d6d8d4e7b"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "$ 11,971",
+      "expected_neighbor": "$ -",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_1627a5ba198b1ef7"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "balances, january 26, 2020",
+      "cell_b": "$ 12,204",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_3a230cb8755278a5"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "balances, january 29, 2023",
+      "cell_b": "$ 22,101",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_619155e60ba21086"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "(in millions, except per share data)",
+      "cell_b": "balances, january 29, 2023",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_d5bb19513d7f2401"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "additional paid-in capital",
+      "cell_b": "$ 11,971",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_b23f4c812a51ff05"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "total shareholders' equity",
+      "cell_b": "$ 22,101",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "common stock outstanding",
+        "additional paid-in capital",
+        "treasury stock",
+        "accumulated other comprehensive income (loss)"
+      ],
+      "page": 1,
+      "pdf": "dense_table_459.pdf",
+      "verified": false,
+      "id": "dense_v01_e381bc75cb47faf5"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_459",
+    "gt_status": "reannotated_confirmed",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_459.md",
+    "source_pdf": "/Users/pierre/Code/pdfDataSetOrdered/nvidia/2023-annual-report-insert-web-IR-update.pdf",
+    "source_page": 130,
+    "source_n_pages": 161,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 242.0,
+      "rows": 28,
+      "cols": 9,
+      "cells": 232,
+      "fill": 0.921,
+      "numeric_ratio": 0.78,
+      "n_items": 239,
+      "tabular_line_ratio": 0.879,
+      "n_blocks": 1
+    },
+    "shape_class": "medium/numeric/landscape",
+    "verify": {
+      "median_cell_len": 2,
+      "words_per_cell": 1.53,
+      "aligned_ratio": 0.918,
+      "row_coverage": 0.848,
+      "text_sha1": "c197e32905b7bd6ccae52c4ad6d3cdabdf38d5e3"
+    },
+    "header_preview": "Additional Paid-in | Treasury | Comprehensive | Retained | Shareholders'Outstanding",
+    "draft_check": {
+      "text_layer_numbers": 84,
+      "numeric_coverage": 1.0
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 0.9875,
+        "blind_rows": 10,
+        "text_layer_token_precision": 1.0,
+        "text_layer_token_recall": 1.0,
+        "agreement_with_previous_reference_table_next": 0.99
+      },
+      "review": null,
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_459.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/nvda-20230129.htm",
+      "accession": "0001045810-23-000017",
+      "provider": "datamulehub",
+      "sha256": "93e808341a3c56afbeead33a82afb79c95d4de7aaac89f989b8aaaecfc9a221e",
+      "scope": "table",
+      "mapping_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/nvda-20220130.htm",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 21,
+            "byte_start": 940411,
+            "byte_end_exclusive": 1115404
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "552cf6418cd64763f2bf7c6c40877cdf6a0381f4938104b76a1bd539d4afd41f",
+    "input_sha256": "036ed154f7eceb62f107c4580dcf5ff13885fd36e057c56664b2fe4bfd81e673"
+  },
+  "tags": [
+    "dense_table",
+    "medium_columns",
+    "numeric_content",
+    "landscape",
+    "gt_draft"
+  ]
+}

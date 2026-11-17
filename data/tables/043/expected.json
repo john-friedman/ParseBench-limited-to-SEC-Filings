@@ -1,0 +1,50 @@
+{
+  "id": "tables/Goldman Sachs 10-k_page85",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">As of December</th>\n    </tr>\n        <tr>\n        <th>$ in billions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">CIE assets, net of financings</td>\n<td>$ 1.2</td>\n<td>$ 2.4</td>\n    </tr>\n<tr>\n        <td class=\"\">Region</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Americas</td>\n<td>72%</td>\n<td>61%</td>\n    </tr>\n<tr>\n        <td class=\"\">EMEA</td>\n<td>15%</td>\n<td>25%</td>\n    </tr>\n<tr>\n        <td class=\"\">Asia</td>\n<td>13%</td>\n<td>14%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n<tr>\n        <td class=\"\">Asset Class</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Hospitality</td>\n<td>7%</td>\n<td>6%</td>\n    </tr>\n<tr>\n        <td class=\"\">Industrials</td>\n<td>23%</td>\n<td>16%</td>\n    </tr>\n<tr>\n        <td class=\"\">Multifamily</td>\n<td>15%</td>\n<td>13%</td>\n    </tr>\n<tr>\n        <td class=\"\">Office</td>\n<td>29%</td>\n<td>24%</td>\n    </tr>\n<tr>\n        <td class=\"\">Retail</td>\n<td>6%</td>\n<td>7%</td>\n    </tr>\n<tr>\n        <td class=\"\">Senior Housing</td>\n<td>4%</td>\n<td>15%</td>\n    </tr>\n<tr>\n        <td class=\"\">Student Housing</td>\n<td>1%</td>\n<td>7%</td>\n    </tr>\n<tr>\n        <td class=\"\">Other</td>\n<td>15%</td>\n<td>12%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>Vintage</th>\n    </tr>\n        <tr>\n        <td>As of December 2024</td>\n<td></td>\n    </tr>\n<tr>\n        <td>2017 or earlier</td>\n<td>29%</td>\n    </tr>\n<tr>\n        <td>2018 - 2020</td>\n<td>37%</td>\n    </tr>\n<tr>\n        <td>2021 - thereafter</td>\n<td>34%</td>\n    </tr>\n<tr>\n        <td>Total</td>\n<td>100%</td>\n    </tr>\n<tr>\n        <td>As of December 2023</td>\n<td></td>\n    </tr>\n<tr>\n        <td>2016 or earlier</td>\n<td>12%</td>\n    </tr>\n<tr>\n        <td>2017 - 2019</td>\n<td>57%</td>\n    </tr>\n<tr>\n        <td>2020 - thereafter</td>\n<td>31%</td>\n    </tr>\n<tr>\n        <td>Total</td>\n<td>100%</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">As of December</th>\n    </tr>\n        <tr>\n        <th class=\"\">$ in millions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Cash and cash equivalents</td>\n<td>$ 16,041</td>\n<td>$ 24,043</td>\n    </tr>\n<tr>\n        <td class=\"\">Collateralized agreements</td>\n<td>5,944</td>\n<td>7,651</td>\n    </tr>\n<tr>\n        <td class=\"\">Customer and other receivables</td>\n<td>72</td>\n<td>3</td>\n    </tr>\n<tr>\n        <td class=\"\">Trading assets</td>\n<td>20,452</td>\n<td>14,911</td>\n    </tr>\n<tr>\n        <td class=\"\">Investments</td>\n<td>3</td>\n<td>2</td>\n    </tr>\n<tr>\n        <td class=\"\">Loans</td>\n<td>18,836</td>\n<td>20,028</td>\n    </tr>\n<tr>\n        <td class=\"\">Other assets</td>\n<td>1,154</td>\n<td>1,846</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>$ 62,502</td>\n<td>$ 68,484</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">As of December</th>\n    </tr>\n        <tr>\n        <th class=\"\">$ in millions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Installment</td>\n<td>$ –</td>\n<td>$ 3,125</td>\n    </tr>\n<tr>\n        <td class=\"\">Credit cards</td>\n<td>21,403</td>\n<td>19,361</td>\n    </tr>\n<tr>\n        <td class=\"\">Other</td>\n<td>–</td>\n<td>17</td>\n    </tr>\n<tr>\n        <td class=\"\">Loans, gross</td>\n<td>21,403</td>\n<td>22,503</td>\n    </tr>\n<tr>\n        <td class=\"\">Allowance for loan losses</td>\n<td>(2,567)</td>\n<td>(2,475)</td>\n    </tr>\n<tr>\n        <td class=\"\">Total loans</td>\n<td>$ 18,836</td>\n<td>$ 20,028</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Goldman Sachs 10-k_page85.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "d554e0a5bf3de29bb63f28f76d693d7cc759f6dcde34d6a8657a6ee6d3580a24",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 128,
+            "byte_start": 2684290,
+            "byte_end_exclusive": 2704582
+          },
+          {
+            "table_index_0based": 129,
+            "byte_start": 2704948,
+            "byte_end_exclusive": 2712364
+          },
+          {
+            "table_index_0based": 130,
+            "byte_start": 2715030,
+            "byte_end_exclusive": 2725712
+          },
+          {
+            "table_index_0based": 131,
+            "byte_start": 2726008,
+            "byte_end_exclusive": 2734761
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "bf1d6b02481ebd259a17b84c34efb11afe10456a8e608acfedff5e2b9d26aec0",
+    "input_sha256": "7c48309cb10c0ce58a01e1c3ba3930f721e79ceefc167ccb16f95470c63b1c0d"
+  },
+  "tags": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/Visa-Fiscal-2025-Annual-Report-1-2026-08-21_page62",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "•  *Depreciation and amortization expenses* include amortization of internally developed and purchased software, depreciation expense for property and equipment and amortization of finite-lived intangible assets primarily obtained through acquisitions.\n\n•  *General and administrative expenses* consist mainly of card benefits such as costs associated with airport lounge access, extended cardholder protection and concierge services, facilities costs, travel and meeting costs, indirect taxes, foreign exchange gains and losses and other corporate expenses incurred in support of our business.\n\n•  *Litigation provision* represents litigation expenses for accruals related to legal matters that are not covered by the U.S. retrospective responsibility plan or the Europe retrospective responsibility plan (uncovered legal matters) and additional accruals associated with the interchange multidistrict litigation which are covered by the U.S. retrospective responsibility plan (U.S. covered litigation). The accruals are an estimate based on management’s understanding of our litigation profile, the specifics of each case, advice of counsel to the extent appropriate and management’s best estimate of incurred loss.\n\nThe following table presents the components of our total operating expenses:\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"3\"><b>For the Years Ended</b><br><b>September 30,</b></th>\n      <th colspan=\"2\">% Change<sup>(1)</sup></th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>2025</th>\n      <th>2024</th>\n      <th>2023</th>\n      <th>2025<br>vs.<br>2024</th>\n      <th>2024<br>vs.<br>2023</th>\n    </tr>\n    <tr>\n      <th colspan=\"6\"><b>(in millions, except percentages)</b></th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Personnel</td>\n      <td>$ <b>6,961</b></td>\n      <td>$ 6,264</td>\n      <td>$ 5,831</td>\n      <td>11%</td>\n      <td>7%</td>\n    </tr>\n    <tr>\n      <td>Marketing</td>\n      <td><b><b>1,684</b></b></td>\n      <td>1,560</td>\n      <td>1,341</td>\n      <td>8%</td>\n      <td>16%</td>\n    </tr>\n    <tr>\n      <td>Network and processing </td>\n      <td><b>894</b></td>\n      <td>778</td>\n      <td>736</td>\n      <td>15%</td>\n      <td>6%</td>\n    </tr>\n    <tr>\n      <td>Professional fees</td>\n      <td><b>759</b></td>\n      <td>635</td>\n      <td>545</td>\n      <td>19%</td>\n      <td>17%</td>\n    </tr>\n    <tr>\n      <td>Depreciation and amortization</td>\n      <td><b><b>1,220</b></b></td>\n      <td>1,034</td>\n      <td>943</td>\n      <td>18%</td>\n      <td>10%</td>\n    </tr>\n    <tr>\n      <td>General and administrative</td>\n      <td><b><b>1,926</b></b></td>\n      <td>1,598</td>\n      <td>1,330</td>\n      <td>21%</td>\n      <td>20%</td>\n    </tr>\n    <tr>\n      <td>Litigation provision</td>\n      <td><b><b>2,562</b></b></td>\n      <td>462</td>\n      <td>927</td>\n      <td>NM</td>\n      <td>(50%)</td>\n    </tr>\n    <tr>\n      <td><b>Total operating expenses</b></td>\n      <td>$ <b>16,006</b></td>\n      <td>$ 12,331</td>\n      <td>$ 11,653</td>\n      <td>30%</td>\n      <td>6%</td>\n    </tr>\n  </tbody>\n</table>\nNM – Not meaningful\n<sup>(1)</sup> Figures in the table may not recalculate exactly due to rounding. Percentage changes are calculated based on unrounded numbers.\n\n•  *Personnel expenses* increased in fiscal 2025 over the prior year primarily due to a higher number of employees and compensation focused on areas that will drive higher long-term growth, including acquisitions. In addition, the increase in fiscal 2025 over the prior year was due to severance costs in the current year to realign our organizational structure.\n\n•  *Marketing expenses* increased in fiscal 2025 over the prior year primarily due to higher spending for client marketing.\n\n•  *Network and processing expenses* increased in fiscal 2025 over the prior year primarily due to continued technology and processing network investments to support growth and acquisitions.\n\n•  *Professional fees* increased in fiscal 2025 over the prior year primarily due to higher legal fees and higher expenses associated with client engagements.\n\n•  *Depreciation and amortization expenses* increased in fiscal 2025 over the prior year primarily due to additional amortization and depreciation from our on-going investments and acquisitions.\n\n•  *General and administrative expenses* increased in fiscal 2025 over the prior year primarily due to higher usage of travel related card benefits, the absence of the release of the reserve on indirect taxes previously recognized in fiscal 2021 and higher indirect taxes, partially offset by a charitable contribution to the Visa Foundation in the prior year.\n\n•  *Litigation provision* increased in fiscal 2025 over the prior year primarily due to higher accruals related to the U.S. covered litigation. See *Note 20—Legal Matters* to our consolidated financial statements included in *Item 8* of this report.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Visa-Fiscal-2025-Annual-Report (1).pdf",
+    "source_sha256": "1dd9b5f0b2000d831ce85d2da6941fc6202ca2f3bf24f47246c412756b207181",
+    "annotated_at": "2026-08-21T17:40:46.247Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Visa-Fiscal-2025-Annual-Report-1-2026-08-21_page62.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000637/v014524-ars.pdf",
+      "accession": "0001308179-25-000637",
+      "provider": "datamulehub",
+      "sha256": "50377feb2f7fa51cad3a1168487c3268b5cb261004f31b12dfa5e2230d68c85b",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 61,
+        "source_page_count": 136
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "1dd9b5f0b2000d831ce85d2da6941fc6202ca2f3bf24f47246c412756b207181",
+    "input_sha256": "d7b5771d961de0a36f1e0d165bf434dc9d19d133e8279374f7596d5d9a21baf1"
+  },
+  "tags": []
+}

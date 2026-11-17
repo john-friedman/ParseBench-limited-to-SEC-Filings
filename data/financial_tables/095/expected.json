@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/oralb4-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "<page_header><page_number>36</page_number> The Procter & Gamble Company</page_header>\n\n**Consolidated Statements of Earnings**\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"4\">Amounts in millions except per share amounts; fiscal years ended June 30</th>\n      <th>2025</th>\n      <th>2024</th>\n      <th>2023</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"4\">NET SALES</td>\n      <td>$ 84,284</td>\n      <td>$ 84,039</td>\n      <td>$ 82,006</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Cost of products sold</td>\n      <td><b>41,164</b></td>\n      <td>40,848</td>\n      <td>42,760</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Selling, general and administrative expense</td>\n      <td><b>22,669</b></td>\n      <td>23,305</td>\n      <td>21,112</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Indefinite-lived intangible asset impairment charge</td>\n      <td>—</td>\n      <td>1,341</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">OPERATING INCOME</td>\n      <td>20,451</td>\n      <td>18,545</td>\n      <td>18,134</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Interest expense</td>\n      <td><b>(907)</b></td>\n      <td>(925)</td>\n      <td>(756)</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Interest income</td>\n      <td>469</td>\n      <td>473</td>\n      <td>307</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Other non-operating income, net</td>\n      <td>154</td>\n      <td>668</td>\n      <td>668</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">EARNINGS BEFORE INCOME TAXES</td>\n      <td>20,167</td>\n      <td>18,761</td>\n      <td>18,353</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Income taxes</td>\n      <td><b>4,102</b></td>\n      <td>3,787</td>\n      <td>3,615</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">NET EARNINGS</td>\n      <td>16,065</td>\n      <td>14,974</td>\n      <td>14,738</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Less: Net earnings attributable to noncontrolling interests</td>\n      <td>91</td>\n      <td>95</td>\n      <td>85</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">NET EARNINGS ATTRIBUTABLE TO PROCTER & GAMBLE</td>\n      <td>$ 15,974</td>\n      <td>$ 14,879</td>\n      <td>$ 14,653</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\"><b>NET EARNINGS PER COMMON SHARE <sup>(1)</sup></b></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Basic</td>\n      <td><b>$ 6.67</b></td>\n      <td>$ 6.18</td>\n      <td>$ 6.07</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\">Diluted</td>\n      <td><b>$ 6.51</b></td>\n      <td>$ 6.02</td>\n      <td>$ 5.90</td>\n    </tr>\n  </tbody>\n</table>\n\n<sup>(1)</sup> Basic net earnings per common share and Diluted net earnings per common share are calculated on Net earnings attributable to Procter & Gamble.\n\n**Consolidated Statements of Comprehensive Income**\n\n<table>\n<thead>\n<tr>\n<th>Amounts in millions; fiscal years ended June 30</th>\n<th>2025</th>\n<th>2024</th>\n<th>2023</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NET EARNINGS</td>\n<td>$ 16,065</td>\n<td>$ 14,974</td>\n<td>$ 14,738</td>\n</tr>\n<tr>\n<td>OTHER COMPREHENSIVE INCOME/(LOSS), NET OF TAX</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Foreign currency translation (net of tax (benefit)/expense of $(442), $66 and $(197), respectively)</td>\n<td><b>1,143</b></td>\n<td>(226)</td>\n<td>(71)</td>\n</tr>\n<tr>\n<td>Unrealized gains/(losses) on investment securities (net of tax (benefit)/expense of $(1), $(1) and $(2), respectively)</td>\n<td>—</td>\n<td>(3)</td>\n<td>(7)</td>\n</tr>\n<tr>\n<td>Unrealized gains/(losses) on defined benefit postretirement plans (net of tax (benefit)/expense of $(407), $230 and $9, respectively)</td>\n<td><b>(1,390)</b></td>\n<td>546</td>\n<td>40</td>\n</tr>\n<tr>\n<td>TOTAL OTHER COMPREHENSIVE INCOME/(LOSS), NET OF TAX</td>\n<td>(248)</td>\n<td>317</td>\n<td>(38)</td>\n</tr>\n<tr>\n<td>TOTAL COMPREHENSIVE INCOME</td>\n<td>15,817</td>\n<td>15,291</td>\n<td>14,700</td>\n</tr>\n<tr>\n<td>Less: Comprehensive income attributable to noncontrolling interests</td>\n<td>87</td>\n<td>92</td>\n<td>78</td>\n</tr>\n<tr>\n<td><b>TOTAL COMPREHENSIVE INCOME ATTRIBUTABLE TO</b> PROCTER &amp; GAMBLE</td>\n<td>$ 15,730</td>\n<td>$ 15,199</td>\n<td>$ 14,622</td>\n</tr>\n</tbody>\n</table>\n\n<page_footer>\nSee accompanying Notes to Consolidated Financial Statements.</page_footer>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "oralb4.pdf",
+    "source_sha256": "e3c2f19b04c7b1dc3703f1b0ef0a1feae02da20cd2e49a58f6020962d4f8289d",
+    "annotated_at": "2026-08-14T09:43:27.968Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/oralb4-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/80424/000119312525191752/d879413dars.pdf",
+      "accession": "0001193125-25-191752",
+      "provider": "datamulehub",
+      "sha256": "f03516f76f3a291574339918478119ea1b875146a2d3d6c4708ddef908cc0272",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 47,
+        "source_page_count": 92
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "e3c2f19b04c7b1dc3703f1b0ef0a1feae02da20cd2e49a58f6020962d4f8289d",
+    "input_sha256": "adaafe3d6a991ba91c509bd1d5846c3e410e058581a441954ecedb0cb21bad19"
+  },
+  "tags": []
+}

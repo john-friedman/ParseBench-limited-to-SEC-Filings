@@ -1,0 +1,35 @@
+{
+  "id": "tables/Home Depot 10-k unrestricted_page46",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <th>in millions</th>\n        <th>Fiscal 2024</th>\n        <th>Fiscal 2023</th>\n        <th>Fiscal 2022</th>\n    </tr>\n        <tr>\n        <td class=\"\"><b>Common Stock:</b></td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>$ 90</td>\n<td>$ 90</td>\n<td>$ 90</td>\n    </tr>\n<tr>\n        <td class=\"\">Shares issued under employee stock plans, net</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at end of year</td>\n<td>90</td>\n<td>90</td>\n<td>90</td>\n    </tr>\n<tr>\n        <td class=\"\"><b>Paid-in Capital:</b></td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>13,147</td>\n<td>12,592</td>\n<td>12,132</td>\n    </tr>\n<tr>\n        <td class=\"\">Shares issued under employee stock plans, net</td>\n<td>530</td>\n<td>175</td>\n<td>94</td>\n    </tr>\n<tr>\n        <td class=\"\">Stock-based compensation expense</td>\n<td>440</td>\n<td>380</td>\n<td>366</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at end of year</td>\n<td>14,117</td>\n<td>13,147</td>\n<td>12,592</td>\n    </tr>\n<tr>\n        <td class=\"\"><b>Retained Earnings:</b></td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>83,656</td>\n<td>76,896</td>\n<td>67,580</td>\n    </tr>\n<tr>\n        <td class=\"\">Net earnings</td>\n<td>14,806</td>\n<td>15,143</td>\n<td>17,105</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash dividends</td>\n<td>(8,929)</td>\n<td>(8,383)</td>\n<td>(7,789)</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at end of year</td>\n<td>89,533</td>\n<td>83,656</td>\n<td>76,896</td>\n    </tr>\n<tr>\n        <td class=\"\"><b>Accumulated Other Comprehensive Loss:</b></td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>(477)</td>\n<td>(718)</td>\n<td>(704)</td>\n    </tr>\n<tr>\n        <td class=\"\">Foreign currency translation adjustments, net of tax</td>\n<td>(605)</td>\n<td>232</td>\n<td>(22)</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash flow hedges, net of tax</td>\n<td>(45)</td>\n<td>8</td>\n<td>9</td>\n    </tr>\n<tr>\n        <td class=\"\">Other, net of tax</td>\n<td>(2)</td>\n<td>1</td>\n<td>(1)</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at end of year</td>\n<td>(1,129)</td>\n<td>(477)</td>\n<td>(718)</td>\n    </tr>\n<tr>\n        <td class=\"\"><b>Treasury Stock:</b></td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>(95,372)</td>\n<td>(87,298)</td>\n<td>(80,794)</td>\n    </tr>\n<tr>\n        <td class=\"\">Repurchases of common stock</td>\n<td>(599)</td>\n<td>(8,074)</td>\n<td>(6,504)</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at end of year</td>\n<td>(95,971)</td>\n<td>(95,372)</td>\n<td>(87,298)</td>\n    </tr>\n<tr>\n        <td class=\"\">Total stockholders' equity</td>\n<td>$ 6,640</td>\n<td>$ 1,044</td>\n<td>$ 1,562</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Home Depot 10-k unrestricted_page46.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000085/hd-20250202.htm",
+      "accession": "0000354950-25-000085",
+      "provider": "datamulehub",
+      "sha256": "cff28db2d142e0e74a2f6460460c9a150d26933fac043782cf790360ca1f0057",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 66,
+            "byte_start": 921411,
+            "byte_end_exclusive": 969442
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "aeaf6678269628f3c1c6056fb444396760dda05565148bed72b9cb771b6bd924",
+    "input_sha256": "e529a0d4c8aa0a039bd50d3eb1fba3d1c8095543334e3e82e2c371683af56b4b"
+  },
+  "tags": []
+}

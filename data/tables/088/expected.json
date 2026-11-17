@@ -1,0 +1,35 @@
+{
+  "id": "tables/Victoria Secret 10-k_page54",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n<th>February 1, 2025</th>\n<th>February 3, 2024</th>\n    </tr>\n<tr>\n        <td class=\"\">ASSETS</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Current Assets:</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Cash and Cash Equivalents</td>\n<td>$ 227</td>\n<td>$ 270</td>\n    </tr>\n<tr>\n        <td class=\"\">Accounts Receivable, Net</td>\n<td>159</td>\n<td>152</td>\n    </tr>\n<tr>\n        <td class=\"\">Inventories</td>\n<td>955</td>\n<td>985</td>\n    </tr>\n<tr>\n        <td class=\"\">Other</td>\n<td>100</td>\n<td>126</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Current Assets</td>\n<td>1,441</td>\n<td>1,533</td>\n    </tr>\n<tr>\n        <td class=\"\">Property and Equipment, Net</td>\n<td>774</td>\n<td>843</td>\n    </tr>\n<tr>\n        <td class=\"\">Operating Lease Assets</td>\n<td>1,481</td>\n<td>1,351</td>\n    </tr>\n<tr>\n        <td class=\"\">Goodwill</td>\n<td>367</td>\n<td>367</td>\n    </tr>\n<tr>\n        <td class=\"\">Trade Names</td>\n<td>281</td>\n<td>284</td>\n    </tr>\n<tr>\n        <td class=\"\">Other Intangible Assets, Net</td>\n<td>95</td>\n<td>116</td>\n    </tr>\n<tr>\n        <td class=\"\">Deferred Income Taxes</td>\n<td>22</td>\n<td>20</td>\n    </tr>\n<tr>\n        <td class=\"\">Other Assets</td>\n<td>71</td>\n<td>86</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Assets</td>\n<td>$ 4,532</td>\n<td>$ 4,600</td>\n    </tr>\n<tr>\n        <td class=\"\">LIABILITIES AND EQUITY</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Current Liabilities:</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Accounts Payable</td>\n<td>$ 419</td>\n<td>$ 513</td>\n    </tr>\n<tr>\n        <td class=\"\">Accrued Expenses and Other</td>\n<td>633</td>\n<td>810</td>\n    </tr>\n<tr>\n        <td class=\"\">Current Debt</td>\n<td>4</td>\n<td>4</td>\n    </tr>\n<tr>\n        <td class=\"\">Current Operating Lease Liabilities</td>\n<td>287</td>\n<td>267</td>\n    </tr>\n<tr>\n        <td class=\"\">Income Taxes</td>\n<td>32</td>\n<td>20</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Current Liabilities</td>\n<td>1,375</td>\n<td>1,614</td>\n    </tr>\n<tr>\n        <td class=\"\">Deferred Income Taxes</td>\n<td>11</td>\n<td>37</td>\n    </tr>\n<tr>\n        <td class=\"\">Long-term Debt</td>\n<td>973</td>\n<td>1,120</td>\n    </tr>\n<tr>\n        <td class=\"\">Long-term Operating Lease Liabilities</td>\n<td>1,434</td>\n<td>1,312</td>\n    </tr>\n<tr>\n        <td class=\"\">Other Long-term Liabilities</td>\n<td>75</td>\n<td>79</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Liabilities</td>\n<td>3,868</td>\n<td>4,162</td>\n    </tr>\n<tr>\n        <td class=\"\">Shareholders' Equity:</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Preferred Stock—$0.01 par value; 10 shares authorized; none issued</td>\n<td>—</td>\n<td>—</td>\n    </tr>\n<tr>\n        <td class=\"\">Common Stock—$0.01 par value; 1,000 shares authorized; 79 and 78 shares issued; 79 and 78 shares outstanding, respectively</td>\n<td>1</td>\n<td>1</td>\n    </tr>\n<tr>\n        <td class=\"\">Paid-in Capital</td>\n<td>297</td>\n<td>238</td>\n    </tr>\n<tr>\n        <td class=\"\">Accumulated Other Comprehensive Income (Loss)</td>\n<td>(1)</td>\n<td>—</td>\n    </tr>\n<tr>\n        <td class=\"\">Retained Earnings</td>\n<td>343</td>\n<td>178</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Victoria's Secret &amp; Co. Shareholders' Equity</td>\n<td>640</td>\n<td>417</td>\n    </tr>\n<tr>\n        <td class=\"\">Noncontrolling Interest</td>\n<td>24</td>\n<td>21</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Equity</td>\n<td>664</td>\n<td>438</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Liabilities and Equity</td>\n<td>$ 4,532</td>\n<td>$ 4,600</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Victoria Secret 10-k_page54.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643725000006/vsco-20250201.htm",
+      "accession": "0001856437-25-000006",
+      "provider": "datamulehub",
+      "sha256": "c61188a3b679a072e3532c138c245992615b963995f761959e0a919d49e04d05",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 32,
+            "byte_start": 875436,
+            "byte_end_exclusive": 927939
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "d5456082eea7e60d1f674b4663be251210ffc517f20a8de4f9522c7efa9bc553",
+    "input_sha256": "aa082fa938012d5b6e11d3665c6aeaf5cbfcee60957443aaf48d84ef317f712a"
+  },
+  "tags": []
+}

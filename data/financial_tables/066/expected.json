@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/bh2-2026-08-14_page2",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "\nSecurities registered pursuant to Section 12(b) of the Act:\n\n<table><thead><tr><th>Title of each class</th><th>Trading Symbols</th><th>Name of each exchange on which registered</th></tr></thead><tbody><tr><td>Class A Common Stock</td><td>BRK.A</td><td>New York Stock Exchange</td></tr><tr><td>Class B Common Stock</td><td>BRK.B</td><td>New York Stock Exchange</td></tr><tr><td>1.125% Senior Notes due 2027</td><td>BRK27</td><td>New York Stock Exchange</td></tr><tr><td>2.150% Senior Notes due 2028</td><td>BRK28</td><td>New York Stock Exchange</td></tr><tr><td>1.500% Senior Notes due 2030</td><td>BRK30</td><td>New York Stock Exchange</td></tr><tr><td>2.000% Senior Notes due 2034</td><td>BRK34</td><td>New York Stock Exchange</td></tr><tr><td>1.625% Senior Notes due 2035</td><td>BRK35</td><td>New York Stock Exchange</td></tr><tr><td>2.375% Senior Notes due 2039</td><td>BRK39</td><td>New York Stock Exchange</td></tr><tr><td>0.500% Senior Notes due 2041</td><td>BRK41</td><td>New York Stock Exchange</td></tr><tr><td>2.625% Senior Notes due 2059</td><td>BRK59</td><td>New York Stock Exchange</td></tr></tbody></table>\n\nIndicate the number of shares outstanding of each of the Registrant’s classes of common stock:\n<table>\n  <tbody>\n    <tr>\n      <td>January 31, 2026—Class A common stock, $5 par value</td>\n      <td>511,820 shares</td>\n    </tr>\n    <tr>\n      <td>January 31, 2026—Class B common stock, $0.0033 par value</td>\n      <td>1,389,605,139 shares</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "bh2.pdf",
+    "source_sha256": "dc96ff24202445b7fdb655ba5be3611e3746388b96b2c11f859d6176de52355a",
+    "annotated_at": "2026-08-14T02:19:43.706Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/bh2-2026-08-14_page2.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526106284/d948018dars.pdf",
+      "accession": "0001193125-26-106284",
+      "provider": "datamulehub",
+      "sha256": "7e3dff35920f2fd4c172fc8ce76e1ea6a32208ad51b39ee75f68e964bbe22da6",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 24,
+        "source_page_count": 154
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "dc96ff24202445b7fdb655ba5be3611e3746388b96b2c11f859d6176de52355a",
+    "input_sha256": "c5cb561df6f73c143e92a2b299724044934d8aaec52b2346623f66d067cf84e0"
+  },
+  "tags": []
+}

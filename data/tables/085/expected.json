@@ -1,0 +1,45 @@
+{
+  "id": "tables/Victoria Secret 10-k_page39",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>February 1, 2025</th>\n        <th>February 3, 2024</th>\n    </tr>\n<tr>\n        <td class=\"\"></td>\n        <td colspan=\"2\">(in millions)</td>\n    </tr>\n<tr>\n        <td class=\"\">Net Cash Provided by Operating Activities (a)</td>\n<td>$ 425</td>\n<td>$ 389</td>\n    </tr>\n<tr>\n        <td class=\"\">Capital Expenditures (a)</td>\n<td>178</td>\n<td>256</td>\n    </tr>\n<tr>\n        <td class=\"\">Working Capital</td>\n<td>66</td>\n<td>(81)</td>\n    </tr>\n<tr>\n        <td class=\"\">Capitalization:</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Long-term Debt</td>\n<td>973</td>\n<td>1,120</td>\n    </tr>\n<tr>\n        <td class=\"\">Victoria's Secret &amp; Co. Shareholders' Equity</td>\n<td>640</td>\n<td>417</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Capitalization</td>\n<td>$ 1,613</td>\n<td>$ 1,537</td>\n    </tr>\n<tr>\n        <td class=\"\">Amounts Available Under the ABL Facility (b)</td>\n<td>$ 533</td>\n<td>$ 423</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>February 1, 2025</th>\n        <th>February 3, 2024</th>\n    </tr>\n<tr>\n        <td class=\"\">Debt-to-capitalization Ratio (a)</td>\n<td>60 %</td>\n<td>73 %</td>\n    </tr>\n<tr>\n        <td class=\"\">Net Cash Provided By Operating Activities to Capital Expenditures</td>\n<td>239 %</td>\n<td>152 %</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>2024</th>\n        <th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\"></td>\n        <td colspan=\"2\">(in millions)</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash and Cash Equivalents, Beginning of Year</td>\n<td>$ 270</td>\n<td>$ 427</td>\n    </tr>\n<tr>\n        <td class=\"\">Net Cash Provided by Operating Activities</td>\n<td>425</td>\n<td>389</td>\n    </tr>\n<tr>\n        <td class=\"\">Net Cash Used for Investing Activities</td>\n<td>(153)</td>\n<td>(254)</td>\n    </tr>\n<tr>\n        <td class=\"\">Net Cash Used for Financing Activities</td>\n<td>(315)</td>\n<td>(291)</td>\n    </tr>\n<tr>\n        <td class=\"\">Effects of Exchange Rate Changes on Cash and Cash Equivalents</td>\n<td>—</td>\n<td>(1)</td>\n    </tr>\n<tr>\n        <td class=\"\">Net Decrease in Cash and Cash Equivalents</td>\n<td>(43)</td>\n<td>(157)</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash and Cash Equivalents, End of Year</td>\n<td>$ 227</td>\n<td>$ 270</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Victoria Secret 10-k_page39.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643725000006/vsco-20250201.htm",
+      "accession": "0001856437-25-000006",
+      "provider": "datamulehub",
+      "sha256": "c61188a3b679a072e3532c138c245992615b963995f761959e0a919d49e04d05",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 19,
+            "byte_start": 636806,
+            "byte_end_exclusive": 648108
+          },
+          {
+            "table_index_0based": 20,
+            "byte_start": 649771,
+            "byte_end_exclusive": 653762
+          },
+          {
+            "table_index_0based": 21,
+            "byte_start": 654904,
+            "byte_end_exclusive": 665033
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "3a45b0e6ddcad04e9a12d725c6b29802147bc7188e996d9e0be442168c58507e",
+    "input_sha256": "07d40b511cc3324d237575394cef395bd96816b5016c5186af57c384d9a093d4"
+  },
+  "tags": []
+}

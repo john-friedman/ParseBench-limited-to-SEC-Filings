@@ -1,0 +1,30 @@
+{
+  "id": "tables/Tables - Apple Def 14a_page67",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "<table>\n<thead>\n<tr><th class=\"\" rowspan=\"2\"> Name<br>(a)</th><th colspan=\"2\">Stock Awards</th></tr>\n<tr><th>Number of Shares<br>Acquired on Vesting<br>(#)(b)</th><th>Value Realized on<br>Vesting<br>($)(c)<sup>(1)</sup></th></tr>\n</thead>\n<tbody>\n<tr><td><strong>Tim Cook</strong></td><td>—</td><td>—</td></tr>\n<tr><td><strong>Luca Maestri</strong></td><td>559,324</td><td>87,717,519</td></tr>\n<tr><td><strong>Kate Adams</strong></td><td>474,392</td><td>72,614,486</td></tr>\n<tr><td><strong>Deirdre O'Brien</strong></td><td>339,724</td><td>52,374,037</td></tr>\n<tr><td><strong>Jeff Williams</strong></td><td>559,324</td><td>87,717,519</td></tr>\n</tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Tables - Apple Def 14a_page67.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000130817923000019/laap2023_def14.pdf",
+      "accession": "0001308179-23-000019",
+      "provider": "datamulehub",
+      "sha256": "fe263659deb80fa0e66314d6ba9210b46a263ddb65451a42d848c574d954b704",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 66,
+        "source_page_count": 113
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "221ace9f35753ba8e81442b172970edf5c3650485355ce674d8f09ee5a01fac2",
+    "input_sha256": "8abb495b4e5c17473bf6c3c510713335eab2a219768ceaccb3096620809f89c0"
+  },
+  "tags": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tables/Apple 10-k_page30",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th>Interest Rate<br/>Sensitive Instrument</th>\n<th>Hypothetical Interest<br/>Rate Increase</th>\n<th>Potential Impact</th>\n<th>2025</th>\n<th>2024</th>\n    </tr>\n<tr>\n        <td>Investment portfolio</td>\n<td>100 basis points, all tenors</td>\n<td>Decline in fair value</td>\n<td>$    2,416</td>\n<td>$    2,755</td>\n    </tr>\n<tr>\n        <td>Term debt</td>\n<td>100 basis points, all tenors</td>\n<td>Increase in annual interest expense</td>\n<td>$    129</td>\n<td>$    139</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Apple 10-k_page30.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "accession": "0000320193-25-000079",
+      "provider": "datamulehub",
+      "sha256": "274361a794f84b24d75b4ee98bc8eff5a031b4fc1be1a1210dbc2b10d92c5179",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 20,
+            "byte_start": 465840,
+            "byte_end_exclusive": 472408
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "51e1b457e1fe005ad6de1fdc69364d3d436487bf2c2862a3a4b7b458a0fabdc8",
+    "input_sha256": "57d4b010a259dcbebdd85a303086c81624f23d59c3221f38a82155fe2260a198"
+  },
+  "tags": []
+}

@@ -1,0 +1,410 @@
+{
+  "id": "dense_tables/dense_table_391",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# THE CHARLES SCHWAB CORPORATION\n\n## Consolidated Statements of Stockholders' Equity\n\n*(In Millions)*\n\n<table>\n<thead>\n<tr><th rowspan=\"2\"></th><th rowspan=\"2\">Preferred Stock</th><th colspan=\"2\">Common Stock</th><th colspan=\"2\">Nonvoting Common Stock</th><th rowspan=\"2\">Additional Paid-In Capital</th><th rowspan=\"2\">Retained Earnings</th><th rowspan=\"2\">Treasury Stock, at cost</th><th rowspan=\"2\">Accumulated Other Comprehensive Income (Loss)</th><th rowspan=\"2\">Total</th></tr>\n<tr><th>Shares</th><th>Amount</th><th>Shares</th><th>Amount</th></tr>\n</thead>\n<tbody>\n<tr><td>Balance at December 31, 2022</td><td>$ 9,706</td><td>2,023</td><td>$ 20</td><td>51</td><td>$ 1</td><td>$ 27,075</td><td>$ 31,066</td><td>$ (8,639)</td><td>$ (22,621)</td><td>$ 36,608</td></tr>\n<tr><td>Net income</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>5,067</td><td>—</td><td>—</td><td>5,067</td></tr>\n<tr><td>Other comprehensive income (loss), net of tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>4,490</td><td>4,490</td></tr>\n<tr><td>Redemption and repurchase of preferred stock, inclusive of tax</td><td>(515)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>44</td><td>—</td><td>—</td><td>(471)</td></tr>\n<tr><td>Dividends declared on preferred stock</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(438)</td><td>—</td><td>—</td><td>(438)</td></tr>\n<tr><td>Dividends declared on common stock — $1.00 per share</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(1,838)</td><td>—</td><td>—</td><td>(1,838)</td></tr>\n<tr><td>Repurchase of common stock, inclusive of tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(2,866)</td><td>—</td><td>(2,866)</td></tr>\n<tr><td>Stock option exercises and other</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(145)</td><td>—</td><td>194</td><td>—</td><td>49</td></tr>\n<tr><td>Share-based compensation</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>294</td><td>—</td><td>—</td><td>—</td><td>294</td></tr>\n<tr><td>Other</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>106</td><td>—</td><td>(43)</td><td>—</td><td>63</td></tr>\n<tr><td>Balance at December 31, 2023</td><td>$ 9,191</td><td>2,023</td><td>$ 20</td><td>51</td><td>$ 1</td><td>$ 27,330</td><td>$ 33,901</td><td>$ (11,354)</td><td>$ (18,131)</td><td>$ 40,958</td></tr>\n<tr><td>Net income</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>5,942</td><td>—</td><td>—</td><td>5,942</td></tr>\n<tr><td>Other comprehensive income (loss), net of tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3,283</td><td>3,283</td></tr>\n<tr><td>Dividends declared on preferred stock</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(437)</td><td>—</td><td>—</td><td>(437)</td></tr>\n<tr><td>Dividends declared on common stock — $1.00 per share</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(1,838)</td><td>—</td><td>—</td><td>(1,838)</td></tr>\n<tr><td>Stock option exercises and other</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(123)</td><td>—</td><td>207</td><td>—</td><td>84</td></tr>\n<tr><td>Share-based compensation</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>313</td><td>—</td><td>—</td><td>—</td><td>313</td></tr>\n<tr><td>Other</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>119</td><td>—</td><td>(49)</td><td>—</td><td>70</td></tr>\n<tr><td>Balance at December 31, 2024</td><td>$ 9,191</td><td>2,023</td><td>$ 20</td><td>51</td><td>$ 1</td><td>$ 27,639</td><td>$ 37,568</td><td>$ (11,196)</td><td>$ (14,848)</td><td>$ 48,375</td></tr>\n<tr><td>Net income</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>8,852</td><td>—</td><td>—</td><td>8,852</td></tr>\n<tr><td>Other comprehensive income (loss), net of tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3,865</td><td>3,865</td></tr>\n<tr><td>Redemption of preferred stock</td><td>(2,428)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(30)</td><td>—</td><td>—</td><td>(2,458)</td></tr>\n<tr><td>Dividends declared on preferred stock</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(371)</td><td>—</td><td>—</td><td>(371)</td></tr>\n<tr><td>Dividends declared on common stock — $1.08 per share</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(1,958)</td><td>—</td><td>—</td><td>(1,958)</td></tr>\n<tr><td>Repurchase of common stock, inclusive of tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(5,902)</td><td>—</td><td>(5,902)</td></tr>\n<tr><td>Repurchase of nonvoting common stock, inclusive of tax</td><td>—</td><td>19</td><td>—</td><td>(19)</td><td>—</td><td>—</td><td>—</td><td>(1,512)</td><td>—</td><td>(1,512)</td></tr>\n<tr><td>Conversion of nonvoting common stock to common stock</td><td>—</td><td>32</td><td>1</td><td>(32)</td><td>(1)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>\n<tr><td>Stock option exercises and other</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(74)</td><td>—</td><td>230</td><td>—</td><td>156</td></tr>\n<tr><td>Share-based compensation</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>289</td><td>—</td><td>—</td><td>—</td><td>289</td></tr>\n<tr><td>Other</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>142</td><td>4</td><td>(57)</td><td>—</td><td>89</td></tr>\n<tr><td>Balance at December 31, 2025</td><td>$ 6,763</td><td>2,074</td><td>$ 21</td><td>—</td><td>$ —</td><td>$ 27,996</td><td>$ 44,065</td><td>$ (18,437)</td><td>$ (10,983)</td><td>$ 49,425</td></tr>\n</tbody>\n</table>\n\n*See Notes to Consolidated Financial Statements.*\n\n- 63 -",
+  "test_rules": [
+    {
+      "type": "table_rowspan",
+      "cell": "preferred stock",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_4885656ad49c3f96"
+    },
+    {
+      "type": "table_colspan",
+      "cell": "common stock",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_029e43f4f05d8385"
+    },
+    {
+      "type": "table_colspan",
+      "cell": "nonvoting common stock",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_9df23c550d379d3f"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "additional paid-in capital",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_5f8888574abc34c1"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "retained earnings",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_1da3c71cd3e22a21"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "treasury stock, at cost",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_a06208c6f333cd83"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "accumulated other comprehensive income (loss)",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_22b568ad89f110f5"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "total",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_c1ab3ec9ad86e48a"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 27,075",
+      "column_headers": [
+        "additional paid-in capital"
+      ],
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_02829ae627e34dcb"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 36,608",
+      "column_headers": [
+        "total"
+      ],
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_8cc9fc70e1046ba5"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "balance at december 31, 2022",
+      "expected_neighbor": "$ 9,706",
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_348922e120bca7fd"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "$ 36,608",
+      "expected_neighbor": "5,067",
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_edb490047d7c80d0"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "49",
+      "expected_neighbor": "294",
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_2194b481ab2c6025"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "84",
+      "expected_neighbor": "313",
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_411e663fa843b6f7"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "balance at december 31, 2025",
+      "expected_neighbor": "$ 6,763",
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_b0d88638356d5ed1"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "$ -",
+      "expected_neighbor": "$ 27,996",
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_b74046357353738a"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "balance at december 31, 2022",
+      "cell_b": "$ 36,608",
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_af64f15a0a5205d9"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "balance at december 31, 2025",
+      "cell_b": "$ 49,425",
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_7f6ecfce0f1f0c44"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "total",
+      "cell_b": "$ 49,425",
+      "table_anchor_cells": [
+        "accumulated other comprehensive income (loss)",
+        "additional paid-in capital",
+        "treasury stock, at cost",
+        "nonvoting common stock",
+        "retained earnings"
+      ],
+      "page": 1,
+      "pdf": "dense_table_391.pdf",
+      "verified": false,
+      "id": "dense_v01_51fb0305be3184a1"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_391",
+    "gt_status": "reannotated_confirmed_weak",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_391.md",
+    "source_pdf": "/Volumes/T7/bigBagOfPdf11/schwab_annual_report_2025.pdf",
+    "source_page": 82,
+    "source_n_pages": 150,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 485.0,
+      "rows": 34,
+      "cols": 16,
+      "cells": 426,
+      "fill": 0.783,
+      "numeric_ratio": 0.0,
+      "n_items": 444,
+      "tabular_line_ratio": 0.739,
+      "n_blocks": 1
+    },
+    "shape_class": "wide/text/portrait",
+    "verify": {
+      "median_cell_len": 4,
+      "words_per_cell": 1.74,
+      "aligned_ratio": 0.906,
+      "row_coverage": 0.739,
+      "text_sha1": "74fc35b743a18124652cdb92acee78492d7d12e1"
+    },
+    "header_preview": "flECCED\u0001/JE9A | flECCED\u0001/JE9A | Th::?J?ED7B | 0H;7IKHO\u0001 | +J>;H\u0001",
+    "draft_check": {
+      "text_layer_numbers": 15,
+      "numeric_coverage": 0.133
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed_text_layer_mismatch",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 1.0,
+        "blind_rows": 10,
+        "text_layer_token_precision": 0.0149,
+        "text_layer_token_recall": 0.0174,
+        "agreement_with_previous_reference_table_next": 0.94
+      },
+      "review": null,
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_391.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm",
+      "accession": "0000316709-26-000009",
+      "provider": "datamulehub",
+      "sha256": "125ac65f43620e4f75f478ecce2040a0dde8bff2a0f44e61bfdbb2f145124651",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 37,
+            "byte_start": 1971634,
+            "byte_end_exclusive": 2126522
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "5cba17c0de9e79e9aa1f5ddfc59e0a00954a4c80aa5561b16f0683984ffffb27",
+    "input_sha256": "61545154ea2fd94d643e1604f1fd5f512bdf5a9dbac5254bfa5a4fdb32ecd485"
+  },
+  "tags": [
+    "dense_table",
+    "wide_columns",
+    "text_content",
+    "portrait",
+    "gt_draft",
+    "draft_text_layer_mismatch"
+  ]
+}

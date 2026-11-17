@@ -1,0 +1,35 @@
+{
+  "id": "tables/VRSK.2018.page_141.pdf_105144_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\"></th>\n      <th colspan=\"4\">2018</th>\n      <th colspan=\"4\">2017</th>\n      <th colspan=\"4\">2016</th>\n    </tr>\n    <tr>\n      <th>Insurance</th>\n      <th>Energy and Specialized Markets</th>\n      <th>Financial Services</th>\n      <th>Total</th>\n      <th>Insurance</th>\n      <th>Energy and Specialized Markets</th>\n      <th>Financial Services</th>\n      <th>Total</th>\n      <th>Insurance</th>\n      <th>Energy and Specialized Markets</th>\n      <th>Financial Services</th>\n      <th>Total</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Revenues</td>\n      <td>$1,705.9</td>\n      <td>$513.3</td>\n      <td>$175.9</td>\n      <td>$2,395.1</td>\n      <td>$1,550.6</td>\n      <td>$444.6</td>\n      <td>$150.0</td>\n      <td>$2,145.2</td>\n      <td>$1,419.1</td>\n      <td>$442.8</td>\n      <td>$133.3</td>\n      <td>$1,995.2</td>\n    </tr>\n    <tr>\n      <td colspan=\"13\">Expenses:</td>\n    </tr>\n    <tr>\n      <td>Cost of revenues (exclusive of items shown separately below)</td>\n      <td>(568.1)</td>\n      <td>(218.2)</td>\n      <td>(99.9)</td>\n      <td>(886.2)</td>\n      <td>(510.4)</td>\n      <td>(193.8)</td>\n      <td>(79.6)</td>\n      <td>(783.8)</td>\n      <td>(469.6)</td>\n      <td>(177.1)</td>\n      <td>(67.7)</td>\n      <td>(714.4)</td>\n    </tr>\n    <tr>\n      <td>Selling, general and administrative</td>\n      <td>(218.8)</td>\n      <td>(141.1)</td>\n      <td>(18.8)</td>\n      <td>(378.7)</td>\n      <td>(196.1)</td>\n      <td>(114.4)</td>\n      <td>(12.3)</td>\n      <td>(322.8)</td>\n      <td>(178.1)</td>\n      <td>(113.4)</td>\n      <td>(10.1)</td>\n      <td>(301.6)</td>\n    </tr>\n    <tr>\n      <td>Investment income and others, net</td>\n      <td>13.2</td>\n      <td>0.4</td>\n      <td>1.7</td>\n      <td>15.3</td>\n      <td>11.7</td>\n      <td>(2.8)</td>\n      <td>0.3</td>\n      <td>9.2</td>\n      <td>7.8</td>\n      <td>(1.1)</td>\n      <td>(0.6)</td>\n      <td>6.1</td>\n    </tr>\n    <tr>\n      <td>EBITDA from discontinued operations</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>266.0</td>\n      <td>266.0</td>\n    </tr>\n    <tr>\n      <td>EBITDA</td>\n      <td>932.2</td>\n      <td>154.4</td>\n      <td>58.9</td>\n      <td>1,145.5</td>\n      <td>855.8</td>\n      <td>133.6</td>\n      <td>58.4</td>\n      <td>1,047.8</td>\n      <td>779.2</td>\n      <td>151.2</td>\n      <td>320.9</td>\n      <td>1,251.3</td>\n    </tr>\n    <tr>\n      <td>Depreciation and amortization of fixed assets</td>\n      <td>(107.0)</td>\n      <td>(42.7)</td>\n      <td>(15.6)</td>\n      <td>(165.3)</td>\n      <td>(91.2)</td>\n      <td>(36.4)</td>\n      <td>(8.0)</td>\n      <td>(135.6)</td>\n      <td>(86.4)</td>\n      <td>(25.9)</td>\n      <td>(6.8)</td>\n      <td>(119.1)</td>\n    </tr>\n    <tr>\n      <td>Amortization of intangible assets</td>\n      <td>(22.8)</td>\n      <td>(84.6)</td>\n      <td>(23.4)</td>\n      <td>(130.8)</td>\n      <td>(13.7)</td>\n      <td>(70.3)</td>\n      <td>(17.8)</td>\n      <td>(101.8)</td>\n      <td>(6.1)</td>\n      <td>(72.8)</td>\n      <td>(13.6)</td>\n      <td>(92.5)</td>\n    </tr>\n    <tr>\n      <td>Investment income and others, net</td>\n      <td>(13.2)</td>\n      <td>(0.4)</td>\n      <td>(1.7)</td>\n      <td>(15.3)</td>\n      <td>(11.7)</td>\n      <td>2.8</td>\n      <td>(0.3)</td>\n      <td>(9.2)</td>\n      <td>(7.8)</td>\n      <td>1.1</td>\n      <td>0.6</td>\n      <td>(6.1)</td>\n    </tr>\n    <tr>\n      <td>EBITDA from discontinued operations</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>(266.0)</td>\n      <td>(266.0)</td>\n    </tr>\n    <tr>\n      <td>Operating income</td>\n      <td>$789.2</td>\n      <td>$26.7</td>\n      <td>$18.2</td>\n      <td>834.1</td>\n      <td>$739.2</td>\n      <td>$29.7</td>\n      <td>$32.3</td>\n      <td>801.2</td>\n      <td>$678.9</td>\n      <td>$53.6</td>\n      <td>$35.1</td>\n      <td>767.6</td>\n    </tr>\n    <tr>\n      <td>Investment income and others, net</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td>15.3</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td>9.2</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td>6.1</td>\n    </tr>\n    <tr>\n      <td>Interest expense</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td>(129.7)</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td>(119.4)</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td>(120.0)</td>\n    </tr>\n    <tr>\n      <td>Income from continuing operations before income taxes</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td>$719.7</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td>$691.0</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td>$653.7</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/VRSK.2018.page_141.pdf_105144_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1442145/000144214519000012/vrsk10k12312018.htm",
+      "accession": "0001442145-19-000012",
+      "provider": "datamulehub",
+      "sha256": "c27f3546da76f2cc37ebdc72c078295198421581421d607352bc0c5c316f4d8e",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 156,
+            "byte_start": 3071502,
+            "byte_end_exclusive": 3238749
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ce64e1ed5d7455087bcebd916cf5e611175433f30da8216634ce54b5170c70dd",
+    "input_sha256": "0ad50798178c131a56233ebbaa8bda90ce2268adcf1c338af93404947b12eed2"
+  },
+  "tags": []
+}

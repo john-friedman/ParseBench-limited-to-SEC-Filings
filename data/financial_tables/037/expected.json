@@ -1,0 +1,49 @@
+{
+  "id": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page153",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# **2024 SAIP Performance Results**\n\nIn 2024, the Company did not achieve the payout trigger with a positive free cash flow. As a result, the CEO, and executive leadership did not receive any 2024 SAIP. Notwithstanding the payout trigger, the table below provides the results of the 2024 SAIP performance metrics:\n\n<table>\n  <thead>\n    <tr>\n      <th>SAIP Performance Metric</th>\n      <th>Weight</th>\n      <th>Threshold</th>\n      <th>Target</th>\n      <th>Maximum</th>\n      <th>Actual</th>\n      <th>SAIP Result</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Adjusted Operating Income</td>\n      <td>32.5%</td>\n      <td>10.0%</td>\n      <td>10.5%</td>\n      <td>11.6%</td>\n      <td>5.5%</td>\n      <td>0%</td>\n    </tr>\n    <tr>\n      <td>Industrial Free Cash Flow</td>\n      <td>32.5%</td>\n      <td>€6.0bn</td>\n      <td>€8.0bn</td>\n      <td>€11.7bn</td>\n      <td>€-6bn</td>\n      <td>0%</td>\n    </tr>\n    <tr>\n      <td>ESG: Safety</td>\n      <td>8%</td>\n      <td>1.1</td>\n      <td>0.95</td>\n      <td>.085</td>\n      <td>.084</td>\n      <td>200%</td>\n    </tr>\n    <tr>\n      <td>Low Emissions Vehicles</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>ESG: BEV Market Share - EU</td>\n      <td>6.0%</td>\n      <td>14.2%</td>\n      <td>Parity -3pp</td>\n      <td>Parity</td>\n      <td>12.0%</td>\n      <td>0%</td>\n    </tr>\n    <tr>\n      <td>ESG: LEV Mix - U.S. Production</td>\n      <td>6.0%</td>\n      <td>13.5%</td>\n      <td>21%</td>\n      <td>23%</td>\n      <td>8.7%</td>\n      <td>0%</td>\n    </tr>\n    <tr>\n      <td>Quality – 3 metrics</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Failure Rate 3MIS kppm</td>\n      <td>7.0%</td>\n      <td>ND*</td>\n      <td>ND*</td>\n      <td>ND*</td>\n      <td>ND*</td>\n      <td>0%</td>\n    </tr>\n    <tr>\n      <td>Customer Satisfaction – NPS NV</td>\n      <td>4.0%</td>\n      <td>ND*</td>\n      <td>ND*</td>\n      <td>ND*</td>\n      <td>ND*</td>\n      <td>64%</td>\n    </tr>\n    <tr>\n      <td>Customer Satisfaction – NPS AFS</td>\n      <td>4.0%</td>\n      <td>ND*</td>\n      <td>ND*</td>\n      <td>ND*</td>\n      <td>ND*</td>\n      <td>74%</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\"><strong><b>Total Payout Percentage:</b></strong></td>\n      <td><strong><b>21.52%</b></strong></td>\n    </tr>\n    <tr>\n      <td colspan=\"6\"><strong>Total Payout Percentage<br><b>(recognizing Payout Trigger):</b></strong></td>\n      <td><strong><b>0.00%</b></strong></td>\n    </tr>\n  </tbody>\n</table>\n* Quality metrics information is deemed to be commercially sensitive information and the Company has decided to not disclose the specific performance ranges and results\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\"></th>\n      <th rowspan=\"2\"><b>Base</b><br><b>Salary</b></th>\n      <th colspan=\"4\"><b>Annual Cash Bonus Range</b></th>\n      <th rowspan=\"2\"><b>Actual 2024</b><br><b>SAIP Payout</b></th>\n    </tr>\n    <tr>\n      <th><b>Below</b><br>Threshold</th>\n      <th>Threshold</th>\n      <th>Target</th>\n      <th>Maximum</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Carlos Tavares</td>\n      <td>€2,000,000</td>\n      <td>€ 0</td>\n      <td>€2,000,000</td>\n      <td>€4,000,000</td>\n      <td>€8,000,000</td>\n      <td>€0</td>\n    </tr>\n  </tbody>\n</table>\n\n## ***LTI Plan***\n\nOur equity-based incentive awards are tied to Company performance and the future value of our common stock. These awards are intended to focus executive behavior on our longer-term interests because today’s business decisions affect the Company over several years.\n\nThe Remuneration Policy sets out the operation of the LTI Plan. The design incorporates annual rolling grants directly linked to a three-year performance and vesting period. The process for setting targets for the LTI Plan starts with our Company strategy, which is generally formulated every three years, and our three-year financial plan, which is updated annually.\n\nThe annual LTI Plan award value for 2021 and 2022 grants consists of 75 percent of PSUs and the other 25 percent through restricted stock units (RSUs). As requested by our Shareholders during our 2022-2023 outreach campaign, grant awards beginning with the 2023-2025 LTI Plan consist of 100 percent PSUs for our Executive Directors.\n\nEach PSU and RSU award cliff vests after three years.\n\n153",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Stellantis-NV-20241231-Annual-Report.pdf",
+    "source_sha256": "7cc1a6e50ed424198e5bd0bb6ade24425b4c6466463c9fc38c3d6ec4f2da2581",
+    "annotated_at": "2026-08-21T17:46:06.110Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page153.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548425000013/stellantis-20241231.htm",
+      "accession": "0001605484-25-000013",
+      "provider": "datamulehub",
+      "sha256": "8c091fc8484651b8f35e9a6cb267afdc871222516a86fb13071942d8f06deab8",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 77,
+            "byte_start": 6026906,
+            "byte_end_exclusive": 6082366
+          },
+          {
+            "table_index_0based": 78,
+            "byte_start": 6083970,
+            "byte_end_exclusive": 6096399
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "7cc1a6e50ed424198e5bd0bb6ade24425b4c6466463c9fc38c3d6ec4f2da2581",
+    "input_sha256": "8124c55c877cda8352cb8e7d249ddf4f6f0d9acc3a0dc00ac49330d3727116fb"
+  },
+  "tags": []
+}

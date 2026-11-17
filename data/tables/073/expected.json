@@ -1,0 +1,35 @@
+{
+  "id": "tables/NFLX.2005.page_70.pdf_72335_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\">Consolidated Statements of Income</th>\n      <th colspan=\"3\">Year ended December 31, 2003</th>\n      <th colspan=\"3\">Year ended December 31, 2004</th>\n    </tr>\n    <tr>\n      <th>As previously reported</th>\n      <th>Reclassifications</th>\n      <th>As Reclassified</th>\n      <th>As previously reported</th>\n      <th>Reclassifications</th>\n      <th>As Reclassified</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"7\">Revenues:</td>\n    </tr>\n    <tr>\n      <td>Subscription</td>\n      <td>$270,410</td>\n      <td>$—</td>\n      <td>$270,410</td>\n      <td>$500,611</td>\n      <td>$—</td>\n      <td>$500,611</td>\n    </tr>\n    <tr>\n      <td>Sales</td>\n      <td>1,833</td>\n      <td>(1,833)</td>\n      <td>—</td>\n      <td>5,617</td>\n      <td>(5,617)</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Total revenues</td>\n      <td>272,243</td>\n      <td>(1,833)</td>\n      <td>270,410</td>\n      <td>506,228</td>\n      <td>(5,617)</td>\n      <td>500,611</td>\n    </tr>\n    <tr>\n      <td>Cost of revenues:</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Subscription</td>\n      <td>147,736</td>\n      <td>—</td>\n      <td>147,736</td>\n      <td>273,401</td>\n      <td>—</td>\n      <td>273,401</td>\n    </tr>\n    <tr>\n      <td>Sales</td>\n      <td>624</td>\n      <td>(624)</td>\n      <td>—</td>\n      <td>3,057</td>\n      <td>(3,057)</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Fulfillment expenses</td>\n      <td>—</td>\n      <td>31,274</td>\n      <td>31,274</td>\n      <td>—</td>\n      <td>56,609</td>\n      <td>56,609</td>\n    </tr>\n    <tr>\n      <td>Total cost of revenues</td>\n      <td>148,360</td>\n      <td>30,650</td>\n      <td>179,010</td>\n      <td>276,458</td>\n      <td>53,552</td>\n      <td>330,010</td>\n    </tr>\n    <tr>\n      <td>Gross profit</td>\n      <td>123,883</td>\n      <td>(32,483)</td>\n      <td>91,400</td>\n      <td>229,770</td>\n      <td>(59,169)</td>\n      <td>170,601</td>\n    </tr>\n    <tr>\n      <td colspan=\"7\">Operating expenses:</td>\n    </tr>\n    <tr>\n      <td>Fulfillment</td>\n      <td>31,274</td>\n      <td>(31,274)</td>\n      <td>—</td>\n      <td>56,609</td>\n      <td>(56,609)</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Technology and development</td>\n      <td>17,884</td>\n      <td>—</td>\n      <td>17,884</td>\n      <td>22,906</td>\n      <td>—</td>\n      <td>22,906</td>\n    </tr>\n    <tr>\n      <td>Marketing</td>\n      <td>49,949</td>\n      <td>—</td>\n      <td>49,949</td>\n      <td>98,027</td>\n      <td>—</td>\n      <td>98,027</td>\n    </tr>\n    <tr>\n      <td>General and administrative</td>\n      <td>9,585</td>\n      <td>—</td>\n      <td>9,585</td>\n      <td>16,287</td>\n      <td>—</td>\n      <td>16,287</td>\n    </tr>\n    <tr>\n      <td>Stock-based compensation</td>\n      <td>10,719</td>\n      <td>—</td>\n      <td>10,719</td>\n      <td>16,587</td>\n      <td>—</td>\n      <td>16,587</td>\n    </tr>\n    <tr>\n      <td>Gain on disposal of DVDs</td>\n      <td>—</td>\n      <td>(1,209)</td>\n      <td>(1,209)</td>\n      <td>—</td>\n      <td>(2,560)</td>\n      <td>(2,560)</td>\n    </tr>\n    <tr>\n      <td>Total operating expenses</td>\n      <td>119,411</td>\n      <td>(32,483)</td>\n      <td>86,928</td>\n      <td>210,416</td>\n      <td>(59,169)</td>\n      <td>151,247</td>\n    </tr>\n    <tr>\n      <td>Operating income</td>\n      <td>4,472</td>\n      <td>—</td>\n      <td>4,472</td>\n      <td>19,354</td>\n      <td>—</td>\n      <td>19,354</td>\n    </tr>\n    <tr>\n      <td colspan=\"7\">Other income (expense):</td>\n    </tr>\n    <tr>\n      <td>Interest and other income</td>\n      <td>2,457</td>\n      <td>—</td>\n      <td>2,457</td>\n      <td>2,592</td>\n      <td>—</td>\n      <td>2,592</td>\n    </tr>\n    <tr>\n      <td>Interest and other expense.</td>\n      <td>(417)</td>\n      <td>—</td>\n      <td>(417)</td>\n      <td>(170)</td>\n      <td>—</td>\n      <td>(170)</td>\n    </tr>\n    <tr>\n      <td>Income before income taxes</td>\n      <td>6,512</td>\n      <td>—</td>\n      <td>6,512</td>\n      <td>21,776</td>\n      <td>—</td>\n      <td>21,776</td>\n    </tr>\n    <tr>\n      <td>Provision for (benefit from) income taxes</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>181</td>\n      <td>—</td>\n      <td>181</td>\n    </tr>\n    <tr>\n      <td>Net income</td>\n      <td>$6,512</td>\n      <td>$—</td>\n      <td>$6,512</td>\n      <td>$21,595</td>\n      <td>$—</td>\n      <td>$21,595</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/NFLX.2005.page_70.pdf_72335_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1065280/000119312506056663/d10k.htm",
+      "accession": "0001193125-06-056663",
+      "provider": "datamulehub",
+      "sha256": "b6785769b67fdb1655f361ff5aa716323211b7281f2e50c7ac45697ec44ff834",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 119,
+            "byte_start": 773342,
+            "byte_end_exclusive": 838552
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "bbef28995c556f6abdca505ee95b3f6b83c4d72d20b12246d84ebaa03e720e96",
+    "input_sha256": "121a8ad6a6caf1871aa2ce791098ac0328add6afc4179f819647486c46e54b81"
+  },
+  "tags": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/2Q05FS-2026-08-11_page4",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<u>**TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY, LTD.**</u>\n**<u>**UNCONSOLIDATED INCOME STATEMENT**</u>**\n\nUNCONSOLIDATED INCOME STATEMENT\n\nFor the Six Months Ended June 30, 2005 and 2004\n\n**For the Six Months Ended June 30, 2005 and 2004** **(Expressed in Million New Taiwan Dollars (NTD) and U.S. Dollars (USD)<sup>(1)</sup>** **Except for Per Share Amounts and Shares Outstanding**\n\n(Expressed in Million New Taiwan Dollars (NTD) and U.S. Dollars (USD) <sup>(1)</sup>\n\n(Expressed in Million New Taiwan Dollars (NTD) and U.S. Dollars (USD) <sup>(1)</sup> Except for Per Share Amounts and Shares Outstanding\n\nExcept for Per Share Amounts and Shares Outstanding\n\n<table>\n  <thead>\n   <tr>\n        <th></th><th colspan=\"5\"><b>6 months ended June 30</b></th>\n    </tr>\n    <tr>\n        <th></th>\n        <th>2005<br/>USD</th>\n        <th>2005<br/>NTD</th>\n        <th>% of<br/>Sales</th>\n        <th>2004<br/>NTD</th>\n        <th>YoY<br/>Inc(Dec)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>Net Sales</td>\n        <td>3,628</td>\n        <td>114,169</td>\n        <td>100.0</td>\n        <td>122,382</td>\n        <td>(6.7)</td>\n    </tr>\n    <tr>\n        <td>Cost of Sales</td>\n        <td>(2,203)</td>\n        <td>(69,315)</td>\n        <td>(60.7)</td>\n        <td>(71,514)</td>\n        <td>(3.1)</td>\n    </tr>\n    <tr>\n        <td>Gross Profit</td>\n        <td>1,425</td>\n        <td>44,854</td>\n        <td>39.3</td>\n        <td>50,868</td>\n        <td>(11.8)</td>\n    </tr>\n    <tr>\n        <td colspan=\"6\">Operating Expenses</td>\n    </tr>\n    <tr>\n        <td>Research and Development Expenses</td>\n        <td>(211)</td>\n        <td>(6,632)</td>\n        <td>(5.8)</td>\n        <td>(5,825)</td>\n        <td>13.9</td>\n    </tr>\n    <tr>\n        <td>General and Administrative Expenses</td>\n        <td>(119)</td>\n        <td>(3,744)</td>\n        <td>(3.3)</td>\n        <td>(4,636)</td>\n        <td>(19.2)</td>\n    </tr>\n    <tr>\n        <td>Selling and Marketing Expenses</td>\n        <td>(19)</td>\n        <td>(618)</td>\n        <td>(0.5)</td>\n        <td>(733)</td>\n        <td>(15.7)</td>\n    </tr>\n    <tr>\n        <td>Total Operating Expenses</td>\n        <td>(349)</td>\n        <td>(10,994)</td>\n        <td>(9.6)</td>\n        <td>(11,194)</td>\n        <td>(1.8)</td>\n    </tr>\n    <tr>\n        <td>Income from Operations</td>\n        <td>1,076</td>\n        <td>33,860</td>\n        <td>29.7</td>\n        <td>39,674</td>\n        <td>(14.7)</td>\n    </tr>\n    <tr>\n        <td>Net Non-operating Expenses</td>\n        <td>29</td>\n        <td>924</td>\n        <td>0.8</td>\n        <td>(172)</td>\n        <td>-</td>\n    </tr>\n    <tr>\n        <td>Investment Loss</td>\n        <td>(25)</td>\n        <td>(786)</td>\n        <td>(0.7)</td>\n        <td>2,054</td>\n        <td>-</td>\n    </tr>\n    <tr>\n        <td>Income before Income Tax</td>\n        <td>1,080</td>\n        <td>33,998</td>\n        <td>29.8</td>\n        <td>41,556</td>\n        <td>(18.2)</td>\n    </tr>\n    <tr>\n        <td>Income Tax Credit</td>\n        <td>38</td>\n        <td>1,189</td>\n        <td>1.0</td>\n        <td>643</td>\n        <td>84.9</td>\n    </tr>\n    <tr>\n        <td>Net Income</td>\n        <td>1,118</td>\n        <td>35,187</td>\n        <td>30.8</td>\n        <td>42,199</td>\n        <td>(16.6)</td>\n    </tr>\n    <tr>\n        <td>Diluted Earnings Per Ordinary Share</td>\n        <td>0.05</td>\n        <td>1.43</td>\n        <td> </td>\n        <td>1.70</td>\n        <td>(15.9)</td>\n    </tr>\n    <tr>\n        <td>Earnings Per ADR <sup>(2)</sup></td>\n        <td>0.23</td>\n        <td>7.13</td>\n        <td> </td>\n        <td>8.52</td>\n        <td> </td>\n    </tr>\n    <tr>\n        <td>Weighted Average Outstanding Shares ('M) <sup>(3)</sup></td>\n        <td> </td>\n        <td>24,687</td>\n        <td> </td>\n        <td>24,770</td>\n        <td> </td>\n    </tr>\n  </tbody>\n</table>\n\nWeighted Average Outstanding Shares ('M) <sup>(3)</sup>\n\n*Note: (1) New Taiwan dollars have been translated into U.S. dollars at the weighted average rate of NTD 31.47 per U.S. dollar for the six* *months ended June 30, 2005.*\n\n\n\n(2) 1 ADR equals 5 ordinary shares.\n\n(2) 1 ADR equals 5 ordinary shares.\n\n*(3) Total weighted average outstanding shares were 24,687M shares for the six months ended June 30, 2005 and 24,770M shares for* *the six months ended June 30, 2004 after the retroactive adjustments for stock dividends and stock bonus.*\n\n\n\nlogo",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "2Q05FS.pdf",
+    "source_sha256": "51f751709c980bb033c808bdb109049d14628da0c73f29d4fd7f11a65a808bae",
+    "annotated_at": "2026-08-13T04:10:40.325Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/2Q05FS-2026-08-11_page4.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000114554905001365/u99951e6vk.htm",
+      "accession": "0001145549-05-001365",
+      "provider": "datamulehub",
+      "sha256": "a6c8ec268b792b6f5b09c6a7e756c66c876dbef723ec0f27d257767d17498fee",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 45,
+            "byte_start": 229369,
+            "byte_end_exclusive": 252870
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "51f751709c980bb033c808bdb109049d14628da0c73f29d4fd7f11a65a808bae",
+    "input_sha256": "0ccc0617aa507478610ea01f410b20dea2efb5aa9a8e85f155268ba48c7571f0"
+  },
+  "tags": []
+}

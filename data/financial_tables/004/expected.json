@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/2025-cisco-full-annual-report-2026-08-21_page46",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# **PART II**\n\n## **Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities**\n\n(a) Cisco common stock is traded on the Nasdaq Global Select Market under the symbol CSCO. There were 30,790 registered stockholders as of August 28, 2025.\n\n(b) None.\n\n(c) Issuer purchases of equity securities (in millions, except per-share amounts):\n\n<table>\n<thead>\n<tr>\n<th><u>Period</u></th>\n<th><b>Total<br>Number of<br>Shares<br>Purchased</b></th>\n<th><b><b>Average Price Paid</b><br><b>per Share</b></b></th>\n<th><b><b>Total Number of Shares</b><br><b>Purchased as Part of</b><br><b>Publicly Announced</b><br><b>Plans or Programs</b></b></th>\n<th><b><b>Approximate Dollar</b><br><b>Value of Shares</b><br><b>That May Yet</b><br><b>Be Purchased</b><br><b>Under the Plans or</b><br>Programs</b></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>April 27, 2025 to May 24, 2025</td>\n<td>7</td>\n<td>$ 60.71</td>\n<td>7</td>\n<td>$ 15,023</td>\n</tr>\n<tr>\n<td>May 25, 2025 to June 21, 2025</td>\n<td>5</td>\n<td>$ 64.63</td>\n<td>5</td>\n<td>$ 14,659</td>\n</tr>\n<tr>\n<td>June 22, 2025 to July 26, 2025</td>\n<td>7</td>\n<td>$ 68.36</td>\n<td>7</td>\n<td>$ 14,174</td>\n</tr>\n<tr>\n<td>Total</td>\n<td>19</td>\n<td>$ 64.65</td>\n<td>19</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n\nOn September 13, 2001, we announced that our Board of Directors had authorized a stock repurchase program. As of July 26, 2025, the remaining authorized amount for stock repurchases under this program is approximately $14.2 billion with no termination date.\n\nFor the majority of restricted stock units granted, the number of shares issued on the date the restricted stock units vest is net of shares withheld to meet applicable tax withholding requirements. Although these withheld shares are not issued or considered common stock repurchases under our stock repurchase program and therefore are not included in the preceding table, they are treated as common stock repurchases in our financial statements as they reduce the number of shares that would have been issued upon vesting (see Note 15 to the Consolidated Financial Statements).\n\n<page_number>28</page_number>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "2025-cisco-full-annual-report.pdf",
+    "source_sha256": "a479346139f30f8fabbfb6b44e4d03693b794d8b94a87f1847945337f64b3dbb",
+    "annotated_at": "2026-08-21T15:37:27.152Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/2025-cisco-full-annual-report-2026-08-21_page46.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm",
+      "accession": "0000858877-25-000111",
+      "provider": "datamulehub",
+      "sha256": "aa17878a0f56563a5f43c81cad17f94ee6e15ba1bdd627888860434c1cfb8650",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 17,
+            "byte_start": 588414,
+            "byte_end_exclusive": 600256
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "a479346139f30f8fabbfb6b44e4d03693b794d8b94a87f1847945337f64b3dbb",
+    "input_sha256": "7edfaf9052bb302cb1aa668f39bbfefdf97cb76c5da735013e0ce6d62ebf2cf0"
+  },
+  "tags": []
+}

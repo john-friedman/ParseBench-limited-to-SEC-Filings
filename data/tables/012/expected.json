@@ -1,0 +1,45 @@
+{
+  "id": "tables/Apple 10-k_page50",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"7\">2025</th>\n    </tr>\n<tr>\n        <td class=\"\"></td>\n        <th>Americas</th>\n        <th>Europe</th>\n        <th>Greater China</th>\n        <th>Japan</th>\n        <th>Rest of Asia Pacific</th>\n        <th>Corporate</th>\n        <th>Total</th>\n    </tr>\n        <tr>\n        <td class=\"\">Net sales</td>\n<td>$ 178,353</td>\n<td>$ 111,032</td>\n<td>$ 64,377</td>\n<td>$ 28,703</td>\n<td>$ 33,696</td>\n<td>$ —</td>\n<td>$ 416,161</td>\n    </tr>\n<tr>\n        <td class=\"\">Cost of sales</td>\n<td>(95,699)</td>\n<td>(58,617)</td>\n<td>(35,141)</td>\n<td>(13,779)</td>\n<td>(17,724)</td>\n<td>—</td>\n<td>(220,960)</td>\n    </tr>\n<tr>\n        <td class=\"\">Research and development</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(34,550)</td>\n<td>(34,550)</td>\n    </tr>\n<tr>\n        <td class=\"\">Selling and marketing</td>\n<td>(10,174)</td>\n<td>(4,676)</td>\n<td>(2,319)</td>\n<td>(969)</td>\n<td>(1,386)</td>\n<td>—</td>\n<td>(19,524)</td>\n    </tr>\n<tr>\n        <td class=\"\">General and administrative</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(8,077)</td>\n<td>(8,077)</td>\n    </tr>\n<tr>\n        <td class=\"\">Operating income/(loss)</td>\n<td>$ 72,480</td>\n<td>$ 47,739</td>\n<td>$ 26,917</td>\n<td>$ 13,955</td>\n<td>$ 14,586</td>\n<td>$ (42,627)</td>\n<td>$ 133,050</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"7\">2024</th>\n    </tr>\n<tr>\n        <td class=\"\"></td>\n        <th>Americas</th>\n        <th>Europe</th>\n        <th>Greater China</th>\n        <th>Japan</th>\n        <th>Rest of Asia Pacific</th>\n        <th>Corporate</th>\n        <th>Total</th>\n    </tr>\n        <tr>\n        <td class=\"\">Net sales</td>\n<td>$ 167,045</td>\n<td>$ 101,328</td>\n<td>$ 66,952</td>\n<td>$ 25,052</td>\n<td>$ 30,658</td>\n<td>$ —</td>\n<td>$ 391,035</td>\n    </tr>\n<tr>\n        <td class=\"\">Cost of sales</td>\n<td>(89,587)</td>\n<td>(55,197)</td>\n<td>(37,519)</td>\n<td>(11,744)</td>\n<td>(16,305)</td>\n<td>—</td>\n<td>(210,352)</td>\n    </tr>\n<tr>\n        <td class=\"\">Research and development</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(31,370)</td>\n<td>(31,370)</td>\n    </tr>\n<tr>\n        <td class=\"\">Selling and marketing</td>\n<td>(9,802)</td>\n<td>(4,341)</td>\n<td>(2,351)</td>\n<td>(854)</td>\n<td>(1,291)</td>\n<td>—</td>\n<td>(18,639)</td>\n    </tr>\n<tr>\n        <td class=\"\">General and administrative</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(7,458)</td>\n<td>(7,458)</td>\n    </tr>\n<tr>\n        <td class=\"\">Operating income/(loss)</td>\n<td>$ 67,656</td>\n<td>$ 41,790</td>\n<td>$ 27,082</td>\n<td>$ 12,454</td>\n<td>$ 13,062</td>\n<td>$ (38,828)</td>\n<td>$ 123,216</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"7\">2023</th>\n    </tr>\n<tr>\n        <td class=\"\"></td>\n        <th>Americas</th>\n        <th>Europe</th>\n        <th>Greater China</th>\n        <th>Japan</th>\n        <th>Rest of Asia Pacific</th>\n        <th>Corporate</th>\n        <th>Total</th>\n    </tr>\n        <tr>\n        <td class=\"\">Net sales</td>\n<td>$ 162,560</td>\n<td>$ 94,294</td>\n<td>$ 72,559</td>\n<td>$ 24,257</td>\n<td>$ 29,615</td>\n<td>$ —</td>\n<td>$ 383,285</td>\n    </tr>\n<tr>\n        <td class=\"\">Cost of sales</td>\n<td>(92,394)</td>\n<td>(54,101)</td>\n<td>(39,787)</td>\n<td>(11,542)</td>\n<td>(16,313)</td>\n<td>—</td>\n<td>(214,137)</td>\n    </tr>\n<tr>\n        <td class=\"\">Research and development</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(29,915)</td>\n<td>(29,915)</td>\n    </tr>\n<tr>\n        <td class=\"\">Selling and marketing</td>\n<td>(9,658)</td>\n<td>(4,095)</td>\n<td>(2,444)</td>\n<td>(827)</td>\n<td>(1,236)</td>\n<td>—</td>\n<td>(18,260)</td>\n    </tr>\n<tr>\n        <td class=\"\">General and administrative</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>—</td>\n<td>(6,672)</td>\n<td>(6,672)</td>\n    </tr>\n<tr>\n        <td class=\"\">Operating income/(loss)</td>\n<td>$ 60,508</td>\n<td>$ 36,098</td>\n<td>$ 30,328</td>\n<td>$ 11,888</td>\n<td>$ 12,066</td>\n<td>$ (36,587)</td>\n<td>$ 114,301</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Apple 10-k_page50.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "accession": "0000320193-25-000079",
+      "provider": "datamulehub",
+      "sha256": "274361a794f84b24d75b4ee98bc8eff5a031b4fc1be1a1210dbc2b10d92c5179",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 48,
+            "byte_start": 1230188,
+            "byte_end_exclusive": 1261301
+          },
+          {
+            "table_index_0based": 49,
+            "byte_start": 1261354,
+            "byte_end_exclusive": 1292472
+          },
+          {
+            "table_index_0based": 50,
+            "byte_start": 1292525,
+            "byte_end_exclusive": 1323642
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "fd51df05f462a4a99a2348361d974f2c520183e07846bf400de9f85dd1334506",
+    "input_sha256": "6466079de4c243b8eab02af1a6315ddf28552e6800574da82e06d9b3aa3e603f"
+  },
+  "tags": []
+}

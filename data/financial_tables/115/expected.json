@@ -1,0 +1,49 @@
+{
+  "id": "financial_tables/thd2-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "(1) In connection with the acquisition, certain members of SRS’s management team concurrently reinvested a portion of their respective after-tax merger consideration proceeds into shares of the Company’s common stock. A portion of such shares of Company common stock are fully vested, and accordingly, the fair value of such shares was recorded as non-cash purchase consideration. A portion of such shares of Company common stock, which replaced legacy SRS stock-based awards, are subject to service-based vesting conditions over a three-year period and become forfeitable if such vesting conditions are not satisfied. Accordingly, a portion of the fair value of these shares was recorded as non-cash purchase consideration, and the remainder will be recorded as post-combination expense over the vesting period. The fair value of these shares, including the amount which will be recorded as post-combination compensation expense, is not material.\n\n***Allocation of Consideration Transferred.*** The following table summarizes our purchase price allocation, including resulting goodwill:\n\n<table>\n  <thead>\n    <tr>\n      <th>in millions</th>\n      <th>Fair Value</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Cash and cash equivalents</td>\n      <td>$ 161</td>\n    </tr>\n    <tr>\n      <td>Receivables</td>\n      <td>1,831</td>\n    </tr>\n    <tr>\n      <td>Merchandise inventories</td>\n      <td>1,988</td>\n    </tr>\n    <tr>\n      <td>Property and equipment</td>\n      <td>789</td>\n    </tr>\n    <tr>\n      <td>Goodwill</td>\n      <td>11,003</td>\n    </tr>\n    <tr>\n      <td>Intangible assets</td>\n      <td>5,780</td>\n    </tr>\n    <tr>\n      <td>Other current and non-current assets</td>\n      <td>744</td>\n    </tr>\n    <tr>\n      <td>Total assets acquired</td>\n      <td><u>$ 22,296</u></td>\n    </tr>\n    <tr>\n      <td>Accounts payable</td>\n      <td>$ 1,791</td>\n    </tr>\n    <tr>\n      <td>Other current liabilities</td>\n      <td>584</td>\n    </tr>\n    <tr>\n      <td>Deferred tax liabilities (1)</td>\n      <td>1,111</td>\n    </tr>\n    <tr>\n      <td>Other long-term liabilities</td>\n      <td>782</td>\n    </tr>\n    <tr>\n      <td>Total liabilities assumed</td>\n      <td><u>$ 4,268</u></td>\n    </tr>\n    <tr>\n      <td>Net assets acquired</td>\n      <td>$ 18,028</td>\n    </tr>\n  </tbody>\n</table>\n\n(1) Primarily resulting from the difference in book and tax basis related to identifiable intangible assets.\n\nThe acquisition date fair values of identifiable intangible assets were determined by using certain estimates and assumptions that are not observable in the market. The Company used the multi-period excess earnings method to determine the estimated acquisition date fair values of the customer relationships intangible assets. The significant assumptions used to estimate the fair values of customer relationships included forecasted revenues, expected customer attrition rates, and the discount rate applied. Determining the useful life of an intangible asset also requires judgment, as different types of intangible assets will have different useful lives.\n\nThe estimated fair values and estimated useful lives of identifiable intangible assets are as follows:\n\n<table>\n  <thead>\n    <tr>\n      <th>in millions</th>\n      <th>Weighted Average Useful Life (Years)</th>\n      <th>Fair Value</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Customer relationships</td>\n      <td>20</td>\n      <td>$ 5,400</td>\n    </tr>\n    <tr>\n      <td>Trade names</td>\n      <td>5</td>\n      <td>380</td>\n    </tr>\n    <tr>\n      <td>Total identifiable intangible assets</td>\n      <td></td>\n      <td>$ 5,780</td>\n    </tr>\n  </tbody>\n</table>\n\nThe goodwill arising from the acquisition is attributable to anticipated (i) growth acceleration in the Pro market; (ii) expansion in high growth verticals including roofing; (iii) additional addressable market opportunities; (iv) enhanced delivery network capabilities; and (v) growth in sales force. We expect approximately $1.0 billion of goodwill related to the acquisition to be deductible for U.S. federal and state income tax purposes. The goodwill has been allocated to our SRS roofing and building products, landscape, and pool reporting units and no goodwill related to the SRS acquisition resides in our Primary segment.\n\n***Results of Operations.*** Net sales attributable to SRS since the completion of the acquisition and included within our results of operations for fiscal 2024 totaled $6.4 billion. Net earnings attributable to SRS since the completion of the acquisition and included within our results of operations for fiscal 2024 were immaterial.\n\n\n\n\n\nlogo: The Home Depot",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "thd2.pdf",
+    "source_sha256": "fcd7eab7a6893802c6fee427b51d3c7fbf98aebe41897db0aae2a6019c3c7cd0",
+    "annotated_at": "2026-08-14T05:57:38.917Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/thd2-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm",
+      "accession": "0001628280-26-019436",
+      "provider": "datamulehub",
+      "sha256": "e1bc8afd632ffc2ad23ec057200f78686bf420297d53e466cdf5dd141ad169a5",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 148,
+            "byte_start": 2115390,
+            "byte_end_exclusive": 2129441
+          },
+          {
+            "table_index_0based": 149,
+            "byte_start": 2131073,
+            "byte_end_exclusive": 2136352
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "fcd7eab7a6893802c6fee427b51d3c7fbf98aebe41897db0aae2a6019c3c7cd0",
+    "input_sha256": "362543abc5bcfc284e529f209d9f7f9794a7f4c561cbdecfa92f3c2066d645a9"
+  },
+  "tags": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/shr-2026-08-13_page2",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr><th></th>\n      <th colspan=\"4\">As at October 31, 2023</th>\n    </tr>\n    <tr>\n      <th><i>($ millions)</i></th>\n      <th>Level 1</th>\n      <th>Level 2</th>\n      <th>Level 3</th>\n      <th>Total</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"5\"><strong><b>Instruments carried at fair value on a recurring basis:</b></strong></td>\n    </tr>\n    <tr>\n      <td colspan=\"5\"><strong><b>Assets:</b></strong></td>\n    </tr>\n    <tr>\n      <td><b>Precious metals</b><sup>(1)</sup></td>\n      <td>$ –</td>\n      <td>$ 937</td>\n      <td>$ –</td>\n      <td>$ 937</td>\n    </tr>\n    <tr>\n      <td colspan=\"5\"><strong><b>Trading assets</b></strong></td>\n    </tr>\n    <tr>\n      <td>Loans</td>\n      <td>–</td>\n      <td>7,540</td>\n      <td>4</td>\n      <td>7,544</td>\n    </tr>\n    <tr>\n      <td>Canadian federal government and government guaranteed debt</td>\n      <td>13,766</td>\n      <td>3,603</td>\n      <td>–</td>\n      <td>17,369</td>\n    </tr>\n    <tr>\n      <td>Canadian provincial and municipal debt</td>\n      <td>5,299</td>\n      <td>4,154</td>\n      <td>–</td>\n      <td>9,453</td>\n    </tr>\n    <tr>\n      <td>U.S. treasury and other U.S. agencies’ debt</td>\n      <td>11,218</td>\n      <td>–</td>\n      <td>–</td>\n      <td>11,218</td>\n    </tr>\n    <tr>\n      <td>Other foreign governments’ debt</td>\n      <td>19</td>\n      <td>10,626</td>\n      <td>–</td>\n      <td>10,645</td>\n    </tr>\n    <tr>\n      <td>Corporate and other debt</td>\n      <td>3,431</td>\n      <td>7,748</td>\n      <td>–</td>\n      <td>11,179</td>\n    </tr>\n    <tr>\n      <td>Equity securities</td>\n      <td>47,665</td>\n      <td>67</td>\n      <td>16</td>\n      <td>47,748</td>\n    </tr>\n    <tr>\n      <td>Other</td>\n      <td>–</td>\n      <td>2,712</td>\n      <td>–</td>\n      <td>2,712</td>\n    </tr>\n    <tr>\n      <td></td>\n      <td>$ 81,398</td>\n      <td>$ 36,450</td>\n      <td>$ 20</td>\n      <td>$ 117,868</td>\n    </tr>\n    <tr>\n      <td colspan=\"5\"><strong>Investment securities<sup>(2)</sup></strong></td>\n    </tr>\n    <tr>\n      <td>Canadian federal government and government guaranteed debt</td>\n      <td>$ 7,674</td>\n      <td>$ 4,713</td>\n      <td>$ –</td>\n      <td>$ 12,387</td>\n    </tr>\n    <tr>\n      <td>Canadian provincial and municipal debt</td>\n      <td>3,695</td>\n      <td>3,451</td>\n      <td>–</td>\n      <td>7,146</td>\n    </tr>\n    <tr>\n      <td>U.S. treasury and other U.S. agencies’ debt</td>\n      <td>25,058</td>\n      <td>3,640</td>\n      <td>–</td>\n      <td>28,698</td>\n    </tr>\n    <tr>\n      <td>Other foreign governments’ debt</td>\n      <td>2,527</td>\n      <td>28,891</td>\n      <td>–</td>\n      <td>31,418</td>\n    </tr>\n    <tr>\n      <td>Corporate and other debt</td>\n      <td>–</td>\n      <td>2,512</td>\n      <td>40</td>\n      <td>2,552</td>\n    </tr>\n    <tr>\n      <td>Equity securities</td>\n      <td>2,010</td>\n      <td>333</td>\n      <td>1,709</td>\n      <td>4,052</td>\n    </tr>\n    <tr>\n      <td></td>\n      <td>$ 40,964</td>\n      <td>$ 43,540</td>\n      <td>$ 1,749</td>\n      <td>$ 86,253</td>\n    </tr>\n    <tr>\n      <td colspan=\"5\"><strong>Derivative financial instruments</strong></td>\n    </tr>\n    <tr>\n      <td>Interest rate contracts</td>\n      <td>$ –</td>\n      <td>$ 15,942</td>\n      <td>$ –</td>\n      <td>$ 15,942</td>\n    </tr>\n    <tr>\n      <td>Foreign exchange and gold contracts</td>\n      <td>–</td>\n      <td>29,465</td>\n      <td>2</td>\n      <td>29,467</td>\n    </tr>\n    <tr>\n      <td>Equity contracts</td>\n      <td>54</td>\n      <td>3,066</td>\n      <td>27</td>\n      <td>3,147</td>\n    </tr>\n    <tr>\n      <td>Credit contracts</td>\n      <td>–</td>\n      <td>342</td>\n      <td>2</td>\n      <td>344</td>\n    </tr>\n    <tr>\n      <td>Commodity contracts</td>\n      <td>–</td>\n      <td>2,430</td>\n      <td>10</td>\n      <td>2,440</td>\n    </tr>\n    <tr>\n      <td></td>\n      <td>$ 54</td>\n      <td>$ 51,245</td>\n      <td>$ 41</td>\n      <td>$ 51,340</td>\n    </tr>\n    <tr>\n      <td colspan=\"5\"><strong><b>Liabilities:</b></strong></td>\n    </tr>\n    <tr>\n      <td><b>Deposits</b><sup>(3)</sup></td>\n      <td>$ –</td>\n      <td>$ (95)</td>\n      <td>$ –</td>\n      <td>$ (95)</td>\n    </tr>\n    <tr>\n      <td><b>Financial liabilities designated at fair value through profit or loss</b></td>\n      <td>–</td>\n      <td>26,779</td>\n      <td>–</td>\n      <td>26,779</td>\n    </tr>\n    <tr>\n      <td><b>Obligations related to securities sold short</b></td>\n      <td>29,921</td>\n      <td>6,482</td>\n      <td>–</td>\n      <td>36,403</td>\n    </tr>\n    <tr>\n      <td colspan=\"5\"><strong>Derivative financial instruments</strong></td>\n    </tr>\n    <tr>\n      <td>Interest rate contracts</td>\n      <td>–</td>\n      <td>25,079</td>\n      <td>2</td>\n      <td>25,081</td>\n    </tr>\n    <tr>\n      <td>Foreign exchange and gold contracts</td>\n      <td>–</td>\n      <td>28,013</td>\n      <td>–</td>\n      <td>28,013</td>\n    </tr>\n    <tr>\n      <td>Equity contracts</td>\n      <td>135</td>\n      <td>3,106</td>\n      <td>17</td>\n      <td>3,258</td>\n    </tr>\n    <tr>\n      <td>Credit contracts</td>\n      <td>–</td>\n      <td>27</td>\n      <td>1</td>\n      <td>28</td>\n    </tr>\n    <tr>\n      <td>Commodity contracts</td>\n      <td>–</td>\n      <td>2,274</td>\n      <td>6</td>\n      <td>2,280</td>\n    </tr>\n    <tr>\n      <td></td>\n      <td>$ 135</td>\n      <td>$ 58,499</td>\n      <td>$ 26</td>\n      <td>$ 58,660</td>\n    </tr>\n  </tbody>\n</table>\n\n(1) The fair value of precious metals is determined based on quoted market prices and forward spot prices, where applicable, less the cost to sell.\n\n(2) Excludes debt investment securities measured at amortized cost of $31,984.\n\n\n\n(3) These amounts represent embedded derivatives bifurcated from structured note liabilities measured at amoritized cost.\n\n**Level 3 instrument fair value changes**\n\nFinancial instruments categorized as Level 3 as at July 31, 2024, in the fair value hierarchy comprised of loans, corporate bonds, equity securities and derivatives.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "shr.pdf",
+    "source_sha256": "4a087e78f9516d969872d7bac51959f8401e644418bf3592fc6bdcb00e87276d",
+    "annotated_at": "2026-08-13T06:19:43.171Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/shr-2026-08-13_page2.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/9631/000119312524207433/d855173dex991.htm",
+      "accession": "0001193125-24-207433",
+      "provider": "datamulehub",
+      "sha256": "e69785c7e35016adf05961509ebd3417dc5b1ca46304a68426b79ceeeb4a29de",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 559,
+            "byte_start": 9888232,
+            "byte_end_exclusive": 9993317
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "4a087e78f9516d969872d7bac51959f8401e644418bf3592fc6bdcb00e87276d",
+    "input_sha256": "0486284fb7838605bdae1ead0bdb48f9993ef9de562fc681347635879ce1ee3c"
+  },
+  "tags": []
+}

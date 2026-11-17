@@ -1,0 +1,54 @@
+{
+  "id": "financial_tables/tu-2026-08-13_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "**Website:**\n\nThe full release and supplementary data will be available on <u>www.ihgplc.com/en/investors/results-and-presentations</u> from 7:00am (London time) on 22 October 2024.\n\n**About IHG Hotels & Resorts:**\n\n<u>IHG Hotels & Resorts</u> (tickers: LON:IHG for Ordinary Shares; NYSE:IHG for ADRs) is a global hospitality company, with\na purpose to provide True Hospitality for Good.\n\nWith a family of 19 hotel brands and <u>IHG One Rewards</u>, one of the world’s largest hotel loyalty programmes, IHG has over 6,500 open hotels in more than 100 countries, and a development pipeline of over 2,200 properties.\n\n- **Luxury & Lifestyle:** Six Senses Hotels Resorts Spas, Regent Hotels & Resorts, InterContinental Hotels & Resorts, Vignette Collection, Kimpton Hotels & Restaurants, Hotel Indigo\n\n- **Premium:** <u>voco hotels</u>, <u>HUALUXE Hotels & Resorts</u>, <u>Crowne Plaza Hotels & Resorts</u>, <u>EVEN Hotels</u>\n\n- **Essentials:** <u>Holiday Inn Hotels & Resorts</u>, <u>Holiday Inn Express</u>, <u>Garner hotels</u>, <u>avid hotels</u>\n\n- **Suites:** <u>Atwell Suites</u>, <u>Staybridge Suites</u>, <u>Holiday Inn Club Vacations</u>, <u>Candlewood Suites</u>\n\n- **Exclusive Partners:** <u>Iberostar Beachfront Resorts</u>\n\nInterContinental Hotels Group PLC is the Group’s holding company and is incorporated and registered in England and Wales. Approximately 375,000 people work across IHG’s hotels and corporate offices globally.\n\nVisit us online for more about our <u>hotels and reservations</u> and <u>IHG One Rewards</u>. To download the IHG One Rewards app, visit the <u>Apple App</u> or <u>Google Play</u> stores.\n\nFor our latest news, visit our <u>Newsroom</u> and follow us on <u>LinkedIn</u>.\n\nAppendix 1: RevPAR<sup>a</sup> movement summary at constant exchange rates (CER)\n\n<table>\n<thead>\n<tr>\n<th rowspan=\"2\"></th>\n<th colspan=\"3\">Q3 2024 vs 2023</th>\n<th colspan=\"3\">Q3 YTD 2024 vs 2023</th>\n</tr>\n<tr>\n<th>RevPAR</th>\n<th>ADR</th>\n<th>Occupancy</th>\n<th>RevPAR</th>\n<th>ADR</th>\n<th>Occupancy</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Global</td>\n<td>+1.5%</td>\n<td>+1.7%</td>\n<td>-0.1%pts</td>\n<td>+2.4%</td>\n<td>+1.9%</td>\n<td>+0.4%pts</td>\n</tr>\n<tr>\n<td>Americas</td>\n<td>+1.7%</td>\n<td>+1.7%</td>\n<td>0.0%pts</td>\n<td>+1.8%</td>\n<td>+1.7%</td>\n<td>0.0%pts</td>\n</tr>\n<tr>\n<td>EMEAA</td>\n<td>+4.9%</td>\n<td>+3.6%</td>\n<td>+0.9%pts</td>\n<td>+6.4%</td>\n<td>+3.5%</td>\n<td>+2.0%pts</td>\n</tr>\n<tr>\n<td>Greater China</td>\n<td>-10.3%</td>\n<td>-7.4%</td>\n<td>-2.1%pts</td>\n<td>-5.6%</td>\n<td>-4.2%</td>\n<td>-0.9%pts</td>\n</tr>\n</tbody>\n</table>\n\nAppendix 2: RevPAR<sup>a</sup> movement at CER vs actual exchange rates (AER)\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\"></th>\n      <th colspan=\"3\">Q3 2024 vs 2023</th>\n      <th colspan=\"3\">Q3 YTD 2024 vs 2023</th>\n    </tr>\n    <tr>\n      <th>CER (as above)</th>\n      <th>AER</th>\n      <th>Difference</th>\n      <th>CER (as above)</th>\n      <th>AER</th>\n      <th>Difference</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Global</td>\n      <td>+1.5%</td>\n      <td>+1.2%</td>\n      <td>-0.3%pts</td>\n      <td>+2.4%</td>\n      <td>+1.7%</td>\n      <td>-0.7%pts</td>\n    </tr>\n    <tr>\n      <td>Americas</td>\n      <td>+1.7%</td>\n      <td>+1.0%</td>\n      <td>-0.7%pts</td>\n      <td>+1.8%</td>\n      <td>+1.5%</td>\n      <td>-0.3%pts</td>\n    </tr>\n    <tr>\n      <td>EMEAA</td>\n      <td>+4.9%</td>\n      <td>+4.9%</td>\n      <td>0.0%pts</td>\n      <td>+6.4%</td>\n      <td>+5.3%</td>\n      <td>-1.1%pts</td>\n    </tr>\n    <tr>\n      <td>Greater China</td>\n      <td>-10.3%</td>\n      <td>-9.5%</td>\n      <td>+0.8%pts</td>\n      <td>-5.6%</td>\n      <td>-7.5%</td>\n      <td>-1.9%pts</td>\n    </tr>\n  </tbody>\n</table>\n\n**Appendix 3: System and pipeline summary of Q3 2024 YTD and YOY growths, and closing positions (rooms)**\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\"></th>\n      <th colspan=\"6\">System</th>\n      <th colspan=\"2\">Pipeline</th>\n    </tr>\n    <tr>\n      <th>Openings</th>\n      <th>Removals</th>\n      <th>Net</th>\n      <th>Total</th>\n      <th>YTD%</th>\n      <th>YOY%</th>\n      <th>Signings</th>\n      <th>Total</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Global</td>\n      <td>10,334</td>\n      <td>(13,572)</td>\n      <td>3,207</td>\n      <td>968,112</td>\n      <td>+2.3%</td>\n      <td>+4.1%</td>\n      <td>76,276</td>\n      <td>326,518</td>\n    </tr>\n    <tr>\n      <td>Americas</td>\n      <td>10,334</td>\n      <td>(7,127)</td>\n      <td>3,207</td>\n      <td>522,801</td>\n      <td>+0.6%</td>\n      <td>+1.1%</td>\n      <td>16,880</td>\n      <td>110,339</td>\n    </tr>\n    <tr>\n      <td>EMEAA</td>\n      <td>12,983</td>\n      <td>(3,143)</td>\n      <td>9,681</td>\n      <td>256,948</td>\n      <td>+3.9%</td>\n      <td>+6.6%</td>\n      <td>37,684</td>\n      <td>102,607</td>\n    </tr>\n    <tr>\n      <td>Greater China</td>\n      <td>12,164</td>\n      <td>(3,143)</td>\n      <td>9,021</td>\n      <td>188,363</td>\n      <td>+5.0%</td>\n      <td>+9.6%</td>\n      <td>21,712</td>\n      <td>113,572</td>\n    </tr>\n  </tbody>\n</table>\n\na. RevPAR (revenue per available room), ADR (average daily rate) and occupancy are on a comparable basis, based on comparability as at 30 September 2024 and includes hotels that have traded in all months in both the current and the prior year. The principal exclusions in deriving these measures are new openings, properties under major refurbishments and removals. See ‘Use of key performance measures and non-GAAP measures’ in IHG’s full year and half year results announcements for further information on the definitions.\n\n**Cautionary note regarding forward-looking statements:**\n\nThis announcement contains certain forward-looking statements as defined under United States law (Section 21E of the Securities Exchange Act of 1934) and otherwise. These forward-looking statements can be identified by the fact that they do not relate only to historical or current facts. Forward-looking statements often use words such as ‘anticipate’, ‘target’, ‘expect’, ‘estimate’, ‘intend’, ‘plan’, ‘goal’, ‘believe’ or other words of similar meaning. These statements are based on assumptions and assessments made by InterContinental Hotels Group PLC’s management in light of their experience and their perception of historical trends, current conditions, expected future developments and other factors they believe to be appropriate. By their nature, forward-looking statements are inherently predictive, speculative and involve risk and uncertainty. There are a number of factors that could cause actual results and developments to differ materially from those expressed in or implied by, such forward-looking statements. The main factors that could affect the business and the financial results are described in the ‘Risk Factors’ section in the current InterContinental Hotels Group PLC’s Annual report and Form 20-F filed with the United States Securities and Exchange Commission.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "tu.pdf",
+    "source_sha256": "817622b1560333f178ebad46f3ef14bb73329b8b3dca883c45d454522c8152eb",
+    "annotated_at": "2026-08-13T05:59:13.089Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/tu-2026-08-13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/858446/000165495424013175/a0305j.htm",
+      "accession": "0001654954-24-013175",
+      "provider": "datamulehub",
+      "sha256": "5f3d28da695ccc62407396a0413fa8ebba402a2a0a0c6b95eb66b4cf9eebef16",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 6,
+            "byte_start": 55292,
+            "byte_end_exclusive": 66810
+          },
+          {
+            "table_index_0based": 7,
+            "byte_start": 67552,
+            "byte_end_exclusive": 79014
+          },
+          {
+            "table_index_0based": 8,
+            "byte_start": 79865,
+            "byte_end_exclusive": 93288
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "817622b1560333f178ebad46f3ef14bb73329b8b3dca883c45d454522c8152eb",
+    "input_sha256": "1b43578961a74eae657f9da170e95cc3a97c522bbb03e272e3f128800d2be940"
+  },
+  "tags": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": "financial_tables/q205data_sum-2026-08-13_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "**Apple Computer, Inc. Q2 2005 Unaudited Summary Data**\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">Q1 2005 Actual</th>\n      <th colspan=\"2\">Q2 2004 Actual</th>\n      <th colspan=\"2\">Q2 2005 Actual</th>\n      <th colspan=\"2\">Sequential Change</th>\n      <th colspan=\"2\">Year/Year Change</th>\n    </tr> \n    <tr>\n      <th>Operating Segments</th>\n      <th>CPU Units k</th>\n      <th>Rev $m</th>\n      <th>CPU Units k</th>\n      <th>Rev $m</th>\n      <th>CPU Units k</th>\n      <th>Rev $m</th>\n      <th>Sequential Change<br>Units</th>\n      <th>Sequential Change<br>Revenue</th>\n      <th>Year/Year Change<br>Units</th>\n      <th>Year/Year Change<br>Revenue</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Americas</td>\n      <td>476</td>\n      <td>$1,637</td>\n      <td>361</td>\n      <td>$881</td>\n      <td>477</td>\n      <td>$1,443</td>\n      <td>0%</td>\n      <td>-12%</td>\n      <td>32%</td>\n      <td>64%</td>\n    </tr>\n    <tr>\n      <td>Europe</td>\n      <td>320</td>\n      <td>847</td>\n      <td>187</td>\n      <td>449</td>\n      <td>276</td>\n      <td>705</td>\n      <td>-14%</td>\n      <td>-17%</td>\n      <td>48%</td>\n      <td>57%</td>\n    </tr>\n    <tr>\n      <td>Japan</td>\n      <td>64</td>\n      <td>185</td>\n      <td>76</td>\n      <td>173</td>\n      <td>102</td>\n      <td>284</td>\n      <td>59%</td>\n      <td>54%</td>\n      <td>34%</td>\n      <td>64%</td>\n    </tr>\n    <tr>\n      <td>Retail</td>\n      <td>119</td>\n      <td>561</td>\n      <td>70</td>\n      <td>266</td>\n      <td>144</td>\n      <td>571</td>\n      <td>21%</td>\n      <td>2%</td>\n      <td>106%</td>\n      <td>115%</td>\n    </tr>\n    <tr>\n      <td>Other Segments (1)</td>\n      <td>67</td>\n      <td>260</td>\n      <td>55</td>\n      <td>140</td>\n      <td>71</td>\n      <td>240</td>\n      <td>6%</td>\n      <td>-8%</td>\n      <td>29%</td>\n      <td>71%</td>\n    </tr>\n    <tr>\n      <td><b>Total Operating Segments</b></td>\n      <td>1,046</td>\n      <td>$3,490</td>\n      <td>749</td>\n      <td>$1,909</td>\n      <td>1,070</td>\n      <td>$3,243</td>\n      <td>2%</td>\n      <td>-7%</td>\n      <td>43%</td>\n      <td>70%</td>\n    </tr>\n    <tr>\n      <th rowspan=2><b>Product Summary</b></th>\n      <th rowspan=2>Units k</th>\n      <th rowspan=2>Rev $m</th>\n      <th rowspan=2>Units k</th>\n      <th rowspan=2>Rev $m</th>   <th rowspan=2>Units k</th>\n      <th rowspan=2>Rev $m</th>\n      <th colspan=\"2\">Sequential Change</th>\n      <th colspan=\"2\">Year/Year Change</th>\n    </tr>\n    <tr><th>Units</th>\n      <th>Revenue</th>\n      <th>Units</th>\n      <th>Revenue</th>\n    </tr>\n    <tr>\n      <td>iMac (2)</td>\n      <td>456</td>\n      <td>$620</td>\n      <td>217</td>\n      <td>$252</td>\n      <td>467</td>\n      <td>$483</td>\n      <td>2%</td>\n      <td>-22%</td>\n      <td>115%</td>\n      <td>92%</td>\n    </tr>\n    <tr>\n      <td>iBook</td>\n      <td>271</td>\n      <td>297</td>\n      <td>201</td>\n      <td>223</td>\n      <td>251</td>\n      <td>278</td>\n      <td>-7%</td>\n      <td>-6%</td>\n      <td>25%</td>\n      <td>25%</td>\n    </tr>\n    <tr>\n      <td>Power Mac (3)</td>\n      <td>167</td>\n      <td>381</td>\n      <td>174</td>\n      <td>349</td>\n      <td>141</td>\n      <td>320</td>\n      <td>-16%</td>\n      <td>-16%</td>\n      <td>-19%</td>\n      <td>-8%</td>\n    </tr>\n    <tr>\n      <td>PowerBook</td>\n      <td>152</td>\n      <td>307</td>\n      <td>157</td>\n      <td>336</td>\n      <td>211</td>\n      <td>413</td>\n      <td>39%</td>\n      <td>35%</td>\n      <td>34%</td>\n      <td>23%</td>\n    </tr>\n    <tr>\n      <td><b>Subtotal CPUs</b></td>\n      <td>1,046</td>\n      <td>1,605</td>\n      <td>749</td>\n      <td>1,160</td>\n      <td>1,070</td>\n      <td>1,494</td>\n      <td>2%</td>\n      <td>-7%</td>\n      <td>43%</td>\n      <td>29%</td>\n    </tr>\n    <tr>\n      <td>iPod</td>\n      <td>4,580</td>\n      <td>1,211</td>\n      <td>807</td>\n      <td>264</td>\n      <td>5,311</td>\n      <td>1,014</td>\n      <td>16%</td>\n      <td>-16%</td>\n      <td>558%</td>\n      <td>284%</td>\n    </tr>\n    <tr>\n      <td>Other Music Products (4)</td>\n      <td>NM</td>\n      <td>177</td>\n      <td>NM</td>\n      <td>60</td>\n      <td>NM</td>\n      <td>216</td>\n      <td>NM</td>\n      <td>22%</td>\n      <td>NM</td>\n      <td>260%</td>\n    </tr>\n    <tr>\n      <td>Peripherals & Other HW</td>\n      <td>NM</td>\n      <td>284</td>\n      <td>NM</td>\n      <td>238</td>\n      <td>NM</td>\n      <td>280</td>\n      <td>NM</td>\n      <td>-1%</td>\n      <td>NM</td>\n      <td>18%</td>\n    </tr>\n    <tr>\n      <td>Software & Other</td>\n      <td>NM</td>\n      <td>213</td>\n      <td>NM</td>\n      <td>187</td>\n      <td>NM</td>\n      <td>239</td>\n      <td>NM</td>\n      <td>12%</td>\n      <td>NM</td>\n      <td>28%</td>\n    </tr>\n    <tr>\n      <td><b>Total Apple</b></td>\n      <td></td>\n      <td>$3,490</td>\n      <td></td>\n      <td>$1,909</td>\n      <td></td>\n      <td>$3,243</td>\n      <td></td>\n      <td>-7%</td>\n      <td></td>\n      <td>70%</td>\n    </tr>\n  </tbody>\n</table>\n\n(1) Other Segments include Asia Pacific and FileMaker.\n\n(2) Includes eMac and Mac mini product lines.\n\n(3) Includes Xserve product line.\n\n(4) Other Music Products consists of iTunes Music Store sales and iPod related services and accessories.\n\nNM: Not Meaningful",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "q205data_sum.pdf",
+    "source_sha256": "03a11bd2f48f066e42f7344d8e696d5a0c918142b5af1f18c36701cbc941f9b6",
+    "annotated_at": "2026-08-13T06:16:30.414Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/q205data_sum-2026-08-13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000110465905016307/a05-6665_1ex99d2.htm",
+      "accession": "0001104659-05-016307",
+      "provider": "datamulehub",
+      "sha256": "8e5f5ab55e456d759c9c0da74af2e9ef2a5f06fb047427042edd1b9606cd2066",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 0,
+            "byte_start": 914,
+            "byte_end_exclusive": 44868
+          },
+          {
+            "table_index_0based": 1,
+            "byte_start": 44962,
+            "byte_end_exclusive": 123108
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "03a11bd2f48f066e42f7344d8e696d5a0c918142b5af1f18c36701cbc941f9b6",
+    "input_sha256": "d9a097008ec191f1c15c78dc293d7ad500f6496a9a34ba7fc2986c7876c77184"
+  },
+  "tags": []
+}

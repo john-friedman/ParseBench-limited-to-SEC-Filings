@@ -1,0 +1,45 @@
+{
+  "id": "tables/Goldman Sachs 10-k_page79",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">As of December</th>\n    </tr>\n        <tr>\n        <th>$ in millions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Cash and cash equivalents</td>\n<td>$ 36,364</td>\n<td>$ 48,677</td>\n    </tr>\n<tr>\n        <td class=\"\">Collateralized agreements</td>\n<td>12,126</td>\n<td>14,020</td>\n    </tr>\n<tr>\n        <td class=\"\">Customer and other receivables</td>\n<td>19,999</td>\n<td>14,859</td>\n    </tr>\n<tr>\n        <td class=\"\">Trading assets</td>\n<td>41,724</td>\n<td>27,324</td>\n    </tr>\n<tr>\n        <td class=\"\">Investments</td>\n<td>23,130</td>\n<td>24,487</td>\n    </tr>\n<tr>\n        <td class=\"\">Loans</td>\n<td>46,694</td>\n<td>45,866</td>\n    </tr>\n<tr>\n        <td class=\"\">Other assets</td>\n<td>13,291</td>\n<td>16,630</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>$ 193,328</td>\n<td>$ 191,863</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">As of December</th>\n    </tr>\n        <tr>\n        <th>$ in millions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Corporate</td>\n<td>$ 7,377</td>\n<td>$ 11,715</td>\n    </tr>\n<tr>\n        <td class=\"\">Real estate</td>\n<td>18,053</td>\n<td>16,603</td>\n    </tr>\n<tr>\n        <td class=\"\">Securities-based</td>\n<td>12,198</td>\n<td>10,863</td>\n    </tr>\n<tr>\n        <td class=\"\">Other collateralized</td>\n<td>8,027</td>\n<td>6,698</td>\n    </tr>\n<tr>\n        <td class=\"\">Other</td>\n<td>1,951</td>\n<td>1,121</td>\n    </tr>\n<tr>\n        <td class=\"\">Loans, gross</td>\n<td>47,606</td>\n<td>47,000</td>\n    </tr>\n<tr>\n        <td class=\"\">Allowance for loan losses</td>\n<td>(912)</td>\n<td>(1,134)</td>\n    </tr>\n<tr>\n        <td class=\"\">Total loans</td>\n<td>$ 46,694</td>\n<td>$ 45,866</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"3\">Year Ended December</th>\n    </tr>\n        <tr>\n        <th>$ in millions</th>\n<th>2024</th>\n<th>2023</th>\n<th>2022</th>\n    </tr>\n<tr>\n        <td class=\"\">Management and other fees</td>\n<td>$10,425</td>\n<td>$ 9,486</td>\n<td>$ 8,781</td>\n    </tr>\n<tr>\n        <td class=\"\">Incentive fees</td>\n<td>393</td>\n<td>161</td>\n<td>359</td>\n    </tr>\n<tr>\n        <td class=\"\">Private banking and lending</td>\n<td>2,881</td>\n<td>2,576</td>\n<td>2,458</td>\n    </tr>\n<tr>\n        <td class=\"\">Equity investments</td>\n<td>1,359</td>\n<td>342</td>\n<td>610</td>\n    </tr>\n<tr>\n        <td class=\"\">Debt investments</td>\n<td>1,084</td>\n<td>1,315</td>\n<td>1,168</td>\n    </tr>\n<tr>\n        <td class=\"\">Total net revenues</td>\n<td>16,142</td>\n<td>13,880</td>\n<td>13,376</td>\n    </tr>\n<tr>\n        <td class=\"\">Provision for credit losses</td>\n<td>(232)</td>\n<td>(508)</td>\n<td>519</td>\n    </tr>\n<tr>\n        <td class=\"\">Compensation and benefits expenses</td>\n<td>6,595</td>\n<td>6,144</td>\n<td>5,927</td>\n    </tr>\n<tr>\n        <td class=\"\">Other operating expenses</td>\n<td>5,230</td>\n<td>6,885</td>\n<td>5,623</td>\n    </tr>\n<tr>\n        <td class=\"\">Total operating expenses</td>\n<td>11,825</td>\n<td>13,029</td>\n<td>11,550</td>\n    </tr>\n<tr>\n        <td class=\"\">Pre-tax earnings</td>\n<td>4,549</td>\n<td>1,359</td>\n<td>1,307</td>\n    </tr>\n<tr>\n        <td class=\"\">Provision for taxes</td>\n<td>1,019</td>\n<td>281</td>\n<td>215</td>\n    </tr>\n<tr>\n        <td class=\"\">Net earnings</td>\n<td>3,530</td>\n<td>1,078</td>\n<td>1,092</td>\n    </tr>\n<tr>\n        <td class=\"\">Preferred stock dividends</td>\n<td>144</td>\n<td>126</td>\n<td>113</td>\n    </tr>\n<tr>\n        <td class=\"\">Net earnings to common</td>\n<td>$ 3,386</td>\n<td>$ 952</td>\n<td>$ 979</td>\n    </tr>\n<tr>\n        <td class=\"\">Average common equity</td>\n<td>$26,405</td>\n<td>$ 30,078</td>\n<td>$31,762</td>\n    </tr>\n<tr>\n        <td class=\"\">Return on average common equity</td>\n<td>12.8%</td>\n<td>3.2%</td>\n<td>3.1%</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Goldman Sachs 10-k_page79.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "d554e0a5bf3de29bb63f28f76d693d7cc759f6dcde34d6a8657a6ee6d3580a24",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 102,
+            "byte_start": 2274385,
+            "byte_end_exclusive": 2285102
+          },
+          {
+            "table_index_0based": 103,
+            "byte_start": 2285394,
+            "byte_end_exclusive": 2296107
+          },
+          {
+            "table_index_0based": 104,
+            "byte_start": 2297611,
+            "byte_end_exclusive": 2327370
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ded9de640eb880cd7dff8bfee8501cc2ade472cf92eb2a8273169f5e53788784",
+    "input_sha256": "d0c625d0585739075e1fb9f258c1ded454b80191b5eb24fe9578f82bcbc994ce"
+  },
+  "tags": []
+}

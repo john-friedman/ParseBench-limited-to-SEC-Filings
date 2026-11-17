@@ -1,0 +1,35 @@
+{
+  "id": "tables/Apple 10-k_page22",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th>Periods</th>\n        <th>Total Number of Shares Purchased</th>\n        <th>Average Price Paid Per Share</th>\n        <th>Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs</th>\n        <th>Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs (1)</th>\n    </tr>\n        <tr>\n        <td>June 29, 2025 to August 2, 2025:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td>Open market and privately negotiated purchases</td>\n<td>33,265</td>\n<td>$ 210.43</td>\n<td>33,265</td>\n<td></td>\n    </tr>\n<tr>\n        <td>August 3, 2025 to August 30, 2025:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td>Open market and privately negotiated purchases</td>\n<td>28,986</td>\n<td>$ 224.25</td>\n<td>28,986</td>\n<td></td>\n    </tr>\n<tr>\n        <td>August 31, 2025 to September 27, 2025:</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td>Open market and privately negotiated purchases</td>\n<td>27,247</td>\n<td>$ 238.56</td>\n<td>27,247</td>\n<td></td>\n    </tr>\n<tr>\n        <td>Total</td>\n<td>89,498</td>\n<td></td>\n<td></td>\n<td>$ 99,779</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Apple 10-k_page22.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "accession": "0000320193-25-000079",
+      "provider": "datamulehub",
+      "sha256": "274361a794f84b24d75b4ee98bc8eff5a031b4fc1be1a1210dbc2b10d92c5179",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 12,
+            "byte_start": 314604,
+            "byte_end_exclusive": 327990
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "01fb9d7d5b2fa02320005598d7478c9cba7cab9946ebeceecc49c84fcbaeff8c",
+    "input_sha256": "19d79a85fc25a4d2014bf60ae7ee5dd2c4a501c0cfe31bde0a47e83480b120fe"
+  },
+  "tags": []
+}

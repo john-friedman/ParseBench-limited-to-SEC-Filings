@@ -1,0 +1,260 @@
+{
+  "id": "dense_tables/dense_table_400",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "184 NOTES TO THE NOVARTIS GROUP CONSOLIDATED FINANCIAL STATEMENTS\n\n# 33. PRINCIPAL GROUP SUBSIDIARIES AND ASSOCIATED COMPANIES\n\nAs at December 31, 2005\n\n<table>\n<thead>\n<tr><th></th><th>Share/ paid-in capital<sup>1</sup></th><th>Equity interest %</th><th>Activities</th></tr>\n</thead>\n<tbody>\n<tr><td>Argentina</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Argentina S.A., Buenos Aires</td><td>ARS 230.6 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Sandoz S.A., Buenos Aires</td><td>ARS 11.8 m</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Australia</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Australia Pty Ltd., North Ryde, NSW</td><td>AUD 11.0 m</td><td>100</td><td>■</td></tr>\n<tr><td>Novartis Pharmaceuticals Australia Pty Ltd., North Ryde, NSW</td><td>AUD 3.8 m</td><td>100</td><td>◆ ▲</td></tr>\n<tr><td>Sandoz Pty Ltd., North Ryde, NSW</td><td>AUD 11.6 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Novartis Consumer Health Australasia Pty Ltd., Mulgrave, Victoria</td><td>AUD 7.6 m</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Novartis Animal Health Australasia Pty Ltd., North Ryde, NSW</td><td>AUD 3.0 m</td><td>100</td><td>◆ ▲</td></tr>\n<tr><td>Austria</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Pharma GmbH, Vienna</td><td>EUR 1.1 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Novartis Institutes for BioMedical Research GmbH &amp; Co KG, Vienna</td><td>EUR 10.9 m</td><td>100</td><td>▲</td></tr>\n<tr><td>Sandoz GmbH, Kundl</td><td>EUR 32.7 m</td><td>100</td><td>■◆▼▲</td></tr>\n<tr><td>Novartis Animal Health GmbH, Kundl</td><td>EUR 37 000</td><td>100</td><td>◆</td></tr>\n<tr><td>Bangladesh</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis (Bangladesh) Limited, Dhaka</td><td>BDT 162.5 m</td><td>60</td><td>◆▼</td></tr>\n<tr><td>Belgium</td><td></td><td></td><td></td></tr>\n<tr><td>N.V. Novartis Management Services S.A., Vilvoorde</td><td>EUR 7.5 m</td><td>100</td><td>■</td></tr>\n<tr><td>N.V. Novartis Pharma S.A., Vilvoorde</td><td>EUR 7.1 m</td><td>100</td><td>◆</td></tr>\n<tr><td>N.V. Sandoz S.A., Vilvoorde</td><td>EUR 4.2 m</td><td>100</td><td>◆</td></tr>\n<tr><td>N.V. Novartis Consumer Health S.A., Vilvoorde</td><td>EUR 4.3 m</td><td>100</td><td>◆</td></tr>\n<tr><td>N.V. Nutrition &amp; Santé Benelux S.A., Brussels</td><td>EUR 509 630</td><td>95</td><td>◆</td></tr>\n<tr><td>N.V. CIBA Vision Benelux S.A., Mechelen</td><td>EUR 62 000</td><td>100</td><td>◆</td></tr>\n<tr><td>Bermuda</td><td></td><td></td><td></td></tr>\n<tr><td>Triangle International Reinsurance Ltd., Hamilton</td><td>CHF 1.0 m</td><td>100</td><td>■</td></tr>\n<tr><td>Novartis Securities Investment Ltd., Hamilton</td><td>CHF 30 000</td><td>100</td><td>■</td></tr>\n<tr><td>Novartis International Pharmaceutical Ltd., Hamilton</td><td>CHF 10.0 m</td><td>100</td><td>■◆▼▲</td></tr>\n<tr><td>Brazil</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Biociências S.A., São Paulo</td><td>BRL 232.3 m</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Sandoz do Brasil Indústria Farmacêutica Ltda., Cambé</td><td>BRL 139.5 m</td><td>100</td><td>◆▼▲</td></tr>\n<tr><td>Novartis Saúde Animal Ltda., São Paulo</td><td>BRL 50.7 m</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Canada</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Pharmaceuticals Canada Inc., Dorval/Montreal</td><td>CAD 0<sup>2</sup></td><td>100</td><td>◆ ▲</td></tr>\n<tr><td>Sandoz Canada Inc., Boucherville, Quebec</td><td>CAD 2</td><td>100</td><td>◆▼▲</td></tr>\n<tr><td>Novartis Consumer Health Canada Inc., Mississauga, Ontario</td><td>CAD 2</td><td>100</td><td>◆</td></tr>\n<tr><td>CIBA Vision Canada Inc., Mississauga, Ontario</td><td>CAD 1</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Chile</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Chile S.A., Santiago de Chile</td><td>CLP 2.0 bn</td><td>100</td><td>◆</td></tr>\n<tr><td>China</td><td></td><td></td><td></td></tr>\n<tr><td>Beijing Novartis Pharma Co., Ltd., Beijing</td><td>CNY 111.3 m</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Novartis Pharmaceuticals (HK) Limited, Hong Kong</td><td>HKD 200</td><td>100</td><td>◆</td></tr>\n<tr><td>Shanghai Novartis Trading Ltd., Shanghai</td><td>CNY 20.3 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Colombia</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis de Colombia S.A., Santafé de Bogotá</td><td>COP 20.9 bn</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Croatia</td><td></td><td></td><td></td></tr>\n<tr><td>Lek Zagreb d.o.o., Zagreb</td><td>HRK 25.6 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Czech Republic</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis s.r.o., Prague</td><td>CZK 51.5 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Lek Pharma s.r.o., Prague</td><td>CZK 44.7 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Denmark</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Healthcare A/S, Copenhagen</td><td>DKK 10.0 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Sandoz A/S, Odense</td><td>DKK 5.0 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Hexal A/S, Hvidovre</td><td>DKK 10.0 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Ecuador</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Ecuador S.A., Quito</td><td>USD 209 193</td><td>100</td><td>◆</td></tr>\n<tr><td>Egypt</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Pharma S.A.E., Cairo</td><td>EGP 33.8 m</td><td>99</td><td>▼</td></tr>\n<tr><td>Novartis Egypt (Healthcare) S.A.E., Cairo</td><td>EGP 250 000</td><td>95</td><td>◆</td></tr>\n<tr><td>Finland</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Finland Oy, Espoo</td><td>EUR 459 000</td><td>100</td><td>◆</td></tr>\n</tbody>\n</table>\n\n<table>\n<thead>\n<tr><th></th><th>Share/ paid-in capital<sup>1</sup></th><th>Equity interest %</th><th>Activities</th></tr>\n</thead>\n<tbody>\n<tr><td>France</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Groupe France S.A., Rueil-Malmaison</td><td>EUR 103.0 m</td><td>100</td><td>■</td></tr>\n<tr><td>Novartis Pharma S.A.S., Rueil-Malmaison</td><td>EUR 43.4 m</td><td>100</td><td>◆▼▲</td></tr>\n<tr><td>Sandoz S.A.S., Levallois-Perret</td><td>EUR 2.6 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Laboratoires G-Gam S.à r.l., Créteil</td><td>EUR 1.2 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Novartis Santé Familiale S.A.S., Rueil-Malmaison</td><td>EUR 21.9 m</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Novartis Santé Animale S.A.S., Rueil-Malmaison</td><td>EUR 900 000</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Novartis Nutrition S.A.S., Revel</td><td>EUR 300 000</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Nutrition et Santé S.A.S., Revel</td><td>EUR 30.2 m</td><td>95</td><td>■◆▼▲</td></tr>\n<tr><td>CIBA Vision S.A.S., Blagnac</td><td>EUR 1.8 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Germany</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Deutschland GmbH, Wehr</td><td>EUR 155.5 m</td><td>100</td><td>■</td></tr>\n<tr><td>Novartis Pharma GmbH, Nuremberg</td><td>EUR 25.6 m</td><td>100</td><td>◆ ▲</td></tr>\n<tr><td>Novartis Pharma Produktions GmbH, Wehr</td><td>EUR 2.0 m</td><td>100</td><td>▼</td></tr>\n<tr><td>Sandoz International GmbH, Holzkirchen</td><td>EUR 100 000</td><td>100</td><td>■</td></tr>\n<tr><td>Sandoz Pharmaceuticals GmbH, Ismaning</td><td>EUR 5.1 m</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Sandoz Industrial Products GmbH, Frankfurt a. M.</td><td>EUR 2.6 m</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Hexal Aktiengesellschaft, Holzkirchen</td><td>EUR 93.7 m</td><td>100</td><td>■◆▼</td></tr>\n<tr><td>Salutas Pharma GmbH, Barleben</td><td>EUR 41.7 m</td><td>100</td><td>◆▼</td></tr>\n<tr><td>1 A Pharma GmbH, Oberhaching</td><td>EUR 25 565</td><td>100</td><td>◆</td></tr>\n<tr><td>Novartis Consumer Health GmbH, Munich</td><td>EUR 14.6 m</td><td>100</td><td>◆▼▲</td></tr>\n<tr><td>Novartis Nutrition GmbH, Munich</td><td>EUR 23.5 m</td><td>100</td><td>◆▼▲</td></tr>\n<tr><td>CIBA Vision Vertriebs GmbH, Grossostheim</td><td>EUR 2.6 m</td><td>100</td><td>◆</td></tr>\n<tr><td>CIBA Vision GmbH, Grosswallstadt</td><td>EUR 15.4 m</td><td>100</td><td>◆▼▲</td></tr>\n<tr><td>Gibraltar</td><td></td><td></td><td></td></tr>\n<tr><td>Novista Insurance Limited, Gibraltar</td><td>CHF 130.0 m</td><td>100</td><td>■</td></tr>\n<tr><td>Great Britain</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis UK Limited, Frimley/Camberley</td><td>GBP 25.5 m</td><td>100</td><td>■</td></tr>\n<tr><td>Novartis Pharmaceuticals UK Limited, Frimley/Camberley</td><td>GBP 5.4 m</td><td>100</td><td>◆▼▲</td></tr>\n<tr><td>Novartis Grimsby Limited, Frimley/Camberley</td><td>GBP 230 m</td><td>100</td><td>▼</td></tr>\n<tr><td>Sandoz Limited, Bordon</td><td>GBP 2.0 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Novartis Consumer Health UK Limited, Horsham</td><td>GBP 25 000</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Novartis Animal Health UK Limited, Royston</td><td>GBP 100 000</td><td>100</td><td>◆ ▲</td></tr>\n<tr><td>Vericore Limited, Royston</td><td>GBP 2</td><td>100</td><td>◆▼</td></tr>\n<tr><td>CIBA Vision (UK) Limited, Southampton</td><td>GBP 550 000</td><td>100</td><td>◆</td></tr>\n<tr><td>Greece</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis (Hellas) S.A.C.I., Athens</td><td>EUR 14.6 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Hungary</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Hungary Healthcare Limited Liability Company, Budapest</td><td>HUF 545.6 m</td><td>100</td><td>◆</td></tr>\n<tr><td>India</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis India Limited, Mumbai</td><td>INR 159.8 m</td><td>51</td><td>◆▼</td></tr>\n<tr><td>Sandoz Private Limited, Mumbai</td><td>INR 32.0 m</td><td>100</td><td>◆▼</td></tr>\n<tr><td>Indonesia</td><td></td><td></td><td></td></tr>\n<tr><td>PT Novartis Indonesia, Jakarta</td><td>IDR 7.7 bn</td><td>100</td><td>◆▼</td></tr>\n<tr><td>PT CIBA Vision Batam, Batam</td><td>IDR 11.9 bn</td><td>100</td><td>▼</td></tr>\n<tr><td>Ireland</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Ireland Limited, Dublin</td><td>EUR 25 000</td><td>100</td><td>◆</td></tr>\n<tr><td>Novartis Ringaskiddy Limited, Ringaskiddy, County Cork</td><td>EUR 2.0 m</td><td>100</td><td>▼</td></tr>\n<tr><td>Italy</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Farma S.p.A., Origgio</td><td>EUR 18.2 m</td><td>100</td><td>■◆▼▲</td></tr>\n<tr><td>Sandoz S.p.A., Origgio</td><td>EUR 390 000</td><td>100</td><td>◆</td></tr>\n<tr><td>Sandoz Industrial Products S.p.A., Rovereto</td><td>EUR 2.6 m</td><td>100</td><td>▼</td></tr>\n<tr><td>Novartis Consumer Health S.p.A., Origgio</td><td>EUR 2.9 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Nutrition &amp; Santé Italia S.p.A., Origgio</td><td>EUR 1.7 m</td><td>95</td><td>◆</td></tr>\n<tr><td>CIBA Vision S.r.l., Marcon</td><td>EUR 2.4 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Japan</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Holding Japan K.K., Tokyo</td><td>JPY 10.0 m</td><td>100</td><td>■</td></tr>\n<tr><td>Novartis Pharma K.K., Tokyo</td><td>JPY 6.0 bn</td><td>100</td><td>◆ ▲</td></tr>\n<tr><td>Ciba-Geigy Japan Limited, Tokyo</td><td>JPY 8.5 bn</td><td>100</td><td>▼</td></tr>\n<tr><td>CIBA Vision K.K., Tokyo</td><td>JPY 495.0 m</td><td>100</td><td>◆</td></tr>\n<tr><td>Liechtenstein</td><td></td><td></td><td></td></tr>\n<tr><td>Novista Insurance Aktiengesellschaft, Vaduz</td><td>CHF 5.0 m</td><td>100</td><td>■</td></tr>\n<tr><td>Luxembourg</td><td></td><td></td><td></td></tr>\n<tr><td>Novartis Investments S.à r.l., Luxembourg</td><td>USD 2.6 bn</td><td>100</td><td>■</td></tr>\n</tbody>\n</table>\n\n*NOVARTIS GROUP FINANCIAL REPORT 2005*",
+  "test_rules": [
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "france",
+      "expected_neighbor": "novartis groupe france s.a., rueil-malmaison",
+      "table_anchor_cells": [
+        "novartis hungary healthcare limited liability company, budapest",
+        "novartis pharmaceuticals uk limited, frimley/camberley",
+        "novartis ringaskiddy limited, ringaskiddy, county cork",
+        "novartis sante familiale s.a.s., rueil-malmaison",
+        "sandoz industrial products gmbh, frankfurt a. m."
+      ],
+      "page": 1,
+      "pdf": "dense_table_400.pdf",
+      "verified": false,
+      "id": "dense_v01_46520b2e89d40ee2"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "sandoz pharmaceuticals gmbh, ismaning",
+      "expected_neighbor": "eur 5.1 m",
+      "table_anchor_cells": [
+        "novartis hungary healthcare limited liability company, budapest",
+        "novartis pharmaceuticals uk limited, frimley/camberley",
+        "novartis ringaskiddy limited, ringaskiddy, county cork",
+        "novartis sante familiale s.a.s., rueil-malmaison",
+        "sandoz industrial products gmbh, frankfurt a. m."
+      ],
+      "page": 1,
+      "pdf": "dense_table_400.pdf",
+      "verified": false,
+      "id": "dense_v01_6b40a6fcf8868b87"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "eur 5.1 m",
+      "expected_neighbor": "100",
+      "table_anchor_cells": [
+        "novartis hungary healthcare limited liability company, budapest",
+        "novartis pharmaceuticals uk limited, frimley/camberley",
+        "novartis ringaskiddy limited, ringaskiddy, county cork",
+        "novartis sante familiale s.a.s., rueil-malmaison",
+        "sandoz industrial products gmbh, frankfurt a. m."
+      ],
+      "page": 1,
+      "pdf": "dense_table_400.pdf",
+      "verified": false,
+      "id": "dense_v01_37f8cd8be74c85a0"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "novartis consumer health uk limited, horsham",
+      "expected_neighbor": "gbp 25 000",
+      "table_anchor_cells": [
+        "novartis hungary healthcare limited liability company, budapest",
+        "novartis pharmaceuticals uk limited, frimley/camberley",
+        "novartis ringaskiddy limited, ringaskiddy, county cork",
+        "novartis sante familiale s.a.s., rueil-malmaison",
+        "sandoz industrial products gmbh, frankfurt a. m."
+      ],
+      "page": 1,
+      "pdf": "dense_table_400.pdf",
+      "verified": false,
+      "id": "dense_v01_12aee3d912af4c0d"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "gbp 25 000",
+      "expected_neighbor": "100",
+      "table_anchor_cells": [
+        "novartis hungary healthcare limited liability company, budapest",
+        "novartis pharmaceuticals uk limited, frimley/camberley",
+        "novartis ringaskiddy limited, ringaskiddy, county cork",
+        "novartis sante familiale s.a.s., rueil-malmaison",
+        "sandoz industrial products gmbh, frankfurt a. m."
+      ],
+      "page": 1,
+      "pdf": "dense_table_400.pdf",
+      "verified": false,
+      "id": "dense_v01_5e4b55c1e15fc1fd"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "novartis ringaskiddy limited, ringaskiddy, county cork",
+      "expected_neighbor": "eur 2.0 m",
+      "table_anchor_cells": [
+        "novartis hungary healthcare limited liability company, budapest",
+        "novartis pharmaceuticals uk limited, frimley/camberley",
+        "novartis ringaskiddy limited, ringaskiddy, county cork",
+        "novartis sante familiale s.a.s., rueil-malmaison",
+        "sandoz industrial products gmbh, frankfurt a. m."
+      ],
+      "page": 1,
+      "pdf": "dense_table_400.pdf",
+      "verified": false,
+      "id": "dense_v01_f83cf3d893e5057a"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "novartis investments s.a r.l., luxembourg",
+      "expected_neighbor": "usd 2.6 bn",
+      "table_anchor_cells": [
+        "novartis hungary healthcare limited liability company, budapest",
+        "novartis pharmaceuticals uk limited, frimley/camberley",
+        "novartis ringaskiddy limited, ringaskiddy, county cork",
+        "novartis sante familiale s.a.s., rueil-malmaison",
+        "sandoz industrial products gmbh, frankfurt a. m."
+      ],
+      "page": 1,
+      "pdf": "dense_table_400.pdf",
+      "verified": false,
+      "id": "dense_v01_83bea99383dd925c"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "usd 2.6 bn",
+      "expected_neighbor": "100",
+      "table_anchor_cells": [
+        "novartis hungary healthcare limited liability company, budapest",
+        "novartis pharmaceuticals uk limited, frimley/camberley",
+        "novartis ringaskiddy limited, ringaskiddy, county cork",
+        "novartis sante familiale s.a.s., rueil-malmaison",
+        "sandoz industrial products gmbh, frankfurt a. m."
+      ],
+      "page": 1,
+      "pdf": "dense_table_400.pdf",
+      "verified": false,
+      "id": "dense_v01_ca74b30ab9380373"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "share/ paid-in capital",
+      "cell_b": "usd 2.6 bn",
+      "table_anchor_cells": [
+        "novartis hungary healthcare limited liability company, budapest",
+        "novartis pharmaceuticals uk limited, frimley/camberley",
+        "novartis ringaskiddy limited, ringaskiddy, county cork",
+        "novartis sante familiale s.a.s., rueil-malmaison",
+        "sandoz industrial products gmbh, frankfurt a. m."
+      ],
+      "page": 1,
+      "pdf": "dense_table_400.pdf",
+      "verified": false,
+      "id": "dense_v01_9703f0201827abb4"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_400",
+    "gt_status": "reannotated_confirmed",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_400.md",
+    "source_pdf": "/Users/pierre/Code/pdfDataSetOrdered/finance/novartis-annual-report-2005-en.pdf",
+    "source_page": 186,
+    "source_n_pages": 210,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 458.4,
+      "rows": 63,
+      "cols": 8,
+      "cells": 413,
+      "fill": 0.819,
+      "numeric_ratio": 0.228,
+      "n_items": 434,
+      "tabular_line_ratio": 0.851,
+      "n_blocks": 1
+    },
+    "shape_class": "medium/text/portrait",
+    "verify": {
+      "median_cell_len": 6,
+      "words_per_cell": 2.32,
+      "aligned_ratio": 0.961,
+      "row_coverage": 0.851,
+      "text_sha1": "5630cbc4f12e853db78b4840bbb162e1971ad4b7"
+    },
+    "header_preview": "Share/ | Equity | Share/ | Equity",
+    "draft_check": {
+      "text_layer_numbers": 175,
+      "numeric_coverage": 0.994
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 1.0,
+        "blind_rows": 20,
+        "text_layer_token_precision": 0.9923,
+        "text_layer_token_recall": 0.9978,
+        "agreement_with_previous_reference_table_next": 0.6676
+      },
+      "review": null,
+      "symbol_cells": true
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_400.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1114448/000104746906001059/a2166684z20-f.htm",
+      "accession": "0001047469-06-001059",
+      "provider": "datamulehub",
+      "sha256": "4f5b551a1fe27f1ffcb3d6c3f6344b59c5a9f3b321bd09e6e943512c9d016e6d",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 195,
+            "byte_start": 2512804,
+            "byte_end_exclusive": 2534963
+          },
+          {
+            "table_index_0based": 197,
+            "byte_start": 2536598,
+            "byte_end_exclusive": 2564024
+          },
+          {
+            "table_index_0based": 199,
+            "byte_start": 2565794,
+            "byte_end_exclusive": 2592584
+          },
+          {
+            "table_index_0based": 201,
+            "byte_start": 2594219,
+            "byte_end_exclusive": 2621490
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "3cdf6909e6f687556295630cffadd1ce2213e0855f0a79176bd9de7e4031c5f7",
+    "input_sha256": "5441fa42292b72d920c1b481f806f508048206c081d062b9b837c67b1264108e"
+  },
+  "tags": [
+    "dense_table",
+    "medium_columns",
+    "text_content",
+    "portrait",
+    "gt_draft"
+  ]
+}

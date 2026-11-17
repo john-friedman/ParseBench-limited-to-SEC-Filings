@@ -1,0 +1,30 @@
+{
+  "id": "tables/Tables - Apple Def 14a_page8",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "<table>\n    <tr>\n        <td>1</td>\n        <td>Election of Directors: James Bell, Tim Cook, Al Gore, Alex Gorsky, Andrea Jung, Art Levinson, Monica Lozano, Ron Sugar, and Sue Wagner</td>\n        <td><b>FOR</b> each of the nominees</td>\n    </tr>\n    <tr>\n        <td>2</td>\n        <td>Ratification of Appointment of Independent Registered Public Accounting Firm</td>\n        <td><b>FOR</b></td>\n    </tr>\n    <tr>\n        <td>3</td>\n        <td>Advisory Vote to Approve Executive Compensation</td>\n        <td><b>FOR</b></td>\n    </tr>\n    <tr>\n        <td>4</td>\n        <td>Advisory Vote on the Frequency of Advisory Votes on Executive Compensation</td>\n        <td><b>1 YEAR</b></td>\n    </tr>\n    <tr>\n        <td>5-9</td>\n        <td>Shareholder Proposals if properly presented</td>\n        <td><b>AGAINST</b></td>\n    </tr>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Tables - Apple Def 14a_page8.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000130817923000019/laap2023_def14.pdf",
+      "accession": "0001308179-23-000019",
+      "provider": "datamulehub",
+      "sha256": "fe263659deb80fa0e66314d6ba9210b46a263ddb65451a42d848c574d954b704",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 7,
+        "source_page_count": 113
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "2e52866e63d199e4704929a54b075064f238f506265faf0a32747986450271a5",
+    "input_sha256": "af29d32ba64c33849ed30946597e42e91a227b01c3059046e705373252b34e93"
+  },
+  "tags": []
+}

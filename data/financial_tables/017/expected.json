@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/3p-2026-08-12_page2",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "EATON CORPORATION plc CONDENSED CONSOLIDATED BALANCE SHEETS\n\nEATON CORPORATION plc\n\n<table>\n  <thead>\n    <tr>\n      <th>(In millions)</th>\n      <th>March 31, 2025</th>\n      <th>December 31, 2024</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Assets</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Current assets</td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Cash</td>\n      <td>$ 1,777</td>\n      <td>$ 555</td>\n    </tr>\n    <tr>\n      <td>Short-term investments</td>\n      <td>162</td>\n      <td>1,525</td>\n    </tr>\n    <tr>\n      <td>Accounts receivable - net</td>\n      <td>5,094</td>\n      <td>4,619</td>\n    </tr>\n    <tr>\n      <td>Inventory</td>\n      <td>4,392</td>\n      <td>4,227</td>\n    </tr>\n    <tr>\n      <td>Prepaid expenses and other current assets</td>\n      <td>1,009</td>\n      <td>874</td>\n    </tr>\n    <tr>\n      <td>Total current assets</td>\n      <td>12,434</td>\n      <td>11,801</td>\n    </tr>\n    <tr>\n      <td>Property, plant and equipment</td>\n      <td>3,765</td>\n      <td>3,729</td>\n    </tr>\n    <tr>\n      <td>Other noncurrent assets</td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Goodwill</td>\n      <td>14,851</td>\n      <td>14,713</td>\n    </tr>\n    <tr>\n      <td>Other intangible assets</td>\n      <td>4,586</td>\n      <td>4,658</td>\n    </tr>\n    <tr>\n      <td>Operating lease assets</td>\n      <td>813</td>\n      <td>806</td>\n    </tr>\n    <tr>\n      <td>Deferred income taxes</td>\n      <td>609</td>\n      <td>609</td>\n    </tr>\n    <tr>\n      <td>Other assets</td>\n      <td>2,148</td>\n      <td>2,066</td>\n    </tr>\n    <tr>\n      <td>Total assets</td>\n      <td>$ 39,206</td>\n      <td>$ 38,381</td>\n    </tr>\n    <tr>\n      <td><strong>Liabilities and shareholders’ equity</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Current liabilities</td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Short-term debt</td>\n      <td>$ 805</td>\n      <td>$ —</td>\n    </tr>\n    <tr>\n      <td>Current portion of long-term debt</td>\n      <td>1,666</td>\n      <td>674</td>\n    </tr>\n    <tr>\n      <td>Accounts payable</td>\n      <td>3,654</td>\n      <td>3,678</td>\n    </tr>\n    <tr>\n      <td>Accrued compensation</td>\n      <td>489</td>\n      <td>670</td>\n    </tr>\n    <tr>\n      <td>Other current liabilities</td>\n      <td>2,908</td>\n      <td>2,835</td>\n    </tr>\n    <tr>\n      <td>Total current liabilities</td>\n      <td>9,522</td>\n      <td>7,857</td>\n    </tr>\n    <tr>\n      <td>Noncurrent liabilities</td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Long-term debt</td>\n      <td>7,609</td>\n      <td>8,478</td>\n    </tr>\n    <tr>\n      <td>Pension liabilities</td>\n      <td>733</td>\n      <td>741</td>\n    </tr>\n    <tr>\n      <td>Other postretirement benefits liabilities</td>\n      <td>162</td>\n      <td>164</td>\n    </tr>\n    <tr>\n      <td>Operating lease liabilities</td>\n      <td>669</td>\n      <td>669</td>\n    </tr>\n    <tr>\n      <td>Deferred income taxes</td>\n      <td>267</td>\n      <td>275</td>\n    </tr>\n    <tr>\n      <td>Other noncurrent liabilities</td>\n      <td>1,696</td>\n      <td>1,667</td>\n    </tr>\n    <tr>\n      <td>Total noncurrent liabilities</td>\n      <td>11,136</td>\n      <td>11,994</td>\n    </tr>\n    <tr>\n      <td>Shareholders’ equity</td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Eaton shareholders’ equity</td>\n      <td>18,506</td>\n      <td>18,488</td>\n    </tr>\n    <tr>\n      <td>Noncontrolling interests</td>\n      <td>41</td>\n      <td>43</td>\n    </tr>\n    <tr>\n      <td>Total equity</td>\n      <td>18,547</td>\n      <td>18,531</td>\n    </tr>\n    <tr>\n      <td>Total liabilities and equity</td>\n      <td>$ 39,206</td>\n      <td>$ 38,381</td>\n    </tr>\n  </tbody>\n</table>\n\nSee accompanying notes.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "3p.pdf",
+    "source_sha256": "53bd0829935a04148999ea82d2f3bc46f4c2b72ccbabd6c3a17bf5eb254bc807",
+    "annotated_at": "2026-08-12T09:45:01.826Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/3p-2026-08-12_page2.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000011/etn03312025exhibit99.htm",
+      "accession": "0001551182-25-000011",
+      "provider": "datamulehub",
+      "sha256": "4750951e7b3438867cd2d97f85144e0595318c7256b8af9bb42b494a7e7c2e9e",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 2,
+            "byte_start": 91954,
+            "byte_end_exclusive": 128863
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "53bd0829935a04148999ea82d2f3bc46f4c2b72ccbabd6c3a17bf5eb254bc807",
+    "input_sha256": "bd22d522fb6cf2866afc3db685dc786f2f0e6cb77404279b6037d3cddd89ef71"
+  },
+  "tags": []
+}

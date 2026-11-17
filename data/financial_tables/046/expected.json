@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page46",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "## **Shipment Information**\n\nAs discussed in *Stellantis Overview—Overview of Our Business*, our activities were carried out through six reportable segments: five regional reportable vehicle segments, North America, Enlarged Europe, Middle East & Africa, South America and China and India & Asia Pacific, and the Maserati global luxury brand segment. Consolidated shipments includes vehicles distributed by our consolidated subsidiaries. This includes the vehicles produced by our joint ventures and associates (including Leapmotor) which are distributed by our consolidated subsidiaries. In addition to the volumes included in Consolidated shipments, Combined shipments also includes the vehicles distributed by our joint ventures (such as Tofas). The following table sets forth vehicle shipment information by segment. Vehicle shipments are generally aligned with current period production, which is driven by plans to meet consumer demand. Revenue is recognized when control of our vehicles, services or parts has been transferred and the Company’s performance obligations to customers has been satisfied. The Company has determined that our customers from the sale of vehicles and service parts are generally dealers, distributors, fleet customers or directly to retail customers. Transfer of control, and therefore revenue recognition, generally correspond to the date when the vehicles or service parts were made available to the customer, or when the vehicles or service parts were released to the carrier responsible for transporting them to the customer. New vehicle sales with guaranteed residual value guarantees provided by the Company are recognized as revenue when control of the vehicle is transferred to the customer, except in situations where the Company issued a put option for which there is a significant economic incentive to exercise, in which case the contract is accounted for as an operating lease.\n\nRefer to Note 2, *Basis of preparation*, within the Consolidated Financial Statements included elsewhere in this report for further details on our revenue recognition policy.\n\nFor a description of our dealers and distributors, refer to “*Stellantis Overview—Sales Overview*” included elsewhere in this report for additional information. Accordingly, the number of vehicles sold does not necessarily correspond to the number of vehicles shipped for which revenues were recorded in any given period.\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">Years ended December 31,</th>\n    </tr>\n    <tr>\n      <th>(thousands of units)</th>\n      <th>2024</th>\n      <th>2023</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>North America</td>\n      <td>1,432</td>\n      <td>1,903</td>\n    </tr>\n    <tr>\n      <td>Enlarged Europe</td>\n      <td>2,576</td>\n      <td>2,814</td>\n    </tr>\n    <tr>\n      <td>Middle East &amp; Africa</td>\n      <td>423</td>\n      <td>443</td>\n    </tr>\n    <tr>\n      <td>South America</td>\n      <td>912</td>\n      <td>879</td>\n    </tr>\n    <tr>\n      <td>China and India &amp; Asia Pacific</td>\n      <td>61</td>\n      <td>102</td>\n    </tr>\n    <tr>\n      <td>Maserati</td>\n      <td>11</td>\n      <td>27</td>\n    </tr>\n    <tr>\n      <td><strong>Total Consolidated shipments</strong></td>\n      <td><strong>5,415</strong></td>\n      <td><strong>6,168</strong></td>\n    </tr>\n    <tr>\n      <td>Joint venture shipments</td>\n      <td>111</td>\n      <td>225</td>\n    </tr>\n    <tr>\n      <td><strong>Total Combined shipments</strong></td>\n      <td><strong>5,526</strong></td>\n      <td><strong>6,393</strong></td>\n    </tr>\n  </tbody>\n</table>\n\nFor discussion of shipments for North America, Enlarged Europe, Middle East & Africa, South America, and China and India & Asia Pacific and Maserati for 2024 as compared to 2023 and for 2023 as compared to 2022 refer to “*Results of Operations - Results by Segment*” included elsewhere in this report for additional information.\n\n46",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Stellantis-NV-20241231-Annual-Report.pdf",
+    "source_sha256": "c40b0301fc675765e08d2adafb2e885dda159dc61facbe36349568a5f6c086b6",
+    "annotated_at": "2026-08-21T17:44:38.681Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page46.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548425000013/stellantis-20241231.htm",
+      "accession": "0001605484-25-000013",
+      "provider": "datamulehub",
+      "sha256": "8c091fc8484651b8f35e9a6cb267afdc871222516a86fb13071942d8f06deab8",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 29,
+            "byte_start": 2525383,
+            "byte_end_exclusive": 2550421
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "c40b0301fc675765e08d2adafb2e885dda159dc61facbe36349568a5f6c086b6",
+    "input_sha256": "51787b4eee485301b6ddfdeb2eef261e10b8b36d6238be063980a05c1340e4c8"
+  },
+  "tags": []
+}

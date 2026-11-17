@@ -1,0 +1,54 @@
+ParseBench limited to SEC Filings
+
+Original contributions
+----------------------
+Copyright (c) 2026 John Friedman.
+Original copyrightable contributions to this project, including the evaluation
+runner, configuration, original documentation, and added curation/provenance
+metadata, are licensed under the MIT License in LICENSE. This applies to
+original contributions only; third-party material retains its existing terms.
+
+ParseBench / ParseBench-2
+------------------------
+This project includes material from ParseBench and ParseBench-2, released by
+LlamaIndex and contributors under the Apache License, Version 2.0:
+
+  https://github.com/run-llama/ParseBench
+  https://huggingface.co/datasets/llamaindex/ParseBench-2
+
+Dataset revision used:
+  d4e0eaa1b5181f7a84636149eb5717a7aad56c80
+
+The unchanged upstream license is provided in:
+  LICENSES/ParseBench-Apache-2.0.txt
+
+That license was copied from ParseBench repository revision:
+  27ea3418be33449369cdf377c7cdee1b3cdc532f
+
+ParseBench-derived material includes the benchmark annotations and reference
+answers in data/*/*/expected.json, reference answers reproduced in
+runs/*/*/*/result.md, and published ParseBench leaderboard material reproduced
+in project documentation. These portions retain their Apache-2.0 terms; the
+project's MIT license does not replace them. Both sets of applicable notices
+must accompany combined files when redistributed.
+
+Local modifications by John Friedman: selected SEC-related cases; repackaged
+case descriptors; paired benchmark cases with SEC filing inputs; pruned those
+SEC inputs to the relevant content; and added provenance/extraction metadata.
+Case descriptors carry their own modification notice. The expected answers
+and evaluation rules are retained; the licensing update changes metadata only.
+
+Source documents
+----------------
+data/*/*/parsebench_input.pdf contains the original benchmark input document.
+data/*/*/sec_input.* contains the separately sourced SEC filing input or its
+extracted fragment. Original document authors and any embedded copyright,
+trademark, and attribution notices remain distinct from the benchmark's
+annotations. This project's MIT license does not relicense these source
+documents or claim ownership of them. Source references are retained in each
+case's metadata.
+
+Dependencies
+------------
+doc2struct and parse-bench retain their respective licenses. They are installed
+as dependencies, not incorporated into this project's MIT licensing scope.

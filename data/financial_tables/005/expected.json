@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/2025-cisco-full-annual-report-2026-08-21_page48",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# **Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations**\n\n## **Forward-Looking Statements**\n\nThis Annual Report on Form 10-K, including this Management’s Discussion and Analysis of Financial Condition and Results of Operations, contains forward-looking statements regarding future events and our future results that are subject to the safe harbors created under the Securities Act of 1933, as amended (the “Securities Act”), and the Securities Exchange Act of 1934, as amended (the “Exchange Act”). All statements other than statements of historical facts are statements that could be deemed forward-looking statements. These statements are based on current expectations, estimates, forecasts, and projections about the industries in which we operate and the beliefs and assumptions of our management. Words such as “expects,” “anticipates,” “targets,” “goals,” “projects,” “intends,” “plans,” “believes,” “momentum,” “seeks,” “estimates,” “continues,” “endeavors,” “strives,” “may,” variations of such words, and similar expressions are intended to identify such forward-looking statements. In addition, any statements that refer to projections of our future financial performance, our anticipated growth and trends in our businesses, and other characterizations of future events or circumstances are forward-looking statements. Readers are cautioned that these forward-looking statements are only predictions and are subject to risks, uncertainties, and assumptions that are difficult to predict, including those under “Part I, Item 1A. Risk Factors,” and elsewhere herein. Therefore, actual results may differ materially and adversely from those expressed in any forward-looking statements. We undertake no obligation to revise or update any forward-looking statements for any reason.\n\n## **OVERVIEW**\n\nCisco designs and sells a broad range of technologies that help to power, secure, and draw insights from the Internet. We are incorporating artificial intelligence (AI) into our product portfolios across networking, security, collaboration and observability as well as integrating our products more tightly together. We are simplifying how our technology is delivered, managed and optimized and helping customers maximize the business value of their technology investments.\n\nA summary of our results is as follows (in millions, except percentages and per-share amounts):\n\n<table>\n\t<thead>\n\t\t<tr>\n\t\t\t<th></th>\n\t\t\t<th colspan=\"3\">Three Months Ended</th>\n\t\t\t<th colspan=\"3\">Years Ended</th>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th></th>\n\t\t\t<th>July 26, 2025</th>\n\t\t\t<th>July 27, 2024</th>\n\t\t\t<th>Variance</th>\n\t\t\t<th>July 26, 2025</th>\n\t\t\t<th>July 27, 2024</th>\n\t\t\t<th>Variance</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>Revenue</td>\n\t\t\t<td>$14,673</td>\n\t\t\t<td>$13,642</td>\n\t\t\t<td>8 %</td>\n\t\t\t<td>$56,654</td>\n\t\t\t<td>$53,803</td>\n\t\t\t<td>5 %</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Gross margin percentage</td>\n\t\t\t<td><b>63.2 %</b></td>\n\t\t\t<td>64.4 %</td>\n\t\t\t<td>(1.2) pts</td>\n\t\t\t<td><b>64.9 %</b></td>\n\t\t\t<td>64.7 %</td>\n\t\t\t<td>0.2 pts</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Research and development</td>\n\t\t\t<td><b>$ 2,380</b></td>\n\t\t\t<td>$ 2,179</td>\n\t\t\t<td>9 %</td>\n\t\t\t<td><b>$ 9,300</b></td>\n\t\t\t<td>$ 7,983</td>\n\t\t\t<td>16 %</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Sales and marketing</td>\n\t\t\t<td><b>$ 2,818</b></td>\n\t\t\t<td>$ 2,841</td>\n\t\t\t<td>(1)%</td>\n\t\t\t<td>$10,966</td>\n\t\t\t<td>$10,364</td>\n\t\t\t<td>6 %</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>General and administrative</td>\n\t\t\t<td><b>$ 706</b></td>\n\t\t\t<td>$ 763</td>\n\t\t\t<td>(8)%</td>\n\t\t\t<td><b>$ 2,992</b></td>\n\t\t\t<td>$ 2,813</td>\n\t\t\t<td>6 %</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Total R&amp;D, sales and marketing, general and administrative</td>\n\t\t\t<td><b>$ 5,904</b></td>\n\t\t\t<td>$ 5,783</td>\n\t\t\t<td>2 %</td>\n\t\t\t<td>$23,258</td>\n\t\t\t<td>$21,160</td>\n\t\t\t<td>10 %</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Total as a percentage of revenue</td>\n\t\t\t<td><b>40.2 %</b></td>\n\t\t\t<td>42.4 %</td>\n\t\t\t<td>(2.2) pts</td>\n\t\t\t<td><b>41.1 %</b></td>\n\t\t\t<td>39.3 %</td>\n\t\t\t<td>1.8 pts</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Restructuring and other charges included in operating expenses</td>\n\t\t\t<td><b>$ 35</b></td>\n\t\t\t<td>$ 112</td>\n\t\t\t<td>(69)%</td>\n\t\t\t<td><b>$ 744</b></td>\n\t\t\t<td>$ 789</td>\n\t\t\t<td>(6)%</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Operating income as a percentage of revenue</td>\n\t\t\t<td><b>21.0 %</b></td>\n\t\t\t<td>19.2 %</td>\n\t\t\t<td>1.8 pts</td>\n\t\t\t<td><b>20.8 %</b></td>\n\t\t\t<td>22.6 %</td>\n\t\t\t<td>(1.8) pts</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Interest and other income (loss), net</td>\n\t\t\t<td><b>$ (88)</b></td>\n\t\t\t<td>$ (222)</td>\n\t\t\t<td>(60)%</td>\n\t\t\t<td><b>$ (660)</b></td>\n\t\t\t<td>$ 53</td>\n\t\t\t<td>NM</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Income tax percentage</td>\n\t\t\t<td><b>15.0 %</b></td>\n\t\t\t<td>9.8 %</td>\n\t\t\t<td>5.2 pts</td>\n\t\t\t<td><b>8.3 %</b></td>\n\t\t\t<td>15.6 %</td>\n\t\t\t<td>(7.3) pts</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Net income</td>\n\t\t\t<td><b>$ 2,550</b></td>\n\t\t\t<td>$ 2,162</td>\n\t\t\t<td>18 %</td>\n\t\t\t<td>$10,180</td>\n\t\t\t<td>$10,320</td>\n\t\t\t<td>(1)%</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Net income as a percentage of revenue</td>\n\t\t\t<td><b>17.4 %</b></td>\n\t\t\t<td>15.8 %</td>\n\t\t\t<td>1.6 pts</td>\n\t\t\t<td><b>18.0 %</b></td>\n\t\t\t<td>19.2 %</td>\n\t\t\t<td>(1.2) pts</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>Earnings per share—diluted</td>\n\t\t\t<td><b>$ 0.64</b></td>\n\t\t\t<td>$ 0.54</td>\n\t\t\t<td>19 %</td>\n\t\t\t<td><b>$ 2.55</b></td>\n\t\t\t<td>$ 2.54</td>\n\t\t\t<td>— %</td>\n\t\t</tr>\n\t</tbody>\n</table>\nPercentages may not recalculate due to rounding.\nNM — Not meaningful\n\n<page_number>30</page_number>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "2025-cisco-full-annual-report.pdf",
+    "source_sha256": "4bf7c4201ca303a17c0c4fb814293070445794734478aa755d6ab17bd8f7436a",
+    "annotated_at": "2026-08-21T15:37:54.479Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/2025-cisco-full-annual-report-2026-08-21_page48.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm",
+      "accession": "0000858877-25-000111",
+      "provider": "datamulehub",
+      "sha256": "aa17878a0f56563a5f43c81cad17f94ee6e15ba1bdd627888860434c1cfb8650",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 21,
+            "byte_start": 625723,
+            "byte_end_exclusive": 684054
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "4bf7c4201ca303a17c0c4fb814293070445794734478aa755d6ab17bd8f7436a",
+    "input_sha256": "4644e78446017633d964680988c2fb97d509610f7dfd0dfa312330556e58a976"
+  },
+  "tags": []
+}

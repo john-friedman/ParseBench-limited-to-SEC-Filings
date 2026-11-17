@@ -1,0 +1,54 @@
+{
+  "id": "financial_tables/2025-cisco-full-annual-report-2026-08-21_page57",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "### CISCO SYSTEMS, INC.\n#### MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (Continued)\n\n## **Services Revenue by Segment**\n\nThe following table presents the breakdown of services revenue by segment (in millions, except percentages):\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"3\">Years Ended</th>\n      <th colspan=\"2\">2025 vs. 2024</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>July 26, 2025</th>\n      <th>July 27, 2024</th>\n      <th>July 29, 2023</th>\n      <th>Variance in Dollars</th>\n      <th>Variance in Percent</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Services revenue:</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Americas ....................................................................................</td>\n      <td>$ <b>9,019</b></td>\n      <td>$ 8,829</td>\n      <td>$ 8,427</td>\n      <td>$ 190</td>\n      <td>2 %</td>\n    </tr>\n    <tr>\n      <td><i>Percentage of service revenue....................................................</i></td>\n      <td><i><b>59.9 %</b></i></td>\n      <td><i>60.7 %</i></td>\n      <td><i>60.8 %</i></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>EMEA ........................................................................................</td>\n      <td><b><b>3,702</b></b></td>\n      <td>3,472</td>\n      <td>3,269</td>\n      <td>230</td>\n      <td>7 %</td>\n    </tr>\n    <tr>\n      <td><i>Percentage of service revenue....................................................</i></td>\n      <td><i><b>24.6 %</b></i></td>\n      <td><i>23.9 %</i></td>\n      <td><i>23.6 %</i></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>APJC .........................................................................................</td>\n      <td><b><b>2,325</b></b></td>\n      <td>2,249</td>\n      <td>2,160</td>\n      <td>76</td>\n      <td>3 %</td>\n    </tr>\n    <tr>\n      <td><i>Percentage of service revenue....................................................</i></td>\n      <td><i><b>15.5 %</b></i></td>\n      <td><i>15.5 %</i></td>\n      <td><i>15.6 %</i></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Total ...........................................................................................</td>\n      <td>$ <b>15,046</b></td>\n      <td>$ 14,550</td>\n      <td>$ 13,856</td>\n      <td>$ 496</td>\n      <td>3 %</td>\n    </tr>\n  </tbody>\n</table>\n\nAmounts may not sum and percentages may not recalculate due to rounding.\n\nServices revenue increased 3%, primarily driven by software, cloud and virtualization support from Splunk and product offering support services. Services revenue increased across each of our geographic segments.\n\n## **Gross Margin**\n\nThe following table presents the gross margin for products and services (in millions, except percentages):\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\"><u>Years Ended</u></th>\n      <th colspan=\"3\">AMOUNT</th>\n      <th colspan=\"3\">PERCENTAGE</th>\n    </tr>\n    <tr>\n      <th><b>July 26, 2025</b></th>\n      <th>July 27, 2024</th>\n      <th>July 29, 2023</th>\n      <th><b>July 26, 2025</b></th>\n      <th>July 27, 2024</th>\n      <th>July 29, 2023</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Gross margin:</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>    Product</td>\n      <td><b><b>$ 26,487</b></b></td>\n      <td>$ 24,914</td>\n      <td>$ 26,552</td>\n      <td><b>63.7 %</b></td>\n      <td>63.5 %</td>\n      <td>61.5 %</td>\n    </tr>\n    <tr>\n      <td>    Services</td>\n      <td><b><b>10,303</b></b></td>\n      <td>9,914</td>\n      <td>9,201</td>\n      <td><b><b>68.5 %</b></b></td>\n      <td>68.1 %</td>\n      <td>66.4 %</td>\n    </tr>\n    <tr>\n      <td>        Total</td>\n      <td><b><b>$ 36,790</b></b></td>\n      <td>$ 34,828</td>\n      <td>$ 35,753</td>\n      <td><b><b>64.9 %</b></b></td>\n      <td>64.7 %</td>\n      <td>62.7 %</td>\n    </tr>\n  </tbody>\n</table>\n\n## **Product Gross Margin**\n\nThe following table summarizes the key factors that contributed to the change in product gross margin percentage from fiscal 2024 to fiscal 2025:\n\n<table>\n    <thead>\n        <tr>\n            <th></th>\n            <th><b>Product<br>Gross Margin<br>Percentage</b></th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>Fiscal 2024</td>\n            <td>63.5 %</td>\n        </tr>\n        <tr>\n            <td>Productivity <sup>(1)</sup></td>\n            <td>2.0 %</td>\n        </tr>\n        <tr>\n            <td>Product pricing</td>\n            <td>(1.6)%</td>\n        </tr>\n        <tr>\n            <td>Mix of products sold</td>\n            <td>1.1 %</td>\n        </tr>\n        <tr>\n            <td>Legal dispute with supplier</td>\n            <td>(0.8)%</td>\n        </tr>\n        <tr>\n            <td>Amortization of purchased intangible assets</td>\n            <td>(0.4)%</td>\n        </tr>\n        <tr>\n            <td>Others</td>\n            <td>(0.1)%</td>\n        </tr>\n        <tr>\n            <td>Fiscal 2025</td>\n            <td>63.7 %</td>\n        </tr>\n    </tbody>\n</table>\n\n(1) Productivity includes overall manufacturing-related costs, such as component costs, warranty expense, provisions for inventory and the liability related to purchase commitments with contract manufacturers and suppliers, freight, logistics, shipment volume, and other items not categorized elsewhere.\n\nProduct gross margin increased by 0.2 percentage points primarily driven by benefits from Splunk and productivity improvements, partially offset by negative impacts from pricing, a charge as a result of a legal dispute with a supplier, and amortization of purchased intangible assets primarily related to Splunk. The productivity improvements were primarily driven\n\n<page_number>39</page_number>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "2025-cisco-full-annual-report.pdf",
+    "source_sha256": "ba5e396694faf895be4956ac9ba4c81629271de3f8ff10848c1fca9a1b87e7c1",
+    "annotated_at": "2026-08-21T15:38:15.245Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/2025-cisco-full-annual-report-2026-08-21_page57.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm",
+      "accession": "0000858877-25-000111",
+      "provider": "datamulehub",
+      "sha256": "aa17878a0f56563a5f43c81cad17f94ee6e15ba1bdd627888860434c1cfb8650",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 27,
+            "byte_start": 836203,
+            "byte_end_exclusive": 860120
+          },
+          {
+            "table_index_0based": 28,
+            "byte_start": 861517,
+            "byte_end_exclusive": 877720
+          },
+          {
+            "table_index_0based": 29,
+            "byte_start": 878262,
+            "byte_end_exclusive": 885579
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ba5e396694faf895be4956ac9ba4c81629271de3f8ff10848c1fca9a1b87e7c1",
+    "input_sha256": "2913c1c5abfe874dc93874cc7bbca7285fa479149c885aa228fd2d19f6030312"
+  },
+  "tags": []
+}

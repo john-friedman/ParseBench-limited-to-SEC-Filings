@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/con-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "August 31, 2025 and 2024\n\nConsolidated Balance Sheets August 31, 2025 and 2024\n\n\n\n\n\n\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>August 31, 2025</th>\n      <th>August 31, 2024</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>ASSETS</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td><strong>CURRENT ASSETS:</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Cash and cash equivalents</td>\n      <td>$ 11,478,729</td>\n      <td>$ 5,004,469</td>\n    </tr>\n    <tr>\n      <td>Short-term investments</td>\n      <td>5,945</td>\n      <td>5,396</td>\n    </tr>\n    <tr>\n      <td>Receivables and contract assets</td>\n      <td>14,985,073</td>\n      <td>13,664,847</td>\n    </tr>\n    <tr>\n      <td>Other current assets</td>\n      <td>2,430,942</td>\n      <td>2,183,069</td>\n    </tr>\n    <tr>\n      <td>Total current assets</td>\n      <td>28,900,689</td>\n      <td>20,857,781</td>\n    </tr>\n    <tr>\n      <td><strong>NON-CURRENT ASSETS:</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Contract assets</td>\n      <td>180,362</td>\n      <td>120,260</td>\n    </tr>\n    <tr>\n      <td>Investments</td>\n      <td>721,260</td>\n      <td>334,664</td>\n    </tr>\n    <tr>\n      <td>Property and equipment, net</td>\n      <td>1,566,374</td>\n      <td>1,521,119</td>\n    </tr>\n    <tr>\n      <td>Lease assets</td>\n      <td>2,740,321</td>\n      <td>2,757,396</td>\n    </tr>\n    <tr>\n      <td>Goodwill</td>\n      <td>22,536,416</td>\n      <td>21,120,179</td>\n    </tr>\n    <tr>\n      <td>Deferred contract costs</td>\n      <td>1,025,391</td>\n      <td>862,140</td>\n    </tr>\n    <tr>\n      <td>Deferred tax assets</td>\n      <td>3,791,215</td>\n      <td>4,147,496</td>\n    </tr>\n    <tr>\n      <td>Intangibles</td>\n      <td>2,410,755</td>\n      <td>2,904,031</td>\n    </tr>\n    <tr>\n      <td>Other non-current assets</td>\n      <td>1,522,114</td>\n      <td>1,307,297</td>\n    </tr>\n    <tr>\n      <td>Total non-current assets</td>\n      <td>36,494,208</td>\n      <td>35,074,582</td>\n    </tr>\n    <tr>\n      <td><strong>TOTAL ASSETS</strong></td>\n      <td><strong>$ 65,394,897</strong></td>\n      <td><strong>$ 55,932,363</strong></td>\n    </tr>\n    <tr>\n      <td><strong>LIABILITIES AND SHAREHOLDERS’ EQUITY</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td><strong>CURRENT LIABILITIES:</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Current portion of long-term debt and bank borrowings</td>\n      <td>$ 114,484</td>\n      <td>$ 946,229</td>\n    </tr>\n    <tr>\n      <td>Accounts payable</td>\n      <td>2,695,589</td>\n      <td>2,743,807</td>\n    </tr>\n    <tr>\n      <td>Deferred revenues</td>\n      <td>6,073,170</td>\n      <td>5,174,923</td>\n    </tr>\n    <tr>\n      <td>Accrued payroll and related benefits</td>\n      <td>8,084,214</td>\n      <td>7,050,833</td>\n    </tr>\n    <tr>\n      <td>Income taxes payable</td>\n      <td>701,219</td>\n      <td>719,084</td>\n    </tr>\n    <tr>\n      <td>Lease liabilities</td>\n      <td>729,003</td>\n      <td>726,202</td>\n    </tr>\n    <tr>\n      <td>Other accrued liabilities</td>\n      <td>1,954,418</td>\n      <td>1,615,049</td>\n    </tr>\n    <tr>\n      <td>Total current liabilities</td>\n      <td>20,352,097</td>\n      <td>18,976,127</td>\n    </tr>\n    <tr>\n      <td><strong>NON-CURRENT LIABILITIES:</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Long-term debt</td>\n      <td>5,034,169</td>\n      <td>78,628</td>\n    </tr>\n    <tr>\n      <td>Deferred revenues</td>\n      <td>642,361</td>\n      <td>641,091</td>\n    </tr>\n    <tr>\n      <td>Retirement obligation</td>\n      <td>1,858,499</td>\n      <td>1,815,867</td>\n    </tr>\n    <tr>\n      <td>Deferred tax liabilities</td>\n      <td>471,931</td>\n      <td>428,845</td>\n    </tr>\n    <tr>\n      <td>Income taxes payable</td>\n      <td>1,291,921</td>\n      <td>1,514,869</td>\n    </tr>\n    <tr>\n      <td>Lease liabilities</td>\n      <td>2,305,210</td>\n      <td>2,369,490</td>\n    </tr>\n    <tr>\n      <td>Other non-current liabilities</td>\n      <td>1,197,742</td>\n      <td>939,198</td>\n    </tr>\n    <tr>\n      <td>Total non-current liabilities</td>\n      <td>12,801,833</td>\n      <td>7,787,988</td>\n    </tr>\n    <tr>\n      <td><strong>COMMITMENTS AND CONTINGENCIES</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td><strong>SHAREHOLDERS’ EQUITY:</strong></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Ordinary shares, par value 1.00 euros per share, 40,000 shares authorized and issued as of August 31, 2025 and August 31, 2024</td>\n      <td>57</td>\n      <td>57</td>\n    </tr>\n    <tr>\n      <td>Class A ordinary shares, par value $0.0000225 per share, 20,000,000,000 shares authorized, 657,964,764 and 672,484,852 shares issued as of August 31, 2025 and August 31, 2024, respectively</td>\n      <td>14</td>\n      <td>15</td>\n    </tr>\n    <tr>\n      <td>Class X ordinary shares, par value $0.0000225 per share, 1,000,000,000 shares authorized, 302,358 and 307,754 shares issued and outstanding as of August 31, 2025 and August 31, 2024, respectively</td>\n      <td>—</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Restricted share units</td>\n      <td>2,790,652</td>\n      <td>2,614,608</td>\n    </tr>\n    <tr>\n      <td>Additional paid-in capital</td>\n      <td>16,603,344</td>\n      <td>14,710,857</td>\n    </tr>\n    <tr>\n      <td>Treasury shares, at cost: Ordinary, 40,000 shares as of August 31, 2025 and August 31, 2024; Class A ordinary, 36,108,842 and 47,204,565 shares as of August 31, 2025 and August 31, 2024, respectively</td>\n      <td>(7,751,973)</td>\n      <td>(10,564,572)</td>\n    </tr>\n    <tr>\n      <td>Retained earnings</td>\n      <td>21,018,731</td>\n      <td>23,082,423</td>\n    </tr>\n    <tr>\n      <td>Accumulated other comprehensive loss</td>\n      <td>(1,465,379)</td>\n      <td>(1,554,742)</td>\n    </tr>\n    <tr>\n      <td>Total Accenture plc shareholders’ equity</td>\n      <td>31,195,446</td>\n      <td>28,288,646</td>\n    </tr>\n    <tr>\n      <td>Noncontrolling interests</td>\n      <td>1,045,521</td>\n      <td>879,602</td>\n    </tr>\n    <tr>\n      <td>Total shareholders’ equity</td>\n      <td>32,240,967</td>\n      <td>29,168,248</td>\n    </tr>\n    <tr>\n      <td><strong>TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY</strong></td>\n      <td><strong>$ 65,394,897</strong></td>\n      <td><strong>$ 55,932,363</strong></td>\n    </tr>\n  </tbody>\n</table>\n\nThe accompanying Notes are an integral part of these Consolidated Financial Statements.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "con.pdf",
+    "source_sha256": "2e42d6a112e9418885752e020983447bf19d5406a55c9419cdd40984756219c5",
+    "annotated_at": "2026-08-14T06:12:00.873Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/con-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000217/acn-20250831.htm",
+      "accession": "0001467373-25-000217",
+      "provider": "datamulehub",
+      "sha256": "b054530c913ff566a80a27e356bf2eb1081dcd3c092289b34ace51d2526b3a01",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 93,
+            "byte_start": 1064458,
+            "byte_end_exclusive": 1141710
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "2e42d6a112e9418885752e020983447bf19d5406a55c9419cdd40984756219c5",
+    "input_sha256": "424853b8e64b0d7fb2f49378f065f05e069e3a5c5cd2c78ac80722f388be294f"
+  },
+  "tags": []
+}

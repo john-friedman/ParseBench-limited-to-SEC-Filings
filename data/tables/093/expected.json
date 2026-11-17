@@ -1,0 +1,35 @@
+{
+  "id": "tables/corp-q1-2025__p13_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <th>(in millions)</th>\n        <th>March 31, 2025</th>\n        <th>December 31, 2024</th>\n        <th>Change</th>\n    </tr>\n        <tr>\n        <td class=\"\">Liabilities</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Deposits</td>\n<td>$ 2,495,877</td>\n<td>$ 2,406,032</td>\n<td>4 %</td>\n    </tr>\n<tr>\n        <td class=\"\">Federal funds purchased and securities loaned or sold under repurchase agreements</td>\n<td>533,046</td>\n<td>296,835</td>\n<td>80</td>\n    </tr>\n<tr>\n        <td class=\"\">Short-term borrowings</td>\n<td>64,980</td>\n<td>52,893</td>\n<td>23</td>\n    </tr>\n<tr>\n        <td class=\"\">Trading liabilities</td>\n<td>187,103</td>\n<td>192,883</td>\n<td>(3)</td>\n    </tr>\n<tr>\n        <td class=\"\">Accounts payable and other liabilities</td>\n<td>293,538</td>\n<td>280,672</td>\n<td>5</td>\n    </tr>\n<tr>\n        <td class=\"\">Beneficial interests issued by consolidated variable interest entities (\"VIEs\")</td>\n<td>24,668</td>\n<td>27,323</td>\n<td>(10)</td>\n    </tr>\n<tr>\n        <td class=\"\">Long-term debt</td>\n<td>407,224</td>\n<td>401,418</td>\n<td>1</td>\n    </tr>\n<tr>\n        <td class=\"\">Total liabilities</td>\n<td>4,006,436</td>\n<td>3,658,056</td>\n<td>10</td>\n    </tr>\n<tr>\n        <td class=\"\">Stockholders' equity</td>\n<td>351,420</td>\n<td>344,758</td>\n<td>2</td>\n    </tr>\n<tr>\n        <td class=\"\">Total liabilities and stockholders' equity</td>\n<td>$ 4,357,856</td>\n<td>$ 4,002,814</td>\n<td>9 %</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/corp-q1-2025__p13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961725000421/jpm-20250331.htm",
+      "accession": "0000019617-25-000421",
+      "provider": "datamulehub",
+      "sha256": "c7286d1178951eee383da709c30d0dd6f7eb8b2ea8e923ff13423e8e38aa7413",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 21,
+            "byte_start": 1366923,
+            "byte_end_exclusive": 1383546
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "8037ba482f1b97e435a02706cfa0ae5e4fdceaf374fe4cb07c057449f05d35e9",
+    "input_sha256": "ad4628cd7e2fb6125ed3b5141b8fc3727a0723d7518cf3305775ccbbee5a0be4"
+  },
+  "tags": []
+}

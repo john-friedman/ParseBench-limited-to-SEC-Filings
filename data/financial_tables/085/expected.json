@@ -1,0 +1,41 @@
+{
+  "id": "financial_tables/infosys2-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "**Dividend**\n\nThe Company recommended / declared dividend as under:\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">Fiscal 2025</th>\n      <th colspan=\"2\">Fiscal 2024</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>Dividend per share (in ₹)</th>\n      <th>Dividend payout (in ₹ crore)<sup>#</sup></th>\n      <th>Dividend per share (in ₹)</th>\n      <th>Dividend payout (in ₹ crore)<sup>#</sup></th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Interim dividend</td>\n      <td>21.00</td>\n      <td>8,720</td>\n      <td>18.00</td>\n      <td>7,471</td>\n    </tr>\n    <tr>\n      <td>Final dividend</td>\n      <td>22.00<sup>(1)</sup></td>\n      <td>9,137<sup>(1)</sup></td>\n      <td>20.00</td>\n      <td>8,302</td>\n    </tr>\n    <tr>\n      <td>Special dividend</td>\n      <td>–</td>\n      <td>–</td>\n      <td>8.00</td>\n      <td>3,320</td>\n    </tr>\n    <tr>\n      <td>Total dividend</td>\n      <td>43.00</td>\n      <td></td>\n      <td>46.00</td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Payout ratio (interim, final and special dividend)*</td>\n      <td>51.6%<sup>(2)</sup></td>\n      <td></td>\n      <td>79.8%<sup>(3)</sup></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n\n**Note:**\n\nThe Company declares and pays dividend in Indian rupees. Companies are required to pay / distribute dividend after deducting applicable withholding income taxes. The remittance of dividends outside India is governed by Indian law on foreign exchange and is also subject to withholding tax at applicable rates.\n\n# Based on standalone financial statements\n\n* Payout ratio is computed as a percentage of free cash flow prepared under IFRS.\n\n<sup>(1)</sup> Recommended by the Board of Directors at its meeting held on April 17, 2025. The payment is subject to the approval of the shareholders at the ensuing AGM of the Company to be held on June 25, 2025. The record date for the purposes of the final dividend will be May 30, 2025, and payment will be made on June 30, 2025.\n\n<sup>(2)</sup> Our present Capital Allocation Policy is to pay approximately 85% of the free cash flow cumulatively over a five-year period through a combination of semi-annual dividends and / or share buyback and / or special dividends, subject to applicable laws and requisite approvals, if any. Free cash flow is defined as net cash provided by operating activities less capital expenditure as per the Consolidated Statement of Cash Flows prepared under IFRS.\n\n<sup>(3)</sup> Our past Capital Allocation Policy was to pay up to 85% of the free cash flow cumulatively over a five-year period through a combination of semi-annual dividends and / or share buyback and / or special dividends, subject to applicable laws and requisite approvals, if any which was completed in March 31, 2024.\n\n**Particulars of loans, guarantees or investments**\n\nLoans, guarantees and investments covered under Section 186 of the Companies Act, 2013 (\"the Act\") form part of the Notes to the financial statements provided in this Integrated Annual Report.\n\n**Transfer to reserves**\n\nWe do not propose to transfer any amount to the general reserve on declaration of dividend.\n\n**Changes in the nature of business**\n\nThe Company did not undergo any change in the nature of its business during fiscal 2025.\n\n**Fixed deposits**\n\nWe have not accepted any fixed deposits, including from the public, and, as such, no amount of principal or interest was outstanding as of the Balance Sheet date.\n\n**Particulars of contracts or arrangements made with related parties**\n\nThe Company did not enter into any contracts, arrangements or transactions during fiscal 2025 that fall under the scope of Section 188(1) of the Act. As required under the Act, the prescribed Form AOC-2 is appended as *Annexure 2* to the *Board’s report*.\n\n**Management’s discussion and analysis**\n\nIn terms of the provisions of Regulation 34 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“the Listing Regulations”) as amended from time to time, the *Management’s discussion and analysis* is set out in this Integrated Annual Report.\n\n**Risk management report**\n\nIn terms of the provisions of Section 134 of the Act, the *Risk management report* is set out in this Integrated Annual Report.\n\n**Board policies**\n\nThe details of the policies approved and adopted by the Board as required under the Act and Securities and Exchange Board of India (SEBI) regulations are provided in *Annexure 8* to the *Board’s report*.\n\n**Material changes and commitments affecting financial position between the end of the financial year and date of the report**\n\nThere have been no material changes and commitments, which affect the financial position of the Company, that have occurred between the end of the financial year to which the financial statements relate and the date of this report.\n\n<page_footer>\nInfosys Integrated Annual Report 2024-25 \n<page_number>63</page_number>\n</page_footer>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "infosys2.pdf",
+    "source_sha256": "f785df4df07d29be47f3b27b420c557d62fee02436451ddf8cc64bbbd111ad05",
+    "annotated_at": "2026-08-14T13:42:05.097Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/infosys2-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067491/000106749125000014/exv99w01.htm",
+      "accession": "0001067491-25-000014",
+      "provider": "datamulehub",
+      "sha256": "ec09744edefd936952c1f8110f12e2416bd395f8a0b8d4e33798ed711067d09c",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "image_url": "https://www.sec.gov/Archives/edgar/data/1067491/000106749125000014/iar2025-035.gif",
+        "image_sha256": "574c0076c4dad6e70c5c5a3a4f0f44d7418a763623f5339f31a2d3e562716e37",
+        "image_embedded": true
+      },
+      "mapping_url": "https://www.sec.gov/Archives/edgar/data/1067491/000095017025091925/infy-20250331.htm"
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "f785df4df07d29be47f3b27b420c557d62fee02436451ddf8cc64bbbd111ad05",
+    "input_sha256": "3e43fa62d343ecc07045a63d4a0c688ea0bcebb5f2a2f8b83ad932ccd4888727"
+  },
+  "tags": []
+}

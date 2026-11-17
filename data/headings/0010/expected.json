@@ -1,0 +1,77 @@
+{
+  "id": "headings/case-0010-7c2515a354c0",
+  "subset": "headings",
+  "dimension": "formatting",
+  "document": "sec_input.txt",
+  "expected_markdown": null,
+  "test_rules": [
+    {
+      "type": "heading_structure",
+      "id": "case-0010-7c2515a354c0:heading-structure-001",
+      "page": 1,
+      "headings": [
+        {
+          "text": "Consolidated Results",
+          "level": 2
+        },
+        {
+          "text": "Share Repurchase Program",
+          "level": 2
+        },
+        {
+          "text": "Forward-Looking Statements",
+          "level": 2
+        },
+        {
+          "text": "Earnings Conference Call",
+          "level": 2
+        }
+      ],
+      "tags": [
+        "heading-structure",
+        "financial",
+        "full-document-reviewed"
+      ]
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "08-06-02_PruFnAnnounces2Q02Results.pdf",
+    "source_sha256": "7c2515a354c03f37d1d0316d11fd65868e3d1e511619b81e9ebcfc1bb551eddf",
+    "source_page": 5,
+    "source_page_count": 10,
+    "cohort": "financial",
+    "annotation_evidence": [
+      "target_page_raster",
+      "adjacent_page_context",
+      "full_document_outline"
+    ],
+    "scoring": "next",
+    "primary_metric": "formatting_v2",
+    "headline": "feature",
+    "headline_reason": "complete page heading list (heading_structure rule)",
+    "next_version": "v0.4",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/headings.jsonl",
+    "parsebench_document": "headings/case-0010-7c2515a354c0.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1137774/000095013002005572/dex990.txt",
+      "accession": "0000950130-02-005572",
+      "provider": "datamulehub",
+      "sha256": "1f1de3c5232c21ccf62f58ccfb480739264c79845ea35d0f7d30ed69e9ab351e",
+      "scope": "section",
+      "extraction": {
+        "unit": "section",
+        "byte_start": 12662,
+        "byte_end_exclusive": 16256
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "4fb545f6612777a41b4a5136aae90343b636e5f0a685595eff1c1ce3c668b746",
+    "input_sha256": "72d259ba97035e4b1f714b865fdcca0ec558eadf2774b6bff759a321e6cd6193"
+  },
+  "tags": [
+    "heading-structure",
+    "financial",
+    "full-document-reviewed"
+  ]
+}

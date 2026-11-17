@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/10k-2026-08-13_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# UNITED STATES\n\n# SECURITIES AND EXCHANGE COMMISSION\n\nWashington, D.C. 20549\n\n# FORM 10-K\n\n(Mark One)\n\n[x] **ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934**\n\nFor the fiscal year ended December 31, 2025\n\nOR\n\n[ ] **TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934**\n\nFor the transition period from      to     \n\nCommission File Number: 001-8610\n\n# AT&T INC.\n\n(Exact name of registrant as specified in its charter)\n\n**Delaware**  **43-1301883**\n\n(State or other jurisdiction of incorporation or organization)  (I.R.S. Employer Identification No.)\n\n**208 S. Akard St. Dallas, Texas**  **75202**\n\n(Address of principal executive office)  (Zip Code)\n\nRegistrant’s telephone number, including area code: **210-821-4105**\n\n## Securities registered pursuant to Section 12(b) of the Act:\n\n<table>\n  <thead>\n    <tr>\n        <th>Title of each class</th>\n        <th>Trading Symbol(s)</th>\n        <th>Name of each exchange on which registered</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td>Common Shares (Par Value $1.00 Per Share)</td>\n        <td>T</td>\n        <td>New York Stock Exchange<br/>NYSE Texas</td>\n    </tr>\n    <tr>\n        <td>Depositary Shares, each representing a 1/1000th interest in a share of 5.000% Perpetual Preferred Stock, Series A</td>\n        <td>T PRA</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>Depositary Shares, each representing a 1/1000th interest in a share of 4.750% Perpetual Preferred Stock, Series C</td>\n        <td>T PRC</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 3.550% Global Notes due November 18, 2025</td>\n        <td>T 25B</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 3.500% Global Notes due December 17, 2025</td>\n        <td>T 25</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 0.250% Global Notes due March 4, 2026</td>\n        <td>T 26E</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 1.800% Global Notes due September 5, 2026</td>\n        <td>T 26D</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 2.900% Global Notes due December 4, 2026</td>\n        <td>T 26A</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. Floating Rate Global Notes due September 16, 2027</td>\n        <td>T 27C</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 1.600% Global Notes due May 19, 2028</td>\n        <td>T 28C</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 2.350% Global Notes due September 5, 2029</td>\n        <td>T 29D</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 4.375% Global Notes due September 14, 2029</td>\n        <td>T 29B</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 2.600% Global Notes due December 17, 2029</td>\n        <td>T 29A</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 0.800% Global Notes due March 4, 2030</td>\n        <td>T 30B</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 3.150% Global Notes due June 1, 2030</td>\n        <td>T 30C</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 3.950% Global Notes due April 30, 2031</td>\n        <td>T 31F</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 2.050% Global Notes due May 19, 2032</td>\n        <td>T 32A</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 3.550% Global Notes due December 17, 2032</td>\n        <td>T 32</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 3.600% Global Notes due June 1, 2033</td>\n        <td>T 33A</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n    <tr>\n        <td>AT&amp;T Inc. 5.200% Global Notes due November 18, 2033</td>\n        <td>T 33</td>\n        <td>New York Stock Exchange</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "10k.pdf",
+    "source_sha256": "4058f44e86cabbd7a433a8905bdd16aa4438c2ec6be6a5e84a292f1b61ddb75f",
+    "annotated_at": "2026-08-14T02:07:11.243Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/10k-2026-08-13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/t-20251231.htm",
+      "accession": "0000732717-26-000120",
+      "provider": "datamulehub",
+      "sha256": "311299e8492c0efc77b56314b2bae2cc452680c6f07e9100a5d057ccd4b775c6",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 2,
+            "byte_start": 539366,
+            "byte_end_exclusive": 561790
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "4058f44e86cabbd7a433a8905bdd16aa4438c2ec6be6a5e84a292f1b61ddb75f",
+    "input_sha256": "78335e4a15a2bb4cc4e0d0077c360fb4d738c7bf06d75f11f9549e44ca979a8a"
+  },
+  "tags": []
+}

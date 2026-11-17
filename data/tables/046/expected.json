@@ -1,0 +1,35 @@
+{
+  "id": "tables/Home Depot 10-k unrestricted_page106",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th>NAME OF SUBSIDIARY</th>\n        <th>STATE OR JURISDICTION OF INCORPORATION</th>\n        <th>D/B/A</th>\n    </tr>\n        <tr>\n        <td>Home Depot U.S.A., Inc.</td>\n<td>Delaware</td>\n<td>The Home Depot, blinds.com, The Company Store, Contractors' Warehouse</td>\n    </tr>\n<tr>\n        <td>Home Depot International, Inc.</td>\n<td>Delaware</td>\n<td>(Not Applicable)</td>\n    </tr>\n<tr>\n        <td>HD Development Holdings, Inc.</td>\n<td>Delaware</td>\n<td>(Not Applicable)</td>\n    </tr>\n<tr>\n        <td>HD Development of Maryland, Inc.</td>\n<td>Maryland</td>\n<td>(Not Applicable)</td>\n    </tr>\n<tr>\n        <td>Home Depot Incentives, Inc.</td>\n<td>Virginia</td>\n<td>(Not Applicable)</td>\n    </tr>\n<tr>\n        <td>Home Depot Product Authority, LLC</td>\n<td>Georgia</td>\n<td>(Not Applicable)</td>\n    </tr>\n<tr>\n        <td>Home Depot of Canada Inc.</td>\n<td>Canada</td>\n<td>The Home Depot, The Home Depot Canada</td>\n    </tr>\n<tr>\n        <td>Home Depot Store Support, Inc.</td>\n<td>Delaware</td>\n<td>(Not Applicable)</td>\n    </tr>\n<tr>\n        <td>HD Supply Holdings, Inc.</td>\n<td>Delaware</td>\n<td>HD Supply</td>\n    </tr>\n<tr>\n        <td>HD Operations Holding Company, Inc.</td>\n<td>Delaware</td>\n<td>(Not Applicable)</td>\n    </tr>\n<tr>\n        <td>Home Depot México, S. de R.L. de C.V.</td>\n<td>Mexico</td>\n<td>The Home Depot, The Home Depot México</td>\n    </tr>\n<tr>\n        <td>SRS Distribution Inc.</td>\n<td>Delaware</td>\n<td>(Not Applicable)</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Home Depot 10-k unrestricted_page106.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000085/hd_ex21-nextgenxactive0202.htm",
+      "accession": "0000354950-25-000085",
+      "provider": "datamulehub",
+      "sha256": "0cfe37e7bbdd278078dd46e0f8cd9d62c9d13fce05cd1cc699f536d2f940001a",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 0,
+            "byte_start": 600,
+            "byte_end_exclusive": 12521
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "c15930b50149254b1d4a44799adf179aa84110c2875ee369381c499f41e1d856",
+    "input_sha256": "f86b4274e2bffdba266e45ae9f9531851a6d8a284409ed5e1592d96a7f56ea0c"
+  },
+  "tags": []
+}

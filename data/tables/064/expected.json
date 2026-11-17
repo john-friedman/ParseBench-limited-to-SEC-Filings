@@ -1,0 +1,35 @@
+{
+  "id": "tables/JNPR.2017.page_127.pdf_110920_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th rowspan=\"3\"></th>\n      <th colspan=\"7\">As of and for the Years Ended December 31,</th>\n    </tr>\n    <tr>\n      <th rowspan=\"2\">2017</th>\n      <th rowspan=\"2\">2016</th>\n      <th rowspan=\"2\">2015</th>\n      <th colspan=\"2\">2017 vs. 2016</th>\n      <th colspan=\"2\">2016 vs. 2015</th>\n    </tr>\n    <tr>\n      <th>$ Change</th>\n      <th>% Change</th>\n      <th>$ Change</th>\n      <th>% Change</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Net revenues</td>\n      <td>$5,027.2</td>\n      <td>$4,990.1</td>\n      <td>$4,857.8</td>\n      <td>$37.1</td>\n      <td>1%</td>\n      <td>$132.3</td>\n      <td>3%</td>\n    </tr>\n    <tr>\n      <td>Gross margin</td>\n      <td>$3,072.1</td>\n      <td>$3,104.5</td>\n      <td>$3,078.6</td>\n      <td>$(32.4)</td>\n      <td>(1)%</td>\n      <td>$25.9</td>\n      <td>1%</td>\n    </tr>\n    <tr>\n      <td><em>Percentage of net revenues</em></td>\n      <td><em>61.1%</em></td>\n      <td><em>62.2%</em></td>\n      <td><em>63.4%</em></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Operating income</td>\n      <td>$848.1</td>\n      <td>$889.7</td>\n      <td>$912.0</td>\n      <td>$(41.6)</td>\n      <td>(5)%</td>\n      <td>$(22.3)</td>\n      <td>(2)%</td>\n    </tr>\n    <tr>\n      <td><em>Percentage of net revenues</em></td>\n      <td><em>16.9%</em></td>\n      <td><em>17.8%</em></td>\n      <td><em>18.8%</em></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Net income</td>\n      <td>$306.2</td>\n      <td>$592.7</td>\n      <td>$633.7</td>\n      <td>$(286.5)</td>\n      <td>(48)%</td>\n      <td>$(41.0)</td>\n      <td>(6)%</td>\n    </tr>\n    <tr>\n      <td><em>Percentage of net revenues</em></td>\n      <td><em>6.1%</em></td>\n      <td><em>11.9%</em></td>\n      <td><em>13.0%</em></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td colspan=\"8\">Net income per share</td>\n    </tr>\n    <tr>\n      <td>Basic</td>\n      <td>$0.81</td>\n      <td>$1.55</td>\n      <td>$1.62</td>\n      <td>$(0.74)</td>\n      <td>(48)%</td>\n      <td>$(0.07)</td>\n      <td>(4)%</td>\n    </tr>\n    <tr>\n      <td>Diluted</td>\n      <td>$0.80</td>\n      <td>$1.53</td>\n      <td>$1.59</td>\n      <td>$(0.73)</td>\n      <td>(48)%</td>\n      <td>$(0.06)</td>\n      <td>(4)%</td>\n    </tr>\n    <tr>\n      <td>Cash dividends declared per common stock</td>\n      <td>$0.40</td>\n      <td>$0.40</td>\n      <td>$0.40</td>\n      <td>$—</td>\n      <td>—%</td>\n      <td>$—</td>\n      <td>—%</td>\n    </tr>\n    <tr>\n      <td>Operating cash flows</td>\n      <td>$1,260.1</td>\n      <td>$1,107.2</td>\n      <td>$899.5</td>\n      <td>$152.9</td>\n      <td>14%</td>\n      <td>$207.7</td>\n      <td>23%</td>\n    </tr>\n    <tr>\n      <td>Stock repurchase plan activity</td>\n      <td>719.7</td>\n      <td>312.9</td>\n      <td>1,142.5</td>\n      <td>406.8</td>\n      <td>130%</td>\n      <td>(829.6)</td>\n      <td>(73)%</td>\n    </tr>\n    <tr>\n      <td>DSO<sup>(*)</sup></td>\n      <td>62</td>\n      <td>68</td>\n      <td>53</td>\n      <td>(6)</td>\n      <td>(9)%</td>\n      <td>15</td>\n      <td>28%</td>\n    </tr>\n    <tr>\n      <td>Deferred revenue</td>\n      <td>$1,539.3</td>\n      <td>$1,481.1</td>\n      <td>$1,168.1</td>\n      <td>$58.2</td>\n      <td>4%</td>\n      <td>$313</td>\n      <td>27%</td>\n    </tr>\n    <tr>\n      <td>Product deferred revenue</td>\n      <td>$334.2</td>\n      <td>$322.9</td>\n      <td>$240.3</td>\n      <td>$11.3</td>\n      <td>3%</td>\n      <td>$82.6</td>\n      <td>34%</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/JNPR.2017.page_127.pdf_110920_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1043604/000104360418000011/jnpr-10k20171231.htm",
+      "accession": "0001043604-18-000011",
+      "provider": "datamulehub",
+      "sha256": "ed78e729afdf2fc24ffb815457524724bca3d7096f6f29e8b5e55a3f5cd96050",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 95,
+            "byte_start": 548159,
+            "byte_end_exclusive": 642781
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "4c282dc9e184dd2288a01c0352da0620fe5594e4a8c22619c6fb75400932f9f3",
+    "input_sha256": "2792156d9c2ae38e524798bfd627bf3b3bae47ebf088bec9629c9428e470a1bb"
+  },
+  "tags": []
+}

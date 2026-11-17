@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/Q3-2025-GAAP-and-Non-GAAP-Earnings-Tables-2026-08-13_page4",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "**ADVANCED MICRO DEVICES, INC.** \n**SELECTED CORPORATE DATA**\n**(Millions) (Unaudited)**\n\n<table>\n  <thead>\n    <tr>\n        <th> </th>\n        <th colspan=\"3\">Three Months Ended</th>\n        <th colspan=\"2\">Nine Months Ended</th>\n    </tr>\n    <tr>\n        <th>Segment and Disaggregated Revenue Information<sup>(1)</sup></th>\n        <th>September 27, 2025</th>\n        <th>June 28, 2025</th>\n        <th>September 28, 2024</th>\n        <th>September 27, 2025</th>\n        <th>September 28, 2024</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td colspan=\"6\"><b>Net Revenue:</b></td>\n    </tr>\n    <tr>\n        <td>Data Center Segment</td>\n        <td>$ 4,341</td>\n        <td>$ 3,240</td>\n        <td>$ 3,549</td>\n        <td>$ 11,255</td>\n        <td>$ 8,720</td>\n    </tr>\n    <tr>\n        <td colspan=\"6\">Client and Gaming Segment</td>\n    </tr>\n    <tr>\n        <td>Client</td>\n        <td>2,750</td>\n        <td>2,499</td>\n        <td>1,881</td>\n        <td>7,543</td>\n        <td>4,741</td>\n    </tr>\n    <tr>\n        <td>Gaming</td>\n        <td>1,298</td>\n        <td>1,122</td>\n        <td>462</td>\n        <td>3,067</td>\n        <td>2,032</td>\n    </tr>\n    <tr>\n        <td>Total Client and Gaming</td>\n        <td>4,048</td>\n        <td>3,621</td>\n        <td>2,343</td>\n        <td>10,610</td>\n        <td>6,773</td>\n    </tr>\n    <tr>\n        <td>Embedded Segment</td>\n        <td>857</td>\n        <td>824</td>\n        <td>927</td>\n        <td>2,504</td>\n        <td>2,634</td>\n    </tr>\n    <tr>\n        <td><b>Total net revenue</b></td>\n        <td>$ 9,246</td>\n        <td>$ 7,685</td>\n        <td>$ 6,819</td>\n        <td>$ 24,369</td>\n        <td>$ 18,127</td>\n    </tr>\n    <tr>\n        <td colspan=\"6\"><b>Operating Income (Loss):</b></td>\n    </tr>\n    <tr>\n        <td>Data Center Segment</td>\n        <td>$ 1,074</td>\n        <td>$ (155)</td>\n        <td>$ 1,041</td>\n        <td>$ 1,851</td>\n        <td>$ 2,325</td>\n    </tr>\n    <tr>\n        <td>Client and Gaming Segment</td>\n        <td>867</td>\n        <td>767</td>\n        <td>288</td>\n        <td>2,130</td>\n        <td>691</td>\n    </tr>\n    <tr>\n        <td>Embedded Segment</td>\n        <td>283</td>\n        <td>275</td>\n        <td>372</td>\n        <td>886</td>\n        <td>1,059</td>\n    </tr>\n    <tr>\n        <td>All other</td>\n        <td>(954)</td>\n        <td>(1,021)</td>\n        <td>(977)</td>\n        <td>(2,925)</td>\n        <td>(3,046)</td>\n    </tr>\n    <tr>\n        <td><b>Total operating income (loss)</b></td>\n        <td>$ 1,270</td>\n        <td>$ (134)</td>\n        <td>$ 724</td>\n        <td>$ 1,942</td>\n        <td>$ 1,029</td>\n    </tr>\n    <tr>\n        <td colspan=\"6\"><b>Other Data</b></td>\n    </tr>\n    <tr>\n        <td>Capital expenditures</td>\n        <td>$ 258</td>\n        <td>$ 282</td>\n        <td>$ 132</td>\n        <td>$ 752</td>\n        <td>$ 428</td>\n    </tr>\n    <tr>\n        <td>Adjusted EBITDA (2)</td>\n        <td>$ 2,431</td>\n        <td>$ 1,088</td>\n        <td>$ 1,887</td>\n        <td>$ 5,473</td>\n        <td>$ 4,612</td>\n    </tr>\n    <tr>\n        <td>Cash, cash equivalents and short-term investments</td>\n        <td>$ 7,243</td>\n        <td>$ 5,867</td>\n        <td>$ 4,544</td>\n        <td>$ 7,243</td>\n        <td>$ 4,544</td>\n    </tr>\n    <tr>\n        <td>Free cash flow (3)</td>\n        <td>$ 1,530</td>\n        <td>$ 1,180</td>\n        <td>$ 496</td>\n        <td>$ 3,437</td>\n        <td>$ 1,314</td>\n    </tr>\n    <tr>\n        <td>Total assets</td>\n        <td>$ 76,891</td>\n        <td>$ 74,820</td>\n        <td>$ 69,636</td>\n        <td>$ 76,891</td>\n        <td>$ 69,636</td>\n    </tr>\n    <tr>\n        <td>Total debt</td>\n        <td>$ 3,220</td>\n        <td>$ 3,218</td>\n        <td>$ 1,720</td>\n        <td>$ 3,220</td>\n        <td>$ 1,720</td>\n    </tr>\n  </tbody>\n</table>\n\nSee footnotes on the next page",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Q3+2025+GAAP+and+Non-GAAP+Earnings+Tables_.pdf",
+    "source_sha256": "a7a533ba8fbda89fb14458760d1c313dbaad64657169e304a369504419978475",
+    "annotated_at": "2026-08-13T06:03:52.339Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Q3-2025-GAAP-and-Non-GAAP-Earnings-Tables-2026-08-13_page4.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000163/q32025991.htm",
+      "accession": "0000002488-25-000163",
+      "provider": "datamulehub",
+      "sha256": "6923b2589e90765e4d715f38a541a9d393b02289ac4971b8994329340f58b4b7",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 9,
+            "byte_start": 352435,
+            "byte_end_exclusive": 403170
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "a7a533ba8fbda89fb14458760d1c313dbaad64657169e304a369504419978475",
+    "input_sha256": "cc0c1f07e1fc61b86b6f68a3e979f384e91d1f177ca873abc30141c6fc148305"
+  },
+  "tags": []
+}

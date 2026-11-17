@@ -1,0 +1,245 @@
+{
+  "id": "dense_tables/dense_table_470",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# NVIDIA Corporation and Subsidiaries\n# Consolidated Statements of Shareholders' Equity\n\n<table>\n<thead>\n<tr><th rowspan=\"2\"></th><th colspan=\"2\">Common Stock Outstanding</th><th rowspan=\"2\">Additional Paid-in Capital</th><th rowspan=\"2\">Accumulated Other Comprehensive Income (Loss)</th><th rowspan=\"2\">Retained Earnings</th><th rowspan=\"2\">Total Shareholders' Equity</th></tr>\n<tr><th>Shares</th><th>Amount</th></tr>\n</thead>\n<tbody>\n<tr><th>(In millions, except per share data)</th><th></th><th></th><th></th><th></th><th></th><th></th></tr>\n<tr><td>Balances as of Jan 30, 2022</td><td>25,064</td><td>$ 26</td><td>$ 10,362</td><td>$ (11)</td><td>$ 16,235</td><td>$ 26,612</td></tr>\n<tr><td>Net income</td><td>—</td><td>—</td><td>—</td><td>—</td><td>4,368</td><td>4,368</td></tr>\n<tr><td>Other comprehensive loss</td><td>—</td><td>—</td><td>—</td><td>(32)</td><td>—</td><td>(32)</td></tr>\n<tr><td>Issuance of common stock from stock plans</td><td>312</td><td>—</td><td>355</td><td>—</td><td>—</td><td>355</td></tr>\n<tr><td>Tax withholding related to vesting of restricted stock units</td><td>(82)</td><td>—</td><td>(1,475)</td><td>—</td><td>—</td><td>(1,475)</td></tr>\n<tr><td>Shares repurchased</td><td>(633)</td><td>(1)</td><td>(4)</td><td>—</td><td>(10,034)</td><td>(10,039)</td></tr>\n<tr><td>Cash dividends declared and paid ($0.016 per common share)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(398)</td><td>(398)</td></tr>\n<tr><td>Stock-based compensation</td><td>—</td><td>—</td><td>2,710</td><td>—</td><td>—</td><td>2,710</td></tr>\n<tr><td>Balances as of Jan 29, 2023</td><td>24,661</td><td>25</td><td>11,948</td><td>(43)</td><td>10,171</td><td>22,101</td></tr>\n<tr><td>Net income</td><td>—</td><td>—</td><td>—</td><td>—</td><td>29,760</td><td>29,760</td></tr>\n<tr><td>Other comprehensive income</td><td>—</td><td>—</td><td>—</td><td>70</td><td>—</td><td>70</td></tr>\n<tr><td>Issuance of common stock from stock plans</td><td>265</td><td>—</td><td>403</td><td>—</td><td>—</td><td>403</td></tr>\n<tr><td>Tax withholding related to vesting of restricted stock units</td><td>(72)</td><td>—</td><td>(2,783)</td><td>—</td><td>—</td><td>(2,783)</td></tr>\n<tr><td>Shares repurchased</td><td>(211)</td><td>—</td><td>(27)</td><td>—</td><td>(9,719)</td><td>(9,746)</td></tr>\n<tr><td>Cash dividends declared and paid ($0.016 per common share)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(395)</td><td>(395)</td></tr>\n<tr><td>Stock-based compensation</td><td>—</td><td>—</td><td>3,568</td><td>—</td><td>—</td><td>3,568</td></tr>\n<tr><td>Balances as of Jan 28, 2024</td><td>24,643</td><td>25</td><td>13,109</td><td>27</td><td>29,817</td><td>42,978</td></tr>\n<tr><td>Net income</td><td>—</td><td>—</td><td>—</td><td>—</td><td>72,880</td><td>72,880</td></tr>\n<tr><td>Other comprehensive income</td><td>—</td><td>—</td><td>—</td><td>1</td><td>—</td><td>1</td></tr>\n<tr><td>Issuance of common stock from stock plans</td><td>203</td><td>—</td><td>490</td><td>—</td><td>—</td><td>490</td></tr>\n<tr><td>Tax withholding related to vesting of restricted stock units</td><td>(59)</td><td>—</td><td>(6,930)</td><td>—</td><td>—</td><td>(6,930)</td></tr>\n<tr><td>Shares repurchased</td><td>(310)</td><td>(1)</td><td>(189)</td><td>—</td><td>(33,825)</td><td>(34,015)</td></tr>\n<tr><td>Cash dividends declared and paid ($0.034 per common share)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(834)</td><td>(834)</td></tr>\n<tr><td>Stock-based compensation</td><td>—</td><td>—</td><td>4,757</td><td>—</td><td>—</td><td>4,757</td></tr>\n<tr><td>Balances as of Jan 26, 2025</td><td>24,477</td><td>$ 24</td><td>$ 11,237</td><td>$ 28</td><td>$ 68,038</td><td>$ 79,327</td></tr>\n</tbody>\n</table>\n\nSee accompanying Notes to the Consolidated Financial Statements.\n\n55",
+  "test_rules": [
+    {
+      "type": "table_colspan",
+      "cell": "common stock outstanding",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "common stock outstanding",
+        "additional paid-in capital",
+        "accumulated other comprehensive income (loss)",
+        "retained earnings",
+        "total shareholders' equity"
+      ],
+      "page": 1,
+      "pdf": "dense_table_470.pdf",
+      "verified": false,
+      "id": "dense_v01_e4accb2faf0d77fb"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "(in millions, except per share data)",
+      "expected_neighbor": "balances as of jan 30, 2022",
+      "table_anchor_cells": [
+        "common stock outstanding",
+        "additional paid-in capital",
+        "accumulated other comprehensive income (loss)",
+        "retained earnings",
+        "total shareholders' equity"
+      ],
+      "page": 1,
+      "pdf": "dense_table_470.pdf",
+      "verified": false,
+      "id": "dense_v01_e9ed04fd714d906b"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "(4)",
+      "expected_neighbor": "-",
+      "table_anchor_cells": [
+        "common stock outstanding",
+        "additional paid-in capital",
+        "accumulated other comprehensive income (loss)",
+        "retained earnings",
+        "total shareholders' equity"
+      ],
+      "page": 1,
+      "pdf": "dense_table_470.pdf",
+      "verified": false,
+      "id": "dense_v01_d03501bb54831b4e"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "(10,039)",
+      "expected_neighbor": "(398)",
+      "table_anchor_cells": [
+        "common stock outstanding",
+        "additional paid-in capital",
+        "accumulated other comprehensive income (loss)",
+        "retained earnings",
+        "total shareholders' equity"
+      ],
+      "page": 1,
+      "pdf": "dense_table_470.pdf",
+      "verified": false,
+      "id": "dense_v01_2037c31f002fab7f"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "balances as of jan 26, 2025",
+      "expected_neighbor": "24,477",
+      "table_anchor_cells": [
+        "common stock outstanding",
+        "additional paid-in capital",
+        "accumulated other comprehensive income (loss)",
+        "retained earnings",
+        "total shareholders' equity"
+      ],
+      "page": 1,
+      "pdf": "dense_table_470.pdf",
+      "verified": false,
+      "id": "dense_v01_714d7e5a58012dca"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "$ 11,237",
+      "expected_neighbor": "$ 28",
+      "table_anchor_cells": [
+        "common stock outstanding",
+        "additional paid-in capital",
+        "accumulated other comprehensive income (loss)",
+        "retained earnings",
+        "total shareholders' equity"
+      ],
+      "page": 1,
+      "pdf": "dense_table_470.pdf",
+      "verified": false,
+      "id": "dense_v01_f5036d9d09acda7d"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "balances as of jan 26, 2025",
+      "cell_b": "$ 79,327",
+      "table_anchor_cells": [
+        "common stock outstanding",
+        "additional paid-in capital",
+        "accumulated other comprehensive income (loss)",
+        "retained earnings",
+        "total shareholders' equity"
+      ],
+      "page": 1,
+      "pdf": "dense_table_470.pdf",
+      "verified": false,
+      "id": "dense_v01_138d5e9a520f8fbf"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "additional paid-in capital",
+      "cell_b": "$ 11,237",
+      "table_anchor_cells": [
+        "common stock outstanding",
+        "additional paid-in capital",
+        "accumulated other comprehensive income (loss)",
+        "retained earnings",
+        "total shareholders' equity"
+      ],
+      "page": 1,
+      "pdf": "dense_table_470.pdf",
+      "verified": false,
+      "id": "dense_v01_9dd7361d02956caf"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "total shareholders' equity",
+      "cell_b": "$ 79,327",
+      "table_anchor_cells": [
+        "common stock outstanding",
+        "additional paid-in capital",
+        "accumulated other comprehensive income (loss)",
+        "retained earnings",
+        "total shareholders' equity"
+      ],
+      "page": 1,
+      "pdf": "dense_table_470.pdf",
+      "verified": false,
+      "id": "dense_v01_e72702103f36a7b0"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_470",
+    "gt_status": "reannotated_confirmed",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_470.md",
+    "source_pdf": "/Users/pierre/Code/pdfDataSetOrdered/nvidia/NVIDIA-2025-Annual-Report.pdf",
+    "source_page": 147,
+    "source_n_pages": 181,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 213.0,
+      "rows": 28,
+      "cols": 8,
+      "cells": 202,
+      "fill": 0.902,
+      "numeric_ratio": 0.757,
+      "n_items": 205,
+      "tabular_line_ratio": 0.824,
+      "n_blocks": 1
+    },
+    "shape_class": "medium/numeric/landscape",
+    "verify": {
+      "median_cell_len": 3,
+      "words_per_cell": 1.5,
+      "aligned_ratio": 0.901,
+      "row_coverage": 0.824,
+      "text_sha1": "cb71c71a03c5019879d307594f4105d4421135dc"
+    },
+    "header_preview": "Additional | Other | TotalCommon | Stock",
+    "draft_check": {
+      "text_layer_numbers": 87,
+      "numeric_coverage": 1.0
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 1.0,
+        "blind_rows": 10,
+        "text_layer_token_precision": 1.0,
+        "text_layer_token_recall": 1.0,
+        "agreement_with_previous_reference_table_next": 0.95
+      },
+      "review": null,
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_470.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000023/nvda-20250126.htm",
+      "accession": "0001045810-25-000023",
+      "provider": "datamulehub",
+      "sha256": "06fc4391bd155b61e1d90fe42ea96557423d64792c3a835cd07cc76126b4808b",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 24,
+            "byte_start": 895034,
+            "byte_end_exclusive": 985562
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "7d6ca04eeab8f1d316d26a071294a84043d4343d25e3109372961d4da9982008",
+    "input_sha256": "fc513805ce92b03879bde35a024a84058ee4e83babebf3dc329bf2dbf24dac15"
+  },
+  "tags": [
+    "dense_table",
+    "medium_columns",
+    "numeric_content",
+    "landscape",
+    "gt_draft"
+  ]
+}

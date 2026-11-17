@@ -1,0 +1,86 @@
+{
+  "id": "headings/case-0011-ca39ac252cec",
+  "subset": "headings",
+  "dimension": "formatting",
+  "document": "sec_input.html",
+  "expected_markdown": null,
+  "test_rules": [
+    {
+      "type": "heading_structure",
+      "id": "case-0011-ca39ac252cec:heading-structure-001",
+      "page": 1,
+      "headings": [
+        {
+          "text": "Definitions - Components of Revenue Change",
+          "level": 2
+        },
+        {
+          "text": "Conference Call",
+          "level": 2
+        },
+        {
+          "text": "About Omnicom",
+          "level": 2
+        },
+        {
+          "text": "Contact",
+          "level": 2
+        },
+        {
+          "text": "Non-GAAP Financial Measures",
+          "level": 2
+        },
+        {
+          "text": "Forward-Looking Statements",
+          "level": 2
+        }
+      ],
+      "tags": [
+        "heading-structure",
+        "financial",
+        "full-document-reviewed"
+      ]
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "OMC-2026-Q1-Earnings-Release-04-28-26.pdf",
+    "source_sha256": "ca39ac252cec4f10d68942ad1a578de9d7a89c6a2527f75f841e930313d5f686",
+    "source_page": 5,
+    "source_page_count": 13,
+    "cohort": "financial",
+    "annotation_evidence": [
+      "target_page_raster",
+      "adjacent_page_context",
+      "full_document_outline"
+    ],
+    "scoring": "next",
+    "primary_metric": "formatting_v2",
+    "headline": "feature",
+    "headline_reason": "complete page heading list (heading_structure rule)",
+    "next_version": "v0.4",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/headings.jsonl",
+    "parsebench_document": "headings/case-0011-ca39ac252cec.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/29989/000002998926000008/a2026q1earningsrelease.htm",
+      "accession": "0000029989-26-000008",
+      "provider": "datamulehub",
+      "sha256": "e79391002bce460fd80e92f99fb068f40cc3e1242b8e53281b880f42d1c5d345",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 88127,
+        "byte_end_exclusive": 97772,
+        "page_fragment_index_0based": 4
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "0050d2cbb66549079fec2807e3664297b4e97c376c9d16b9538f5e1abe716de9",
+    "input_sha256": "c80c909f192a7d57e9090b500d34e536957925a64f8a22ad1ac4d1d29bbd9222"
+  },
+  "tags": [
+    "heading-structure",
+    "financial",
+    "full-document-reviewed"
+  ]
+}

@@ -1,0 +1,2938 @@
+{
+  "id": "text/text_simple__10k2",
+  "subset": "text",
+  "dimension": "text",
+  "document": "sec_input.html",
+  "expected_markdown": "### ***Energy Storage System Incentives and Policies***\n\nWhile the regulatory regime for energy storage projects is still under development, there are various policies, incentives and financial mechanisms at the federal, state and local levels that support the adoption of energy storage.\n\nFor example, energy storage systems that are charged using solar energy may be eligible for the solar energy-related U.S. federal tax credits described below. The Federal Energy Regulatory Commission (“FERC”) has also taken steps to enable the participation of energy storage in wholesale energy markets. In addition, California and a number of other states have adopted procurement targets for energy storage, and behind-the-meter energy storage systems qualify for funding under the California Self Generation Incentive Program. Our customers primarily benefit directly under these programs. In certain instances our customers may transfer such credits to us as contract consideration. In such transactions, they are included as a component of energy generation and storage revenues in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.\n\nPursuant to the IRA, under Sections 48, 48E and 25D of the Internal Revenue Code (“IRC”), standalone energy storage technology is eligible for a tax credit between 6% and 50% of qualified expenditures, regardless of the source of energy, which may be claimed by our customers for storage systems they purchase or by us for arrangements where we own the systems. These tax credits are primarily for the benefit of our customers and are currently scheduled to phase-out starting in 2032 or later.\n\n### ***Solar Energy System Incentives and Policies***\n\nU.S. federal, state and local governments have established various policies, incentives and financial mechanisms to reduce the cost of solar energy and to accelerate the adoption of solar energy. These incentives include tax credits, cash grants, tax abatements and rebates.\n\nIn particular, pursuant to the IRA, Sections 48, 48E and 25D of the IRC provides a tax credit between 6% and 70% of qualified commercial or residential expenditures for solar energy systems, which may be claimed by our customers for systems they purchase, or by us for arrangements where we own the systems for properties that meet statutory requirements. These tax credits are primarily for the direct benefit of our customers and are currently scheduled to phase-out starting in 2023 or later.\n\n## Regulations\n\n### ***Vehicle Safety and Testing***\n\nIn the U.S., our vehicles are subject to regulation by the National Highway Traffic Safety Administration (“NHTSA”), including all applicable Federal Motor Vehicle Safety Standards (“FMVSS”) and the NHTSA bumper standard. Numerous FMVSS apply to our vehicles, such as crash-worthiness and occupant protection requirements. Our current vehicles fully comply and we expect that our vehicles in the future will fully comply with all applicable FMVSS with limited or no exemptions, however, FMVSS are subject to change from time to time. As a manufacturer, we must self-certify that our vehicles meet all applicable FMVSS and the NHTSA bumper standard, or otherwise are exempt, before the vehicles may be imported or sold in the U.S.\n\nWe are also required to comply with other federal laws administered by NHTSA, including the Corporate Average Fuel Economy standards, Theft Prevention Act requirements, labeling requirements and other information provided to customers in writing, Early Warning Reporting requirements regarding warranty claims, field reports, death and injury reports and foreign recalls, a Standing General Order requiring reports regarding crashes involving vehicles equipped with advanced driver assistance systems, and additional requirements for cooperating with compliance and safety investigations and recall reporting. The U.S. Automobile Information and Disclosure Act also requires manufacturers of motor vehicles to disclose certain information regarding the manufacturer’s suggested retail price, optional equipment and pricing. In addition, federal law requires inclusion of fuel economy ratings, as determined by the U.S. Department of Transportation and the Environmental Protection Agency (the “EPA”), and New Car Assessment Program ratings as determined by NHTSA, if available.\n\nOur vehicles sold outside of the U.S. are subject to similar foreign compliance, safety, environmental and other regulations. Many of those regulations are different from those applicable in the U.S. and may require redesign and/or retesting. Some of those regulations impact or prevent the rollout of new vehicle features. Additionally, the European Union established new rules regarding additional compliance oversight that commenced in 2020.\n\n### ***Self-Driving Vehicles***\n\nGenerally, laws pertaining to self-driving vehicles are evolving globally, and in some cases may create restrictions on features that we develop. While there are currently no federal U.S. regulations pertaining specifically to self-driving vehicles or self-driving equipment, NHTSA has published recommended guidelines on self-driving vehicles, apart from the FMVSS and manufacturer reporting obligations, and retains the authority to investigate and/or take action on the safety or compliance of any vehicle, equipment or features operating on public roads. Certain U.S. states also have legal restrictions on the operation, registration or licensure of self-driving vehicles, and many other states are considering them. This regulatory patchwork increases the legal complexity with respect to self-driving vehicles in the U.S.\n\n<page_footer>\n<page_number>9</page_number>\n</page_footer>",
+  "test_rules": [
+    {
+      "type": "missing_sentence_percent",
+      "bag_of_sentence": {
+        "Energy Storage System Incentives and Policies": 1,
+        "While the regulatory regime for energy storage projects is still under development, there are various policies, incentives and financial mechanisms at the federal, state and local levels that support the adoption of energy storage": 1,
+        "For example, energy storage systems that are charged using solar energy may be eligible for the solar energy-related U": 1,
+        "S federal tax credits described below": 1,
+        "The Federal Energy Regulatory Commission (\"FERC\") has also taken steps to enable the participation of energy storage in wholesale energy markets": 1,
+        "In addition, California and a number of other states have adopted procurement targets for energy storage, and behind-the-meter energy storage systems qualify for funding under the California Self Generation Incentive Program": 1,
+        "Our customers primarily benefit directly under these programs": 1,
+        "In certain instances our customers may transfer such credits to us as contract consideration": 1,
+        "In such transactions, they are included as a component of energy generation and storage revenues in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K": 1,
+        "Pursuant to the IRA, under Sections 48, 48E and 25D of the Internal Revenue Code (\"IRC\"), standalone energy storage technology is eligible for a tax credit between 6% and 50% of qualified expenditures, regardless of the source of energy, which may be claimed by our customers for storage systems they purchase or by us for arrangements where we own the systems": 1,
+        "These tax credits are primarily for the benefit of our customers and are currently scheduled to phase-out starting in 2032 or later": 1,
+        "Solar Energy System Incentives and Policies": 1,
+        "U S federal, state and local governments have established various policies, incentives and financial mechanisms to reduce the cost of solar energy and to accelerate the adoption of solar energy": 1,
+        "These incentives include tax credits, cash grants, tax abatements and rebates": 1,
+        "In particular, pursuant to the IRA, Sections 48, 48E and 25D of the IRC provides a tax credit between 6% and 70% of qualified commercial or residential expenditures for solar energy systems, which may be claimed by our customers for systems they purchase, or by us for arrangements where we own the systems for properties that meet statutory requirements": 1,
+        "These tax credits are primarily for the direct benefit of our customers and are currently scheduled to phase-out starting in 2023 or later": 1,
+        "Regulations": 1,
+        "Vehicle Safety and Testing": 1,
+        "In the U": 1,
+        "S , our vehicles are subject to regulation by the National Highway Traffic Safety Administration (\"NHTSA\"), including all applicable Federal Motor Vehicle Safety Standards (\"FMVSS\") and the NHTSA bumper standard": 1,
+        "Numerous FMVSS apply to our vehicles, such as crash-worthiness and occupant protection requirements": 1,
+        "Our current vehicles fully comply and we expect that our vehicles in the future will fully comply with all applicable FMVSS with limited or no exemptions, however, FMVSS are subject to change from time to time": 1,
+        "As a manufacturer, we must self-certify that our vehicles meet all applicable FMVSS and the NHTSA bumper standard, or otherwise are exempt, before the vehicles may be imported or sold in the U": 1,
+        "S We are also required to comply with other federal laws administered by NHTSA, including the Corporate Average Fuel Economy standards, Theft Prevention Act requirements, labeling requirements and other information provided to customers in writing, Early Warning Reporting requirements regarding warranty claims, field reports, death and injury reports and foreign recalls, a Standing General Order requiring reports regarding crashes involving vehicles equipped with advanced driver assistance systems, and additional requirements for cooperating with compliance and safety investigations and recall reporting": 1,
+        "The U S": 1,
+        "Automobile Information and Disclosure Act also requires manufacturers of motor vehicles to disclose certain information regarding the manufacturer's suggested retail price, optional equipment and pricing": 1,
+        "In addition, federal law requires inclusion of fuel economy ratings, as determined by the U": 1,
+        "S Department of Transportation and the Environmental Protection Agency (the \"EPA\"), and New Car Assessment Program ratings as determined by NHTSA, if available": 1,
+        "Our vehicles sold outside of the U": 1,
+        "S are subject to similar foreign compliance, safety, environmental and other regulations": 1,
+        "Many of those regulations are different from those applicable in the U": 1,
+        "S and may require redesign and/or retesting": 1,
+        "Some of those regulations impact or prevent the rollout of new vehicle features": 1,
+        "Additionally, the European Union established new rules regarding additional compliance oversight that commenced in 2020": 1,
+        "Self-Driving Vehicles": 1,
+        "Generally, laws pertaining to self-driving vehicles are evolving globally, and in some cases may create restrictions on features that we develop": 1,
+        "While there are currently no federal U": 1,
+        "S regulations pertaining specifically to self-driving vehicles or self-driving equipment, NHTSA has published recommended guidelines on self-driving vehicles, apart from the FMVSS and manufacturer reporting obligations, and retains the authority to investigate and/or take action on the safety or compliance of any vehicle, equipment or features operating on public roads": 1,
+        "Certain U": 1,
+        "S states also have legal restrictions on the operation, registration or licensure of self-driving vehicles, and many other states are considering them": 1,
+        "This regulatory patchwork increases the legal complexity with respect to self-driving vehicles in the U S 9": 1
+      }
+    },
+    {
+      "type": "unexpected_sentence_percent",
+      "bag_of_sentence": {
+        "Energy Storage System Incentives and Policies": 1,
+        "While the regulatory regime for energy storage projects is still under development, there are various policies, incentives and financial mechanisms at the federal, state and local levels that support the adoption of energy storage": 1,
+        "For example, energy storage systems that are charged using solar energy may be eligible for the solar energy-related U": 1,
+        "S federal tax credits described below": 1,
+        "The Federal Energy Regulatory Commission (\"FERC\") has also taken steps to enable the participation of energy storage in wholesale energy markets": 1,
+        "In addition, California and a number of other states have adopted procurement targets for energy storage, and behind-the-meter energy storage systems qualify for funding under the California Self Generation Incentive Program": 1,
+        "Our customers primarily benefit directly under these programs": 1,
+        "In certain instances our customers may transfer such credits to us as contract consideration": 1,
+        "In such transactions, they are included as a component of energy generation and storage revenues in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K": 1,
+        "Pursuant to the IRA, under Sections 48, 48E and 25D of the Internal Revenue Code (\"IRC\"), standalone energy storage technology is eligible for a tax credit between 6% and 50% of qualified expenditures, regardless of the source of energy, which may be claimed by our customers for storage systems they purchase or by us for arrangements where we own the systems": 1,
+        "These tax credits are primarily for the benefit of our customers and are currently scheduled to phase-out starting in 2032 or later": 1,
+        "Solar Energy System Incentives and Policies": 1,
+        "U S federal, state and local governments have established various policies, incentives and financial mechanisms to reduce the cost of solar energy and to accelerate the adoption of solar energy": 1,
+        "These incentives include tax credits, cash grants, tax abatements and rebates": 1,
+        "In particular, pursuant to the IRA, Sections 48, 48E and 25D of the IRC provides a tax credit between 6% and 70% of qualified commercial or residential expenditures for solar energy systems, which may be claimed by our customers for systems they purchase, or by us for arrangements where we own the systems for properties that meet statutory requirements": 1,
+        "These tax credits are primarily for the direct benefit of our customers and are currently scheduled to phase-out starting in 2023 or later": 1,
+        "Regulations": 1,
+        "Vehicle Safety and Testing": 1,
+        "In the U": 1,
+        "S , our vehicles are subject to regulation by the National Highway Traffic Safety Administration (\"NHTSA\"), including all applicable Federal Motor Vehicle Safety Standards (\"FMVSS\") and the NHTSA bumper standard": 1,
+        "Numerous FMVSS apply to our vehicles, such as crash-worthiness and occupant protection requirements": 1,
+        "Our current vehicles fully comply and we expect that our vehicles in the future will fully comply with all applicable FMVSS with limited or no exemptions, however, FMVSS are subject to change from time to time": 1,
+        "As a manufacturer, we must self-certify that our vehicles meet all applicable FMVSS and the NHTSA bumper standard, or otherwise are exempt, before the vehicles may be imported or sold in the U": 1,
+        "S We are also required to comply with other federal laws administered by NHTSA, including the Corporate Average Fuel Economy standards, Theft Prevention Act requirements, labeling requirements and other information provided to customers in writing, Early Warning Reporting requirements regarding warranty claims, field reports, death and injury reports and foreign recalls, a Standing General Order requiring reports regarding crashes involving vehicles equipped with advanced driver assistance systems, and additional requirements for cooperating with compliance and safety investigations and recall reporting": 1,
+        "The U S": 1,
+        "Automobile Information and Disclosure Act also requires manufacturers of motor vehicles to disclose certain information regarding the manufacturer's suggested retail price, optional equipment and pricing": 1,
+        "In addition, federal law requires inclusion of fuel economy ratings, as determined by the U": 1,
+        "S Department of Transportation and the Environmental Protection Agency (the \"EPA\"), and New Car Assessment Program ratings as determined by NHTSA, if available": 1,
+        "Our vehicles sold outside of the U": 1,
+        "S are subject to similar foreign compliance, safety, environmental and other regulations": 1,
+        "Many of those regulations are different from those applicable in the U": 1,
+        "S and may require redesign and/or retesting": 1,
+        "Some of those regulations impact or prevent the rollout of new vehicle features": 1,
+        "Additionally, the European Union established new rules regarding additional compliance oversight that commenced in 2020": 1,
+        "Self-Driving Vehicles": 1,
+        "Generally, laws pertaining to self-driving vehicles are evolving globally, and in some cases may create restrictions on features that we develop": 1,
+        "While there are currently no federal U": 1,
+        "S regulations pertaining specifically to self-driving vehicles or self-driving equipment, NHTSA has published recommended guidelines on self-driving vehicles, apart from the FMVSS and manufacturer reporting obligations, and retains the authority to investigate and/or take action on the safety or compliance of any vehicle, equipment or features operating on public roads": 1,
+        "Certain U": 1,
+        "S states also have legal restrictions on the operation, registration or licensure of self-driving vehicles, and many other states are considering them": 1,
+        "This regulatory patchwork increases the legal complexity with respect to self-driving vehicles in the U S 9": 1
+      },
+      "original_md": "### ***Energy Storage System Incentives and Policies***\n\nWhile the regulatory regime for energy storage projects is still under development, there are various policies, incentives and financial mechanisms at the federal, state and local levels that support the adoption of energy storage.\n\nFor example, energy storage systems that are charged using solar energy may be eligible for the solar energy-related U.S. federal tax credits described below. The Federal Energy Regulatory Commission (“FERC”) has also taken steps to enable the participation of energy storage in wholesale energy markets. In addition, California and a number of other states have adopted procurement targets for energy storage, and behind-the-meter energy storage systems qualify for funding under the California Self Generation Incentive Program. Our customers primarily benefit directly under these programs. In certain instances our customers may transfer such credits to us as contract consideration. In such transactions, they are included as a component of energy generation and storage revenues in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.\n\nPursuant to the IRA, under Sections 48, 48E and 25D of the Internal Revenue Code (“IRC”), standalone energy storage technology is eligible for a tax credit between 6% and 50% of qualified expenditures, regardless of the source of energy, which may be claimed by our customers for storage systems they purchase or by us for arrangements where we own the systems. These tax credits are primarily for the benefit of our customers and are currently scheduled to phase-out starting in 2032 or later.\n\n### ***Solar Energy System Incentives and Policies***\n\nU.S. federal, state and local governments have established various policies, incentives and financial mechanisms to reduce the cost of solar energy and to accelerate the adoption of solar energy. These incentives include tax credits, cash grants, tax abatements and rebates.\n\nIn particular, pursuant to the IRA, Sections 48, 48E and 25D of the IRC provides a tax credit between 6% and 70% of qualified commercial or residential expenditures for solar energy systems, which may be claimed by our customers for systems they purchase, or by us for arrangements where we own the systems for properties that meet statutory requirements. These tax credits are primarily for the direct benefit of our customers and are currently scheduled to phase-out starting in 2023 or later.\n\n## Regulations\n\n### ***Vehicle Safety and Testing***\n\nIn the U.S., our vehicles are subject to regulation by the National Highway Traffic Safety Administration (“NHTSA”), including all applicable Federal Motor Vehicle Safety Standards (“FMVSS”) and the NHTSA bumper standard. Numerous FMVSS apply to our vehicles, such as crash-worthiness and occupant protection requirements. Our current vehicles fully comply and we expect that our vehicles in the future will fully comply with all applicable FMVSS with limited or no exemptions, however, FMVSS are subject to change from time to time. As a manufacturer, we must self-certify that our vehicles meet all applicable FMVSS and the NHTSA bumper standard, or otherwise are exempt, before the vehicles may be imported or sold in the U.S.\n\nWe are also required to comply with other federal laws administered by NHTSA, including the Corporate Average Fuel Economy standards, Theft Prevention Act requirements, labeling requirements and other information provided to customers in writing, Early Warning Reporting requirements regarding warranty claims, field reports, death and injury reports and foreign recalls, a Standing General Order requiring reports regarding crashes involving vehicles equipped with advanced driver assistance systems, and additional requirements for cooperating with compliance and safety investigations and recall reporting. The U.S. Automobile Information and Disclosure Act also requires manufacturers of motor vehicles to disclose certain information regarding the manufacturer’s suggested retail price, optional equipment and pricing. In addition, federal law requires inclusion of fuel economy ratings, as determined by the U.S. Department of Transportation and the Environmental Protection Agency (the “EPA”), and New Car Assessment Program ratings as determined by NHTSA, if available.\n\nOur vehicles sold outside of the U.S. are subject to similar foreign compliance, safety, environmental and other regulations. Many of those regulations are different from those applicable in the U.S. and may require redesign and/or retesting. Some of those regulations impact or prevent the rollout of new vehicle features. Additionally, the European Union established new rules regarding additional compliance oversight that commenced in 2020.\n\n### ***Self-Driving Vehicles***\n\nGenerally, laws pertaining to self-driving vehicles are evolving globally, and in some cases may create restrictions on features that we develop. While there are currently no federal U.S. regulations pertaining specifically to self-driving vehicles or self-driving equipment, NHTSA has published recommended guidelines on self-driving vehicles, apart from the FMVSS and manufacturer reporting obligations, and retains the authority to investigate and/or take action on the safety or compliance of any vehicle, equipment or features operating on public roads. Certain U.S. states also have legal restrictions on the operation, registration or licensure of self-driving vehicles, and many other states are considering them. This regulatory patchwork increases the legal complexity with respect to self-driving vehicles in the U.S.\n\n<page_footer>\n<page_number>9</page_number>\n</page_footer>"
+    },
+    {
+      "type": "too_many_sentence_occurence_percent",
+      "bag_of_sentence": {
+        "Energy Storage System Incentives and Policies": 1,
+        "While the regulatory regime for energy storage projects is still under development, there are various policies, incentives and financial mechanisms at the federal, state and local levels that support the adoption of energy storage": 1,
+        "For example, energy storage systems that are charged using solar energy may be eligible for the solar energy-related U": 1,
+        "S federal tax credits described below": 1,
+        "The Federal Energy Regulatory Commission (\"FERC\") has also taken steps to enable the participation of energy storage in wholesale energy markets": 1,
+        "In addition, California and a number of other states have adopted procurement targets for energy storage, and behind-the-meter energy storage systems qualify for funding under the California Self Generation Incentive Program": 1,
+        "Our customers primarily benefit directly under these programs": 1,
+        "In certain instances our customers may transfer such credits to us as contract consideration": 1,
+        "In such transactions, they are included as a component of energy generation and storage revenues in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K": 1,
+        "Pursuant to the IRA, under Sections 48, 48E and 25D of the Internal Revenue Code (\"IRC\"), standalone energy storage technology is eligible for a tax credit between 6% and 50% of qualified expenditures, regardless of the source of energy, which may be claimed by our customers for storage systems they purchase or by us for arrangements where we own the systems": 1,
+        "These tax credits are primarily for the benefit of our customers and are currently scheduled to phase-out starting in 2032 or later": 1,
+        "Solar Energy System Incentives and Policies": 1,
+        "U S federal, state and local governments have established various policies, incentives and financial mechanisms to reduce the cost of solar energy and to accelerate the adoption of solar energy": 1,
+        "These incentives include tax credits, cash grants, tax abatements and rebates": 1,
+        "In particular, pursuant to the IRA, Sections 48, 48E and 25D of the IRC provides a tax credit between 6% and 70% of qualified commercial or residential expenditures for solar energy systems, which may be claimed by our customers for systems they purchase, or by us for arrangements where we own the systems for properties that meet statutory requirements": 1,
+        "These tax credits are primarily for the direct benefit of our customers and are currently scheduled to phase-out starting in 2023 or later": 1,
+        "Regulations": 1,
+        "Vehicle Safety and Testing": 1,
+        "In the U": 1,
+        "S , our vehicles are subject to regulation by the National Highway Traffic Safety Administration (\"NHTSA\"), including all applicable Federal Motor Vehicle Safety Standards (\"FMVSS\") and the NHTSA bumper standard": 1,
+        "Numerous FMVSS apply to our vehicles, such as crash-worthiness and occupant protection requirements": 1,
+        "Our current vehicles fully comply and we expect that our vehicles in the future will fully comply with all applicable FMVSS with limited or no exemptions, however, FMVSS are subject to change from time to time": 1,
+        "As a manufacturer, we must self-certify that our vehicles meet all applicable FMVSS and the NHTSA bumper standard, or otherwise are exempt, before the vehicles may be imported or sold in the U": 1,
+        "S We are also required to comply with other federal laws administered by NHTSA, including the Corporate Average Fuel Economy standards, Theft Prevention Act requirements, labeling requirements and other information provided to customers in writing, Early Warning Reporting requirements regarding warranty claims, field reports, death and injury reports and foreign recalls, a Standing General Order requiring reports regarding crashes involving vehicles equipped with advanced driver assistance systems, and additional requirements for cooperating with compliance and safety investigations and recall reporting": 1,
+        "The U S": 1,
+        "Automobile Information and Disclosure Act also requires manufacturers of motor vehicles to disclose certain information regarding the manufacturer's suggested retail price, optional equipment and pricing": 1,
+        "In addition, federal law requires inclusion of fuel economy ratings, as determined by the U": 1,
+        "S Department of Transportation and the Environmental Protection Agency (the \"EPA\"), and New Car Assessment Program ratings as determined by NHTSA, if available": 1,
+        "Our vehicles sold outside of the U": 1,
+        "S are subject to similar foreign compliance, safety, environmental and other regulations": 1,
+        "Many of those regulations are different from those applicable in the U": 1,
+        "S and may require redesign and/or retesting": 1,
+        "Some of those regulations impact or prevent the rollout of new vehicle features": 1,
+        "Additionally, the European Union established new rules regarding additional compliance oversight that commenced in 2020": 1,
+        "Self-Driving Vehicles": 1,
+        "Generally, laws pertaining to self-driving vehicles are evolving globally, and in some cases may create restrictions on features that we develop": 1,
+        "While there are currently no federal U": 1,
+        "S regulations pertaining specifically to self-driving vehicles or self-driving equipment, NHTSA has published recommended guidelines on self-driving vehicles, apart from the FMVSS and manufacturer reporting obligations, and retains the authority to investigate and/or take action on the safety or compliance of any vehicle, equipment or features operating on public roads": 1,
+        "Certain U": 1,
+        "S states also have legal restrictions on the operation, registration or licensure of self-driving vehicles, and many other states are considering them": 1,
+        "This regulatory patchwork increases the legal complexity with respect to self-driving vehicles in the U S 9": 1
+      }
+    },
+    {
+      "type": "unexpected_word_percent",
+      "bag_of_word": {
+        "10": 1,
+        "48": 2,
+        "50": 1,
+        "70": 1,
+        "2020": 1,
+        "2023": 1,
+        "2032": 1,
+        "energy": 18,
+        "storage": 10,
+        "system": 2,
+        "incentives": 5,
+        "and": 40,
+        "policies": 4,
+        "while": 2,
+        "the": 42,
+        "regulatory": 3,
+        "regime": 1,
+        "for": 15,
+        "projects": 1,
+        "is": 2,
+        "still": 1,
+        "under": 4,
+        "development": 1,
+        "there": 2,
+        "are": 16,
+        "various": 2,
+        "financial": 3,
+        "mechanisms": 2,
+        "at": 1,
+        "federal": 8,
+        "state": 2,
+        "local": 2,
+        "levels": 1,
+        "that": 7,
+        "support": 1,
+        "adoption": 2,
+        "of": 23,
+        "example": 1,
+        "systems": 8,
+        "charged": 1,
+        "using": 1,
+        "solar": 6,
+        "may": 7,
+        "be": 4,
+        "eligible": 2,
+        "related": 1,
+        "tax": 7,
+        "credits": 5,
+        "described": 1,
+        "below": 1,
+        "commission": 1,
+        "ferc": 1,
+        "has": 2,
+        "also": 4,
+        "taken": 1,
+        "steps": 1,
+        "to": 20,
+        "enable": 1,
+        "participation": 1,
+        "in": 18,
+        "wholesale": 1,
+        "markets": 1,
+        "addition": 2,
+        "california": 2,
+        "number": 1,
+        "other": 5,
+        "states": 3,
+        "have": 3,
+        "adopted": 1,
+        "procurement": 1,
+        "targets": 1,
+        "behind": 1,
+        "meter": 1,
+        "qualify": 1,
+        "funding": 1,
+        "self": 9,
+        "generation": 2,
+        "incentive": 1,
+        "program": 2,
+        "our": 13,
+        "customers": 7,
+        "primarily": 3,
+        "benefit": 3,
+        "directly": 1,
+        "these": 4,
+        "programs": 1,
+        "certain": 3,
+        "instances": 1,
+        "transfer": 1,
+        "such": 3,
+        "us": 3,
+        "as": 6,
+        "contract": 1,
+        "consideration": 1,
+        "transactions": 1,
+        "they": 3,
+        "included": 2,
+        "component": 1,
+        "revenues": 1,
+        "consolidated": 1,
+        "statements": 1,
+        "elsewhere": 1,
+        "this": 2,
+        "annual": 1,
+        "report": 1,
+        "on": 6,
+        "form": 1,
+        "pursuant": 2,
+        "ira": 2,
+        "sections": 2,
+        "48e": 2,
+        "25d": 2,
+        "internal": 1,
+        "revenue": 1,
+        "code": 1,
+        "irc": 2,
+        "standalone": 1,
+        "technology": 1,
+        "credit": 2,
+        "between": 2,
+        "qualified": 2,
+        "expenditures": 2,
+        "regardless": 1,
+        "source": 1,
+        "which": 2,
+        "claimed": 2,
+        "by": 8,
+        "purchase": 2,
+        "or": 15,
+        "arrangements": 2,
+        "where": 2,
+        "we": 6,
+        "own": 2,
+        "currently": 3,
+        "scheduled": 2,
+        "phase": 2,
+        "out": 2,
+        "starting": 2,
+        "later": 2,
+        "governments": 1,
+        "established": 2,
+        "reduce": 1,
+        "cost": 1,
+        "accelerate": 1,
+        "include": 1,
+        "cash": 1,
+        "grants": 1,
+        "abatements": 1,
+        "rebates": 1,
+        "particular": 1,
+        "provides": 1,
+        "commercial": 1,
+        "residential": 1,
+        "properties": 1,
+        "meet": 2,
+        "statutory": 1,
+        "requirements": 6,
+        "direct": 1,
+        "regulations": 5,
+        "vehicle": 4,
+        "safety": 6,
+        "testing": 1,
+        "vehicles": 15,
+        "subject": 3,
+        "regulation": 1,
+        "national": 1,
+        "highway": 1,
+        "traffic": 1,
+        "administration": 1,
+        "nhtsa": 6,
+        "including": 2,
+        "all": 3,
+        "applicable": 4,
+        "motor": 2,
+        "standards": 2,
+        "fmvss": 6,
+        "bumper": 2,
+        "standard": 2,
+        "numerous": 1,
+        "apply": 1,
+        "crash": 1,
+        "worthiness": 1,
+        "occupant": 1,
+        "protection": 2,
+        "current": 1,
+        "fully": 2,
+        "comply": 3,
+        "expect": 1,
+        "future": 1,
+        "will": 1,
+        "with": 6,
+        "limited": 1,
+        "no": 2,
+        "exemptions": 1,
+        "however": 1,
+        "change": 1,
+        "from": 3,
+        "time": 2,
+        "manufacturer": 3,
+        "must": 1,
+        "certify": 1,
+        "otherwise": 1,
+        "exempt": 1,
+        "before": 1,
+        "imported": 1,
+        "sold": 2,
+        "required": 1,
+        "laws": 2,
+        "administered": 1,
+        "corporate": 1,
+        "average": 1,
+        "fuel": 2,
+        "economy": 2,
+        "theft": 1,
+        "prevention": 1,
+        "act": 2,
+        "labeling": 1,
+        "information": 3,
+        "provided": 1,
+        "writing": 1,
+        "early": 1,
+        "warning": 1,
+        "reporting": 3,
+        "regarding": 4,
+        "warranty": 1,
+        "claims": 1,
+        "field": 1,
+        "reports": 3,
+        "death": 1,
+        "injury": 1,
+        "foreign": 2,
+        "recalls": 1,
+        "standing": 1,
+        "general": 1,
+        "order": 1,
+        "requiring": 1,
+        "crashes": 1,
+        "involving": 1,
+        "equipped": 1,
+        "advanced": 1,
+        "driver": 1,
+        "assistance": 1,
+        "additional": 2,
+        "cooperating": 1,
+        "compliance": 4,
+        "investigations": 1,
+        "recall": 1,
+        "automobile": 1,
+        "disclosure": 1,
+        "requires": 2,
+        "manufacturers": 1,
+        "disclose": 1,
+        "suggested": 1,
+        "retail": 1,
+        "price": 1,
+        "optional": 1,
+        "equipment": 3,
+        "pricing": 1,
+        "law": 1,
+        "inclusion": 1,
+        "ratings": 2,
+        "determined": 2,
+        "department": 1,
+        "transportation": 1,
+        "environmental": 2,
+        "agency": 1,
+        "epa": 1,
+        "new": 3,
+        "car": 1,
+        "assessment": 1,
+        "if": 1,
+        "available": 1,
+        "outside": 1,
+        "similar": 1,
+        "many": 2,
+        "those": 3,
+        "different": 1,
+        "require": 1,
+        "redesign": 1,
+        "retesting": 1,
+        "some": 2,
+        "impact": 1,
+        "prevent": 1,
+        "rollout": 1,
+        "features": 3,
+        "additionally": 1,
+        "european": 1,
+        "union": 1,
+        "rules": 1,
+        "oversight": 1,
+        "commenced": 1,
+        "driving": 7,
+        "generally": 1,
+        "pertaining": 2,
+        "evolving": 1,
+        "globally": 1,
+        "cases": 1,
+        "create": 1,
+        "restrictions": 2,
+        "develop": 1,
+        "specifically": 1,
+        "published": 1,
+        "recommended": 1,
+        "guidelines": 1,
+        "apart": 1,
+        "obligations": 1,
+        "retains": 1,
+        "authority": 1,
+        "investigate": 1,
+        "take": 1,
+        "action": 1,
+        "any": 1,
+        "operating": 1,
+        "public": 1,
+        "roads": 1,
+        "legal": 2,
+        "operation": 1,
+        "registration": 1,
+        "licensure": 1,
+        "considering": 1,
+        "them": 1,
+        "patchwork": 1,
+        "increases": 1,
+        "complexity": 1,
+        "respect": 1
+      }
+    },
+    {
+      "type": "too_many_word_occurence_percent",
+      "bag_of_word": {
+        "10": 1,
+        "48": 2,
+        "50": 1,
+        "70": 1,
+        "2020": 1,
+        "2023": 1,
+        "2032": 1,
+        "energy": 18,
+        "storage": 10,
+        "system": 2,
+        "incentives": 5,
+        "and": 40,
+        "policies": 4,
+        "while": 2,
+        "the": 42,
+        "regulatory": 3,
+        "regime": 1,
+        "for": 15,
+        "projects": 1,
+        "is": 2,
+        "still": 1,
+        "under": 4,
+        "development": 1,
+        "there": 2,
+        "are": 16,
+        "various": 2,
+        "financial": 3,
+        "mechanisms": 2,
+        "at": 1,
+        "federal": 8,
+        "state": 2,
+        "local": 2,
+        "levels": 1,
+        "that": 7,
+        "support": 1,
+        "adoption": 2,
+        "of": 23,
+        "example": 1,
+        "systems": 8,
+        "charged": 1,
+        "using": 1,
+        "solar": 6,
+        "may": 7,
+        "be": 4,
+        "eligible": 2,
+        "related": 1,
+        "tax": 7,
+        "credits": 5,
+        "described": 1,
+        "below": 1,
+        "commission": 1,
+        "ferc": 1,
+        "has": 2,
+        "also": 4,
+        "taken": 1,
+        "steps": 1,
+        "to": 20,
+        "enable": 1,
+        "participation": 1,
+        "in": 18,
+        "wholesale": 1,
+        "markets": 1,
+        "addition": 2,
+        "california": 2,
+        "number": 1,
+        "other": 5,
+        "states": 3,
+        "have": 3,
+        "adopted": 1,
+        "procurement": 1,
+        "targets": 1,
+        "behind": 1,
+        "meter": 1,
+        "qualify": 1,
+        "funding": 1,
+        "self": 9,
+        "generation": 2,
+        "incentive": 1,
+        "program": 2,
+        "our": 13,
+        "customers": 7,
+        "primarily": 3,
+        "benefit": 3,
+        "directly": 1,
+        "these": 4,
+        "programs": 1,
+        "certain": 3,
+        "instances": 1,
+        "transfer": 1,
+        "such": 3,
+        "us": 3,
+        "as": 6,
+        "contract": 1,
+        "consideration": 1,
+        "transactions": 1,
+        "they": 3,
+        "included": 2,
+        "component": 1,
+        "revenues": 1,
+        "consolidated": 1,
+        "statements": 1,
+        "elsewhere": 1,
+        "this": 2,
+        "annual": 1,
+        "report": 1,
+        "on": 6,
+        "form": 1,
+        "pursuant": 2,
+        "ira": 2,
+        "sections": 2,
+        "48e": 2,
+        "25d": 2,
+        "internal": 1,
+        "revenue": 1,
+        "code": 1,
+        "irc": 2,
+        "standalone": 1,
+        "technology": 1,
+        "credit": 2,
+        "between": 2,
+        "qualified": 2,
+        "expenditures": 2,
+        "regardless": 1,
+        "source": 1,
+        "which": 2,
+        "claimed": 2,
+        "by": 8,
+        "purchase": 2,
+        "or": 15,
+        "arrangements": 2,
+        "where": 2,
+        "we": 6,
+        "own": 2,
+        "currently": 3,
+        "scheduled": 2,
+        "phase": 2,
+        "out": 2,
+        "starting": 2,
+        "later": 2,
+        "governments": 1,
+        "established": 2,
+        "reduce": 1,
+        "cost": 1,
+        "accelerate": 1,
+        "include": 1,
+        "cash": 1,
+        "grants": 1,
+        "abatements": 1,
+        "rebates": 1,
+        "particular": 1,
+        "provides": 1,
+        "commercial": 1,
+        "residential": 1,
+        "properties": 1,
+        "meet": 2,
+        "statutory": 1,
+        "requirements": 6,
+        "direct": 1,
+        "regulations": 5,
+        "vehicle": 4,
+        "safety": 6,
+        "testing": 1,
+        "vehicles": 15,
+        "subject": 3,
+        "regulation": 1,
+        "national": 1,
+        "highway": 1,
+        "traffic": 1,
+        "administration": 1,
+        "nhtsa": 6,
+        "including": 2,
+        "all": 3,
+        "applicable": 4,
+        "motor": 2,
+        "standards": 2,
+        "fmvss": 6,
+        "bumper": 2,
+        "standard": 2,
+        "numerous": 1,
+        "apply": 1,
+        "crash": 1,
+        "worthiness": 1,
+        "occupant": 1,
+        "protection": 2,
+        "current": 1,
+        "fully": 2,
+        "comply": 3,
+        "expect": 1,
+        "future": 1,
+        "will": 1,
+        "with": 6,
+        "limited": 1,
+        "no": 2,
+        "exemptions": 1,
+        "however": 1,
+        "change": 1,
+        "from": 3,
+        "time": 2,
+        "manufacturer": 3,
+        "must": 1,
+        "certify": 1,
+        "otherwise": 1,
+        "exempt": 1,
+        "before": 1,
+        "imported": 1,
+        "sold": 2,
+        "required": 1,
+        "laws": 2,
+        "administered": 1,
+        "corporate": 1,
+        "average": 1,
+        "fuel": 2,
+        "economy": 2,
+        "theft": 1,
+        "prevention": 1,
+        "act": 2,
+        "labeling": 1,
+        "information": 3,
+        "provided": 1,
+        "writing": 1,
+        "early": 1,
+        "warning": 1,
+        "reporting": 3,
+        "regarding": 4,
+        "warranty": 1,
+        "claims": 1,
+        "field": 1,
+        "reports": 3,
+        "death": 1,
+        "injury": 1,
+        "foreign": 2,
+        "recalls": 1,
+        "standing": 1,
+        "general": 1,
+        "order": 1,
+        "requiring": 1,
+        "crashes": 1,
+        "involving": 1,
+        "equipped": 1,
+        "advanced": 1,
+        "driver": 1,
+        "assistance": 1,
+        "additional": 2,
+        "cooperating": 1,
+        "compliance": 4,
+        "investigations": 1,
+        "recall": 1,
+        "automobile": 1,
+        "disclosure": 1,
+        "requires": 2,
+        "manufacturers": 1,
+        "disclose": 1,
+        "suggested": 1,
+        "retail": 1,
+        "price": 1,
+        "optional": 1,
+        "equipment": 3,
+        "pricing": 1,
+        "law": 1,
+        "inclusion": 1,
+        "ratings": 2,
+        "determined": 2,
+        "department": 1,
+        "transportation": 1,
+        "environmental": 2,
+        "agency": 1,
+        "epa": 1,
+        "new": 3,
+        "car": 1,
+        "assessment": 1,
+        "if": 1,
+        "available": 1,
+        "outside": 1,
+        "similar": 1,
+        "many": 2,
+        "those": 3,
+        "different": 1,
+        "require": 1,
+        "redesign": 1,
+        "retesting": 1,
+        "some": 2,
+        "impact": 1,
+        "prevent": 1,
+        "rollout": 1,
+        "features": 3,
+        "additionally": 1,
+        "european": 1,
+        "union": 1,
+        "rules": 1,
+        "oversight": 1,
+        "commenced": 1,
+        "driving": 7,
+        "generally": 1,
+        "pertaining": 2,
+        "evolving": 1,
+        "globally": 1,
+        "cases": 1,
+        "create": 1,
+        "restrictions": 2,
+        "develop": 1,
+        "specifically": 1,
+        "published": 1,
+        "recommended": 1,
+        "guidelines": 1,
+        "apart": 1,
+        "obligations": 1,
+        "retains": 1,
+        "authority": 1,
+        "investigate": 1,
+        "take": 1,
+        "action": 1,
+        "any": 1,
+        "operating": 1,
+        "public": 1,
+        "roads": 1,
+        "legal": 2,
+        "operation": 1,
+        "registration": 1,
+        "licensure": 1,
+        "considering": 1,
+        "them": 1,
+        "patchwork": 1,
+        "increases": 1,
+        "complexity": 1,
+        "respect": 1
+      }
+    },
+    {
+      "type": "missing_word_percent",
+      "bag_of_word": {
+        "10": 1,
+        "48": 2,
+        "50": 1,
+        "70": 1,
+        "2020": 1,
+        "2023": 1,
+        "2032": 1,
+        "energy": 18,
+        "storage": 10,
+        "system": 2,
+        "incentives": 5,
+        "and": 40,
+        "policies": 4,
+        "while": 2,
+        "the": 42,
+        "regulatory": 3,
+        "regime": 1,
+        "for": 15,
+        "projects": 1,
+        "is": 2,
+        "still": 1,
+        "under": 4,
+        "development": 1,
+        "there": 2,
+        "are": 16,
+        "various": 2,
+        "financial": 3,
+        "mechanisms": 2,
+        "at": 1,
+        "federal": 8,
+        "state": 2,
+        "local": 2,
+        "levels": 1,
+        "that": 7,
+        "support": 1,
+        "adoption": 2,
+        "of": 23,
+        "example": 1,
+        "systems": 8,
+        "charged": 1,
+        "using": 1,
+        "solar": 6,
+        "may": 7,
+        "be": 4,
+        "eligible": 2,
+        "related": 1,
+        "tax": 7,
+        "credits": 5,
+        "described": 1,
+        "below": 1,
+        "commission": 1,
+        "ferc": 1,
+        "has": 2,
+        "also": 4,
+        "taken": 1,
+        "steps": 1,
+        "to": 20,
+        "enable": 1,
+        "participation": 1,
+        "in": 18,
+        "wholesale": 1,
+        "markets": 1,
+        "addition": 2,
+        "california": 2,
+        "number": 1,
+        "other": 5,
+        "states": 3,
+        "have": 3,
+        "adopted": 1,
+        "procurement": 1,
+        "targets": 1,
+        "behind": 1,
+        "meter": 1,
+        "qualify": 1,
+        "funding": 1,
+        "self": 9,
+        "generation": 2,
+        "incentive": 1,
+        "program": 2,
+        "our": 13,
+        "customers": 7,
+        "primarily": 3,
+        "benefit": 3,
+        "directly": 1,
+        "these": 4,
+        "programs": 1,
+        "certain": 3,
+        "instances": 1,
+        "transfer": 1,
+        "such": 3,
+        "us": 3,
+        "as": 6,
+        "contract": 1,
+        "consideration": 1,
+        "transactions": 1,
+        "they": 3,
+        "included": 2,
+        "component": 1,
+        "revenues": 1,
+        "consolidated": 1,
+        "statements": 1,
+        "elsewhere": 1,
+        "this": 2,
+        "annual": 1,
+        "report": 1,
+        "on": 6,
+        "form": 1,
+        "pursuant": 2,
+        "ira": 2,
+        "sections": 2,
+        "48e": 2,
+        "25d": 2,
+        "internal": 1,
+        "revenue": 1,
+        "code": 1,
+        "irc": 2,
+        "standalone": 1,
+        "technology": 1,
+        "credit": 2,
+        "between": 2,
+        "qualified": 2,
+        "expenditures": 2,
+        "regardless": 1,
+        "source": 1,
+        "which": 2,
+        "claimed": 2,
+        "by": 8,
+        "purchase": 2,
+        "or": 15,
+        "arrangements": 2,
+        "where": 2,
+        "we": 6,
+        "own": 2,
+        "currently": 3,
+        "scheduled": 2,
+        "phase": 2,
+        "out": 2,
+        "starting": 2,
+        "later": 2,
+        "governments": 1,
+        "established": 2,
+        "reduce": 1,
+        "cost": 1,
+        "accelerate": 1,
+        "include": 1,
+        "cash": 1,
+        "grants": 1,
+        "abatements": 1,
+        "rebates": 1,
+        "particular": 1,
+        "provides": 1,
+        "commercial": 1,
+        "residential": 1,
+        "properties": 1,
+        "meet": 2,
+        "statutory": 1,
+        "requirements": 6,
+        "direct": 1,
+        "regulations": 5,
+        "vehicle": 4,
+        "safety": 6,
+        "testing": 1,
+        "vehicles": 15,
+        "subject": 3,
+        "regulation": 1,
+        "national": 1,
+        "highway": 1,
+        "traffic": 1,
+        "administration": 1,
+        "nhtsa": 6,
+        "including": 2,
+        "all": 3,
+        "applicable": 4,
+        "motor": 2,
+        "standards": 2,
+        "fmvss": 6,
+        "bumper": 2,
+        "standard": 2,
+        "numerous": 1,
+        "apply": 1,
+        "crash": 1,
+        "worthiness": 1,
+        "occupant": 1,
+        "protection": 2,
+        "current": 1,
+        "fully": 2,
+        "comply": 3,
+        "expect": 1,
+        "future": 1,
+        "will": 1,
+        "with": 6,
+        "limited": 1,
+        "no": 2,
+        "exemptions": 1,
+        "however": 1,
+        "change": 1,
+        "from": 3,
+        "time": 2,
+        "manufacturer": 3,
+        "must": 1,
+        "certify": 1,
+        "otherwise": 1,
+        "exempt": 1,
+        "before": 1,
+        "imported": 1,
+        "sold": 2,
+        "required": 1,
+        "laws": 2,
+        "administered": 1,
+        "corporate": 1,
+        "average": 1,
+        "fuel": 2,
+        "economy": 2,
+        "theft": 1,
+        "prevention": 1,
+        "act": 2,
+        "labeling": 1,
+        "information": 3,
+        "provided": 1,
+        "writing": 1,
+        "early": 1,
+        "warning": 1,
+        "reporting": 3,
+        "regarding": 4,
+        "warranty": 1,
+        "claims": 1,
+        "field": 1,
+        "reports": 3,
+        "death": 1,
+        "injury": 1,
+        "foreign": 2,
+        "recalls": 1,
+        "standing": 1,
+        "general": 1,
+        "order": 1,
+        "requiring": 1,
+        "crashes": 1,
+        "involving": 1,
+        "equipped": 1,
+        "advanced": 1,
+        "driver": 1,
+        "assistance": 1,
+        "additional": 2,
+        "cooperating": 1,
+        "compliance": 4,
+        "investigations": 1,
+        "recall": 1,
+        "automobile": 1,
+        "disclosure": 1,
+        "requires": 2,
+        "manufacturers": 1,
+        "disclose": 1,
+        "suggested": 1,
+        "retail": 1,
+        "price": 1,
+        "optional": 1,
+        "equipment": 3,
+        "pricing": 1,
+        "law": 1,
+        "inclusion": 1,
+        "ratings": 2,
+        "determined": 2,
+        "department": 1,
+        "transportation": 1,
+        "environmental": 2,
+        "agency": 1,
+        "epa": 1,
+        "new": 3,
+        "car": 1,
+        "assessment": 1,
+        "if": 1,
+        "available": 1,
+        "outside": 1,
+        "similar": 1,
+        "many": 2,
+        "those": 3,
+        "different": 1,
+        "require": 1,
+        "redesign": 1,
+        "retesting": 1,
+        "some": 2,
+        "impact": 1,
+        "prevent": 1,
+        "rollout": 1,
+        "features": 3,
+        "additionally": 1,
+        "european": 1,
+        "union": 1,
+        "rules": 1,
+        "oversight": 1,
+        "commenced": 1,
+        "driving": 7,
+        "generally": 1,
+        "pertaining": 2,
+        "evolving": 1,
+        "globally": 1,
+        "cases": 1,
+        "create": 1,
+        "restrictions": 2,
+        "develop": 1,
+        "specifically": 1,
+        "published": 1,
+        "recommended": 1,
+        "guidelines": 1,
+        "apart": 1,
+        "obligations": 1,
+        "retains": 1,
+        "authority": 1,
+        "investigate": 1,
+        "take": 1,
+        "action": 1,
+        "any": 1,
+        "operating": 1,
+        "public": 1,
+        "roads": 1,
+        "legal": 2,
+        "operation": 1,
+        "registration": 1,
+        "licensure": 1,
+        "considering": 1,
+        "them": 1,
+        "patchwork": 1,
+        "increases": 1,
+        "complexity": 1,
+        "respect": 1
+      }
+    },
+    {
+      "type": "bag_of_digit_percent",
+      "bag_of_digit": {
+        "0": 7,
+        "1": 1,
+        "2": 8,
+        "3": 2,
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 4,
+        "9": 1
+      }
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "10"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "2020"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "2023"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "2032"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "25d"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "48"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "48e"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "50"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "70"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "abatements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "accelerate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "act"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "action"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "addition"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "additional"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "additionally"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "administered"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "administration"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "adopted"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "adoption"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "advanced"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "agency"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "all"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "also"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "and"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "annual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "any"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "apart"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "applicable"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "apply"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "are"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "arrangements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "as"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "assessment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "assistance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "at"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "authority"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "automobile"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "available"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "average"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "be"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "before"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "behind"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "below"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "benefit"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "between"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "bumper"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "by"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "california"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "car"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "cases"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "cash"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "certain"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "certify"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "change"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "charged"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "claimed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "claims"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "code"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "commenced"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "commercial"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "commission"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "complexity"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "compliance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "comply"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "component"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consideration"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "considering"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consolidated"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "contract"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "cooperating"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "corporate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "cost"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "crash"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "crashes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "create"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "credit"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "credits"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "current"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "currently"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "customers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "death"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "department"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "described"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "determined"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "develop"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "development"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "different"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "direct"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "directly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "disclose"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "disclosure"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "driver"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "driving"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "early"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "economy"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "eligible"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "elsewhere"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "enable"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "energy"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "environmental"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "epa"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "equipment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "equipped"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "established"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "european"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "evolving"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "example"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "exempt"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "exemptions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "expect"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "expenditures"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "features"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "federal"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ferc"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "field"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "financial"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fmvss"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "for"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "foreign"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "form"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "from"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fuel"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fully"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "funding"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "future"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "general"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "generally"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "generation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "globally"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "governments"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "grants"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "guidelines"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "has"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "have"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "highway"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "however"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "if"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "impact"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "imported"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "in"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "incentive"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "incentives"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "include"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "included"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "including"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "inclusion"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "increases"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "information"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "injury"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "instances"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "internal"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "investigate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "investigations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "involving"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ira"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "irc"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "is"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "labeling"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "later"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "law"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "laws"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "legal"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "levels"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "licensure"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "limited"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "local"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "manufacturer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "manufacturers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "many"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "markets"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "may"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "mechanisms"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "meet"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "meter"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "motor"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "must"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "national"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "new"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "nhtsa"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "no"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "number"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "numerous"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "obligations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "occupant"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "of"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "on"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "operating"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "operation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "optional"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "or"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "order"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "other"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "otherwise"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "our"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "out"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "outside"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "oversight"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "own"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "participation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "particular"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "patchwork"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pertaining"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "phase"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "policies"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "prevent"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "prevention"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "price"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pricing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "primarily"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "procurement"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "program"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "programs"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "projects"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "properties"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "protection"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "provided"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "provides"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "public"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "published"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "purchase"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pursuant"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "qualified"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "qualify"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ratings"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "rebates"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "recall"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "recalls"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "recommended"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "redesign"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reduce"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regarding"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regardless"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regime"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "registration"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regulation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regulations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regulatory"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "related"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "report"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reporting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reports"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "require"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "required"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "requirements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "requires"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "requiring"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "residential"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "respect"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "restrictions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "retail"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "retains"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "retesting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "revenue"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "revenues"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "roads"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "rollout"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "rules"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "safety"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "scheduled"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sections"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "self"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "similar"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "solar"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sold"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "some"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "source"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "specifically"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "standalone"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "standard"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "standards"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "standing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "starting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "state"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "statements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "states"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "statutory"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "steps"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "still"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "storage"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "subject"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "such"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "suggested"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "support"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "system"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "systems"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "take"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "taken"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "targets"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "tax"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "technology"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "testing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "that"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "the"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "theft"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "them"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "there"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "these"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "they"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "this"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "those"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "time"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "to"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "traffic"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "transactions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "transfer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "transportation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "under"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "union"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "us"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "using"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "various"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "vehicle"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "vehicles"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "warning"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "warranty"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "we"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "where"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "which"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "while"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "wholesale"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "will"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "with"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "worthiness"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "writing"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Additionally, the European Union established new rules regarding additional compliance oversight that commenced in 2020"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "As a manufacturer, we must self-certify that our vehicles meet all applicable FMVSS and the NHTSA bumper standard, or otherwise are exempt, before the vehicles may be imported or sold in the U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Automobile Information and Disclosure Act also requires manufacturers of motor vehicles to disclose certain information regarding the manufacturer's suggested retail price, optional equipment and pricing"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Certain U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Energy Storage System Incentives and Policies"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "For example, energy storage systems that are charged using solar energy may be eligible for the solar energy-related U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Generally, laws pertaining to self-driving vehicles are evolving globally, and in some cases may create restrictions on features that we develop"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "In addition, California and a number of other states have adopted procurement targets for energy storage, and behind-the-meter energy storage systems qualify for funding under the California Self Generation Incentive Program"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "In addition, federal law requires inclusion of fuel economy ratings, as determined by the U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "In certain instances our customers may transfer such credits to us as contract consideration"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "In particular, pursuant to the IRA, Sections 48, 48E and 25D of the IRC provides a tax credit between 6% and 70% of qualified commercial or residential expenditures for solar energy systems, which may be claimed by our customers for systems they purchase, or by us for arrangements where we own the systems for properties that meet statutory requirements"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "In such transactions, they are included as a component of energy generation and storage revenues in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "In the U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Many of those regulations are different from those applicable in the U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Numerous FMVSS apply to our vehicles, such as crash-worthiness and occupant protection requirements"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our current vehicles fully comply and we expect that our vehicles in the future will fully comply with all applicable FMVSS with limited or no exemptions, however, FMVSS are subject to change from time to time"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our customers primarily benefit directly under these programs"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our vehicles sold outside of the U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Pursuant to the IRA, under Sections 48, 48E and 25D of the Internal Revenue Code (\"IRC\"), standalone energy storage technology is eligible for a tax credit between 6% and 50% of qualified expenditures, regardless of the source of energy, which may be claimed by our customers for storage systems they purchase or by us for arrangements where we own the systems"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Regulations"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S , our vehicles are subject to regulation by the National Highway Traffic Safety Administration (\"NHTSA\"), including all applicable Federal Motor Vehicle Safety Standards (\"FMVSS\") and the NHTSA bumper standard"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S Department of Transportation and the Environmental Protection Agency (the \"EPA\"), and New Car Assessment Program ratings as determined by NHTSA, if available"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S We are also required to comply with other federal laws administered by NHTSA, including the Corporate Average Fuel Economy standards, Theft Prevention Act requirements, labeling requirements and other information provided to customers in writing, Early Warning Reporting requirements regarding warranty claims, field reports, death and injury reports and foreign recalls, a Standing General Order requiring reports regarding crashes involving vehicles equipped with advanced driver assistance systems, and additional requirements for cooperating with compliance and safety investigations and recall reporting"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S and may require redesign and/or retesting"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S are subject to similar foreign compliance, safety, environmental and other regulations"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S federal tax credits described below"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S regulations pertaining specifically to self-driving vehicles or self-driving equipment, NHTSA has published recommended guidelines on self-driving vehicles, apart from the FMVSS and manufacturer reporting obligations, and retains the authority to investigate and/or take action on the safety or compliance of any vehicle, equipment or features operating on public roads"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S states also have legal restrictions on the operation, registration or licensure of self-driving vehicles, and many other states are considering them"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Self-Driving Vehicles"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Solar Energy System Incentives and Policies"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Some of those regulations impact or prevent the rollout of new vehicle features"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The Federal Energy Regulatory Commission (\"FERC\") has also taken steps to enable the participation of energy storage in wholesale energy markets"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The U S"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "These incentives include tax credits, cash grants, tax abatements and rebates"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "These tax credits are primarily for the benefit of our customers and are currently scheduled to phase-out starting in 2032 or later"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "These tax credits are primarily for the direct benefit of our customers and are currently scheduled to phase-out starting in 2023 or later"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "This regulatory patchwork increases the legal complexity with respect to self-driving vehicles in the U S 9"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "U S federal, state and local governments have established various policies, incentives and financial mechanisms to reduce the cost of solar energy and to accelerate the adoption of solar energy"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Vehicle Safety and Testing"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "While the regulatory regime for energy storage projects is still under development, there are various policies, incentives and financial mechanisms at the federal, state and local levels that support the adoption of energy storage"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "While there are currently no federal U"
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Energy Storage System Incentives and Policies",
+      "after": "While the regulatory regime for energy storage projects is still under development, there are various policies, incentives and financial mechanisms at the federal, state and local levels that support the adoption of energy storage.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "While the regulatory regime for energy storage projects is still under development, there are various policies, incentives and financial mechanisms at the federal, state and local levels that support the adoption of energy storage.",
+      "after": "For example, energy storage systems that are charged using solar energy may be eligible for the solar energy-related U.S. federal tax credits described below.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "For example, energy storage systems that are charged using solar energy may be eligible for the solar energy-related U.S. federal tax credits described below.",
+      "after": "The Federal Energy Regulatory Commission (\"FERC\") has also taken steps to enable the participation of energy storage in wholesale energy markets.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The Federal Energy Regulatory Commission (\"FERC\") has also taken steps to enable the participation of energy storage in wholesale energy markets.",
+      "after": "In addition, California and a number of other states have adopted procurement targets for energy storage, and behind-the-meter energy storage systems qualify for funding under the California Self Generation Incentive Program.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "In addition, California and a number of other states have adopted procurement targets for energy storage, and behind-the-meter energy storage systems qualify for funding under the California Self Generation Incentive Program.",
+      "after": "Our customers primarily benefit directly under these programs.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our customers primarily benefit directly under these programs.",
+      "after": "In certain instances our customers may transfer such credits to us as contract consideration.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "In certain instances our customers may transfer such credits to us as contract consideration.",
+      "after": "In such transactions, they are included as a component of energy generation and storage revenues in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "In such transactions, they are included as a component of energy generation and storage revenues in our consolidated financial statements included elsewhere in this Annual Report on Form 10-K.",
+      "after": "Pursuant to the IRA, under Sections 48, 48E and 25D of the Internal Revenue Code (\"IRC\"), standalone energy storage technology is eligible for a tax credit between 6% and 50% of qualified expenditures, regardless of the source of energy, which may be claimed by our customers for storage systems they purchase or by us for arrangements where we own the systems.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Pursuant to the IRA, under Sections 48, 48E and 25D of the Internal Revenue Code (\"IRC\"), standalone energy storage technology is eligible for a tax credit between 6% and 50% of qualified expenditures, regardless of the source of energy, which may be claimed by our customers for storage systems they purchase or by us for arrangements where we own the systems.",
+      "after": "These tax credits are primarily for the benefit of our customers and are currently scheduled to phase-out starting in 2032 or later.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "These tax credits are primarily for the benefit of our customers and are currently scheduled to phase-out starting in 2032 or later.",
+      "after": "Solar Energy System Incentives and Policies",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Solar Energy System Incentives and Policies",
+      "after": "U.S. federal, state and local governments have established various policies, incentives and financial mechanisms to reduce the cost of solar energy and to accelerate the adoption of solar energy.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "U.S. federal, state and local governments have established various policies, incentives and financial mechanisms to reduce the cost of solar energy and to accelerate the adoption of solar energy.",
+      "after": "These incentives include tax credits, cash grants, tax abatements and rebates.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "These incentives include tax credits, cash grants, tax abatements and rebates.",
+      "after": "In particular, pursuant to the IRA, Sections 48, 48E and 25D of the IRC provides a tax credit between 6% and 70% of qualified commercial or residential expenditures for solar energy systems, which may be claimed by our customers for systems they purchase, or by us for arrangements where we own the systems for properties that meet statutory requirements.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "In particular, pursuant to the IRA, Sections 48, 48E and 25D of the IRC provides a tax credit between 6% and 70% of qualified commercial or residential expenditures for solar energy systems, which may be claimed by our customers for systems they purchase, or by us for arrangements where we own the systems for properties that meet statutory requirements.",
+      "after": "These tax credits are primarily for the direct benefit of our customers and are currently scheduled to phase-out starting in 2023 or later.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "These tax credits are primarily for the direct benefit of our customers and are currently scheduled to phase-out starting in 2023 or later.",
+      "after": "Vehicle Safety and Testing",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Vehicle Safety and Testing",
+      "after": "In the U.S., our vehicles are subject to regulation by the National Highway Traffic Safety Administration (\"NHTSA\"), including all applicable Federal Motor Vehicle Safety Standards (\"FMVSS\") and the NHTSA bumper standard.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "In the U.S., our vehicles are subject to regulation by the National Highway Traffic Safety Administration (\"NHTSA\"), including all applicable Federal Motor Vehicle Safety Standards (\"FMVSS\") and the NHTSA bumper standard.",
+      "after": "Numerous FMVSS apply to our vehicles, such as crash-worthiness and occupant protection requirements.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Numerous FMVSS apply to our vehicles, such as crash-worthiness and occupant protection requirements.",
+      "after": "Our current vehicles fully comply and we expect that our vehicles in the future will fully comply with all applicable FMVSS with limited or no exemptions, however, FMVSS are subject to change from time to time.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our current vehicles fully comply and we expect that our vehicles in the future will fully comply with all applicable FMVSS with limited or no exemptions, however, FMVSS are subject to change from time to time.",
+      "after": "As a manufacturer, we must self-certify that our vehicles meet all applicable FMVSS and the NHTSA bumper standard, or otherwise are exempt, before the vehicles may be imported or sold in the U.S.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "As a manufacturer, we must self-certify that our vehicles meet all applicable FMVSS and the NHTSA bumper standard, or otherwise are exempt, before the vehicles may be imported or sold in the U.S.",
+      "after": "We are also required to comply with other federal laws administered by NHTSA, including the Corporate Average Fuel Economy standards, Theft Prevention Act requirements, labeling requirements and other information provided to customers in writing, Early Warning Reporting requirements regarding warranty claims, field reports, death and injury reports and foreign recalls, a Standing General Order requiring reports regarding crashes involving vehicles equipped with advanced driver assistance systems, and additional requirements for cooperating with compliance and safety investigations and recall reporting.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We are also required to comply with other federal laws administered by NHTSA, including the Corporate Average Fuel Economy standards, Theft Prevention Act requirements, labeling requirements and other information provided to customers in writing, Early Warning Reporting requirements regarding warranty claims, field reports, death and injury reports and foreign recalls, a Standing General Order requiring reports regarding crashes involving vehicles equipped with advanced driver assistance systems, and additional requirements for cooperating with compliance and safety investigations and recall reporting.",
+      "after": "Automobile Information and Disclosure Act also requires manufacturers of motor vehicles to disclose certain information regarding the manufacturer's suggested retail price, optional equipment and pricing.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Automobile Information and Disclosure Act also requires manufacturers of motor vehicles to disclose certain information regarding the manufacturer's suggested retail price, optional equipment and pricing.",
+      "after": "In addition, federal law requires inclusion of fuel economy ratings, as determined by the U.S.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "In addition, federal law requires inclusion of fuel economy ratings, as determined by the U.S.",
+      "after": "Department of Transportation and the Environmental Protection Agency (the \"EPA\"), and New Car Assessment Program ratings as determined by NHTSA, if available.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Department of Transportation and the Environmental Protection Agency (the \"EPA\"), and New Car Assessment Program ratings as determined by NHTSA, if available.",
+      "after": "Our vehicles sold outside of the U.S. are subject to similar foreign compliance, safety, environmental and other regulations.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our vehicles sold outside of the U.S. are subject to similar foreign compliance, safety, environmental and other regulations.",
+      "after": "Many of those regulations are different from those applicable in the U.S. and may require redesign and/or retesting.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Many of those regulations are different from those applicable in the U.S. and may require redesign and/or retesting.",
+      "after": "Some of those regulations impact or prevent the rollout of new vehicle features.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Some of those regulations impact or prevent the rollout of new vehicle features.",
+      "after": "Additionally, the European Union established new rules regarding additional compliance oversight that commenced in 2020.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Additionally, the European Union established new rules regarding additional compliance oversight that commenced in 2020.",
+      "after": "Self-Driving Vehicles",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Self-Driving Vehicles",
+      "after": "Generally, laws pertaining to self-driving vehicles are evolving globally, and in some cases may create restrictions on features that we develop.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Generally, laws pertaining to self-driving vehicles are evolving globally, and in some cases may create restrictions on features that we develop.",
+      "after": "While there are currently no federal U.S. regulations pertaining specifically to self-driving vehicles or self-driving equipment, NHTSA has published recommended guidelines on self-driving vehicles, apart from the FMVSS and manufacturer reporting obligations, and retains the authority to investigate and/or take action on the safety or compliance of any vehicle, equipment or features operating on public roads.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "While there are currently no federal U.S. regulations pertaining specifically to self-driving vehicles or self-driving equipment, NHTSA has published recommended guidelines on self-driving vehicles, apart from the FMVSS and manufacturer reporting obligations, and retains the authority to investigate and/or take action on the safety or compliance of any vehicle, equipment or features operating on public roads.",
+      "after": "Certain U.S. states also have legal restrictions on the operation, registration or licensure of self-driving vehicles, and many other states are considering them.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Certain U.S. states also have legal restrictions on the operation, registration or licensure of self-driving vehicles, and many other states are considering them.",
+      "after": "This regulatory patchwork increases the legal complexity with respect to self-driving vehicles in the U.S.",
+      "max_diffs": 0
+    },
+    {
+      "type": "is_title",
+      "text": "Energy Storage System Incentives and Policies",
+      "level": 3
+    },
+    {
+      "type": "is_title",
+      "text": "Solar Energy System Incentives and Policies",
+      "level": 3
+    },
+    {
+      "type": "is_title",
+      "text": "Regulations",
+      "level": 2
+    },
+    {
+      "type": "is_title",
+      "text": "Vehicle Safety and Testing",
+      "level": 3
+    },
+    {
+      "type": "is_title",
+      "text": "Self-Driving Vehicles",
+      "level": 3
+    },
+    {
+      "type": "title_hierarchy_percent",
+      "title_hierarchy": {
+        "Energy Storage System Incentives and Policies": {},
+        "Solar Energy System Incentives and Policies": {},
+        "Regulations": {
+          "Vehicle Safety and Testing": {},
+          "Self-Driving Vehicles": {}
+        }
+      }
+    },
+    {
+      "type": "is_bold",
+      "text": "Energy Storage System Incentives and Policies"
+    },
+    {
+      "type": "is_italic",
+      "text": "Energy Storage System Incentives and Policies"
+    },
+    {
+      "type": "is_bold",
+      "text": "Solar Energy System Incentives and Policies"
+    },
+    {
+      "type": "is_italic",
+      "text": "Solar Energy System Incentives and Policies"
+    },
+    {
+      "type": "is_bold",
+      "text": "Vehicle Safety and Testing"
+    },
+    {
+      "type": "is_italic",
+      "text": "Vehicle Safety and Testing"
+    },
+    {
+      "type": "is_bold",
+      "text": "Self-Driving Vehicles"
+    },
+    {
+      "type": "is_italic",
+      "text": "Self-Driving Vehicles"
+    },
+    {
+      "type": "is_footer",
+      "text": "<page_number>9</page_number>"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/text.jsonl",
+    "parsebench_document": "text/text_simple__10k2.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017023001409/tsla-20221231.htm",
+      "accession": "0000950170-23-001409",
+      "provider": "datamulehub",
+      "sha256": "52a2625c773c648badea7fab99ebfda14fc72a23a2177e51911e5d946cc2b0fc",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 417663,
+        "byte_end_exclusive": 429804,
+        "page_fragment_index_0based": 8
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "f5d95f846cffc20c6f488bd7af7a2900ffead219322eda7bb7ca50141e16ada0",
+    "input_sha256": "1444d8557b731eec5f659e696a5a295adafe837e0a0f2955bce894b8eb82b692"
+  },
+  "tags": [
+    "easy"
+  ]
+}

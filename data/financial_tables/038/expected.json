@@ -1,0 +1,49 @@
+{
+  "id": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page155",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th colspan=\"3\"><b>2022-2024 LTI PSU Metrics</b></th>\n    </tr>\n    <tr>\n      <th>Measure</th>\n      <th>Weighting</th>\n      <th>How performance is calculated</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Relative Total Shareholder Return</td>\n      <td>40%</td>\n      <td>Relative TSR performance as compared to peer group of companies. over a 3-year period</td>\n    </tr>\n    <tr>\n      <td>Synergies (less implementation costs)</td>\n      <td>40%</td>\n      <td>Cumulative cash synergies net of implementation costs realized over the three-year period. Maximum payout for this metric is 100%.</td>\n    </tr>\n    <tr>\n      <td colspan=\"3\">The CO<sub>2</sub> emissions reduction metric (weighted at 20% of the LTI) has two components equally weighted:</td>\n    </tr>\n    <tr>\n      <td>CAFE Compliance</td>\n      <td>10%</td>\n      <td>Must be compliant in each year of the 3-year period with the Europe Corporate Average Fuel Economy (CAFE). Failure to comply in any one year will result in no payout for this metric.</td>\n    </tr>\n    <tr>\n      <td>Electrification of Vehicle Nameplates</td>\n      <td>10%</td>\n      <td>Projected number of EV nameplates at the end of a 3-year period. Maximum payout for this metric is 100%.</td>\n    </tr>\n  </tbody>\n</table>\n\nThe 2023-2025 LTI plan metrics were changed to focus on company profitability over a longer-term basis while continuing the focus with long-term growth with vehicle electrification across our brands. Driving performance of AOI and electrification of our vehicles are critical on both an operational and strategic level – hence the reason why these performance metrics, each having their own dynamics with different time horizons, are used in both the short-term and long-term incentive plans. The 2024-2026 LTI Plan metric remain unchanged.\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"3\">2023-2025 &amp; 2024-2026 LTI PSU Metrics</th>\n    </tr>\n    <tr>\n      <th>Measure</th>\n      <th>Weighting</th>\n      <th>How performance is calculated</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Relative Total Shareholder Return</td>\n      <td>30%</td>\n      <td>Relative TSR performance as compared to peer group of companies. over a 3-year period; no payout below median performance.</td>\n    </tr>\n    <tr>\n      <td>Adjusted operating income (3-yr period)</td>\n      <td>40%</td>\n      <td>Cumulative cash synergies net of implementation costs realized over the three-year period. Maximum payout for this metric is 100%.</td>\n    </tr>\n    <tr>\n      <td>Electrification of Vehicle Nameplates</td>\n      <td>30%</td>\n      <td>Projected number of EV nameplates at the end of a 3-year period. Maximum payout for this metric is 100%.</td>\n    </tr>\n  </tbody>\n</table>\n\n## **Total Shareholder Return**\n\nThe relative TSR Metric constitutes a market performance condition relative to eleven of the larger OEMs (“TSR Peer Group”) and a payout scale subject to certain thresholds depending on the stock price appreciation plus dividends and any other shareholder distribution over each cumulative performance period of the Company in comparison with the companies forming part of the TSR Peer Group.\n\nThe TSR Peer Group consists of Volkswagen AG, Toyota Motor Corporation, Mercedes-Benz, General Motors Company, Ford Motor Company, Honda Motor Co. Ltd., BMW Group, Nissan Motor Corporation, The Hyundai Motor Company, Renault SA, and Kia Motors Corporation.\n\n155",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Stellantis-NV-20241231-Annual-Report.pdf",
+    "source_sha256": "4127df171b11e442a97277831a6de6ec46bd9e768720a5d10ff73646b7e0b549",
+    "annotated_at": "2026-08-21T17:46:13.046Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page155.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548425000013/stellantis-20241231.htm",
+      "accession": "0001605484-25-000013",
+      "provider": "datamulehub",
+      "sha256": "8c091fc8484651b8f35e9a6cb267afdc871222516a86fb13071942d8f06deab8",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 80,
+            "byte_start": 6115633,
+            "byte_end_exclusive": 6132301
+          },
+          {
+            "table_index_0based": 81,
+            "byte_start": 6134695,
+            "byte_end_exclusive": 6146717
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "4127df171b11e442a97277831a6de6ec46bd9e768720a5d10ff73646b7e0b549",
+    "input_sha256": "b4085a1d5a448b92b29ce572ac38ad22cb1a26f2990a9f9db3da592ed0284451"
+  },
+  "tags": []
+}

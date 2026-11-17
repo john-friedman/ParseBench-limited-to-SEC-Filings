@@ -1,0 +1,3240 @@
+{
+  "id": "text/text_multicolumns__10k2col",
+  "subset": "text",
+  "dimension": "text",
+  "document": "sec_input.html",
+  "expected_markdown": "significantly change the competitive environment in which we conduct business. The financial services industry is also becoming more competitive as further technological advances enable more companies to offer financial products and services, including electronic and internet-based financial solutions such as electronic securities trading, lending and payment solutions, as well as digital currencies and alternative payment methods. These technological advances may diminish the importance of depository institutions and other financial intermediaries in the transfer of funds between parties.\n\n## REGULATION AND SUPERVISION\n\nThe U.S. financial services industry is subject to significant regulation and regulatory oversight initiatives. This regulation and oversight may continue to impact how U.S. financial services companies conduct business and may continue to result in increased regulatory compliance costs. Banking statutes, regulations and policies are continually under review by Congress and state legislatures and federal and state regulatory agencies, as well as non-U.S. governments and financial regulators, and a change in them, including changes in how they are interpreted or implemented, could have a material effect on our business. The regulatory framework applicable to depository institutions and bank holding companies (BHCs) is intended to protect depositors, the federal deposit insurance fund, consumers and the banking system as a whole, and not necessarily investors in BHCs such as the Company.\n\nStatutes, regulations, and policies could restrict our ability to diversify into other areas of financial services, make acquisitions, and pay dividends or repurchase our capital stock. They may also require us to provide financial support to one or more of our subsidiary banks, maintain capital in excess of amounts desired by management, and pay higher deposit insurance premiums as a result of assessments or a general deterioration in the financial condition of depository institutions.\n\nThe following describes the material elements of the regulatory framework applicable to us and the more significant regulations and regulatory oversight initiatives that have affected or may affect our business. For additional information about the regulatory matters discussed below and other regulations and regulatory oversight matters, see the \"Overview,\" \"Capital Management,\" \"Forward-Looking Statements\" and \"Risk Factors\" sections and Note 26 (Regulatory Capital Requirements and Other Restrictions) to Financial Statements in the 2024 Annual Report to Shareholders.\n\n### General\n\n***Parent Bank Holding Company.*** As a BHC, the Parent is subject to regulation under the BHC Act and to inspection, examination and supervision by its primary regulator, the Board of Governors of the Federal Reserve System (Federal Reserve Board or FRB). The Parent is also subject to the disclosure and regulatory requirements of the Securities Act of 1933, as amended, and the requirements of the Securities Exchange Act of 1934, as amended, both as administered by the SEC. As a company with securities listed on the New York Stock Exchange (NYSE), the Parent is subject to the rules of the NYSE for listed companies.\n\n***Subsidiary Banks.*** Our subsidiary national banks, and their subsidiaries, are subject to regulation and examination primarily by the Office of the Comptroller of the Currency (OCC) and also by the Federal Deposit Insurance Corporation (FDIC), the FRB, the Consumer Financial Protection Bureau (CFPB), the SEC and the Commodities Futures Trading Commission (CFTC). The non-U.S. branches, subsidiaries, and offices of our subsidiary national banks are subject to regulation and examination by their respective financial regulators as well as by the OCC and the FRB. Non-U.S. operations of our national bank subsidiaries may be subject to the laws and regulations of the countries in which they conduct business.\n\n***Nonbank Subsidiaries.*** Many of our nonbank subsidiaries are also subject to regulation by the FRB and other applicable federal and state agencies. Our insurance subsidiaries are subject to regulation by applicable state insurance regulatory agencies, as well as the FRB. Our brokerage subsidiaries are regulated by the SEC, the Financial Industry Regulatory Authority (FINRA) and, in some cases, the CFTC and the Municipal Securities Rulemaking Board, and state securities regulators. Our other nonbank subsidiaries may be subject to the laws and regulations of the federal government and/or the various states as well as non-U.S. countries in which they conduct business or operate.\n\n### Parent Bank Holding Company Activities\n\n***\"Financial in Nature\" Requirement.*** We became a financial holding company (FHC) effective March 13, 2000. We continue to maintain our status as a BHC for purposes of various FRB regulations. As a BHC that has elected to be treated as an FHC pursuant to the BHC Act, we may affiliate with securities firms and insurance companies and engage in other activities that are financial in nature or incidental or complementary to activities that are financial in nature. \"Financial in nature\" activities include securities underwriting, dealing, and market making; sponsoring mutual funds and investment companies; insurance underwriting and agency; merchant banking; and activities that the FRB, in consultation with the Secretary of the U.S. Treasury, determines to be financial in nature or incidental to such financial activity. \"Complementary activities\" are activities that the FRB determines upon application to be complementary to a financial activity and do not pose a safety and soundness risk. Financial in nature activities and incidental or complementary activities are collectively referred to below as \"financial activities\".\n\nFRB approval is generally not required for us to acquire a company (other than a BHC, bank or savings association) engaged in financial activities, as determined by the FRB. Prior notice to the FRB may be required, however, if the company to be acquired has total consolidated assets of $10 billion or more. Prior FRB approval is required before we may acquire the beneficial ownership or control of more than 5% of the voting shares or substantially all of the assets of a BHC, bank or savings association. We are also subject to prohibitions on our ability to merge, acquire all or substantially all of the assets of, or acquire control of another company if our total resulting consolidated liabilities would exceed 10% of the aggregate consolidated liabilities of all financial companies.\n\nBecause we are an FHC, if any of our applicable subsidiary banks receives a rating under the Community Reinvestment Act of 1977, as amended (CRA), of less than satisfactory, we will be prohibited, until the rating is raised to satisfactory or better, from engaging in certain new financial activities or acquiring certain companies engaged in financial activities. CRA performance is also considered by regulators in reviewing applications to establish new bank branches. In addition, if the FRB finds that an FHC or any of its subsidiary banks is not well capitalized or well managed, the FHC would be required to enter into an agreement with the FRB to comply with all applicable capital and management requirements and which may contain additional limitations or conditions. Until corrected, the FHC could be prohibited from engaging in any new financial activity or\n\n<page_footer>\n<page_number>2</page_number>\n</page_footer>",
+  "test_rules": [
+    {
+      "type": "missing_sentence_percent",
+      "bag_of_sentence": {
+        "significantly change the competitive environment in which we conduct business": 1,
+        "The financial services industry is also becoming more competitive as further technological advances enable more companies to provide financial products and services, including electronic and internet-based financial solutions such as electronic securities trading, lending and payment solutions, as well as digital currencies and alternative payment methods": 1,
+        "These technological advances may diminish the importance of depository institutions and other financial intermediaries in the transfer of funds between parties": 1,
+        "REGULATION AND SUPERVISION": 1,
+        "The U S": 1,
+        "financial services industry is subject to significant regulation and regulatory oversight initiatives": 1,
+        "This regulation and oversight may continue to impact how U": 1,
+        "S financial services companies conduct business and may continue to result in increased regulatory compliance costs": 1,
+        "Banking statutes, regulations and policies are continually under review by Congress and state legislatures and federal and state regulatory agencies, as well as non-U": 1,
+        "S governments and financial regulators, and a change in them, including changes in how they are interpreted or implemented, could have a material effect on our business": 1,
+        "The regulatory framework applicable to depository institutions and bank holding companies (BHCs) is intended to protect depositors, the federal deposit insurance fund, consumers and the banking system as a whole, and not necessarily investors in BHCs such as the Company": 1,
+        "Statutes, regulations, and policies could restrict our ability to diversify into other areas of financial services, make acquisitions, and pay dividends or repurchase our capital stock": 1,
+        "They may also require us to provide financial support to one or more of our subsidiary banks, maintain capital in excess of amounts desired by management, and pay higher deposit insurance premiums as a result of assessments or a general deterioration in the financial condition of depository institutions": 1,
+        "The following describes the material elements of the regulatory framework applicable to us and the more significant regulations and regulatory oversight initiatives that have affected or may affect our business": 1,
+        "For additional information about the regulatory matters discussed below and other regulations and regulatory oversight matters, see the \"Overview,\" \"Capital Management,\" \"Forward-Looking Statements\" and \"Risk Factors\" sections and Note 26 (Regulatory Capital Requirements and Other Restrictions) to Financial Statements in the 2024 Annual Report to Shareholders": 1,
+        "General": 1,
+        "Parent Bank Holding Company": 1,
+        "As a BHC, the Parent is subject to regulation under the BHC Act and to inspection, examination and supervision by its primary regulator, the Board of Governors of the Federal Reserve System (Federal Reserve Board or FRB": 1,
+        "The Parent is also subject to the disclosure and regulatory requirements of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, both as administered by the SEC": 1,
+        "As a company with securities listed on the New York Stock Exchange (NYSE), the Parent is subject to the rules of the NYSE for listed companies": 1,
+        "Subsidiary Banks": 1,
+        "Our subsidiary national banks, and their subsidiaries, are subject to regulation and examination primarily by the Office of the Comptroller of the Currency (OCC) and also by the Federal Deposit Insurance Corporation (FDIC), the FRB, the Consumer Financial Protection Bureau (CFPB), the SEC and the Commodities Futures Trading Commission (CFTC": 1,
+        "The non-U": 1,
+        "S branches, subsidiaries, and offices of our subsidiary national banks are subject to regulation and examination by their respective financial regulators as well as by the OCC and the FRB": 1,
+        "Non-U S": 1,
+        "operations of our national bank subsidiaries may be subject to the laws and regulations of the countries in which they conduct business": 1,
+        "Nonbank Subsidiaries": 1,
+        "Many of our nonbank subsidiaries are also subject to regulation by the FRB and other applicable federal and state agencies": 1,
+        "Our insurance subsidiaries are subject to regulation by applicable state insurance regulatory agencies, as well as the FRB": 1,
+        "Our brokerage subsidiaries are regulated by the SEC, the Financial Industry Regulatory Authority (FINRA) and, in some cases, the CFTC and the Municipal Securities Rulemaking Board, and state securities regulators": 1,
+        "Our other nonbank subsidiaries may be subject to the laws and regulations of the federal government and/or the various states as well as non-U": 1,
+        "S countries in which they conduct business or operate": 1,
+        "Parent Bank Holding Company Activities": 1,
+        "Financial in Nature\" Requirement": 1,
+        "We became a financial holding company (FHC) effective March 13, 2000. We continue to maintain our status as a BHC for purposes of various FRB regulations": 1,
+        "As a BHC that has elected to be treated as an FHC pursuant to the BHC Act, we may affiliate with securities firms and insurance companies and engage in other activities that are financial in nature or incidental or complementary to activities that are financial in nature": 1,
+        "Financial in nature\" activities include securities underwriting, dealing, and market making; sponsoring mutual funds and investment companies; insurance underwriting and agency; merchant banking; and activities that the FRB, in consultation with the Secretary of the U": 1,
+        "S Treasury, determines to be financial in nature or incidental to such financial activity": 1,
+        "Complementary activities\" are activities that the FRB determines upon application to be complementary to a financial activity and do not pose a safety and soundness risk": 1,
+        "Financial in nature activities and incidental or complementary activities are collectively referred to below as \"financial activities": 1,
+        "FRB approval is generally not required for us to acquire a company (other than a BHC, bank or savings association) engaged in financial activities, as determined by the FRB": 1,
+        "Prior notice to the FRB may be required, however, if the company to be acquired has total consolidated assets of $10 billion or more": 1,
+        "Prior FRB approval is required before we may acquire the beneficial ownership or control of more than 5% of the voting shares or substantially all of the assets of a BHC, bank or savings association": 1,
+        "We are also subject to prohibitions on our ability to merge, acquire all or substantially all of the assets of, or acquire control of another company if our total resulting consolidated liabilities would exceed 10% of the aggregate consolidated liabilities of all financial companies": 1,
+        "Because we are an FHC, if any of our applicable subsidiary banks receives a rating under the Community Reinvestment Act of 1977, as amended (CRA), of less than satisfactory, we will be prohibited, until the rating is raised to satisfactory or better, from engaging in certain new financial activities or acquiring certain companies engaged in financial activities": 1,
+        "CRA performance is also considered by regulators in reviewing applications to establish bank branches": 1,
+        "In addition, if the FRB finds that an FHC or any one of its subsidiary banks is not well capitalized or well managed, the FHC would be required to enter into an agreement with the FRB to comply with all applicable capital and management requirements and which may contain additional limitations or conditions": 1,
+        "Until corrected, the FHC could be prohibited from engaging in any new financial activity or 2": 1
+      }
+    },
+    {
+      "type": "unexpected_sentence_percent",
+      "bag_of_sentence": {
+        "significantly change the competitive environment in which we conduct business": 1,
+        "The financial services industry is also becoming more competitive as further technological advances enable more companies to provide financial products and services, including electronic and internet-based financial solutions such as electronic securities trading, lending and payment solutions, as well as digital currencies and alternative payment methods": 1,
+        "These technological advances may diminish the importance of depository institutions and other financial intermediaries in the transfer of funds between parties": 1,
+        "REGULATION AND SUPERVISION": 1,
+        "The U S": 1,
+        "financial services industry is subject to significant regulation and regulatory oversight initiatives": 1,
+        "This regulation and oversight may continue to impact how U": 1,
+        "S financial services companies conduct business and may continue to result in increased regulatory compliance costs": 1,
+        "Banking statutes, regulations and policies are continually under review by Congress and state legislatures and federal and state regulatory agencies, as well as non-U": 1,
+        "S governments and financial regulators, and a change in them, including changes in how they are interpreted or implemented, could have a material effect on our business": 1,
+        "The regulatory framework applicable to depository institutions and bank holding companies (BHCs) is intended to protect depositors, the federal deposit insurance fund, consumers and the banking system as a whole, and not necessarily investors in BHCs such as the Company": 1,
+        "Statutes, regulations, and policies could restrict our ability to diversify into other areas of financial services, make acquisitions, and pay dividends or repurchase our capital stock": 1,
+        "They may also require us to provide financial support to one or more of our subsidiary banks, maintain capital in excess of amounts desired by management, and pay higher deposit insurance premiums as a result of assessments or a general deterioration in the financial condition of depository institutions": 1,
+        "The following describes the material elements of the regulatory framework applicable to us and the more significant regulations and regulatory oversight initiatives that have affected or may affect our business": 1,
+        "For additional information about the regulatory matters discussed below and other regulations and regulatory oversight matters, see the \"Overview,\" \"Capital Management,\" \"Forward-Looking Statements\" and \"Risk Factors\" sections and Note 26 (Regulatory Capital Requirements and Other Restrictions) to Financial Statements in the 2024 Annual Report to Shareholders": 1,
+        "General": 1,
+        "Parent Bank Holding Company": 1,
+        "As a BHC, the Parent is subject to regulation under the BHC Act and to inspection, examination and supervision by its primary regulator, the Board of Governors of the Federal Reserve System (Federal Reserve Board or FRB": 1,
+        "The Parent is also subject to the disclosure and regulatory requirements of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, both as administered by the SEC": 1,
+        "As a company with securities listed on the New York Stock Exchange (NYSE), the Parent is subject to the rules of the NYSE for listed companies": 1,
+        "Subsidiary Banks": 1,
+        "Our subsidiary national banks, and their subsidiaries, are subject to regulation and examination primarily by the Office of the Comptroller of the Currency (OCC) and also by the Federal Deposit Insurance Corporation (FDIC), the FRB, the Consumer Financial Protection Bureau (CFPB), the SEC and the Commodities Futures Trading Commission (CFTC": 1,
+        "The non-U": 1,
+        "S branches, subsidiaries, and offices of our subsidiary national banks are subject to regulation and examination by their respective financial regulators as well as by the OCC and the FRB": 1,
+        "Non-U S": 1,
+        "operations of our national bank subsidiaries may be subject to the laws and regulations of the countries in which they conduct business": 1,
+        "Nonbank Subsidiaries": 1,
+        "Many of our nonbank subsidiaries are also subject to regulation by the FRB and other applicable federal and state agencies": 1,
+        "Our insurance subsidiaries are subject to regulation by applicable state insurance regulatory agencies, as well as the FRB": 1,
+        "Our brokerage subsidiaries are regulated by the SEC, the Financial Industry Regulatory Authority (FINRA) and, in some cases, the CFTC and the Municipal Securities Rulemaking Board, and state securities regulators": 1,
+        "Our other nonbank subsidiaries may be subject to the laws and regulations of the federal government and/or the various states as well as non-U": 1,
+        "S countries in which they conduct business or operate": 1,
+        "Parent Bank Holding Company Activities": 1,
+        "Financial in Nature\" Requirement": 1,
+        "We became a financial holding company (FHC) effective March 13, 2000. We continue to maintain our status as a BHC for purposes of various FRB regulations": 1,
+        "As a BHC that has elected to be treated as an FHC pursuant to the BHC Act, we may affiliate with securities firms and insurance companies and engage in other activities that are financial in nature or incidental or complementary to activities that are financial in nature": 1,
+        "Financial in nature\" activities include securities underwriting, dealing, and market making; sponsoring mutual funds and investment companies; insurance underwriting and agency; merchant banking; and activities that the FRB, in consultation with the Secretary of the U": 1,
+        "S Treasury, determines to be financial in nature or incidental to such financial activity": 1,
+        "Complementary activities\" are activities that the FRB determines upon application to be complementary to a financial activity and do not pose a safety and soundness risk": 1,
+        "Financial in nature activities and incidental or complementary activities are collectively referred to below as \"financial activities": 1,
+        "FRB approval is generally not required for us to acquire a company (other than a BHC, bank or savings association) engaged in financial activities, as determined by the FRB": 1,
+        "Prior notice to the FRB may be required, however, if the company to be acquired has total consolidated assets of $10 billion or more": 1,
+        "Prior FRB approval is required before we may acquire the beneficial ownership or control of more than 5% of the voting shares or substantially all of the assets of a BHC, bank or savings association": 1,
+        "We are also subject to prohibitions on our ability to merge, acquire all or substantially all of the assets of, or acquire control of another company if our total resulting consolidated liabilities would exceed 10% of the aggregate consolidated liabilities of all financial companies": 1,
+        "Because we are an FHC, if any of our applicable subsidiary banks receives a rating under the Community Reinvestment Act of 1977, as amended (CRA), of less than satisfactory, we will be prohibited, until the rating is raised to satisfactory or better, from engaging in certain new financial activities or acquiring certain companies engaged in financial activities": 1,
+        "CRA performance is also considered by regulators in reviewing applications to establish bank branches": 1,
+        "In addition, if the FRB finds that an FHC or any one of its subsidiary banks is not well capitalized or well managed, the FHC would be required to enter into an agreement with the FRB to comply with all applicable capital and management requirements and which may contain additional limitations or conditions": 1,
+        "Until corrected, the FHC could be prohibited from engaging in any new financial activity or 2": 1
+      },
+      "original_md": "significantly change the competitive environment in which we conduct business. The financial services industry is also becoming more competitive as further technological advances enable more companies to provide financial products and services, including electronic and internet-based financial solutions such as electronic securities trading, lending and payment solutions, as well as digital currencies and alternative payment methods. These technological advances may diminish the importance of depository institutions and other financial intermediaries in the transfer of funds between parties.\n\n## REGULATION AND SUPERVISION\n\nThe U.S. financial services industry is subject to significant regulation and regulatory oversight initiatives. This regulation and oversight may continue to impact how U.S. financial services companies conduct business and may continue to result in increased regulatory compliance costs. Banking statutes, regulations and policies are continually under review by Congress and state legislatures and federal and state regulatory agencies, as well as non-U.S. governments and financial regulators, and a change in them, including changes in how they are interpreted or implemented, could have a material effect on our business. The regulatory framework applicable to depository institutions and bank holding companies (BHCs) is intended to protect depositors, the federal deposit insurance fund, consumers and the banking system as a whole, and not necessarily investors in BHCs such as the Company.\n\nStatutes, regulations, and policies could restrict our ability to diversify into other areas of financial services, make acquisitions, and pay dividends or repurchase our capital stock. They may also require us to provide financial support to one or more of our subsidiary banks, maintain capital in excess of amounts desired by management, and pay higher deposit insurance premiums as a result of assessments or a general deterioration in the financial condition of depository institutions.\n\nThe following describes the material elements of the regulatory framework applicable to us and the more significant regulations and regulatory oversight initiatives that have affected or may affect our business. For additional information about the regulatory matters discussed below and other regulations and regulatory oversight matters, see the \"Overview,\" \"Capital Management,\" \"Forward-Looking Statements\" and \"Risk Factors\" sections and Note 26 (Regulatory Capital Requirements and Other Restrictions) to Financial Statements in the 2024 Annual Report to Shareholders.\n\n### General\n\n***Parent Bank Holding Company.*** As a BHC, the Parent is subject to regulation under the BHC Act and to inspection, examination and supervision by its primary regulator, the Board of Governors of the Federal Reserve System (Federal Reserve Board or FRB). The Parent is also subject to the disclosure and regulatory requirements of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, both as administered by the SEC. As a company with securities listed on the New York Stock Exchange (NYSE), the Parent is subject to the rules of the NYSE for listed companies.\n\n***Subsidiary Banks.*** Our subsidiary national banks, and their subsidiaries, are subject to regulation and examination primarily by the Office of the Comptroller of the Currency (OCC) and also by the Federal Deposit Insurance Corporation (FDIC), the FRB, the Consumer Financial Protection Bureau (CFPB), the SEC and the Commodities Futures Trading Commission (CFTC). The non-U.S. branches, subsidiaries, and offices of our subsidiary national banks are subject to regulation and examination by their respective financial regulators as well as by the OCC and the FRB. Non-U.S. operations of our national bank subsidiaries may be subject to the laws and regulations of the countries in which they conduct business.\n\n***Nonbank Subsidiaries.*** Many of our nonbank subsidiaries are also subject to regulation by the FRB and other applicable federal and state agencies. Our insurance subsidiaries are subject to regulation by applicable state insurance regulatory agencies, as well as the FRB. Our brokerage subsidiaries are regulated by the SEC, the Financial Industry Regulatory Authority (FINRA) and, in some cases, the CFTC and the Municipal Securities Rulemaking Board, and state securities regulators. Our other nonbank subsidiaries may be subject to the laws and regulations of the federal government and/or the various states as well as non-U.S. countries in which they conduct business or operate.\n\n### Parent Bank Holding Company Activities\n\n***\"Financial in Nature\" Requirement.*** We became a financial holding company (FHC) effective March 13, 2000. We continue to maintain our status as a BHC for purposes of various FRB regulations. As a BHC that has elected to be treated as an FHC pursuant to the BHC Act, we may affiliate with securities firms and insurance companies and engage in other activities that are financial in nature or incidental or complementary to activities that are financial in nature. \"Financial in nature\" activities include securities underwriting, dealing, and market making; sponsoring mutual funds and investment companies; insurance underwriting and agency; merchant banking; and activities that the FRB, in consultation with the Secretary of the U.S. Treasury, determines to be financial in nature or incidental to such financial activity. \"Complementary activities\" are activities that the FRB determines upon application to be complementary to a financial activity and do not pose a safety and soundness risk. Financial in nature activities and incidental or complementary activities are collectively referred to below as \"financial activities\".\n\nFRB approval is generally not required for us to acquire a company (other than a BHC, bank or savings association) engaged in financial activities, as determined by the FRB. Prior notice to the FRB may be required, however, if the company to be acquired has total consolidated assets of $10 billion or more. Prior FRB approval is required before we may acquire the beneficial ownership or control of more than 5% of the voting shares or substantially all of the assets of a BHC, bank or savings association. We are also subject to prohibitions on our ability to merge, acquire all or substantially all of the assets of, or acquire control of another company if our total resulting consolidated liabilities would exceed 10% of the aggregate consolidated liabilities of all financial companies.\n\nBecause we are an FHC, if any of our applicable subsidiary banks receives a rating under the Community Reinvestment Act of 1977, as amended (CRA), of less than satisfactory, we will be prohibited, until the rating is raised to satisfactory or better, from engaging in certain new financial activities or acquiring certain companies engaged in financial activities. CRA performance is also considered by regulators in reviewing applications to establish bank branches. In addition, if the FRB finds that an FHC or any one of its subsidiary banks is not well capitalized or well managed, the FHC would be required to enter into an agreement with the FRB to comply with all applicable capital and management requirements and which may contain additional limitations or conditions. Until corrected, the FHC could be prohibited from engaging in any new financial activity or\n\n<page_footer>\n<page_number>2</page_number>\n</page_footer>"
+    },
+    {
+      "type": "too_many_sentence_occurence_percent",
+      "bag_of_sentence": {
+        "significantly change the competitive environment in which we conduct business": 1,
+        "The financial services industry is also becoming more competitive as further technological advances enable more companies to provide financial products and services, including electronic and internet-based financial solutions such as electronic securities trading, lending and payment solutions, as well as digital currencies and alternative payment methods": 1,
+        "These technological advances may diminish the importance of depository institutions and other financial intermediaries in the transfer of funds between parties": 1,
+        "REGULATION AND SUPERVISION": 1,
+        "The U S": 1,
+        "financial services industry is subject to significant regulation and regulatory oversight initiatives": 1,
+        "This regulation and oversight may continue to impact how U": 1,
+        "S financial services companies conduct business and may continue to result in increased regulatory compliance costs": 1,
+        "Banking statutes, regulations and policies are continually under review by Congress and state legislatures and federal and state regulatory agencies, as well as non-U": 1,
+        "S governments and financial regulators, and a change in them, including changes in how they are interpreted or implemented, could have a material effect on our business": 1,
+        "The regulatory framework applicable to depository institutions and bank holding companies (BHCs) is intended to protect depositors, the federal deposit insurance fund, consumers and the banking system as a whole, and not necessarily investors in BHCs such as the Company": 1,
+        "Statutes, regulations, and policies could restrict our ability to diversify into other areas of financial services, make acquisitions, and pay dividends or repurchase our capital stock": 1,
+        "They may also require us to provide financial support to one or more of our subsidiary banks, maintain capital in excess of amounts desired by management, and pay higher deposit insurance premiums as a result of assessments or a general deterioration in the financial condition of depository institutions": 1,
+        "The following describes the material elements of the regulatory framework applicable to us and the more significant regulations and regulatory oversight initiatives that have affected or may affect our business": 1,
+        "For additional information about the regulatory matters discussed below and other regulations and regulatory oversight matters, see the \"Overview,\" \"Capital Management,\" \"Forward-Looking Statements\" and \"Risk Factors\" sections and Note 26 (Regulatory Capital Requirements and Other Restrictions) to Financial Statements in the 2024 Annual Report to Shareholders": 1,
+        "General": 1,
+        "Parent Bank Holding Company": 1,
+        "As a BHC, the Parent is subject to regulation under the BHC Act and to inspection, examination and supervision by its primary regulator, the Board of Governors of the Federal Reserve System (Federal Reserve Board or FRB": 1,
+        "The Parent is also subject to the disclosure and regulatory requirements of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, both as administered by the SEC": 1,
+        "As a company with securities listed on the New York Stock Exchange (NYSE), the Parent is subject to the rules of the NYSE for listed companies": 1,
+        "Subsidiary Banks": 1,
+        "Our subsidiary national banks, and their subsidiaries, are subject to regulation and examination primarily by the Office of the Comptroller of the Currency (OCC) and also by the Federal Deposit Insurance Corporation (FDIC), the FRB, the Consumer Financial Protection Bureau (CFPB), the SEC and the Commodities Futures Trading Commission (CFTC": 1,
+        "The non-U": 1,
+        "S branches, subsidiaries, and offices of our subsidiary national banks are subject to regulation and examination by their respective financial regulators as well as by the OCC and the FRB": 1,
+        "Non-U S": 1,
+        "operations of our national bank subsidiaries may be subject to the laws and regulations of the countries in which they conduct business": 1,
+        "Nonbank Subsidiaries": 1,
+        "Many of our nonbank subsidiaries are also subject to regulation by the FRB and other applicable federal and state agencies": 1,
+        "Our insurance subsidiaries are subject to regulation by applicable state insurance regulatory agencies, as well as the FRB": 1,
+        "Our brokerage subsidiaries are regulated by the SEC, the Financial Industry Regulatory Authority (FINRA) and, in some cases, the CFTC and the Municipal Securities Rulemaking Board, and state securities regulators": 1,
+        "Our other nonbank subsidiaries may be subject to the laws and regulations of the federal government and/or the various states as well as non-U": 1,
+        "S countries in which they conduct business or operate": 1,
+        "Parent Bank Holding Company Activities": 1,
+        "Financial in Nature\" Requirement": 1,
+        "We became a financial holding company (FHC) effective March 13, 2000. We continue to maintain our status as a BHC for purposes of various FRB regulations": 1,
+        "As a BHC that has elected to be treated as an FHC pursuant to the BHC Act, we may affiliate with securities firms and insurance companies and engage in other activities that are financial in nature or incidental or complementary to activities that are financial in nature": 1,
+        "Financial in nature\" activities include securities underwriting, dealing, and market making; sponsoring mutual funds and investment companies; insurance underwriting and agency; merchant banking; and activities that the FRB, in consultation with the Secretary of the U": 1,
+        "S Treasury, determines to be financial in nature or incidental to such financial activity": 1,
+        "Complementary activities\" are activities that the FRB determines upon application to be complementary to a financial activity and do not pose a safety and soundness risk": 1,
+        "Financial in nature activities and incidental or complementary activities are collectively referred to below as \"financial activities": 1,
+        "FRB approval is generally not required for us to acquire a company (other than a BHC, bank or savings association) engaged in financial activities, as determined by the FRB": 1,
+        "Prior notice to the FRB may be required, however, if the company to be acquired has total consolidated assets of $10 billion or more": 1,
+        "Prior FRB approval is required before we may acquire the beneficial ownership or control of more than 5% of the voting shares or substantially all of the assets of a BHC, bank or savings association": 1,
+        "We are also subject to prohibitions on our ability to merge, acquire all or substantially all of the assets of, or acquire control of another company if our total resulting consolidated liabilities would exceed 10% of the aggregate consolidated liabilities of all financial companies": 1,
+        "Because we are an FHC, if any of our applicable subsidiary banks receives a rating under the Community Reinvestment Act of 1977, as amended (CRA), of less than satisfactory, we will be prohibited, until the rating is raised to satisfactory or better, from engaging in certain new financial activities or acquiring certain companies engaged in financial activities": 1,
+        "CRA performance is also considered by regulators in reviewing applications to establish bank branches": 1,
+        "In addition, if the FRB finds that an FHC or any one of its subsidiary banks is not well capitalized or well managed, the FHC would be required to enter into an agreement with the FRB to comply with all applicable capital and management requirements and which may contain additional limitations or conditions": 1,
+        "Until corrected, the FHC could be prohibited from engaging in any new financial activity or 2": 1
+      }
+    },
+    {
+      "type": "unexpected_word_percent",
+      "bag_of_word": {
+        "10": 2,
+        "13": 1,
+        "26": 1,
+        "1933": 1,
+        "1934": 1,
+        "1977": 1,
+        "2000": 1,
+        "2024": 1,
+        "significantly": 1,
+        "change": 2,
+        "the": 72,
+        "competitive": 2,
+        "environment": 1,
+        "in": 26,
+        "which": 4,
+        "we": 8,
+        "conduct": 4,
+        "business": 6,
+        "financial": 29,
+        "services": 5,
+        "industry": 3,
+        "is": 11,
+        "also": 7,
+        "becoming": 1,
+        "more": 6,
+        "as": 26,
+        "further": 1,
+        "technological": 2,
+        "advances": 2,
+        "enable": 1,
+        "companies": 8,
+        "to": 40,
+        "products": 1,
+        "and": 58,
+        "including": 2,
+        "electronic": 2,
+        "internet": 1,
+        "based": 1,
+        "solutions": 2,
+        "such": 3,
+        "securities": 8,
+        "trading": 2,
+        "lending": 1,
+        "payment": 2,
+        "well": 7,
+        "digital": 1,
+        "currencies": 1,
+        "alternative": 1,
+        "methods": 1,
+        "these": 1,
+        "may": 11,
+        "diminish": 1,
+        "importance": 1,
+        "of": 37,
+        "depository": 3,
+        "institutions": 3,
+        "other": 8,
+        "intermediaries": 1,
+        "transfer": 1,
+        "funds": 2,
+        "between": 1,
+        "parties": 1,
+        "regulation": 8,
+        "supervision": 2,
+        "subject": 11,
+        "significant": 2,
+        "regulatory": 12,
+        "oversight": 4,
+        "initiatives": 2,
+        "this": 1,
+        "continue": 3,
+        "impact": 1,
+        "how": 2,
+        "result": 2,
+        "increased": 1,
+        "compliance": 1,
+        "costs": 1,
+        "banking": 3,
+        "statutes": 2,
+        "regulations": 7,
+        "policies": 2,
+        "are": 13,
+        "continually": 1,
+        "under": 3,
+        "review": 1,
+        "by": 13,
+        "congress": 1,
+        "state": 5,
+        "legislatures": 1,
+        "federal": 7,
+        "agencies": 3,
+        "non": 4,
+        "governments": 1,
+        "regulators": 4,
+        "them": 1,
+        "changes": 1,
+        "they": 4,
+        "interpreted": 1,
+        "or": 25,
+        "implemented": 1,
+        "could": 3,
+        "have": 2,
+        "material": 2,
+        "effect": 1,
+        "on": 3,
+        "our": 16,
+        "framework": 2,
+        "applicable": 6,
+        "bank": 7,
+        "holding": 4,
+        "bhcs": 2,
+        "intended": 1,
+        "protect": 1,
+        "depositors": 1,
+        "deposit": 3,
+        "insurance": 7,
+        "fund": 1,
+        "consumers": 1,
+        "system": 2,
+        "whole": 1,
+        "not": 4,
+        "necessarily": 1,
+        "investors": 1,
+        "company": 8,
+        "restrict": 1,
+        "ability": 2,
+        "diversify": 1,
+        "into": 2,
+        "areas": 1,
+        "make": 1,
+        "acquisitions": 1,
+        "pay": 2,
+        "dividends": 1,
+        "repurchase": 1,
+        "capital": 5,
+        "stock": 2,
+        "require": 1,
+        "us": 3,
+        "provide": 2,
+        "support": 1,
+        "one": 2,
+        "subsidiary": 6,
+        "banks": 6,
+        "maintain": 2,
+        "excess": 1,
+        "amounts": 1,
+        "desired": 1,
+        "management": 3,
+        "higher": 1,
+        "premiums": 1,
+        "assessments": 1,
+        "general": 2,
+        "deterioration": 1,
+        "condition": 1,
+        "following": 1,
+        "describes": 1,
+        "elements": 1,
+        "that": 7,
+        "affected": 1,
+        "affect": 1,
+        "for": 4,
+        "additional": 2,
+        "information": 1,
+        "about": 1,
+        "matters": 2,
+        "discussed": 1,
+        "below": 2,
+        "see": 1,
+        "overview": 1,
+        "forward": 1,
+        "looking": 1,
+        "statements": 2,
+        "risk": 2,
+        "factors": 1,
+        "sections": 1,
+        "note": 1,
+        "requirements": 3,
+        "restrictions": 1,
+        "annual": 1,
+        "report": 1,
+        "shareholders": 1,
+        "parent": 5,
+        "bhc": 7,
+        "act": 5,
+        "inspection": 1,
+        "examination": 3,
+        "its": 2,
+        "primary": 1,
+        "regulator": 1,
+        "board": 3,
+        "governors": 1,
+        "reserve": 2,
+        "frb": 14,
+        "disclosure": 1,
+        "amended": 3,
+        "exchange": 2,
+        "both": 1,
+        "administered": 1,
+        "sec": 3,
+        "with": 5,
+        "listed": 2,
+        "new": 3,
+        "york": 1,
+        "nyse": 2,
+        "rules": 1,
+        "national": 3,
+        "their": 2,
+        "subsidiaries": 8,
+        "primarily": 1,
+        "office": 1,
+        "comptroller": 1,
+        "currency": 1,
+        "occ": 2,
+        "corporation": 1,
+        "fdic": 1,
+        "consumer": 1,
+        "protection": 1,
+        "bureau": 1,
+        "cfpb": 1,
+        "commodities": 1,
+        "futures": 1,
+        "commission": 1,
+        "cftc": 2,
+        "branches": 2,
+        "offices": 1,
+        "respective": 1,
+        "operations": 1,
+        "be": 10,
+        "laws": 2,
+        "countries": 2,
+        "nonbank": 3,
+        "many": 1,
+        "brokerage": 1,
+        "regulated": 1,
+        "authority": 1,
+        "finra": 1,
+        "some": 1,
+        "cases": 1,
+        "municipal": 1,
+        "rulemaking": 1,
+        "government": 1,
+        "various": 2,
+        "states": 1,
+        "operate": 1,
+        "activities": 13,
+        "nature": 6,
+        "requirement": 1,
+        "became": 1,
+        "fhc": 6,
+        "effective": 1,
+        "march": 1,
+        "status": 1,
+        "purposes": 1,
+        "has": 2,
+        "elected": 1,
+        "treated": 1,
+        "an": 4,
+        "pursuant": 1,
+        "affiliate": 1,
+        "firms": 1,
+        "engage": 1,
+        "incidental": 3,
+        "complementary": 4,
+        "include": 1,
+        "underwriting": 2,
+        "dealing": 1,
+        "market": 1,
+        "making": 1,
+        "sponsoring": 1,
+        "mutual": 1,
+        "investment": 1,
+        "agency": 1,
+        "merchant": 1,
+        "consultation": 1,
+        "secretary": 1,
+        "treasury": 1,
+        "determines": 2,
+        "activity": 3,
+        "upon": 1,
+        "application": 1,
+        "do": 1,
+        "pose": 1,
+        "safety": 1,
+        "soundness": 1,
+        "collectively": 1,
+        "referred": 1,
+        "approval": 2,
+        "generally": 1,
+        "required": 4,
+        "acquire": 4,
+        "than": 3,
+        "savings": 2,
+        "association": 2,
+        "engaged": 2,
+        "determined": 1,
+        "prior": 2,
+        "notice": 1,
+        "however": 1,
+        "if": 4,
+        "acquired": 1,
+        "total": 2,
+        "consolidated": 3,
+        "assets": 3,
+        "billion": 1,
+        "before": 1,
+        "beneficial": 1,
+        "ownership": 1,
+        "control": 2,
+        "voting": 1,
+        "shares": 1,
+        "substantially": 2,
+        "all": 5,
+        "prohibitions": 1,
+        "merge": 1,
+        "another": 1,
+        "resulting": 1,
+        "liabilities": 2,
+        "would": 2,
+        "exceed": 1,
+        "aggregate": 1,
+        "because": 1,
+        "any": 3,
+        "receives": 1,
+        "rating": 2,
+        "community": 1,
+        "reinvestment": 1,
+        "cra": 2,
+        "less": 1,
+        "satisfactory": 2,
+        "will": 1,
+        "prohibited": 2,
+        "until": 2,
+        "raised": 1,
+        "better": 1,
+        "from": 2,
+        "engaging": 2,
+        "certain": 2,
+        "acquiring": 1,
+        "performance": 1,
+        "considered": 1,
+        "reviewing": 1,
+        "applications": 1,
+        "establish": 1,
+        "addition": 1,
+        "finds": 1,
+        "capitalized": 1,
+        "managed": 1,
+        "enter": 1,
+        "agreement": 1,
+        "comply": 1,
+        "contain": 1,
+        "limitations": 1,
+        "conditions": 1,
+        "corrected": 1
+      }
+    },
+    {
+      "type": "too_many_word_occurence_percent",
+      "bag_of_word": {
+        "10": 2,
+        "13": 1,
+        "26": 1,
+        "1933": 1,
+        "1934": 1,
+        "1977": 1,
+        "2000": 1,
+        "2024": 1,
+        "significantly": 1,
+        "change": 2,
+        "the": 72,
+        "competitive": 2,
+        "environment": 1,
+        "in": 26,
+        "which": 4,
+        "we": 8,
+        "conduct": 4,
+        "business": 6,
+        "financial": 29,
+        "services": 5,
+        "industry": 3,
+        "is": 11,
+        "also": 7,
+        "becoming": 1,
+        "more": 6,
+        "as": 26,
+        "further": 1,
+        "technological": 2,
+        "advances": 2,
+        "enable": 1,
+        "companies": 8,
+        "to": 40,
+        "products": 1,
+        "and": 58,
+        "including": 2,
+        "electronic": 2,
+        "internet": 1,
+        "based": 1,
+        "solutions": 2,
+        "such": 3,
+        "securities": 8,
+        "trading": 2,
+        "lending": 1,
+        "payment": 2,
+        "well": 7,
+        "digital": 1,
+        "currencies": 1,
+        "alternative": 1,
+        "methods": 1,
+        "these": 1,
+        "may": 11,
+        "diminish": 1,
+        "importance": 1,
+        "of": 37,
+        "depository": 3,
+        "institutions": 3,
+        "other": 8,
+        "intermediaries": 1,
+        "transfer": 1,
+        "funds": 2,
+        "between": 1,
+        "parties": 1,
+        "regulation": 8,
+        "supervision": 2,
+        "subject": 11,
+        "significant": 2,
+        "regulatory": 12,
+        "oversight": 4,
+        "initiatives": 2,
+        "this": 1,
+        "continue": 3,
+        "impact": 1,
+        "how": 2,
+        "result": 2,
+        "increased": 1,
+        "compliance": 1,
+        "costs": 1,
+        "banking": 3,
+        "statutes": 2,
+        "regulations": 7,
+        "policies": 2,
+        "are": 13,
+        "continually": 1,
+        "under": 3,
+        "review": 1,
+        "by": 13,
+        "congress": 1,
+        "state": 5,
+        "legislatures": 1,
+        "federal": 7,
+        "agencies": 3,
+        "non": 4,
+        "governments": 1,
+        "regulators": 4,
+        "them": 1,
+        "changes": 1,
+        "they": 4,
+        "interpreted": 1,
+        "or": 25,
+        "implemented": 1,
+        "could": 3,
+        "have": 2,
+        "material": 2,
+        "effect": 1,
+        "on": 3,
+        "our": 16,
+        "framework": 2,
+        "applicable": 6,
+        "bank": 7,
+        "holding": 4,
+        "bhcs": 2,
+        "intended": 1,
+        "protect": 1,
+        "depositors": 1,
+        "deposit": 3,
+        "insurance": 7,
+        "fund": 1,
+        "consumers": 1,
+        "system": 2,
+        "whole": 1,
+        "not": 4,
+        "necessarily": 1,
+        "investors": 1,
+        "company": 8,
+        "restrict": 1,
+        "ability": 2,
+        "diversify": 1,
+        "into": 2,
+        "areas": 1,
+        "make": 1,
+        "acquisitions": 1,
+        "pay": 2,
+        "dividends": 1,
+        "repurchase": 1,
+        "capital": 5,
+        "stock": 2,
+        "require": 1,
+        "us": 3,
+        "provide": 2,
+        "support": 1,
+        "one": 2,
+        "subsidiary": 6,
+        "banks": 6,
+        "maintain": 2,
+        "excess": 1,
+        "amounts": 1,
+        "desired": 1,
+        "management": 3,
+        "higher": 1,
+        "premiums": 1,
+        "assessments": 1,
+        "general": 2,
+        "deterioration": 1,
+        "condition": 1,
+        "following": 1,
+        "describes": 1,
+        "elements": 1,
+        "that": 7,
+        "affected": 1,
+        "affect": 1,
+        "for": 4,
+        "additional": 2,
+        "information": 1,
+        "about": 1,
+        "matters": 2,
+        "discussed": 1,
+        "below": 2,
+        "see": 1,
+        "overview": 1,
+        "forward": 1,
+        "looking": 1,
+        "statements": 2,
+        "risk": 2,
+        "factors": 1,
+        "sections": 1,
+        "note": 1,
+        "requirements": 3,
+        "restrictions": 1,
+        "annual": 1,
+        "report": 1,
+        "shareholders": 1,
+        "parent": 5,
+        "bhc": 7,
+        "act": 5,
+        "inspection": 1,
+        "examination": 3,
+        "its": 2,
+        "primary": 1,
+        "regulator": 1,
+        "board": 3,
+        "governors": 1,
+        "reserve": 2,
+        "frb": 14,
+        "disclosure": 1,
+        "amended": 3,
+        "exchange": 2,
+        "both": 1,
+        "administered": 1,
+        "sec": 3,
+        "with": 5,
+        "listed": 2,
+        "new": 3,
+        "york": 1,
+        "nyse": 2,
+        "rules": 1,
+        "national": 3,
+        "their": 2,
+        "subsidiaries": 8,
+        "primarily": 1,
+        "office": 1,
+        "comptroller": 1,
+        "currency": 1,
+        "occ": 2,
+        "corporation": 1,
+        "fdic": 1,
+        "consumer": 1,
+        "protection": 1,
+        "bureau": 1,
+        "cfpb": 1,
+        "commodities": 1,
+        "futures": 1,
+        "commission": 1,
+        "cftc": 2,
+        "branches": 2,
+        "offices": 1,
+        "respective": 1,
+        "operations": 1,
+        "be": 10,
+        "laws": 2,
+        "countries": 2,
+        "nonbank": 3,
+        "many": 1,
+        "brokerage": 1,
+        "regulated": 1,
+        "authority": 1,
+        "finra": 1,
+        "some": 1,
+        "cases": 1,
+        "municipal": 1,
+        "rulemaking": 1,
+        "government": 1,
+        "various": 2,
+        "states": 1,
+        "operate": 1,
+        "activities": 13,
+        "nature": 6,
+        "requirement": 1,
+        "became": 1,
+        "fhc": 6,
+        "effective": 1,
+        "march": 1,
+        "status": 1,
+        "purposes": 1,
+        "has": 2,
+        "elected": 1,
+        "treated": 1,
+        "an": 4,
+        "pursuant": 1,
+        "affiliate": 1,
+        "firms": 1,
+        "engage": 1,
+        "incidental": 3,
+        "complementary": 4,
+        "include": 1,
+        "underwriting": 2,
+        "dealing": 1,
+        "market": 1,
+        "making": 1,
+        "sponsoring": 1,
+        "mutual": 1,
+        "investment": 1,
+        "agency": 1,
+        "merchant": 1,
+        "consultation": 1,
+        "secretary": 1,
+        "treasury": 1,
+        "determines": 2,
+        "activity": 3,
+        "upon": 1,
+        "application": 1,
+        "do": 1,
+        "pose": 1,
+        "safety": 1,
+        "soundness": 1,
+        "collectively": 1,
+        "referred": 1,
+        "approval": 2,
+        "generally": 1,
+        "required": 4,
+        "acquire": 4,
+        "than": 3,
+        "savings": 2,
+        "association": 2,
+        "engaged": 2,
+        "determined": 1,
+        "prior": 2,
+        "notice": 1,
+        "however": 1,
+        "if": 4,
+        "acquired": 1,
+        "total": 2,
+        "consolidated": 3,
+        "assets": 3,
+        "billion": 1,
+        "before": 1,
+        "beneficial": 1,
+        "ownership": 1,
+        "control": 2,
+        "voting": 1,
+        "shares": 1,
+        "substantially": 2,
+        "all": 5,
+        "prohibitions": 1,
+        "merge": 1,
+        "another": 1,
+        "resulting": 1,
+        "liabilities": 2,
+        "would": 2,
+        "exceed": 1,
+        "aggregate": 1,
+        "because": 1,
+        "any": 3,
+        "receives": 1,
+        "rating": 2,
+        "community": 1,
+        "reinvestment": 1,
+        "cra": 2,
+        "less": 1,
+        "satisfactory": 2,
+        "will": 1,
+        "prohibited": 2,
+        "until": 2,
+        "raised": 1,
+        "better": 1,
+        "from": 2,
+        "engaging": 2,
+        "certain": 2,
+        "acquiring": 1,
+        "performance": 1,
+        "considered": 1,
+        "reviewing": 1,
+        "applications": 1,
+        "establish": 1,
+        "addition": 1,
+        "finds": 1,
+        "capitalized": 1,
+        "managed": 1,
+        "enter": 1,
+        "agreement": 1,
+        "comply": 1,
+        "contain": 1,
+        "limitations": 1,
+        "conditions": 1,
+        "corrected": 1
+      }
+    },
+    {
+      "type": "missing_word_percent",
+      "bag_of_word": {
+        "10": 2,
+        "13": 1,
+        "26": 1,
+        "1933": 1,
+        "1934": 1,
+        "1977": 1,
+        "2000": 1,
+        "2024": 1,
+        "significantly": 1,
+        "change": 2,
+        "the": 72,
+        "competitive": 2,
+        "environment": 1,
+        "in": 26,
+        "which": 4,
+        "we": 8,
+        "conduct": 4,
+        "business": 6,
+        "financial": 29,
+        "services": 5,
+        "industry": 3,
+        "is": 11,
+        "also": 7,
+        "becoming": 1,
+        "more": 6,
+        "as": 26,
+        "further": 1,
+        "technological": 2,
+        "advances": 2,
+        "enable": 1,
+        "companies": 8,
+        "to": 40,
+        "products": 1,
+        "and": 58,
+        "including": 2,
+        "electronic": 2,
+        "internet": 1,
+        "based": 1,
+        "solutions": 2,
+        "such": 3,
+        "securities": 8,
+        "trading": 2,
+        "lending": 1,
+        "payment": 2,
+        "well": 7,
+        "digital": 1,
+        "currencies": 1,
+        "alternative": 1,
+        "methods": 1,
+        "these": 1,
+        "may": 11,
+        "diminish": 1,
+        "importance": 1,
+        "of": 37,
+        "depository": 3,
+        "institutions": 3,
+        "other": 8,
+        "intermediaries": 1,
+        "transfer": 1,
+        "funds": 2,
+        "between": 1,
+        "parties": 1,
+        "regulation": 8,
+        "supervision": 2,
+        "subject": 11,
+        "significant": 2,
+        "regulatory": 12,
+        "oversight": 4,
+        "initiatives": 2,
+        "this": 1,
+        "continue": 3,
+        "impact": 1,
+        "how": 2,
+        "result": 2,
+        "increased": 1,
+        "compliance": 1,
+        "costs": 1,
+        "banking": 3,
+        "statutes": 2,
+        "regulations": 7,
+        "policies": 2,
+        "are": 13,
+        "continually": 1,
+        "under": 3,
+        "review": 1,
+        "by": 13,
+        "congress": 1,
+        "state": 5,
+        "legislatures": 1,
+        "federal": 7,
+        "agencies": 3,
+        "non": 4,
+        "governments": 1,
+        "regulators": 4,
+        "them": 1,
+        "changes": 1,
+        "they": 4,
+        "interpreted": 1,
+        "or": 25,
+        "implemented": 1,
+        "could": 3,
+        "have": 2,
+        "material": 2,
+        "effect": 1,
+        "on": 3,
+        "our": 16,
+        "framework": 2,
+        "applicable": 6,
+        "bank": 7,
+        "holding": 4,
+        "bhcs": 2,
+        "intended": 1,
+        "protect": 1,
+        "depositors": 1,
+        "deposit": 3,
+        "insurance": 7,
+        "fund": 1,
+        "consumers": 1,
+        "system": 2,
+        "whole": 1,
+        "not": 4,
+        "necessarily": 1,
+        "investors": 1,
+        "company": 8,
+        "restrict": 1,
+        "ability": 2,
+        "diversify": 1,
+        "into": 2,
+        "areas": 1,
+        "make": 1,
+        "acquisitions": 1,
+        "pay": 2,
+        "dividends": 1,
+        "repurchase": 1,
+        "capital": 5,
+        "stock": 2,
+        "require": 1,
+        "us": 3,
+        "provide": 2,
+        "support": 1,
+        "one": 2,
+        "subsidiary": 6,
+        "banks": 6,
+        "maintain": 2,
+        "excess": 1,
+        "amounts": 1,
+        "desired": 1,
+        "management": 3,
+        "higher": 1,
+        "premiums": 1,
+        "assessments": 1,
+        "general": 2,
+        "deterioration": 1,
+        "condition": 1,
+        "following": 1,
+        "describes": 1,
+        "elements": 1,
+        "that": 7,
+        "affected": 1,
+        "affect": 1,
+        "for": 4,
+        "additional": 2,
+        "information": 1,
+        "about": 1,
+        "matters": 2,
+        "discussed": 1,
+        "below": 2,
+        "see": 1,
+        "overview": 1,
+        "forward": 1,
+        "looking": 1,
+        "statements": 2,
+        "risk": 2,
+        "factors": 1,
+        "sections": 1,
+        "note": 1,
+        "requirements": 3,
+        "restrictions": 1,
+        "annual": 1,
+        "report": 1,
+        "shareholders": 1,
+        "parent": 5,
+        "bhc": 7,
+        "act": 5,
+        "inspection": 1,
+        "examination": 3,
+        "its": 2,
+        "primary": 1,
+        "regulator": 1,
+        "board": 3,
+        "governors": 1,
+        "reserve": 2,
+        "frb": 14,
+        "disclosure": 1,
+        "amended": 3,
+        "exchange": 2,
+        "both": 1,
+        "administered": 1,
+        "sec": 3,
+        "with": 5,
+        "listed": 2,
+        "new": 3,
+        "york": 1,
+        "nyse": 2,
+        "rules": 1,
+        "national": 3,
+        "their": 2,
+        "subsidiaries": 8,
+        "primarily": 1,
+        "office": 1,
+        "comptroller": 1,
+        "currency": 1,
+        "occ": 2,
+        "corporation": 1,
+        "fdic": 1,
+        "consumer": 1,
+        "protection": 1,
+        "bureau": 1,
+        "cfpb": 1,
+        "commodities": 1,
+        "futures": 1,
+        "commission": 1,
+        "cftc": 2,
+        "branches": 2,
+        "offices": 1,
+        "respective": 1,
+        "operations": 1,
+        "be": 10,
+        "laws": 2,
+        "countries": 2,
+        "nonbank": 3,
+        "many": 1,
+        "brokerage": 1,
+        "regulated": 1,
+        "authority": 1,
+        "finra": 1,
+        "some": 1,
+        "cases": 1,
+        "municipal": 1,
+        "rulemaking": 1,
+        "government": 1,
+        "various": 2,
+        "states": 1,
+        "operate": 1,
+        "activities": 13,
+        "nature": 6,
+        "requirement": 1,
+        "became": 1,
+        "fhc": 6,
+        "effective": 1,
+        "march": 1,
+        "status": 1,
+        "purposes": 1,
+        "has": 2,
+        "elected": 1,
+        "treated": 1,
+        "an": 4,
+        "pursuant": 1,
+        "affiliate": 1,
+        "firms": 1,
+        "engage": 1,
+        "incidental": 3,
+        "complementary": 4,
+        "include": 1,
+        "underwriting": 2,
+        "dealing": 1,
+        "market": 1,
+        "making": 1,
+        "sponsoring": 1,
+        "mutual": 1,
+        "investment": 1,
+        "agency": 1,
+        "merchant": 1,
+        "consultation": 1,
+        "secretary": 1,
+        "treasury": 1,
+        "determines": 2,
+        "activity": 3,
+        "upon": 1,
+        "application": 1,
+        "do": 1,
+        "pose": 1,
+        "safety": 1,
+        "soundness": 1,
+        "collectively": 1,
+        "referred": 1,
+        "approval": 2,
+        "generally": 1,
+        "required": 4,
+        "acquire": 4,
+        "than": 3,
+        "savings": 2,
+        "association": 2,
+        "engaged": 2,
+        "determined": 1,
+        "prior": 2,
+        "notice": 1,
+        "however": 1,
+        "if": 4,
+        "acquired": 1,
+        "total": 2,
+        "consolidated": 3,
+        "assets": 3,
+        "billion": 1,
+        "before": 1,
+        "beneficial": 1,
+        "ownership": 1,
+        "control": 2,
+        "voting": 1,
+        "shares": 1,
+        "substantially": 2,
+        "all": 5,
+        "prohibitions": 1,
+        "merge": 1,
+        "another": 1,
+        "resulting": 1,
+        "liabilities": 2,
+        "would": 2,
+        "exceed": 1,
+        "aggregate": 1,
+        "because": 1,
+        "any": 3,
+        "receives": 1,
+        "rating": 2,
+        "community": 1,
+        "reinvestment": 1,
+        "cra": 2,
+        "less": 1,
+        "satisfactory": 2,
+        "will": 1,
+        "prohibited": 2,
+        "until": 2,
+        "raised": 1,
+        "better": 1,
+        "from": 2,
+        "engaging": 2,
+        "certain": 2,
+        "acquiring": 1,
+        "performance": 1,
+        "considered": 1,
+        "reviewing": 1,
+        "applications": 1,
+        "establish": 1,
+        "addition": 1,
+        "finds": 1,
+        "capitalized": 1,
+        "managed": 1,
+        "enter": 1,
+        "agreement": 1,
+        "comply": 1,
+        "contain": 1,
+        "limitations": 1,
+        "conditions": 1,
+        "corrected": 1
+      }
+    },
+    {
+      "type": "bag_of_digit_percent",
+      "bag_of_digit": {
+        "0": 6,
+        "1": 6,
+        "2": 5,
+        "3": 4,
+        "4": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "9": 3
+      }
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "10"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "13"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "1933"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "1934"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "1977"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "2000"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "2024"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "26"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ability"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "about"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "acquire"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "acquired"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "acquiring"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "acquisitions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "act"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "activities"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "activity"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "addition"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "additional"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "administered"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "advances"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "affect"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "affected"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "affiliate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "agencies"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "agency"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "aggregate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "agreement"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "all"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "also"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "alternative"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "amended"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "amounts"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "an"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "and"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "annual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "another"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "any"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "applicable"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "application"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "applications"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "approval"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "are"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "areas"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "as"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "assessments"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "assets"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "association"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "authority"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "bank"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "banking"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "banks"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "based"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "be"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "became"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "because"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "becoming"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "before"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "below"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "beneficial"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "better"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "between"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "bhc"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "bhcs"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "billion"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "board"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "both"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "branches"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "brokerage"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "bureau"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "business"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "by"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "capital"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "capitalized"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "cases"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "certain"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "cfpb"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "cftc"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "change"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "changes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "collectively"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "commission"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "commodities"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "community"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "companies"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "company"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "competitive"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "complementary"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "compliance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "comply"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "comptroller"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "condition"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "conditions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "conduct"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "congress"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "considered"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consolidated"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consultation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consumer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consumers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "contain"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "continually"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "continue"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "control"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "corporation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "corrected"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "costs"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "could"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "countries"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "cra"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "currencies"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "currency"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "dealing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "deposit"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "depositors"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "depository"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "describes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "desired"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "deterioration"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "determined"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "determines"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "digital"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "diminish"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "disclosure"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "discussed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "diversify"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "dividends"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "do"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "effect"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "effective"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "elected"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "electronic"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "elements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "enable"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "engage"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "engaged"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "engaging"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "enter"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "environment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "establish"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "examination"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "exceed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "excess"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "exchange"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "factors"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fdic"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "federal"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fhc"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "financial"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "finds"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "finra"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "firms"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "following"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "for"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "forward"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "framework"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "frb"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "from"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fund"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "funds"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "further"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "futures"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "general"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "generally"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "government"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "governments"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "governors"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "has"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "have"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "higher"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "holding"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "how"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "however"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "if"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "impact"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "implemented"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "importance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "in"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "incidental"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "include"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "including"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "increased"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "industry"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "information"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "initiatives"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "inspection"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "institutions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "insurance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "intended"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "intermediaries"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "internet"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "interpreted"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "into"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "investment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "investors"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "is"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "its"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "laws"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "legislatures"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "lending"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "less"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "liabilities"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "limitations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "listed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "looking"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "maintain"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "make"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "making"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "managed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "management"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "many"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "march"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "market"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "material"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "matters"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "may"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "merchant"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "merge"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "methods"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "more"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "municipal"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "mutual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "national"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "nature"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "necessarily"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "new"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "non"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "nonbank"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "not"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "note"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "notice"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "nyse"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "occ"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "of"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "office"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "offices"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "on"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "one"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "operate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "operations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "or"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "other"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "our"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "oversight"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "overview"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ownership"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "parent"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "parties"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pay"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "payment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "performance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "policies"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pose"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "premiums"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "primarily"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "primary"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "prior"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "products"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "prohibited"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "prohibitions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "protect"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "protection"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "provide"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "purposes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pursuant"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "raised"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "rating"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "receives"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "referred"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regulated"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regulation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regulations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regulator"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regulators"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regulatory"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reinvestment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "report"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "repurchase"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "require"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "required"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "requirement"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "requirements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reserve"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "respective"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "restrict"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "restrictions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "result"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "resulting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "review"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reviewing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "risk"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "rulemaking"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "rules"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "safety"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "satisfactory"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "savings"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sec"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "secretary"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sections"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "securities"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "see"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "services"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "shareholders"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "shares"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "significant"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "significantly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "solutions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "some"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "soundness"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sponsoring"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "state"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "statements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "states"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "status"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "statutes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "stock"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "subject"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "subsidiaries"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "subsidiary"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "substantially"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "such"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "supervision"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "support"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "system"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "technological"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "than"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "that"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "the"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "their"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "them"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "these"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "they"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "this"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "to"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "total"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "trading"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "transfer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "treasury"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "treated"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "under"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "underwriting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "until"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "upon"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "us"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "various"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "voting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "we"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "well"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "which"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "whole"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "will"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "with"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "would"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "york"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "As a BHC that has elected to be treated as an FHC pursuant to the BHC Act, we may affiliate with securities firms and insurance companies and engage in other activities that are financial in nature or incidental or complementary to activities that are financial in nature"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "As a BHC, the Parent is subject to regulation under the BHC Act and to inspection, examination and supervision by its primary regulator, the Board of Governors of the Federal Reserve System (Federal Reserve Board or FRB"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "As a company with securities listed on the New York Stock Exchange (NYSE), the Parent is subject to the rules of the NYSE for listed companies"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Banking statutes, regulations and policies are continually under review by Congress and state legislatures and federal and state regulatory agencies, as well as non-U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Because we are an FHC, if any of our applicable subsidiary banks receives a rating under the Community Reinvestment Act of 1977, as amended (CRA), of less than satisfactory, we will be prohibited, until the rating is raised to satisfactory or better, from engaging in certain new financial activities or acquiring certain companies engaged in financial activities"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "CRA performance is also considered by regulators in reviewing applications to establish bank branches"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Complementary activities\" are activities that the FRB determines upon application to be complementary to a financial activity and do not pose a safety and soundness risk"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "FRB approval is generally not required for us to acquire a company (other than a BHC, bank or savings association) engaged in financial activities, as determined by the FRB"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Financial in Nature\" Requirement"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Financial in nature activities and incidental or complementary activities are collectively referred to below as \"financial activities"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Financial in nature\" activities include securities underwriting, dealing, and market making; sponsoring mutual funds and investment companies; insurance underwriting and agency; merchant banking; and activities that the FRB, in consultation with the Secretary of the U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "For additional information about the regulatory matters discussed below and other regulations and regulatory oversight matters, see the \"Overview,\" \"Capital Management,\" \"Forward-Looking Statements\" and \"Risk Factors\" sections and Note 26 (Regulatory Capital Requirements and Other Restrictions) to Financial Statements in the 2024 Annual Report to Shareholders"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "General"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "In addition, if the FRB finds that an FHC or any one of its subsidiary banks is not well capitalized or well managed, the FHC would be required to enter into an agreement with the FRB to comply with all applicable capital and management requirements and which may contain additional limitations or conditions"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Many of our nonbank subsidiaries are also subject to regulation by the FRB and other applicable federal and state agencies"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Non-U S"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Nonbank Subsidiaries"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our brokerage subsidiaries are regulated by the SEC, the Financial Industry Regulatory Authority (FINRA) and, in some cases, the CFTC and the Municipal Securities Rulemaking Board, and state securities regulators"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our insurance subsidiaries are subject to regulation by applicable state insurance regulatory agencies, as well as the FRB"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our other nonbank subsidiaries may be subject to the laws and regulations of the federal government and/or the various states as well as non-U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our subsidiary national banks, and their subsidiaries, are subject to regulation and examination primarily by the Office of the Comptroller of the Currency (OCC) and also by the Federal Deposit Insurance Corporation (FDIC), the FRB, the Consumer Financial Protection Bureau (CFPB), the SEC and the Commodities Futures Trading Commission (CFTC"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Parent Bank Holding Company"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Parent Bank Holding Company Activities"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Prior FRB approval is required before we may acquire the beneficial ownership or control of more than 5% of the voting shares or substantially all of the assets of a BHC, bank or savings association"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Prior notice to the FRB may be required, however, if the company to be acquired has total consolidated assets of $10 billion or more"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "REGULATION AND SUPERVISION"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S Treasury, determines to be financial in nature or incidental to such financial activity"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S branches, subsidiaries, and offices of our subsidiary national banks are subject to regulation and examination by their respective financial regulators as well as by the OCC and the FRB"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S countries in which they conduct business or operate"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S financial services companies conduct business and may continue to result in increased regulatory compliance costs"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S governments and financial regulators, and a change in them, including changes in how they are interpreted or implemented, could have a material effect on our business"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Statutes, regulations, and policies could restrict our ability to diversify into other areas of financial services, make acquisitions, and pay dividends or repurchase our capital stock"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Subsidiary Banks"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The Parent is also subject to the disclosure and regulatory requirements of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, both as administered by the SEC"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The U S"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The financial services industry is also becoming more competitive as further technological advances enable more companies to provide financial products and services, including electronic and internet-based financial solutions such as electronic securities trading, lending and payment solutions, as well as digital currencies and alternative payment methods"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The following describes the material elements of the regulatory framework applicable to us and the more significant regulations and regulatory oversight initiatives that have affected or may affect our business"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The non-U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The regulatory framework applicable to depository institutions and bank holding companies (BHCs) is intended to protect depositors, the federal deposit insurance fund, consumers and the banking system as a whole, and not necessarily investors in BHCs such as the Company"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "These technological advances may diminish the importance of depository institutions and other financial intermediaries in the transfer of funds between parties"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "They may also require us to provide financial support to one or more of our subsidiary banks, maintain capital in excess of amounts desired by management, and pay higher deposit insurance premiums as a result of assessments or a general deterioration in the financial condition of depository institutions"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "This regulation and oversight may continue to impact how U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Until corrected, the FHC could be prohibited from engaging in any new financial activity or 2"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We are also subject to prohibitions on our ability to merge, acquire all or substantially all of the assets of, or acquire control of another company if our total resulting consolidated liabilities would exceed 10% of the aggregate consolidated liabilities of all financial companies"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We became a financial holding company (FHC) effective March 13, 2000. We continue to maintain our status as a BHC for purposes of various FRB regulations"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "financial services industry is subject to significant regulation and regulatory oversight initiatives"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "operations of our national bank subsidiaries may be subject to the laws and regulations of the countries in which they conduct business"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "significantly change the competitive environment in which we conduct business"
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "significantly change the competitive environment in which we conduct business.",
+      "after": "The financial services industry is also becoming more competitive as further technological advances enable more companies to provide financial products and services, including electronic and internet-based financial solutions such as electronic securities trading, lending and payment solutions, as well as digital currencies and alternative payment methods.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The financial services industry is also becoming more competitive as further technological advances enable more companies to provide financial products and services, including electronic and internet-based financial solutions such as electronic securities trading, lending and payment solutions, as well as digital currencies and alternative payment methods.",
+      "after": "These technological advances may diminish the importance of depository institutions and other financial intermediaries in the transfer of funds between parties.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "These technological advances may diminish the importance of depository institutions and other financial intermediaries in the transfer of funds between parties.",
+      "after": "REGULATION AND SUPERVISION",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "REGULATION AND SUPERVISION",
+      "after": "The U.S. financial services industry is subject to significant regulation and regulatory oversight initiatives.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The U.S. financial services industry is subject to significant regulation and regulatory oversight initiatives.",
+      "after": "This regulation and oversight may continue to impact how U.S. financial services companies conduct business and may continue to result in increased regulatory compliance costs.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "This regulation and oversight may continue to impact how U.S. financial services companies conduct business and may continue to result in increased regulatory compliance costs.",
+      "after": "Banking statutes, regulations and policies are continually under review by Congress and state legislatures and federal and state regulatory agencies, as well as non-U.S. governments and financial regulators, and a change in them, including changes in how they are interpreted or implemented, could have a material effect on our business.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Banking statutes, regulations and policies are continually under review by Congress and state legislatures and federal and state regulatory agencies, as well as non-U.S. governments and financial regulators, and a change in them, including changes in how they are interpreted or implemented, could have a material effect on our business.",
+      "after": "The regulatory framework applicable to depository institutions and bank holding companies (BHCs) is intended to protect depositors, the federal deposit insurance fund, consumers and the banking system as a whole, and not necessarily investors in BHCs such as the Company.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The regulatory framework applicable to depository institutions and bank holding companies (BHCs) is intended to protect depositors, the federal deposit insurance fund, consumers and the banking system as a whole, and not necessarily investors in BHCs such as the Company.",
+      "after": "Statutes, regulations, and policies could restrict our ability to diversify into other areas of financial services, make acquisitions, and pay dividends or repurchase our capital stock.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Statutes, regulations, and policies could restrict our ability to diversify into other areas of financial services, make acquisitions, and pay dividends or repurchase our capital stock.",
+      "after": "They may also require us to provide financial support to one or more of our subsidiary banks, maintain capital in excess of amounts desired by management, and pay higher deposit insurance premiums as a result of assessments or a general deterioration in the financial condition of depository institutions.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "They may also require us to provide financial support to one or more of our subsidiary banks, maintain capital in excess of amounts desired by management, and pay higher deposit insurance premiums as a result of assessments or a general deterioration in the financial condition of depository institutions.",
+      "after": "The following describes the material elements of the regulatory framework applicable to us and the more significant regulations and regulatory oversight initiatives that have affected or may affect our business.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The following describes the material elements of the regulatory framework applicable to us and the more significant regulations and regulatory oversight initiatives that have affected or may affect our business.",
+      "after": "For additional information about the regulatory matters discussed below and other regulations and regulatory oversight matters, see the \"Overview,\" \"Capital Management,\" \"Forward-Looking Statements\" and \"Risk Factors\" sections and Note 26 (Regulatory Capital Requirements and Other Restrictions) to Financial Statements in the 2024 Annual Report to Shareholders.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "For additional information about the regulatory matters discussed below and other regulations and regulatory oversight matters, see the \"Overview,\" \"Capital Management,\" \"Forward-Looking Statements\" and \"Risk Factors\" sections and Note 26 (Regulatory Capital Requirements and Other Restrictions) to Financial Statements in the 2024 Annual Report to Shareholders.",
+      "after": "Parent Bank Holding Company.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Parent Bank Holding Company.",
+      "after": "As a BHC, the Parent is subject to regulation under the BHC Act and to inspection, examination and supervision by its primary regulator, the Board of Governors of the Federal Reserve System (Federal Reserve Board or FRB).",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "As a BHC, the Parent is subject to regulation under the BHC Act and to inspection, examination and supervision by its primary regulator, the Board of Governors of the Federal Reserve System (Federal Reserve Board or FRB).",
+      "after": "The Parent is also subject to the disclosure and regulatory requirements of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, both as administered by the SEC.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The Parent is also subject to the disclosure and regulatory requirements of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, both as administered by the SEC.",
+      "after": "As a company with securities listed on the New York Stock Exchange (NYSE), the Parent is subject to the rules of the NYSE for listed companies.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "As a company with securities listed on the New York Stock Exchange (NYSE), the Parent is subject to the rules of the NYSE for listed companies.",
+      "after": "Our subsidiary national banks, and their subsidiaries, are subject to regulation and examination primarily by the Office of the Comptroller of the Currency (OCC) and also by the Federal Deposit Insurance Corporation (FDIC), the FRB, the Consumer Financial Protection Bureau (CFPB), the SEC and the Commodities Futures Trading Commission (CFTC).",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our subsidiary national banks, and their subsidiaries, are subject to regulation and examination primarily by the Office of the Comptroller of the Currency (OCC) and also by the Federal Deposit Insurance Corporation (FDIC), the FRB, the Consumer Financial Protection Bureau (CFPB), the SEC and the Commodities Futures Trading Commission (CFTC).",
+      "after": "The non-U.S. branches, subsidiaries, and offices of our subsidiary national banks are subject to regulation and examination by their respective financial regulators as well as by the OCC and the FRB.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The non-U.S. branches, subsidiaries, and offices of our subsidiary national banks are subject to regulation and examination by their respective financial regulators as well as by the OCC and the FRB.",
+      "after": "Non-U.S. operations of our national bank subsidiaries may be subject to the laws and regulations of the countries in which they conduct business.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Non-U.S. operations of our national bank subsidiaries may be subject to the laws and regulations of the countries in which they conduct business.",
+      "after": "Nonbank Subsidiaries.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Nonbank Subsidiaries.",
+      "after": "Many of our nonbank subsidiaries are also subject to regulation by the FRB and other applicable federal and state agencies.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Many of our nonbank subsidiaries are also subject to regulation by the FRB and other applicable federal and state agencies.",
+      "after": "Our insurance subsidiaries are subject to regulation by applicable state insurance regulatory agencies, as well as the FRB.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our insurance subsidiaries are subject to regulation by applicable state insurance regulatory agencies, as well as the FRB.",
+      "after": "Our brokerage subsidiaries are regulated by the SEC, the Financial Industry Regulatory Authority (FINRA) and, in some cases, the CFTC and the Municipal Securities Rulemaking Board, and state securities regulators.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our brokerage subsidiaries are regulated by the SEC, the Financial Industry Regulatory Authority (FINRA) and, in some cases, the CFTC and the Municipal Securities Rulemaking Board, and state securities regulators.",
+      "after": "Our other nonbank subsidiaries may be subject to the laws and regulations of the federal government and/or the various states as well as non-U.S. countries in which they conduct business or operate.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our other nonbank subsidiaries may be subject to the laws and regulations of the federal government and/or the various states as well as non-U.S. countries in which they conduct business or operate.",
+      "after": "Parent Bank Holding Company Activities",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Parent Bank Holding Company Activities",
+      "after": "\"Financial in Nature\" Requirement.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "\"Financial in Nature\" Requirement.",
+      "after": "We became a financial holding company (FHC) effective March 13, 2000.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We became a financial holding company (FHC) effective March 13, 2000.",
+      "after": "We continue to maintain our status as a BHC for purposes of various FRB regulations.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We continue to maintain our status as a BHC for purposes of various FRB regulations.",
+      "after": "As a BHC that has elected to be treated as an FHC pursuant to the BHC Act, we may affiliate with securities firms and insurance companies and engage in other activities that are financial in nature or incidental or complementary to activities that are financial in nature.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "As a BHC that has elected to be treated as an FHC pursuant to the BHC Act, we may affiliate with securities firms and insurance companies and engage in other activities that are financial in nature or incidental or complementary to activities that are financial in nature.",
+      "after": "\"Financial in nature\" activities include securities underwriting, dealing, and market making; sponsoring mutual funds and investment companies; insurance underwriting and agency; merchant banking; and activities that the FRB, in consultation with the Secretary of the U.S.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "\"Financial in nature\" activities include securities underwriting, dealing, and market making; sponsoring mutual funds and investment companies; insurance underwriting and agency; merchant banking; and activities that the FRB, in consultation with the Secretary of the U.S.",
+      "after": "Treasury, determines to be financial in nature or incidental to such financial activity.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Treasury, determines to be financial in nature or incidental to such financial activity.",
+      "after": "\"Complementary activities\" are activities that the FRB determines upon application to be complementary to a financial activity and do not pose a safety and soundness risk.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "\"Complementary activities\" are activities that the FRB determines upon application to be complementary to a financial activity and do not pose a safety and soundness risk.",
+      "after": "Financial in nature activities and incidental or complementary activities are collectively referred to below as \"financial activities\".",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Financial in nature activities and incidental or complementary activities are collectively referred to below as \"financial activities\".",
+      "after": "FRB approval is generally not required for us to acquire a company (other than a BHC, bank or savings association) engaged in financial activities, as determined by the FRB.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "FRB approval is generally not required for us to acquire a company (other than a BHC, bank or savings association) engaged in financial activities, as determined by the FRB.",
+      "after": "Prior notice to the FRB may be required, however, if the company to be acquired has total consolidated assets of $10 billion or more.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Prior notice to the FRB may be required, however, if the company to be acquired has total consolidated assets of $10 billion or more.",
+      "after": "Prior FRB approval is required before we may acquire the beneficial ownership or control of more than 5% of the voting shares or substantially all of the assets of a BHC, bank or savings association.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Prior FRB approval is required before we may acquire the beneficial ownership or control of more than 5% of the voting shares or substantially all of the assets of a BHC, bank or savings association.",
+      "after": "We are also subject to prohibitions on our ability to merge, acquire all or substantially all of the assets of, or acquire control of another company if our total resulting consolidated liabilities would exceed 10% of the aggregate consolidated liabilities of all financial companies.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We are also subject to prohibitions on our ability to merge, acquire all or substantially all of the assets of, or acquire control of another company if our total resulting consolidated liabilities would exceed 10% of the aggregate consolidated liabilities of all financial companies.",
+      "after": "Because we are an FHC, if any of our applicable subsidiary banks receives a rating under the Community Reinvestment Act of 1977, as amended (CRA), of less than satisfactory, we will be prohibited, until the rating is raised to satisfactory or better, from engaging in certain new financial activities or acquiring certain companies engaged in financial activities.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Because we are an FHC, if any of our applicable subsidiary banks receives a rating under the Community Reinvestment Act of 1977, as amended (CRA), of less than satisfactory, we will be prohibited, until the rating is raised to satisfactory or better, from engaging in certain new financial activities or acquiring certain companies engaged in financial activities.",
+      "after": "CRA performance is also considered by regulators in reviewing applications to establish bank branches.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "CRA performance is also considered by regulators in reviewing applications to establish bank branches.",
+      "after": "In addition, if the FRB finds that an FHC or any one of its subsidiary banks is not well capitalized or well managed, the FHC would be required to enter into an agreement with the FRB to comply with all applicable capital and management requirements and which may contain additional limitations or conditions.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "In addition, if the FRB finds that an FHC or any one of its subsidiary banks is not well capitalized or well managed, the FHC would be required to enter into an agreement with the FRB to comply with all applicable capital and management requirements and which may contain additional limitations or conditions.",
+      "after": "Until corrected, the FHC could be prohibited from engaging in any new financial activity or",
+      "max_diffs": 0
+    },
+    {
+      "type": "is_title",
+      "text": "REGULATION AND SUPERVISION",
+      "level": 2
+    },
+    {
+      "type": "is_title",
+      "text": "General",
+      "level": 3
+    },
+    {
+      "type": "is_title",
+      "text": "Parent Bank Holding Company Activities",
+      "level": 3
+    },
+    {
+      "type": "title_hierarchy_percent",
+      "title_hierarchy": {
+        "REGULATION AND SUPERVISION": {
+          "General": {},
+          "Parent Bank Holding Company Activities": {}
+        }
+      }
+    },
+    {
+      "type": "is_bold",
+      "text": "Parent Bank Holding Company."
+    },
+    {
+      "type": "is_italic",
+      "text": "Parent Bank Holding Company."
+    },
+    {
+      "type": "is_bold",
+      "text": "Subsidiary Banks."
+    },
+    {
+      "type": "is_italic",
+      "text": "Subsidiary Banks."
+    },
+    {
+      "type": "is_bold",
+      "text": "Nonbank Subsidiaries."
+    },
+    {
+      "type": "is_italic",
+      "text": "Nonbank Subsidiaries."
+    },
+    {
+      "type": "is_bold",
+      "text": "\"Financial in Nature\" Requirement."
+    },
+    {
+      "type": "is_italic",
+      "text": "\"Financial in Nature\" Requirement."
+    },
+    {
+      "type": "is_footer",
+      "text": "<page_number>2</page_number>"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "ground_truth_revision": {
+      "revision": "text-gt-f0-20261105-r2",
+      "source_dataset": "text_extended/v1.4",
+      "target_dataset": "text_extended/v1.4",
+      "source_sidecar_sha256": "5777830efd35df061d995130965ac20a90b10b5f4d612cc9cef3cde4cfd3301e",
+      "source_pdf_sha256": "a4a6ad03465d0d04ada6260e0637ca0d7a294750c3ac384e84b10ee817435973"
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/text.jsonl",
+    "parsebench_document": "text/text_multicolumns__10k2col.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231.htm",
+      "accession": "0000072971-25-000066",
+      "provider": "datamulehub",
+      "sha256": "4d31aa1e4667ab71837b98d1391aa593d3d42d591cda0b4ee675b7714f7a3703",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 1201198,
+        "byte_end_exclusive": 1212446,
+        "page_fragment_index_0based": 2
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "a4a6ad03465d0d04ada6260e0637ca0d7a294750c3ac384e84b10ee817435973",
+    "input_sha256": "640e753bc313f9c91d128e80d1d6a7c8fabead50f5f6724b57c6605929e8d25f"
+  },
+  "tags": [
+    "easy"
+  ]
+}

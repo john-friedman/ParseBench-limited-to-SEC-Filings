@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/marsh-2026-08-14_page2",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "**<u>Investing Cash Flows</u>**\n\nNet cash used for investing activities amounted to $845 million in 2025, compared with $8.8 billion used for investing activities in 2024.\n\nThe Company paid $652 million and $8.5 billion, net of cash, cash equivalents and cash and cash equivalents held in a fiduciary capacity acquired, for acquisitions in 2025 and 2024, respectively. The outflow of funds in 2025 related primarily to the acquisition of the three Hawaii-based insurance brokerages, Atlas Insurance Agency, Inc., Pyramid Insurance Centre, Ltd., and NMF Insurance, Inc., for $324 million. The outflow of funds in 2024 related primarily to the acquisition of McGriff, where the Company paid $7.0 billion in cash consideration. The remaining outflow of funds in 2024 related primarily to the acquisitions of Cardano, the Horton Group, and Fisher Brown Bottrell Insurance Inc., for $466 million, $384 million and $321 million, respectively.\n\nIn the first quarter of 2025, the Company sold Marsh McLennan Agency's (\"MMA\") Technology Consulting and Administrative Solutions (\"TCAS\") business for approximately $25 million, and recorded a gain of $15 million, which is included in revenue in the consolidated statements of income.\n\nIn 2024, the Company received cash proceeds from dispositions of $135 million, partially offset by $46 million primarily related to cash and cash equivalents held in fiduciary capacity in the disposed businesses. The Company sold its Mercer U.K. pension administration and U.S. health and benefits administration businesses on January 1, 2024, for approximately $120 million, comprised of cash proceeds of $30 million and deferred consideration of $90 million. The Company received $78 million of deferred consideration in 2024.\n\nThe Company’s additions to fixed assets and capitalized software amounted to $291 million and $316 million in 2025 and 2024, respectively, related primarily to software development costs, the refurbishing and modernizing of office facilities, and technology equipment purchases.\n\nCash from the sale of long-term investments in 2025 is primarily due to the disposal of an investment in a unit trust fund, which was acquired in 2024.\n\nCash used for long-term investments in 2025 is due to investments in private equity funds. At December 31, 2025, the Company has commitments for potential future investments of approximately $101 million in private equity funds that invest primarily in financial services companies.\n\n**Commitments and Obligations**\n\nThe following sets forth the Company’s future contractual obligations by type at December 31, 2025:\n\n<table>\n<thead>\n<tr>\n<th></th>\n<th></th>\n<th colspan=\"4\">Payment due by Period</th>\n</tr>\n<tr>\n<th><i>(In millions)</i></th>\n<th>Total</th>\n<th>Within 1 Year</th>\n<th>1-3 Years</th>\n<th>4-5 Years</th>\n<th>After 5 Years</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Current portion of long-term debt</td>\n<td>$ 1,267</td>\n<td>$ 1,267</td>\n<td>$ —</td>\n<td>$ —</td>\n<td>$ —</td>\n</tr>\n<tr>\n<td>Long-term debt</td>\n<td>18,477</td>\n<td>—</td>\n<td>1,292</td>\n<td>3,945</td>\n<td>13,240</td>\n</tr>\n<tr>\n<td>Interest on long-term debt</td>\n<td>12,988</td>\n<td>893</td>\n<td>1,686</td>\n<td>1,502</td>\n<td>8,907</td>\n</tr>\n<tr>\n<td>Net operating leases</td>\n<td>2,118</td>\n<td>393</td>\n<td>640</td>\n<td>432</td>\n<td>653</td>\n</tr>\n<tr>\n<td>Service agreements</td>\n<td>679</td>\n<td>338</td>\n<td>213</td>\n<td>128</td>\n<td>—</td>\n</tr>\n<tr>\n<td>Other long-term obligations (a)</td>\n<td>538</td>\n<td>241</td>\n<td>227</td>\n<td>69</td>\n<td>1</td>\n</tr>\n<tr>\n<td>Tota</td>\n<td>$ 36,067</td>\n<td>$ 3,132</td>\n<td>$ 4,058</td>\n<td>$ 6,076</td>\n<td>$ 22,801</td>\n</tr>\n</tbody>\n</table>\n\n(a) Primarily reflects future payments of deferred and contingent purchase consideration.\n\nThe table does not include the liability for unrecognized tax benefits of $109 million as the Company is unable to reasonably predict the timing of settlement of these liabilities, other than approximately $59 million that may become payable within one year. The table also does not include the remaining transitional tax payments related to the Tax Cuts and Jobs Act (the \"TCJA\") of $13 million, which will be paid in 2026.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "marsh.pdf",
+    "source_sha256": "5573b9782e413cb5f7e228a96945f1ebdd21f328a099965615f0a044b37a2d28",
+    "annotated_at": "2026-08-14T02:25:12.806Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/marsh-2026-08-14_page2.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312526133308/d28844dars.pdf",
+      "accession": "0001193125-26-133308",
+      "provider": "datamulehub",
+      "sha256": "aa0b4a9c339728a94fb52f4109b94149aebbf664b80dd889514d5102d63e0939",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 68,
+        "source_page_count": 158
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "5573b9782e413cb5f7e228a96945f1ebdd21f328a099965615f0a044b37a2d28",
+    "input_sha256": "e72b2fd3de4200204ee418f4aaf3829850b3cdc07c2f88c839055f1a5e38aad3"
+  },
+  "tags": []
+}

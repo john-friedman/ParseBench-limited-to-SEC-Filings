@@ -1,0 +1,89 @@
+{
+  "id": "complex_table_headers/complex_header_055",
+  "document": "sec_input.html",
+  "expected_markdown": "<p>Consolidated Overview</p><table>\n<thead>\n\n<tr>\n<th>(In thousands, except earnings per share)</th>\n<th colspan=\"2\">For the Three Months Ended March 31,</th>\n<th> </th>\n</tr>\n<tr>\n<th> </th>\n<th>2026</th>\n<th>2025</th>\n<th>%</th>\n</tr>\n<tr>\n<th><u>U.S. GAAP Basis</u></th>\n<th> </th>\n<th> </th>\n<th> </th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Revenues</td>\n<td>$622,183</td>\n<td>$551,344</td>\n<td>13%</td>\n</tr>\n<tr>\n<td>Income from operations</td>\n<td>189,486</td>\n<td>157,097</td>\n<td>21%</td>\n</tr>\n<tr>\n<td>Operating margin</td>\n<td>30%</td>\n<td>28%</td>\n<td>7%</td>\n</tr>\n<tr>\n<td>Net income attributable to SEI Investments</td>\n<td>174,487</td>\n<td>151,517</td>\n<td>15%</td>\n</tr>\n<tr>\n<td>Diluted earnings per share</td>\n<td>$1.40</td>\n<td>$1.17</td>\n<td>20%</td>\n</tr>\n<tr>\n<th><u>Non-GAAP Basis<sup>(1)</sup></u></th>\n<th> </th>\n<th> </th>\n<th> </th>\n</tr>\n<tr>\n<td>Adjusted income from operations</td>\n<td>$198,683</td>\n<td>$160,546</td>\n<td>24%</td>\n</tr>\n<tr>\n<td>Adjusted diluted earnings per share</td>\n<td>$1.44</td>\n<td>$1.19</td>\n<td>21%</td>\n</tr>\n<tr>\n<td>Adjusted operating margin</td>\n<td>32%</td>\n<td>29%</td>\n<td>10%</td>\n</tr>\n</tbody>\n</table>",
+  "test_rules": [
+    {
+      "id": "complex_header_colspan_e5980fc88d33",
+      "page": 1,
+      "type": "table_colspan",
+      "cell": "for the three months ended march 31,",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "net income attributable to sei investments",
+        "(in thousands, except earnings per share)",
+        "for the three months ended march 31,"
+      ],
+      "pdf": "complex_header_055.pdf"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$622,183",
+      "column_headers": [
+        "For the Three Months Ended March 31,",
+        "2026"
+      ],
+      "table_anchor_cells": [
+        "net income attributable to sei investments",
+        "(in thousands, except earnings per share)",
+        "for the three months ended march 31,"
+      ],
+      "page": 1,
+      "pdf": "complex_header_055.pdf",
+      "verified": true,
+      "id": "audit_v03_134b4f90803a7d2f"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$551,344",
+      "column_headers": [
+        "For the Three Months Ended March 31,",
+        "2025"
+      ],
+      "table_anchor_cells": [
+        "net income attributable to sei investments",
+        "(in thousands, except earnings per share)",
+        "for the three months ended march 31,"
+      ],
+      "page": 1,
+      "pdf": "complex_header_055.pdf",
+      "verified": true,
+      "id": "audit_v03_649d407a0faa8b6a"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "13%",
+      "column_headers": [
+        "%"
+      ],
+      "table_anchor_cells": [
+        "net income attributable to sei investments",
+        "(in thousands, except earnings per share)",
+        "for the three months ended march 31,"
+      ],
+      "page": 1,
+      "pdf": "complex_header_055.pdf",
+      "verified": true,
+      "id": "audit_v03_ba4f9275131205a1"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/complex_table_headers.jsonl",
+    "parsebench_document": "complex_table_headers/complex_header_055.pdf",
+    "sec_url": "https://www.sec.gov/Archives/edgar/data/350894/000035089426000026/seic-earningsreleaseex9910.htm",
+    "accession": "0000350894-26-000026",
+    "provider": "datamulehub",
+    "source_sha256": "4e471e62f00a5f5a6790f1fade4bd49ee662c69cfd1fea081d0e3f3aaaf9630f",
+    "input_sha256": "f7934859995557c5fd9acd69a65cc45a6e9c93a2a4505f8d761c41844a08035e",
+    "extraction": {
+      "unit": "table",
+      "table_index_0based": 0,
+      "byte_start": 1540,
+      "byte_end_exclusive": 22999
+    },
+    "primary_metric": "table_next",
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "032411116331aa4846b1f55ea660db1f8aaae19cae1409cfceb72475bec98a4e"
+  }
+}

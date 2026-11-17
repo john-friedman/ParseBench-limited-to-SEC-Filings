@@ -1,0 +1,70 @@
+{
+  "id": "headings/case-0035-f8736caef1a2",
+  "subset": "headings",
+  "dimension": "formatting",
+  "document": "sec_input.html",
+  "expected_markdown": null,
+  "test_rules": [
+    {
+      "type": "heading_structure",
+      "id": "case-0035-f8736caef1a2:heading-structure-001",
+      "page": 1,
+      "headings": [
+        {
+          "text": "Reconciliations of non-GAAP financial measures",
+          "level": 2
+        },
+        {
+          "text": "Adjusted EBITDA reconciliation",
+          "level": 3
+        }
+      ],
+      "tags": [
+        "heading-structure",
+        "financial",
+        "full-document-reviewed"
+      ]
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "q4-2025-earnings-release (1).pdf",
+    "source_sha256": "f8736caef1a22debf6e7a56e4ba4333d74014af2f1ebb89603886625313bc054",
+    "source_page": 27,
+    "source_page_count": 33,
+    "cohort": "financial",
+    "annotation_evidence": [
+      "target_page_raster",
+      "adjacent_page_context",
+      "full_document_outline"
+    ],
+    "scoring": "next",
+    "primary_metric": "formatting_v2",
+    "headline": "feature",
+    "headline_reason": "complete page heading list (heading_structure rule)",
+    "next_version": "v0.4",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/headings.jsonl",
+    "parsebench_document": "headings/case-0035-f8736caef1a2.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1635327/000119312526076569/d763070dex991.htm",
+      "accession": "0001193125-26-076569",
+      "provider": "datamulehub",
+      "sha256": "afdedadd94dd3a5746eb10e0b057b1913482ab195933e67c50245c38f83f6c23",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 379466,
+        "byte_end_exclusive": 400203,
+        "page_fragment_index_0based": 26
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "e6f52fab2a1cc5939c0d550abd5006a7c7fd0e1cb3da3059e6b262be4cf246ff",
+    "input_sha256": "9080e3aa73a5d8d4cdac3fcac92df8459d6f5a3b1f53a8775dd731bb7ab7accd"
+  },
+  "tags": [
+    "heading-structure",
+    "financial",
+    "full-document-reviewed"
+  ]
+}

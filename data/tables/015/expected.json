@@ -1,0 +1,35 @@
+{
+  "id": "tables/Apple 10-k_page76",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <thead>\n      <tr>\n        <td class=\"\"></td>\n        <th>Jurisdiction<br>of Incorporation</th>\n    </tr>\n      </thead>\n      <tbody>\n<tr>\n        <td>Apple Asia Limited</td>\n<td>Hong Kong</td>\n    </tr>\n<tr>\n        <td>Apple Asia LLC</td>\n<td>Delaware, U.S.</td>\n    </tr>\n<tr>\n        <td>Apple Canada Inc.</td>\n<td>Canada</td>\n    </tr>\n<tr>\n        <td>Apple Computer Trading (Shanghai) Co., Ltd.</td>\n<td>China</td>\n    </tr>\n<tr>\n        <td>Apple Distribution International Limited</td>\n<td>Ireland</td>\n    </tr>\n<tr>\n        <td>Apple India Private Limited</td>\n<td>India</td>\n    </tr>\n<tr>\n        <td>Apple Insurance Company, Inc.</td>\n<td>Arizona, U.S.</td>\n    </tr>\n<tr>\n        <td>Apple Japan, Inc.</td>\n<td>Japan</td>\n    </tr>\n<tr>\n        <td>Apple Korea Limited</td>\n<td>South Korea</td>\n    </tr>\n<tr>\n        <td>Apple Operations International Limited</td>\n<td>Ireland</td>\n    </tr>\n<tr>\n        <td>Apple Operations Limited</td>\n<td>Ireland</td>\n    </tr>\n<tr>\n        <td>Apple Operations Mexico, S.A. de C.V.</td>\n<td>Mexico</td>\n    </tr>\n<tr>\n        <td>Apple Pty Limited</td>\n<td>Australia</td>\n    </tr>\n<tr>\n        <td>Apple Services Pte. Ltd.</td>\n<td>Singapore</td>\n    </tr>\n<tr>\n        <td>Apple South Asia (Thailand) Limited</td>\n<td>Thailand</td>\n    </tr>\n<tr>\n        <td>Apple South Asia Pte. Ltd.</td>\n<td>Singapore</td>\n    </tr>\n<tr>\n        <td>Apple Vietnam Limited Liability Company</td>\n<td>Vietnam</td>\n    </tr>\n<tr>\n        <td>Braeburn Capital, Inc.</td>\n<td>Nevada, U.S.</td>\n    </tr>\n<tr>\n        <td>iTunes K.K.</td>\n<td>Japan</td>\n    </tr>\n      </tbody>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Apple 10-k_page76.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/a10-kexhibit21109272025.htm",
+      "accession": "0000320193-25-000079",
+      "provider": "datamulehub",
+      "sha256": "68cf5748279207f045a6ca659dea912fb44f92e9de6e9ec9dad9f9a4e654fb2d",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 0,
+            "byte_start": 845,
+            "byte_end_exclusive": 10877
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "7ec35fa166aeea5e7df914cff8ec83d8e8e708d3761127eb785630cae4bd4481",
+    "input_sha256": "af953a560262b436334837561da2ed425da369728e4c4f0fc468d72072c17c4f"
+  },
+  "tags": []
+}

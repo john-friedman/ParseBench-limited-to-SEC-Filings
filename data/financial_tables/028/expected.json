@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/Q3-2025-GAAP-and-Non-GAAP-Earnings-Tables-2026-08-13_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "**ADVANCED MICRO DEVICES, INC.**\n\n**CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS**\n\n**(Millions except per share amounts and percentages) (Unaudited)**\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"3\">Three Months Ended</th>\n      <th colspan=\"2\">Nine Months Ended</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>September 27, 2025</th>\n      <th>June 28, 2025</th>\n      <th>September 28, 2024</th>\n      <th>September 27, 2025</th>\n      <th>September 28, 2024</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Net revenue</td>\n      <td>$ 9,246</td>\n      <td>$ 7,685</td>\n      <td>$ 6,819</td>\n      <td>$ 24,369</td>\n      <td>$ 18,127</td>\n    </tr>\n    <tr>\n      <td>Cost of sales</td>\n      <td>4,206</td>\n      <td>4,366</td>\n      <td>3,167</td>\n      <td>12,023</td>\n      <td>8,590</td>\n    </tr>\n    <tr>\n      <td>Amortization of acquisition-related intangibles</td>\n      <td>260</td>\n      <td>260</td>\n      <td>233</td>\n      <td>771</td>\n      <td>694</td>\n    </tr>\n    <tr>\n      <td>Total cost of sales</td>\n      <td>4,466</td>\n      <td>4,626</td>\n      <td>3,400</td>\n      <td>12,794</td>\n      <td>9,284</td>\n    </tr>\n    <tr>\n      <td>Gross profit</td>\n      <td>4,780</td>\n      <td>3,059</td>\n      <td>3,419</td>\n      <td>11,575</td>\n      <td>8,843</td>\n    </tr>\n    <tr>\n      <td>Gross margin</td>\n      <td>52%</td>\n      <td>40%</td>\n      <td>50%</td>\n      <td>47%</td>\n      <td>49%</td>\n    </tr>\n    <tr>\n      <td>Research and development</td>\n      <td>2,139</td>\n      <td>1,894</td>\n      <td>1,636</td>\n      <td>5,761</td>\n      <td>4,744</td>\n    </tr>\n    <tr>\n      <td>Marketing, general and administrative</td>\n      <td>1,069</td>\n      <td>991</td>\n      <td>707</td>\n      <td>2,946</td>\n      <td>1,954</td>\n    </tr>\n    <tr>\n      <td>Amortization of acquisition-related intangibles</td>\n      <td>302</td>\n      <td>308</td>\n      <td>352</td>\n      <td>926</td>\n      <td>1,116</td>\n    </tr>\n    <tr>\n      <td>Total operating expenses</td>\n      <td>3,510</td>\n      <td>3,193</td>\n      <td>2,695</td>\n      <td>9,633</td>\n      <td>7,814</td>\n    </tr>\n    <tr>\n      <td>Operating income (loss)</td>\n      <td>1,270</td>\n      <td>(134)</td>\n      <td>724</td>\n      <td>1,942</td>\n      <td>1,029</td>\n    </tr>\n    <tr>\n      <td>Interest expense</td>\n      <td>(37)</td>\n      <td>(38)</td>\n      <td>(23)</td>\n      <td>(95)</td>\n      <td>(73)</td>\n    </tr>\n    <tr>\n      <td>Other income (expense), net</td>\n      <td>82</td>\n      <td>98</td>\n      <td>36</td>\n      <td>219</td>\n      <td>144</td>\n    </tr>\n    <tr>\n      <td>Income from continuing operations before income taxes and equity income</td>\n      <td>1,315</td>\n      <td>(74)</td>\n      <td>737</td>\n      <td>2,066</td>\n      <td>1,100</td>\n    </tr>\n    <tr>\n      <td>Income tax provision (benefit)</td>\n      <td>153</td>\n      <td>(834)</td>\n      <td>(27)</td>\n      <td>(558)</td>\n      <td>(38)</td>\n    </tr>\n    <tr>\n      <td>Equity income in investee</td>\n      <td>10</td>\n      <td>8</td>\n      <td>7</td>\n      <td>25</td>\n      <td>21</td>\n    </tr>\n    <tr>\n      <td>Income from continuing operations, net of tax</td>\n      <td>1,172</td>\n      <td>768</td>\n      <td>771</td>\n      <td>2,649</td>\n      <td>1,159</td>\n    </tr>\n    <tr>\n      <td>Income from discontinued operations, net of tax</td>\n      <td>71</td>\n      <td>104</td>\n      <td>-</td>\n      <td>175</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Net income</td>\n      <td>$ 1,243</td>\n      <td>$ 872</td>\n      <td>$ 771</td>\n      <td>$ 2,824</td>\n      <td>$ 1,159</td>\n    </tr>\n    <tr>\n      <td>Earnings per share:</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Earnings from continuing operations - basic</td>\n      <td>$ 0.72</td>\n      <td>$ 0.47</td>\n      <td>$ 0.48</td>\n      <td>$ 1.63</td>\n      <td>$ 0.72</td>\n    </tr>\n    <tr>\n      <td>Earnings from discontinued operations - basic</td>\n      <td>$ 0.04</td>\n      <td>$ 0.07</td>\n      <td>$ -</td>\n      <td>$ 0.11</td>\n      <td>$ -</td>\n    </tr>\n    <tr>\n      <td>Basic earnings per share</td>\n      <td>$ 0.76</td>\n      <td>$ 0.54</td>\n      <td>$ 0.48</td>\n      <td>$ 1.74</td>\n      <td>$ 0.72</td>\n    </tr>\n    <tr>\n      <td>Earnings from continuing operations - diluted</td>\n      <td>$ 0.71</td>\n      <td>$ 0.47</td>\n      <td>$ 0.47</td>\n      <td>$ 1.62</td>\n      <td>$ 0.71</td>\n    </tr>\n    <tr>\n      <td>Earnings from discontinued operations - diluted</td>\n      <td>$ 0.04</td>\n      <td>$ 0.07</td>\n      <td>$ -</td>\n      <td>$ 0.11</td>\n      <td>$ -</td>\n    </tr>\n    <tr>\n      <td>Diluted earnings per share</td>\n      <td>$ 0.75</td>\n      <td>$ 0.54</td>\n      <td>$ 0.47</td>\n      <td>$ 1.73</td>\n      <td>$ 0.71</td>\n    </tr>\n    <tr>\n      <td>Shares used in per share calculation</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Basic</td>\n      <td>1,626</td>\n      <td>1,623</td>\n      <td>1,620</td>\n      <td>1,623</td>\n      <td>1,619</td>\n    </tr>\n    <tr>\n      <td>Diluted</td>\n      <td>1,641</td>\n      <td>1,630</td>\n      <td>1,636</td>\n      <td>1,632</td>\n      <td>1,638</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Q3+2025+GAAP+and+Non-GAAP+Earnings+Tables_.pdf",
+    "source_sha256": "bcbc8b7197d35c584b759d674b0cbf7bc1a28e14b4a444f2065a2204ac80ee63",
+    "annotated_at": "2026-08-13T06:01:49.264Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Q3-2025-GAAP-and-Non-GAAP-Earnings-Tables-2026-08-13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000163/q32025991.htm",
+      "accession": "0000002488-25-000163",
+      "provider": "datamulehub",
+      "sha256": "6923b2589e90765e4d715f38a541a9d393b02289ac4971b8994329340f58b4b7",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 6,
+            "byte_start": 169949,
+            "byte_end_exclusive": 237969
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "bcbc8b7197d35c584b759d674b0cbf7bc1a28e14b4a444f2065a2204ac80ee63",
+    "input_sha256": "89316b021f312170613fbd0c47feaf074c9d94817577a0e80c952f6b5d6eff56"
+  },
+  "tags": []
+}

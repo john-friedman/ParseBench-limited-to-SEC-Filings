@@ -1,0 +1,459 @@
+{
+  "id": "dense_tables/dense_table_461",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES\n\n# Management's Discussion and Analysis\n\nOur results are influenced by a combination of interconnected drivers, including (i) client activity levels and transactional bid/offer spreads (collectively, client activity), and (ii) changes in the fair value of our inventory and interest income and interest expense related to the holding, hedging and funding of our inventory (collectively, market-making inventory changes). Due to the integrated nature of our market-making activities, disaggregation of net revenues into client activity and market-making inventory changes is judgmental and has inherent complexities and limitations.\n\nThe amount and composition of our net revenues vary over time as these drivers are impacted by multiple interrelated factors affecting economic and market conditions, including volatility and liquidity in the market, changes in interest rates, currency exchange rates, credit spreads, equity prices and commodity prices, investor confidence, and other macroeconomic concerns and uncertainties.\n\nIn general, assuming all other market-making conditions remain constant, increases in client activity levels or bid/offer spreads tend to result in increases in net revenues, and decreases tend to have the opposite effect. However, changes in market-making conditions can materially impact client activity levels and bid/offer spreads, as well as the fair value of our inventory. For example, a decrease in liquidity in the market could have the impact of (i) increasing our bid/offer spread, (ii) decreasing investor confidence and thereby decreasing client activity levels, and (iii) widening of credit spreads on our inventory positions.\n\n**Other.** We lend to corporate clients, including through relationship lending and acquisition financing. The hedges related to this lending and financing activity are also reported as part of Other. Other also includes equity and debt investing activities related to our Global Banking & Markets activities.\n\nThe table below presents our Global Banking & Markets assets.\n\n<table>\n<thead>\n<tr><th></th><th colspan=\"2\">As of December</th></tr>\n<tr><th>$ in millions</th><th>2024</th><th>2023</th></tr>\n</thead>\n<tbody>\n<tr><td>Cash and cash equivalents</td><td>$ 129,687</td><td>$ 168,857</td></tr>\n<tr><td>Collateralized agreements</td><td>356,637</td><td>401,554</td></tr>\n<tr><td>Customer and other receivables</td><td>113,646</td><td>117,633</td></tr>\n<tr><td>Trading assets</td><td>508,379</td><td>435,275</td></tr>\n<tr><td>Investments</td><td>161,381</td><td>122,350</td></tr>\n<tr><td>Loans</td><td>130,670</td><td>117,464</td></tr>\n<tr><td>Other assets</td><td>19,742</td><td>18,114</td></tr>\n<tr><td>Total</td><td>$ 1,420,142</td><td>$ 1,381,247</td></tr>\n</tbody>\n</table>\n\nThe table below presents details about our Global Banking & Markets loans.\n\n<table>\n<thead>\n<tr><th></th><th colspan=\"2\">As of December</th></tr>\n<tr><th>$ in millions</th><th>2024</th><th>2023</th></tr>\n</thead>\n<tbody>\n<tr><td>Corporate</td><td>$ 22,595</td><td>$ 24,159</td></tr>\n<tr><td>Real estate</td><td>37,705</td><td>34,813</td></tr>\n<tr><td>Securities-based</td><td>4,279</td><td>3,758</td></tr>\n<tr><td>Other collateralized</td><td>67,080</td><td>55,527</td></tr>\n<tr><td>Installment</td><td>70</td><td>173</td></tr>\n<tr><td>Other</td><td>128</td><td>475</td></tr>\n<tr><td>Loans, gross</td><td>131,857</td><td>118,905</td></tr>\n<tr><td>Allowance for loan losses</td><td>(1,187)</td><td>(1,441)</td></tr>\n<tr><td>Total loans</td><td>$ 130,670</td><td>$ 117,464</td></tr>\n</tbody>\n</table>\n\nOur average Global Banking & Markets gross loans were $126.87 billion for 2024 and $112.07 billion for 2023.\n\nThe table below presents our Global Banking & Markets operating results.\n\n<table>\n<thead>\n<tr><th></th><th colspan=\"3\">Year Ended December</th></tr>\n<tr><th>$ in millions</th><th>2024</th><th>2023</th><th>2022</th></tr>\n</thead>\n<tbody>\n<tr><td>Advisory</td><td>$ 3,534</td><td>$ 3,299</td><td>$ 4,704</td></tr>\n<tr><td>Equity underwriting</td><td>1,677</td><td>1,153</td><td>848</td></tr>\n<tr><td>Debt underwriting</td><td>2,521</td><td>1,764</td><td>1,808</td></tr>\n<tr><td>Investment banking fees</td><td>7,732</td><td>6,216</td><td>7,360</td></tr>\n<tr><td>FICC intermediation</td><td>9,564</td><td>9,318</td><td>11,890</td></tr>\n<tr><td>FICC financing</td><td>3,640</td><td>2,742</td><td>2,786</td></tr>\n<tr><td>FICC</td><td>13,204</td><td>12,060</td><td>14,676</td></tr>\n<tr><td>Equities intermediation</td><td>7,937</td><td>6,489</td><td>6,662</td></tr>\n<tr><td>Equities financing</td><td>5,494</td><td>5,060</td><td>4,326</td></tr>\n<tr><td>Equities</td><td>13,431</td><td>11,549</td><td>10,988</td></tr>\n<tr><td>Other</td><td>576</td><td>171</td><td>(537)</td></tr>\n<tr><td>Total net revenues</td><td>34,943</td><td>29,996</td><td>32,487</td></tr>\n<tr><td>Provision for credit losses</td><td>40</td><td>401</td><td>468</td></tr>\n<tr><td>Compensation and benefits expenses</td><td>9,426</td><td>8,571</td><td>8,661</td></tr>\n<tr><td>Other operating expenses</td><td>10,554</td><td>9,469</td><td>9,190</td></tr>\n<tr><td>Total operating expenses</td><td>19,980</td><td>18,040</td><td>17,851</td></tr>\n<tr><td>Pre-tax earnings</td><td>14,923</td><td>11,555</td><td>14,168</td></tr>\n<tr><td>Provision for taxes</td><td>3,343</td><td>2,392</td><td>2,338</td></tr>\n<tr><td>Net earnings</td><td>11,580</td><td>9,163</td><td>11,830</td></tr>\n<tr><td>Preferred stock dividends</td><td>582</td><td>460</td><td>372</td></tr>\n<tr><td>Net earnings to common</td><td>$10,998</td><td>$ 8,703</td><td>$11,458</td></tr>\n<tr><td>Average common equity</td><td>$75,796</td><td>$71,863</td><td>$69,951</td></tr>\n<tr><td>Return on average common equity</td><td>14.5%</td><td>12.1%</td><td>16.4%</td></tr>\n</tbody>\n</table>\n\nGoldman Sachs 2024 Form 10-K 73",
+  "test_rules": [
+    {
+      "type": "table_colspan",
+      "cell": "year ended december",
+      "expected_colspan": 3,
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_42878e52c996708f"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "advisory",
+      "column_headers": [
+        "$ in millions"
+      ],
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_8e68a77f57116a34"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 3,534",
+      "column_headers": [
+        "year ended december",
+        "2024"
+      ],
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_cbdf27551c9c2452"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 3,299",
+      "column_headers": [
+        "year ended december",
+        "2023"
+      ],
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_3712c9e6b7255e37"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 4,704",
+      "column_headers": [
+        "year ended december",
+        "2022"
+      ],
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_1a29fc159c45556a"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "advisory",
+      "expected_neighbor": "$ 3,534",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_d09959206499a0b7"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "$ 3,534",
+      "expected_neighbor": "$ 3,299",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_7fe2fdf480a9f002"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "$ 4,704",
+      "expected_neighbor": "848",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_31bbebb1dbb496a0"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "ficc financing",
+      "expected_neighbor": "3,640",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_0115699c2b02c1f3"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "3,640",
+      "expected_neighbor": "2,742",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_37241200f4e697a3"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "2,786",
+      "expected_neighbor": "14,676",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_b667d91c4b7cb89d"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "total net revenues",
+      "expected_neighbor": "34,943",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_afc71b4575f27b0a"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "34,943",
+      "expected_neighbor": "29,996",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_86894653bb7d5921"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "32,487",
+      "expected_neighbor": "468",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_b47ea6ed2f752960"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "pre-tax earnings",
+      "expected_neighbor": "14,923",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_e474a204d88a8f63"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "advisory",
+      "cell_b": "$ 4,704",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_2c59f7c07bb19af1"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "total net revenues",
+      "cell_b": "32,487",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_cbc61772165ac693"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "return on average common equity",
+      "cell_b": "16.4%",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_8ca3a331d9837894"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "$ in millions",
+      "cell_b": "return on average common equity",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_d65554b8066c10af"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "2024",
+      "cell_b": "14.5%",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_ee6093b120c9b7c9"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "2022",
+      "cell_b": "16.4%",
+      "table_anchor_cells": [
+        "year ended december",
+        "2022",
+        "compensation and benefits expenses",
+        "return on average common equity",
+        "provision for credit losses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_461.pdf",
+      "verified": false,
+      "id": "dense_v01_8988d57d934158ee"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_461",
+    "gt_status": "reannotated_confirmed",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_461.md",
+    "source_pdf": "/Users/pierre/Code/pdfDataSetOrdered/tableSimple/10k/single/gs.pdf",
+    "source_page": 1,
+    "source_n_pages": 1,
+    "extraction": "copied",
+    "scanner": {
+      "score": 235.4,
+      "rows": 37,
+      "cols": 6,
+      "cells": 231,
+      "fill": 1.0,
+      "numeric_ratio": 0.004,
+      "n_items": 334,
+      "tabular_line_ratio": 0.797,
+      "n_blocks": 2
+    },
+    "shape_class": "narrow/text/portrait",
+    "verify": {
+      "median_cell_len": 6,
+      "words_per_cell": 1.37,
+      "aligned_ratio": 0.727,
+      "row_coverage": 0.627,
+      "text_sha1": "cbad32fba440b13605dedf35b7db452890c16bda"
+    },
+    "header_preview": "cReVd'\u0001 TfccVBTj\u0001 ViTYRBXV\u0001 cReVd'\u0001 TcVUZe\u0001 dacVRUd'\u0001 VbfZej\u0001 acZTVd\u0001 | -\u0001,\u0012\u0001\u0011,\u0010\u0010,\u0013\u0012\u0016 | , ,. | -+-.",
+    "draft_check": {
+      "text_layer_numbers": 42,
+      "numeric_coverage": 0.095
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed_text_layer_mismatch",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 1.0,
+        "blind_rows": 27,
+        "text_layer_token_precision": 0.0018,
+        "text_layer_token_recall": 0.005,
+        "agreement_with_previous_reference_table_next": 1.0
+      },
+      "review": null,
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_461.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "d554e0a5bf3de29bb63f28f76d693d7cc759f6dcde34d6a8657a6ee6d3580a24",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 94,
+            "byte_start": 2152254,
+            "byte_end_exclusive": 2162987
+          },
+          {
+            "table_index_0based": 95,
+            "byte_start": 2163311,
+            "byte_end_exclusive": 2175007
+          },
+          {
+            "table_index_0based": 96,
+            "byte_start": 2175630,
+            "byte_end_exclusive": 2214342
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "29c65c391320b92ff3646dc5c7c052af51f876f43805b2e9cc133e2bb64a34d8",
+    "input_sha256": "faccb24914abee528368b822726101567d2a0c082e55e6634283508e9b01e168"
+  },
+  "tags": [
+    "dense_table",
+    "narrow_columns",
+    "text_content",
+    "portrait",
+    "gt_draft",
+    "draft_text_layer_mismatch"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "financial_tables/ge1-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>2023</th>\n      <th>2022</th>\n      <th>2021</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Compensation expense (after-tax)(a)</td>\n      <td>$ 299</td>\n      <td>$ 251</td>\n      <td>$ 305</td>\n    </tr>\n    <tr>\n      <td>Cash received from stock options exercised</td>\n      <td>565</td>\n      <td>62</td>\n      <td>93</td>\n    </tr>\n    <tr>\n      <td>Intrinsic value of stock options exercised and RSU/PSUs vested</td>\n      <td>561</td>\n      <td>170</td>\n      <td>217</td>\n    </tr>\n  </tbody>\n</table>\n\n(a) Unrecognized compensation cost related to unvested equity awards as of December 31, 2023 was $318 million, which will be amortized over a weighted average period of 1.0 year. Income tax benefit recognized in earnings was $61 million, $12 million and an insignificant amount in 2023, 2022, and 2021, respectively.\n\nNOTE 18. EARNINGS PER SHARE INFORMATION\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\">(Earnings for per-share calculation, shares in millions, per-share amounts in dollars)</th>\n      <th colspan=\"2\">2023</th>\n      <th colspan=\"2\">2022</th>\n      <th colspan=\"2\">2021</th>\n    </tr>\n    <tr>\n      <th>Diluted</th>\n      <th>Basic</th>\n      <th>Diluted</th>\n      <th>Basic</th>\n      <th>Diluted</th>\n      <th>Basic</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Earnings (loss) from continuing operations</td>\n      <td>$ 9,063</td>\n      <td>$ 9,066</td>\n      <td>$ (811)</td>\n      <td>$ (811)</td>\n      <td>$ (4,822)</td>\n      <td>$ (4,822)</td>\n    </tr>\n    <tr>\n      <td>Preferred stock dividends and other and accretion of preferred share repurchase(a)</td>\n      <td>(295)</td>\n      <td>(295)</td>\n      <td>(286)</td>\n      <td>(286)</td>\n      <td>(246)</td>\n      <td>(246)</td>\n    </tr>\n    <tr>\n      <td>Earnings (loss) from continuing operations attributable to common shareholders</td>\n      <td>8,769</td>\n      <td>8,772</td>\n      <td>(1,097)</td>\n      <td>(1,097)</td>\n      <td>(5,067)</td>\n      <td>(5,067)</td>\n    </tr>\n    <tr>\n      <td>Earnings (loss) from discontinued operations</td>\n      <td>414</td>\n      <td>414</td>\n      <td>1,151</td>\n      <td>1,151</td>\n      <td>(1,516)</td>\n      <td>(1,516)</td>\n    </tr>\n    <tr>\n      <td>Net earnings (loss) attributable to GE common shareholders</td>\n      <td>9,182</td>\n      <td>9,186</td>\n      <td>54</td>\n      <td>54</td>\n      <td>(6,583)</td>\n      <td>(6,583)</td>\n    </tr>\n    <tr>\n      <td>Shares of GE common stock outstanding</td>\n      <td>1,089</td>\n      <td>1,089</td>\n      <td>1,096</td>\n      <td>1,096</td>\n      <td>1,098</td>\n      <td>1,098</td>\n    </tr>\n    <tr>\n      <td>Employee compensation-related shares (including stock options)</td>\n      <td>10</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Total average equivalent shares</td>\n      <td>1,099</td>\n      <td>1,089</td>\n      <td>1,096</td>\n      <td>1,096</td>\n      <td>1,098</td>\n      <td>1,098</td>\n    </tr>\n    <tr>\n      <td>Earnings (loss) from continuing operations</td>\n      <td>$ 7.98</td>\n      <td>$ 8.06</td>\n      <td>$ (1.00)</td>\n      <td>$ (1.00)</td>\n      <td>$ (4.62)</td>\n      <td>$ (4.62)</td>\n    </tr>\n    <tr>\n      <td>Earnings (loss) from discontinued operations</td>\n      <td>0.38</td>\n      <td>0.38</td>\n      <td>1.05</td>\n      <td>1.05</td>\n      <td>(1.38)</td>\n      <td>(1.38)</td>\n    </tr>\n    <tr>\n      <td>Net earnings (loss) per share</td>\n      <td>8.36</td>\n      <td>8.44</td>\n      <td>0.05</td>\n      <td>0.05</td>\n      <td>(6.00)</td>\n      <td>(6.00)</td>\n    </tr>\n    <tr>\n      <td>Potentially dilutive securities(b)</td>\n      <td>26</td>\n      <td></td>\n      <td>45</td>\n      <td></td>\n      <td>41</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n\n(a) For the year ended December 31, 2023, included $(58) million related to excise tax on preferred share redemptions.\n\n(b) Outstanding stock awards not included in the computation of diluted earnings (loss) per share because their effect was antidilutive.\n\nOur unvested restricted stock unit awards that contain non-forfeitable rights to dividends or dividend equivalents are considered participating securities and, therefore, are included in the computation of earnings per share pursuant to the two-class method. For the year ended December 31, 2023, application of this treatment had an insignificant effect. For the years ended December 31, 2022 and 2021, as a result of the loss from continuing operations, losses were not allocated to the participating securities.\n\nNOTE 19. OTHER INCOME (LOSS)\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>2023</th>\n      <th>2022</th>\n      <th>2021</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Investment in GE HealthCare realized and unrealized gain (loss)</td>\n      <td>$ 5,639</td>\n      <td>$ —</td>\n      <td>$ —</td>\n    </tr>\n    <tr>\n      <td>Investment in and note with AerCap realized and unrealized gain (loss)</td>\n      <td>129</td>\n      <td>(865)</td>\n      <td>711</td>\n    </tr>\n    <tr>\n      <td>Investment in Baker Hughes realized and unrealized gain (loss)</td>\n      <td>10</td>\n      <td>912</td>\n      <td>938</td>\n    </tr>\n    <tr>\n      <td>Gains (losses) on retained and sold ownership interests</td>\n      <td>$ 5,778</td>\n      <td>$ 47</td>\n      <td>$ 1,649</td>\n    </tr>\n    <tr>\n      <td>Other net interest and investment income (loss)(a)</td>\n      <td>739</td>\n      <td>474</td>\n      <td>585</td>\n    </tr>\n    <tr>\n      <td>Licensing and royalty income</td>\n      <td>244</td>\n      <td>185</td>\n      <td>175</td>\n    </tr>\n    <tr>\n      <td>Equity method income</td>\n      <td>237</td>\n      <td>220</td>\n      <td>(123)</td>\n    </tr>\n    <tr>\n      <td>Purchases and sales of business interests(b)</td>\n      <td>104</td>\n      <td>60</td>\n      <td>(52)</td>\n    </tr>\n    <tr>\n      <td>Other items</td>\n      <td>28</td>\n      <td>185</td>\n      <td>462</td>\n    </tr>\n    <tr>\n      <td>Total other income (loss)</td>\n      <td>$ 7,129</td>\n      <td>$ 1,172</td>\n      <td>$ 2,696</td>\n    </tr>\n  </tbody>\n</table>\n\n(a) Included interest income associated with customer advances of $156 million, $162 million and $167 million in 2023, 2022 and 2021, respectively. See Note 8 for further information.\n\n(b) Included a pre-tax loss of $170 million related to the sale of our boiler manufacturing business in China in our Power segment in 2021.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "ge1.pdf",
+    "source_sha256": "e7ff408d593660a595a708d27ff23b8a26679fb0a7eab66b515209c4a4f050ff",
+    "annotated_at": "2026-08-14T02:42:52.991Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "annotation_corrections": [
+      {
+        "date": "2026-11-13",
+        "version": "v2.01",
+        "change": "Correct first-table year headers from 299 / 251 to 2023 / 2022; keep the compensation values $299 / $251 unchanged.",
+        "validation": "Visually checked against original page screenshot; local-only update."
+      }
+    ],
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/ge1-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/ge-20231231.htm",
+      "accession": "0000040545-24-000027",
+      "provider": "datamulehub",
+      "sha256": "8b31f5cc3fd37d0c615a09338113d195542f217c7940132bdb063ace597b4ca2",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 101,
+            "byte_start": 3216558,
+            "byte_end_exclusive": 3223745
+          },
+          {
+            "table_index_0based": 102,
+            "byte_start": 3225860,
+            "byte_end_exclusive": 3271530
+          },
+          {
+            "table_index_0based": 103,
+            "byte_start": 3273455,
+            "byte_end_exclusive": 3295616
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "e7ff408d593660a595a708d27ff23b8a26679fb0a7eab66b515209c4a4f050ff",
+    "input_sha256": "9b6576d5449bed09c0af1246d7c9fc14a790cf4edfd7c366c747ca65eb21e1a1"
+  },
+  "tags": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tables/AMZN.2005.page_32.pdf_61783_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th rowspan=\"3\"></th>\n      <th colspan=\"5\">Year Ended December 31,</th>\n    </tr>\n    <tr>\n      <th>2005</th>\n      <th>2004</th>\n      <th>2003</th>\n      <th>2002</th>\n      <th>2001</th>\n    </tr>\n    <tr>\n      <th colspan=\"5\">(in millions, except per share data)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\">Income Statement:</td>\n    </tr>\n    <tr>\n      <td>Net sales</td>\n      <td>$8,490</td>\n      <td>$6,921</td>\n      <td>$5,264</td>\n      <td>$3,933</td>\n      <td>$3,122</td>\n    </tr>\n    <tr>\n      <td>Income (loss) before change in accounting principle</td>\n      <td>333</td>\n      <td>588</td>\n      <td>35</td>\n      <td>(150)</td>\n      <td>(557)</td>\n    </tr>\n    <tr>\n      <td>Cumulative effect of change in accounting principle</td>\n      <td>26</td>\n      <td>—</td>\n      <td>—</td>\n      <td>1</td>\n      <td>(11)</td>\n    </tr>\n    <tr>\n      <td>Net income (loss)</td>\n      <td>359</td>\n      <td>588</td>\n      <td>35</td>\n      <td>(149)</td>\n      <td>(567)</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\">Basic earnings (loss) per share (1):</td>\n    </tr>\n    <tr>\n      <td>Prior to cumulative effect of change in accounting principle</td>\n      <td>$0.81</td>\n      <td>$1.45</td>\n      <td>$0.09</td>\n      <td>$(0.40)</td>\n      <td>$(1.53)</td>\n    </tr>\n    <tr>\n      <td>Cumulative effect of change in accounting principle</td>\n      <td>0.06</td>\n      <td>—</td>\n      <td>—</td>\n      <td>0.01</td>\n      <td>(0.03)</td>\n    </tr>\n    <tr>\n      <td>Basic earnings (loss) per share (1)</td>\n      <td>$0.87</td>\n      <td>$1.45</td>\n      <td>$0.09</td>\n      <td>$(0.39)</td>\n      <td>$(1.56)</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\">Diluted earnings (loss) per share (1):</td>\n    </tr>\n    <tr>\n      <td>Prior to cumulative effect of change in accounting principle</td>\n      <td>$0.78</td>\n      <td>$1.39</td>\n      <td>$0.08</td>\n      <td>$(0.40)</td>\n      <td>$(1.53)</td>\n    </tr>\n    <tr>\n      <td>Cumulative effect of change in accounting principle</td>\n      <td>0.06</td>\n      <td>—</td>\n      <td>—</td>\n      <td>0.01</td>\n      <td>(0.03)</td>\n    </tr>\n    <tr>\n      <td>Diluted earnings (loss) per share (1)</td>\n      <td>$0.84</td>\n      <td>$1.39</td>\n      <td>$0.08</td>\n      <td>$(0.39)</td>\n      <td>$(1.56)</td>\n    </tr>\n    <tr>\n      <td colspan=\"6\">Weighted average shares used in computation of earnings (loss) per share:</td>\n    </tr>\n    <tr>\n      <td>Basic</td>\n      <td>412</td>\n      <td>406</td>\n      <td>395</td>\n      <td>378</td>\n      <td>364</td>\n    </tr>\n    <tr>\n      <td>Diluted</td>\n      <td>426</td>\n      <td>425</td>\n      <td>419</td>\n      <td>378</td>\n      <td>364</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"3\"></th>\n      <th colspan=\"5\">December 31,</th>\n    </tr>\n    <tr>\n      <th>2005</th>\n      <th>2004</th>\n      <th>2003</th>\n      <th>2002</th>\n      <th>2001</th>\n    </tr>\n    <tr>\n      <th colspan=\"5\">(in millions)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"6\">Balance Sheet:</td>\n    </tr>\n    <tr>\n      <td>Total assets</td>\n      <td>$3,696</td>\n      <td>$3,248</td>\n      <td>$2,162</td>\n      <td>$1,990</td>\n      <td>$1,638</td>\n    </tr>\n    <tr>\n      <td>Long-term debt and other</td>\n      <td>$1,521</td>\n      <td>$1,855</td>\n      <td>$1,945</td>\n      <td>$2,277</td>\n      <td>$2,156</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/AMZN.2005.page_32.pdf_61783_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312506034166/d10k.htm",
+      "accession": "0001193125-06-034166",
+      "provider": "datamulehub",
+      "sha256": "54f76c1f6da6c90ad71467785960d4683b8828bb94bf8076884d958677c2ea22",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 79,
+            "byte_start": 213990,
+            "byte_end_exclusive": 249231
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "66c103c6c21892f1ec475be6196d53c84ff3d2ea5dfbe94836ff534a257eaf19",
+    "input_sha256": "f55274fac804c316fb0785071bb5adba655fac5a47514d972ed71c6f552ded11"
+  },
+  "tags": []
+}

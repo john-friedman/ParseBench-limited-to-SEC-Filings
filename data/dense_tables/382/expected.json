@@ -1,0 +1,513 @@
+{
+  "id": "dense_tables/dense_table_382",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "123\n\n# Consolidated Statements of Changes in Equity\n\n## Years ended December 31, 2025, 2024, and 2023\n\n<table>\n<thead>\n<tr><th rowspan=\"3\">(in millions)</th><th colspan=\"9\">THE AES CORPORATION STOCKHOLDERS</th><th rowspan=\"3\">Noncontrolling Interests (1)</th></tr>\n<tr><th colspan=\"2\">Preferred Stock</th><th colspan=\"2\">Common Stock</th><th colspan=\"2\">Treasury Stock</th><th rowspan=\"2\">Additional Paid-In Capital</th><th rowspan=\"2\">Retained Earnings (Accumulated Deficit)</th><th rowspan=\"2\">Accumulated Other Comprehensive Loss</th></tr>\n<tr><th>Shares</th><th>Amount</th><th>Shares</th><th>Amount</th><th>Shares</th><th>Amount</th></tr>\n</thead>\n<tbody>\n<tr><td>Balance at December 31, 2022</td><td>1.0</td><td>$ 838</td><td>818.8</td><td>$ 8</td><td>150.0</td><td>$(1,822)</td><td>$ 6,688</td><td>$ (1,635)</td><td>$ (1,640)</td><td>$ 2,067</td></tr>\n<tr><td>Net income (loss)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>249</td><td>—</td><td>(372)</td></tr>\n<tr><td>Foreign currency translation adjustments and reclassification to earnings, net of income tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>136</td><td>9</td></tr>\n<tr><td>Change in fair value of derivatives and reclassification to earnings, net of income tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>(77)</td></tr>\n<tr><td>Change in pension adjustments and reclassification to earnings, net of income tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(3)</td><td>—</td></tr>\n<tr><td>Total other comprehensive income (loss)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>136</td><td>(68)</td></tr>\n<tr><td>Distributions to noncontrolling interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(261)</td></tr>\n<tr><td>Acquisitions of noncontrolling interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>24</td><td>—</td><td>—</td><td>(44)</td></tr>\n<tr><td>Sales to noncontrolling interests</td><td></td><td></td><td>—</td><td>—</td><td>—</td><td>—</td><td>85</td><td>—</td><td>(10)</td><td>1,754</td></tr>\n<tr><td>Issuance of preferred shares in subsidiaries</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>421</td></tr>\n<tr><td>Dividends declared on AES common stock ($0.6702/share)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(449)</td><td>—</td><td>—</td><td>—</td></tr>\n<tr><td>Issuance and exercise of stock-based compensation benefit plans, net of income tax</td><td>—</td><td>—</td><td>0.3</td><td>—</td><td>(0.6)</td><td>9</td><td>7</td><td>—</td><td>—</td><td>—</td></tr>\n<tr><td>Balance at December 31, 2023</td><td>1.0</td><td>$ 838</td><td>819.1</td><td>$ 8</td><td>149.4</td><td>$(1,813)</td><td>$ 6,355</td><td>$ (1,386)</td><td>$ (1,514)</td><td>$ 3,497</td></tr>\n<tr><td>Net income (loss)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1,679</td><td>—</td><td>(791)</td></tr>\n<tr><td>Foreign currency translation adjustments and reclassification to earnings, net of income tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(88)</td><td>502</td></tr>\n<tr><td>Change in fair value of derivatives and reclassification to earnings, net of income tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>333</td><td>86</td></tr>\n<tr><td>Change in pension adjustments and reclassification to earnings, net of income tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td><td>8</td></tr>\n<tr><td>Change in fair value option liabilities, net of income tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>—</td></tr>\n<tr><td>Total other comprehensive income (loss)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>250</td><td>596</td></tr>\n<tr><td>Reclassification of redeemable stock of subsidiaries to noncontrolling interests (2)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>736</td></tr>\n<tr><td>Disposition of business interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>14</td><td>—</td><td>—</td><td>(1,399)</td></tr>\n<tr><td>Distributions to noncontrolling interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(368)</td></tr>\n<tr><td>Acquisitions of noncontrolling interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(802)</td><td>—</td><td>498</td><td>304</td></tr>\n<tr><td>Contributions from noncontrolling interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>411</td></tr>\n<tr><td>Sales to noncontrolling interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(19)</td><td>—</td><td>—</td><td>1,074</td></tr>\n<tr><td>Conversion of Corporate Units to shares of common stock</td><td>(1.0)</td><td>(838)</td><td>40.5</td><td>1</td><td>—</td><td>—</td><td>838</td><td>—</td><td>—</td><td>—</td></tr>\n<tr><td>Dividends declared on AES common stock ($0.6935/share)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(493)</td><td>—</td><td>—</td><td>—</td></tr>\n<tr><td>Purchase of treasury stock</td><td>—</td><td>—</td><td>—</td><td>—</td><td>0.1</td><td>(3)</td><td>3</td><td>—</td><td>—</td><td>—</td></tr>\n<tr><td>Issuance and exercise of stock-based compensation benefit plans, net of income tax</td><td>—</td><td>—</td><td>0.1</td><td>—</td><td>(0.9)</td><td>11</td><td>17</td><td>—</td><td>—</td><td>—</td></tr>\n<tr><td>Balance at December 31, 2024</td><td>—</td><td>$ —</td><td>859.7</td><td>$ 9</td><td>148.6</td><td>$(1,805)</td><td>$ 5,913</td><td>$ 293</td><td>$ (766)</td><td>$ 4,060</td></tr>\n<tr><td>Net income (loss)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>910</td><td>—</td><td>(590)</td></tr>\n<tr><td>Foreign currency translation adjustments and reclassification to earnings, net of income tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>114</td><td>1</td></tr>\n<tr><td>Change in fair value of derivatives and reclassification to earnings, net of income tax</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(37)</td><td>(8)</td></tr>\n<tr><td>Total other comprehensive income (loss)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>77</td><td>(7)</td></tr>\n<tr><td>Adjustments to redemption value of redeemable stock of subsidiaries</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(10)</td><td>—</td><td>—</td></tr>\n<tr><td>Reclassification of redeemable stock of subsidiaries to noncontrolling interests (2)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>180</td></tr>\n<tr><td>Distributions to noncontrolling interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(812)</td></tr>\n<tr><td>Acquisitions of noncontrolling interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(52)</td><td>—</td><td>(17)</td><td>(80)</td></tr>\n<tr><td>Contributions from noncontrolling interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1,293</td></tr>\n<tr><td>Sales to noncontrolling interests</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>170</td><td>(188)</td><td>8</td><td>968</td></tr>\n<tr><td>Issuance of preferred shares in subsidiaries</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>30</td></tr>\n<tr><td>Dividends declared on AES common stock ($0.7038/share)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>(137)</td><td>(364)</td><td>—</td><td>—</td></tr>\n<tr><td>Issuance and exercise of stock-based compensation benefit plans, net of income tax</td><td>—</td><td>—</td><td>0.1</td><td>—</td><td>(1.0)</td><td>12</td><td>10</td><td>—</td><td>—</td><td>—</td></tr>\n<tr><td>Balance at December 31, 2025</td><td>—</td><td>$ —</td><td>859.8</td><td>$ 9</td><td>147.6</td><td>$(1,793)</td><td>$ 5,904</td><td>$ 641</td><td>$ (698)</td><td>$ 5,042</td></tr>\n</tbody>\n</table>\n\n(1) Excludes redeemable stock of subsidiaries. See Note 17—*Redeemable Stock of Subsidiaries.*\n\n(2) Related to the reclassification of AES Clean Energy Development common stock and certain tax equity partnerships at AES Clean Energy and AES Indiana from *Redeemable stock of subsidiaries* to *Noncontrolling interests*. See Note 17—*Redeemable Stock of Subsidiaries.*",
+  "test_rules": [
+    {
+      "type": "table_rowspan",
+      "cell": "(in millions)",
+      "expected_rowspan": 3,
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_1d0fa0215c5ba83e"
+    },
+    {
+      "type": "table_colspan",
+      "cell": "the aes corporation stockholders",
+      "expected_colspan": 9,
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_d26568ce8839654c"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "noncontrolling interests (1)",
+      "expected_rowspan": 3,
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_a2c9cbb8dc211200"
+    },
+    {
+      "type": "table_colspan",
+      "cell": "preferred stock",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_c789761f8c453f85"
+    },
+    {
+      "type": "table_colspan",
+      "cell": "common stock",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_0d6fc4b19c866461"
+    },
+    {
+      "type": "table_colspan",
+      "cell": "treasury stock",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_595d12f99b3910b8"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "additional paid-in capital",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_2ead8fe61c60a35f"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "retained earnings (accumulated deficit)",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_bb51ea19d91e011d"
+    },
+    {
+      "type": "table_rowspan",
+      "cell": "accumulated other comprehensive loss",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_03615911a8786a23"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "balance at december 31, 2022",
+      "column_headers": [
+        "(in millions)"
+      ],
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_97842414c70479e7"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "818.8",
+      "column_headers": [
+        "the aes corporation stockholders",
+        "common stock",
+        "shares"
+      ],
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_5b54340114640c52"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$(1,822)",
+      "column_headers": [
+        "the aes corporation stockholders",
+        "treasury stock",
+        "amount"
+      ],
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_d418c5b267bd53dd"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 2,067",
+      "column_headers": [
+        "noncontrolling interests (1)"
+      ],
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_98b4572b75cd6860"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "balance at december 31, 2022",
+      "expected_neighbor": "1.0",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_d142d640c15178c5"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "150.0",
+      "expected_neighbor": "$(1,822)",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_1497c45bc1a3d4cf"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "$ 2,067",
+      "expected_neighbor": "(372)",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_4b0a73c943f47b84"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "dividends declared on aes common stock ($0.6702/share)",
+      "expected_neighbor": "-",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_7adbccff3f46c1c7"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "(368)",
+      "expected_neighbor": "304",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_e9e8c1e8ccfaeb88"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "(8)",
+      "expected_neighbor": "(7)",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_476a5a38daba079d"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "balance at december 31, 2025",
+      "expected_neighbor": "-",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_eb54dd3a7be0b528"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "147.6",
+      "expected_neighbor": "$(1,793)",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_3ff3dc31e2240a2e"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "balance at december 31, 2022",
+      "cell_b": "$ 2,067",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_d41baebb333981e7"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "balance at december 31, 2025",
+      "cell_b": "$ 5,042",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_fb6b3172c25e7766"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "(in millions)",
+      "cell_b": "balance at december 31, 2025",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_38e9da3d165d649d"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "noncontrolling interests (1)",
+      "cell_b": "$ 5,042",
+      "table_anchor_cells": [
+        "retained earnings (accumulated deficit)",
+        "accumulated other comprehensive loss",
+        "the aes corporation stockholders",
+        "noncontrolling interests (1)",
+        "additional paid-in capital"
+      ],
+      "page": 1,
+      "pdf": "dense_table_382.pdf",
+      "verified": false,
+      "id": "dense_v01_2216b4ad7f6282a8"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_382",
+    "gt_status": "reannotated_confirmed",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_382.md",
+    "source_pdf": "/Volumes/T7/bigBagOfPdf11/AES-Corp-2025-Annual-Report-03-20-2026.pdf",
+    "source_page": 127,
+    "source_n_pages": 150,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 506.0,
+      "rows": 46,
+      "cols": 11,
+      "cells": 512,
+      "fill": 1.0,
+      "numeric_ratio": 0.828,
+      "n_items": 549,
+      "tabular_line_ratio": 0.649,
+      "n_blocks": 1
+    },
+    "shape_class": "medium/numeric/portrait",
+    "verify": {
+      "median_cell_len": 1,
+      "words_per_cell": 1.34,
+      "aligned_ratio": 0.93,
+      "row_coverage": 0.622,
+      "text_sha1": "f0d78bf16b6283c812de578044c8f866c9520320"
+    },
+    "header_preview": "(in millions) | Shares | Amount | Shares | Amount | Shares | Amount | Capital | (Accumulated | Comprehensive | Noncontrolling",
+    "draft_check": {
+      "text_layer_numbers": 106,
+      "numeric_coverage": 1.0
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 1.0,
+        "blind_rows": 10,
+        "text_layer_token_precision": 1.0,
+        "text_layer_token_recall": 1.0,
+        "agreement_with_previous_reference_table_next": 0.9868
+      },
+      "review": null,
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_382.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/874761/000087476126000063/aes-20251231.htm",
+      "accession": "0000874761-26-000063",
+      "provider": "datamulehub",
+      "sha256": "bbce9a47005dcd15f324e07d6b48efdf7e75ff76c28a06779c013088fcfe9f23",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 164,
+            "byte_start": 2733593,
+            "byte_end_exclusive": 2979716
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "92a16ac9bbeaed97cc1f9500c109528bd3027338225d5db440d7fe165dfd8b23",
+    "input_sha256": "add8185294715c84f3abde531ee8ba51033d45d17b110ae9c72d978f517e62da"
+  },
+  "tags": [
+    "dense_table",
+    "medium_columns",
+    "numeric_content",
+    "portrait",
+    "gt_draft"
+  ]
+}

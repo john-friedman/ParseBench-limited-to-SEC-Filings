@@ -1,0 +1,54 @@
+{
+  "id": "financial_tables/kf-2026-08-13_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "The Company will host a conference call tomorrow, Wednesday, October 30, 2024 at 10:00 a.m. (Eastern Time), to discuss the quarter's results and provide information about acquisitions, operations, capital markets and corporate activities. Details of the call can be found at the end of this release.\n\n# Key Financial Measures\n\nTHIRD QUARTER 2024 KEY FINANCIAL MEASURES\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\">Metrics</th>\n      <th colspan=\"3\">Three months ended September 30,</th>\n      <th colspan=\"3\">Nine months ended September 30,</th>\n    </tr>\n    <tr>\n      <th>2024</th>\n      <th>2023</th>\n      <th>% Change</th>\n      <th>2024</th>\n      <th>2023</th>\n      <th>% Change</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td colspan=\"7\">(in $000s, except per share data)</td>\n    </tr>\n    <tr>\n      <td>Net income attributable to common stockholders</td>\n      <td>$41,811</td>\n      <td>$49,987</td>\n      <td>(16.4)%</td>\n      <td>$138,128</td>\n      <td>$150,953</td>\n      <td>(8.5)%</td>\n    </tr>\n    <tr>\n      <td>Net income per common share — basic</td>\n      <td>$0.23</td>\n      <td>$0.28</td>\n      <td>(17.9)%</td>\n      <td>$0.76</td>\n      <td>$0.84</td>\n      <td>(9.5)%</td>\n    </tr>\n    <tr>\n      <td>Net income per common share — diluted</td>\n      <td>$0.23</td>\n      <td>$0.28</td>\n      <td>(17.9)%</td>\n      <td>$0.76</td>\n      <td>$0.84</td>\n      <td>(9.5)%</td>\n    </tr>\n    <tr>\n      <td>Cash NOI</td>\n      <td>$148,415</td>\n      <td>$140,657</td>\n      <td>5.5 %</td>\n      <td>$442,319</td>\n      <td>$407,798</td>\n      <td>8.5 %</td>\n    </tr>\n    <tr>\n      <td>Same Store Cash NOI (1)</td>\n      <td>$138,173</td>\n      <td>$132,402</td>\n      <td>4.4 %</td>\n      <td>$413,460</td>\n      <td>$389,522</td>\n      <td>6.1 %</td>\n    </tr>\n    <tr>\n      <td>Adjusted EBITDAre</td>\n      <td>$138,741</td>\n      <td>$130,950</td>\n      <td>5.9 %</td>\n      <td>$412,134</td>\n      <td>$378,686</td>\n      <td>8.8 %</td>\n    </tr>\n    <tr>\n      <td>Core FFO</td>\n      <td>$110,765</td>\n      <td>$108,756</td>\n      <td>1.8 %</td>\n      <td>$332,951</td>\n      <td>$313,837</td>\n      <td>6.1 %</td>\n    </tr>\n    <tr>\n      <td>Core FFO per share / unit — basic</td>\n      <td>$0.60</td>\n      <td>$0.59</td>\n      <td>1.7 %</td>\n      <td>$1.79</td>\n      <td>$1.71</td>\n      <td>4.7 %</td>\n    </tr>\n    <tr>\n      <td>Core FFO per share / unit — diluted</td>\n      <td>$0.60</td>\n      <td>$0.59</td>\n      <td>1.7 %</td>\n      <td>$1.79</td>\n      <td>$1.71</td>\n      <td>4.7 %</td>\n    </tr>\n    <tr>\n      <td>Cash Available for Distribution</td>\n      <td>$87,965</td>\n      <td>$96,843</td>\n      <td>(9.2)%</td>\n      <td>$281,217</td>\n      <td>$274,110</td>\n      <td>2.6 %</td>\n    </tr>\n  </tbody>\n</table>\n\n(1) The Same Store pool accounted for 93.7% of the total portfolio square footage as of September 30, 2024.\n\nDefinitions of the above-mentioned non-GAAP financial measures, together with reconciliations to net income (loss) in accordance with GAAP, appear at the end of this release. Please also see the Company's supplemental information package for additional disclosure.\n\n<u>Acquisition, Development and Disposition Activity</u>\n\nFor the three months ended September 30, 2024, the Company acquired six buildings for $113.0 million with an Occupancy Rate of 100.0% upon acquisition. The chart below details the acquisition activity for the quarter:\n\n<table>\n<thead>\n<tr>\n<th colspan=\"8\">THIRD QUARTER 2024 ACQUISITION ACTIVITY</th>\n</tr>\n<tr>\n<th>Market</th>\n<th>Date Acquired</th>\n<th>Square Feet</th>\n<th>Buildings</th>\n<th>Purchase Price ($000s)</th>\n<th>W.A. Lease Term (Years)</th>\n<th>Cash Capitalization Rate</th>\n<th>Straight-Line Capitalization Rate</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>LaGrange, GA</td>\n<td>9/9/2024</td>\n<td>323,368</td>\n<td>1</td>\n<td>$34,870</td>\n<td>7.5</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>Boston, MA</td>\n<td>9/12/2024</td>\n<td>290,471</td>\n<td>5</td>\n<td>78,127</td>\n<td>4.9</td><td></td>\n<td></td>\n</tr>\n<tr>\n<td>Total / weighted average</td>\n<td></td>\n<td>613,839</td>\n<td>6</td>\n<td>$112,997</td>\n<td>6.2</td>\n<td>6.7%</td>\n<td>7.2%</td>\n</tr>\n</tbody>\n</table>\n\nIn the third quarter, the Company acquired one vacant land parcel for $1.9 million. This asset is excluded from the acquisition activity statistics above.\n\nIn the third quarter, the Company acquired one vacant land parcel for $9.0 million as part of a joint venture. This asset is excluded from the acquisition activity statistics above.\n\nThe chart below details the 2024 acquisition activity and pipeline through October 28, 2024:\n\n2024 ACQUISITION ACTIVITY AND PIPELINE DETAIL\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>Square Feet</th>\n      <th>Buildings</th>\n      <th>Purchase Price ($000s)</th>\n      <th>W.A. Lease Term (Years)</th>\n      <th>Cash Capitalization Rate</th>\n      <th>Straight-Line Capitalization Rate</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Q1</td>\n      <td>697,500</td>\n      <td>1</td>\n      <td>$50,073</td>\n      <td>6.8</td>\n      <td>6.1%</td>\n      <td>6.8%</td>\n    </tr>\n    <tr>\n      <td>Q2</td>\n      <td>2,193,684</td>\n      <td>10</td>\n      <td>225,622</td>\n      <td>6.2</td>\n      <td>6.7%</td>\n      <td>7.0%</td>\n    </tr>\n    <tr>\n      <td>Q3</td>\n      <td>613,839</td>\n      <td>6</td>\n      <td>112,997</td>\n      <td>6.2</td>\n      <td>6.7%</td>\n      <td>7.2%</td>\n    </tr>\n    <tr>\n      <td>Total / weighted average</td>\n      <td>3,505,023</td>\n      <td>17</td>\n      <td>$388,692</td>\n      <td>5.2</td>\n      <td>6.6%</td>\n      <td>7.0%</td>\n    </tr>\n    <tr>\n      <td>As of October 28, 2024</td>\n      <td></td><td></td><td></td><td></td><td></td><td></td>\n    </tr>\n    <tr>\n      <td>Subsequent to quarter-end acquisitions</td>\n      <td>0.5 million</td>\n      <td>2</td>\n      <td>$66.6 million</td>\n      <td></td><td></td><td></td>\n    </tr>\n    <tr>\n      <td>Pipeline</td>\n      <td>33.6 million</td>\n      <td>201</td>\n      <td>$4.2 billion</td>\n      <td></td><td></td><td></td>\n    </tr>\n  </tbody>\n</table>\n\nYear to date, the Company acquired three vacant land parcels for $19.1 million. These assets are excluded from the acquisition activity statistics above.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "kf.pdf",
+    "source_sha256": "00859db178154fbfeb9301583c9631768a89a1792bc2a00f99083655190c8ac1",
+    "annotated_at": "2026-08-13T04:21:12.264Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/kf-2026-08-13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1479094/000147909424000030/q32024earningsrelease.htm",
+      "accession": "0001479094-24-000030",
+      "provider": "datamulehub",
+      "sha256": "3b936a5e00bab982fcbc8b7da3251593d8ff5d3e0a70843c8af2fe3e464b3ffb",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 0,
+            "byte_start": 13149,
+            "byte_end_exclusive": 55723
+          },
+          {
+            "table_index_0based": 1,
+            "byte_start": 57319,
+            "byte_end_exclusive": 75961
+          },
+          {
+            "table_index_0based": 2,
+            "byte_start": 77313,
+            "byte_end_exclusive": 93057
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "00859db178154fbfeb9301583c9631768a89a1792bc2a00f99083655190c8ac1",
+    "input_sha256": "87c62bafd2da08b29c93260962327b51ef7765565d57db6f94bf377bfb3d5af4"
+  },
+  "tags": []
+}

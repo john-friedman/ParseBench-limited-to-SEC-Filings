@@ -1,0 +1,3248 @@
+{
+  "id": "text/text_simple__10k",
+  "subset": "text",
+  "dimension": "text",
+  "document": "sec_input.pdf",
+  "expected_markdown": "Our Belonging focus aims to create opportunities for everyone, so that every eligible and qualified individual can thrive and perform. We regularly review our processes around fair-pay practices and are committed to creating a performance culture where associates are rewarded based on meaningful factors such as qualifications, experience, performance and the work they do.\n\nTo build a company where associates feel seen, supported and connected, we gather and respond to associate feedback in a variety of ways, including in-person dialogue; leadership visits and listening sessions; surveys like our associate engagement survey and monthly pulse surveys; and always-on confidential channels, including our Open Door processes and ethics channels.\n\n**Well-being** - *Prioritize the emotional, physical and financial well-being of associates.* We invest in our associates by offering competitive wages, as well as a broad range of benefits to meet the diverse needs of our global associate population and their eligible dependents. In the U.S., this includes company-paid benefits such as 401(k) match, family building benefits, maternity leave, fertility benefits, a paid parental leave program to all full-time associates, paid time off, Associate Stock Purchase Plan match, life insurance, medical coverage (including supporting associates with a U.S. Medical Plan with free virtual visits for medical doctor urgent care), behavioral and mental health services (including virtual care with psychiatrists and psychologists), a Walmart discount card or Sam's Club membership and predictable scheduling that helps associates plan for life outside of work and know what to expect in their paychecks.\n\nAdditional information about how we invest in our associates' well-being, including wage structure and pay, can be found in the Our People brief in our most recent ESG reporting, which is available on our corporate website. Nothing on our website, including our ESG reporting documents, or sections thereof, shall be deemed incorporated by reference into this Annual Report on Form 10-K or incorporated by reference into any of our other filings with the SEC. Certain information relating to retirement-related benefits we provide to our associates is included in <u>Note 11</u> to our Consolidated Financial Statements.\n\n**Growth** - *Provide ongoing growth, development and learning opportunities for associates and continue to attract talent with new skills.* We are invested in the growth of our associates – in support of our business and their success – by offering good entry-level jobs in addition to multiple career pathways that lead to great careers and better lives. Approximately 75% of our U.S. salaried store, club and supply chain management leaders started their careers in hourly positions. Our focus on providing a path of opportunity for our associates through robust training, competitive wages and benefits and career mobility creates a strong associate value proposition and strengthens our workforce. In the U.S., we seek to enable these pathways through programs like Walmart Academy, Live Better U (\"LBU\"), and other various associate training programs. Walmart Academy offers training for on-the-job retail skills, leadership and well-being, serving our associates through a combination of digital and in-person offerings. Additionally, our LBU program provides access to educational opportunities for our eligible part-time and full-time associates in the U.S. and Puerto Rico, allowing associates the opportunity to learn critical skills in order to promote into in-demand jobs within the company through high school diplomas, short-form certificates and credentials or college degrees.\n\n**Digital** - *Drive a digital transformation that improves the associate experience and powers the business.* To deliver a seamless customer and associate experience, we continue to invest in consumer-grade digital tools designed to improve associate productivity, efficiency, engagement, and performance — and these capabilities have been expanded to some international markets. This allows associates to share real-time feedback and spend more time generating new ideas, developing strategy, and building relationships.\n\n### Our Website and Availability of SEC Reports and Other Information\n\nOur corporate website is located at www.stock.walmart.com. We file with, or furnish to, the SEC Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, amendments to those reports, proxy statements and annual reports to shareholders, and, from time to time, other documents. The reports and other documents filed with, or furnished to, the SEC are available to investors on or through our corporate website free of charge as soon as reasonably practicable after we electronically file them with or furnish them to the SEC. The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers, such as the Company, that file electronically with the SEC. The address of that website is www.sec.gov. Our SEC filings, our Reporting Protocols for Senior Financial Officers and our Code of Conduct can be found on our website at www.stock.walmart.com. These documents are available in print to any shareholder who requests a copy by writing or calling our Investor Relations Department, which is located at our principal offices.\n\nA description of any substantive amendment or waiver of Walmart's Reporting Protocols for Senior Financial Officers or our Code of Conduct for our chief executive officer, our chief financial officer and our controller, who is our principal accounting officer, will be disclosed on our website at www.stock.walmart.com under the Corporate Governance section. Any such description will be located on our website for a period of 12 months following the amendment or waiver.\n\n<page_footer>\n<page_number>12</page_number>\n</page_footer>",
+  "test_rules": [
+    {
+      "type": "missing_sentence_percent",
+      "bag_of_sentence": {
+        "Our Belonging focus aims to create opportunities for everyone, so that every eligible and qualified individual can thrive and perform": 1,
+        "We regularly review our processes around fair-pay practices and are committed to creating a performance culture where associates are rewarded based on meaningful factors such as qualifications, experience, performance and the work they do": 1,
+        "To build a company where associates feel seen, supported and connected, we gather and respond to associate feedback in a variety of ways, including in-person dialogue; leadership visits and listening sessions; surveys like our associate engagement survey and monthly pulse surveys; and always-on confidential channels, including our Open Door processes and ethics channels": 1,
+        "Well-being - Prioritize the emotional, physical and financial well-being of associates": 1,
+        "We invest in our associates by offering competitive wages, as well as a broad range of benefits to meet the diverse needs of our global associate population and their eligible dependents": 1,
+        "In the U": 2,
+        "S , this includes company-paid benefits such as 401(k) match, family building benefits, maternity leave, fertility benefits, a paid parental leave program to all full-time associates, paid time off, Associate Stock Purchase Plan match, life insurance, medical coverage (including supporting associates with a U": 1,
+        "S Medical Plan with free virtual visits for medical doctor urgent care), behavioral and mental health services (including virtual care with psychiatrists and psychologists), a Walmart discount card or Sam's Club membership and predictable scheduling that helps associates plan for life outside of work and know what to expect in their paychecks": 1,
+        "Additional information about how we invest in our associates' well-being, including wage structure and pay, can be found in the Our People brief in our most recent ESG reporting, which is available on our corporate website": 1,
+        "Nothing on our website, including our ESG reporting documents, or sections thereof, shall be deemed incorporated by reference into this Annual Report on Form 10-K or incorporated by reference into any of our other filings with the SEC": 1,
+        "Certain information relating to retirement-related benefits we provide to our associates is included in Note 11 to our Consolidated Financial Statements": 1,
+        "Growth - Provide ongoing growth, development and learning opportunities for associates and continue to attract talent with new skills": 1,
+        "We are invested in the growth of our associates – in support of our business and their success – by offering good entry-level jobs in addition to multiple career pathways that lead to great careers and better lives": 1,
+        "Approximately 75% of our U": 1,
+        "S salaried store, club and supply chain management started their careers in hourly positions": 1,
+        "Our focus on providing a path of opportunity for our associates through robust training, competitive wages and benefits and career mobility creates a strong associate value proposition and strengthens our workforce": 1,
+        "S , we seek to enable these pathways through programs like Walmart Academy, Live Better U (\"LBU\"), and other various associate training programs": 1,
+        "Walmart Academy offers training for on-the-job retail skills, leadership and well-being, serving our associates through a combination of digital and in-person offerings": 1,
+        "Additionally, our LBU program provides access to educational opportunities for our eligible part-time and full-time associates in the U": 1,
+        "S and Puerto Rico, allowing associates the opportunity to learn critical skills in order to promote into in-demand jobs within the company through high school diplomas, short-form certificates and credentials or college degrees": 1,
+        "Digital - Drive a digital transformation that improves the associate experience and powers the business": 1,
+        "To deliver a seamless customer and associate experience, we continue to invest in consumer-grade digital tools designed to improve associate productivity, efficiency, engagement, and performance — and these capabilities have been expanded to some international markets": 1,
+        "This allows associates to share real-time feedback and spend more time generating new ideas, developing strategy, and building relationships": 1,
+        "Our Website and Availability of SEC Reports and Other Information": 1,
+        "Our corporate website is located at www": 1,
+        "stock walmart": 3,
+        "com We file with, or furnish to, the SEC Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, amendments to those reports, proxy statements and annual reports to shareholders, and, from time to time, other documents": 1,
+        "The reports and other documents filed with, or furnished to, the SEC are available to investors on or through our corporate website free of charge as soon as reasonably practicable after we electronically file them with or furnish them to the SEC": 1,
+        "The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers, such as the Company, that file electronically with the SEC": 1,
+        "The address of that website is www": 1,
+        "sec gov": 1,
+        "Our SEC filings, our Reporting Protocols for Senior Financial Officers and our Code of Conduct can be found on our website at www": 1,
+        "com These documents are available in print to any shareholder who requests a copy by writing or calling our Investor Relations Department, which is located at our principal offices": 1,
+        "A description of any substantive amendment or waiver of Walmart's Reporting Protocols for Senior Financial Officers or our Code of Conduct for our chief executive officer, our chief financial officer and our controller, who is our principal accounting officer, will be disclosed on our website at www": 1,
+        "com under the Corporate Governance section": 1,
+        "Any such description will be located on our website for a period of 12 months following the amendment or waiver 12": 1
+      }
+    },
+    {
+      "type": "unexpected_sentence_percent",
+      "bag_of_sentence": {
+        "Our Belonging focus aims to create opportunities for everyone, so that every eligible and qualified individual can thrive and perform": 1,
+        "We regularly review our processes around fair-pay practices and are committed to creating a performance culture where associates are rewarded based on meaningful factors such as qualifications, experience, performance and the work they do": 1,
+        "To build a company where associates feel seen, supported and connected, we gather and respond to associate feedback in a variety of ways, including in-person dialogue; leadership visits and listening sessions; surveys like our associate engagement survey and monthly pulse surveys; and always-on confidential channels, including our Open Door processes and ethics channels": 1,
+        "Well-being - Prioritize the emotional, physical and financial well-being of associates": 1,
+        "We invest in our associates by offering competitive wages, as well as a broad range of benefits to meet the diverse needs of our global associate population and their eligible dependents": 1,
+        "In the U": 2,
+        "S , this includes company-paid benefits such as 401(k) match, family building benefits, maternity leave, fertility benefits, a paid parental leave program to all full-time associates, paid time off, Associate Stock Purchase Plan match, life insurance, medical coverage (including supporting associates with a U": 1,
+        "S Medical Plan with free virtual visits for medical doctor urgent care), behavioral and mental health services (including virtual care with psychiatrists and psychologists), a Walmart discount card or Sam's Club membership and predictable scheduling that helps associates plan for life outside of work and know what to expect in their paychecks": 1,
+        "Additional information about how we invest in our associates' well-being, including wage structure and pay, can be found in the Our People brief in our most recent ESG reporting, which is available on our corporate website": 1,
+        "Nothing on our website, including our ESG reporting documents, or sections thereof, shall be deemed incorporated by reference into this Annual Report on Form 10-K or incorporated by reference into any of our other filings with the SEC": 1,
+        "Certain information relating to retirement-related benefits we provide to our associates is included in Note 11 to our Consolidated Financial Statements": 1,
+        "Growth - Provide ongoing growth, development and learning opportunities for associates and continue to attract talent with new skills": 1,
+        "We are invested in the growth of our associates – in support of our business and their success – by offering good entry-level jobs in addition to multiple career pathways that lead to great careers and better lives": 1,
+        "Approximately 75% of our U": 1,
+        "S salaried store, club and supply chain management started their careers in hourly positions": 1,
+        "Our focus on providing a path of opportunity for our associates through robust training, competitive wages and benefits and career mobility creates a strong associate value proposition and strengthens our workforce": 1,
+        "S , we seek to enable these pathways through programs like Walmart Academy, Live Better U (\"LBU\"), and other various associate training programs": 1,
+        "Walmart Academy offers training for on-the-job retail skills, leadership and well-being, serving our associates through a combination of digital and in-person offerings": 1,
+        "Additionally, our LBU program provides access to educational opportunities for our eligible part-time and full-time associates in the U": 1,
+        "S and Puerto Rico, allowing associates the opportunity to learn critical skills in order to promote into in-demand jobs within the company through high school diplomas, short-form certificates and credentials or college degrees": 1,
+        "Digital - Drive a digital transformation that improves the associate experience and powers the business": 1,
+        "To deliver a seamless customer and associate experience, we continue to invest in consumer-grade digital tools designed to improve associate productivity, efficiency, engagement, and performance — and these capabilities have been expanded to some international markets": 1,
+        "This allows associates to share real-time feedback and spend more time generating new ideas, developing strategy, and building relationships": 1,
+        "Our Website and Availability of SEC Reports and Other Information": 1,
+        "Our corporate website is located at www": 1,
+        "stock walmart": 3,
+        "com We file with, or furnish to, the SEC Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, amendments to those reports, proxy statements and annual reports to shareholders, and, from time to time, other documents": 1,
+        "The reports and other documents filed with, or furnished to, the SEC are available to investors on or through our corporate website free of charge as soon as reasonably practicable after we electronically file them with or furnish them to the SEC": 1,
+        "The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers, such as the Company, that file electronically with the SEC": 1,
+        "The address of that website is www": 1,
+        "sec gov": 1,
+        "Our SEC filings, our Reporting Protocols for Senior Financial Officers and our Code of Conduct can be found on our website at www": 1,
+        "com These documents are available in print to any shareholder who requests a copy by writing or calling our Investor Relations Department, which is located at our principal offices": 1,
+        "A description of any substantive amendment or waiver of Walmart's Reporting Protocols for Senior Financial Officers or our Code of Conduct for our chief executive officer, our chief financial officer and our controller, who is our principal accounting officer, will be disclosed on our website at www": 1,
+        "com under the Corporate Governance section": 1,
+        "Any such description will be located on our website for a period of 12 months following the amendment or waiver 12": 1
+      },
+      "original_md": "Our Belonging focus aims to create opportunities for everyone, so that every eligible and qualified individual can thrive and perform. We regularly review our processes around fair-pay practices and are committed to creating a performance culture where associates are rewarded based on meaningful factors such as qualifications, experience, performance and the work they do.\n\nTo build a company where associates feel seen, supported and connected, we gather and respond to associate feedback in a variety of ways, including in-person dialogue; leadership visits and listening sessions; surveys like our associate engagement survey and monthly pulse surveys; and always-on confidential channels, including our Open Door processes and ethics channels.\n\n**Well-being** - *Prioritize the emotional, physical and financial well-being of associates.* We invest in our associates by offering competitive wages, as well as a broad range of benefits to meet the diverse needs of our global associate population and their eligible dependents. In the U.S., this includes company-paid benefits such as 401(k) match, family building benefits, maternity leave, fertility benefits, a paid parental leave program to all full-time associates, paid time off, Associate Stock Purchase Plan match, life insurance, medical coverage (including supporting associates with a U.S. Medical Plan with free virtual visits for medical doctor urgent care), behavioral and mental health services (including virtual care with psychiatrists and psychologists), a Walmart discount card or Sam's Club membership and predictable scheduling that helps associates plan for life outside of work and know what to expect in their paychecks.\n\nAdditional information about how we invest in our associates' well-being, including wage structure and pay, can be found in the Our People brief in our most recent ESG reporting, which is available on our corporate website. Nothing on our website, including our ESG reporting documents, or sections thereof, shall be deemed incorporated by reference into this Annual Report on Form 10-K or incorporated by reference into any of our other filings with the SEC. Certain information relating to retirement-related benefits we provide to our associates is included in <u>Note 11</u> to our Consolidated Financial Statements.\n\n**Growth** - *Provide ongoing growth, development and learning opportunities for associates and continue to attract talent with new skills.* We are invested in the growth of our associates – in support of our business and their success – by offering good entry-level jobs in addition to multiple career pathways that lead to great careers and better lives. Approximately 75% of our U.S. salaried store, club and supply chain management started their careers in hourly positions. Our focus on providing a path of opportunity for our associates through robust training, competitive wages and benefits and career mobility creates a strong associate value proposition and strengthens our workforce. In the U.S., we seek to enable these pathways through programs like Walmart Academy, Live Better U (\"LBU\"), and other various associate training programs. Walmart Academy offers training for on-the-job retail skills, leadership and well-being, serving our associates through a combination of digital and in-person offerings. Additionally, our LBU program provides access to educational opportunities for our eligible part-time and full-time associates in the U.S. and Puerto Rico, allowing associates the opportunity to learn critical skills in order to promote into in-demand jobs within the company through high school diplomas, short-form certificates and credentials or college degrees.\n\n**Digital** - *Drive a digital transformation that improves the associate experience and powers the business.* To deliver a seamless customer and associate experience, we continue to invest in consumer-grade digital tools designed to improve associate productivity, efficiency, engagement, and performance — and these capabilities have been expanded to some international markets. This allows associates to share real-time feedback and spend more time generating new ideas, developing strategy, and building relationships.\n\n### Our Website and Availability of SEC Reports and Other Information\n\nOur corporate website is located at www.stock.walmart.com. We file with, or furnish to, the SEC Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, amendments to those reports, proxy statements and annual reports to shareholders, and, from time to time, other documents. The reports and other documents filed with, or furnished to, the SEC are available to investors on or through our corporate website free of charge as soon as reasonably practicable after we electronically file them with or furnish them to the SEC. The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers, such as the Company, that file electronically with the SEC. The address of that website is www.sec.gov. Our SEC filings, our Reporting Protocols for Senior Financial Officers and our Code of Conduct can be found on our website at www.stock.walmart.com. These documents are available in print to any shareholder who requests a copy by writing or calling our Investor Relations Department, which is located at our principal offices.\n\nA description of any substantive amendment or waiver of Walmart's Reporting Protocols for Senior Financial Officers or our Code of Conduct for our chief executive officer, our chief financial officer and our controller, who is our principal accounting officer, will be disclosed on our website at www.stock.walmart.com under the Corporate Governance section. Any such description will be located on our website for a period of 12 months following the amendment or waiver.\n\n<page_footer>\n<page_number>12</page_number>\n</page_footer>"
+    },
+    {
+      "type": "too_many_sentence_occurence_percent",
+      "bag_of_sentence": {
+        "Our Belonging focus aims to create opportunities for everyone, so that every eligible and qualified individual can thrive and perform": 1,
+        "We regularly review our processes around fair-pay practices and are committed to creating a performance culture where associates are rewarded based on meaningful factors such as qualifications, experience, performance and the work they do": 1,
+        "To build a company where associates feel seen, supported and connected, we gather and respond to associate feedback in a variety of ways, including in-person dialogue; leadership visits and listening sessions; surveys like our associate engagement survey and monthly pulse surveys; and always-on confidential channels, including our Open Door processes and ethics channels": 1,
+        "Well-being - Prioritize the emotional, physical and financial well-being of associates": 1,
+        "We invest in our associates by offering competitive wages, as well as a broad range of benefits to meet the diverse needs of our global associate population and their eligible dependents": 1,
+        "In the U": 2,
+        "S , this includes company-paid benefits such as 401(k) match, family building benefits, maternity leave, fertility benefits, a paid parental leave program to all full-time associates, paid time off, Associate Stock Purchase Plan match, life insurance, medical coverage (including supporting associates with a U": 1,
+        "S Medical Plan with free virtual visits for medical doctor urgent care), behavioral and mental health services (including virtual care with psychiatrists and psychologists), a Walmart discount card or Sam's Club membership and predictable scheduling that helps associates plan for life outside of work and know what to expect in their paychecks": 1,
+        "Additional information about how we invest in our associates' well-being, including wage structure and pay, can be found in the Our People brief in our most recent ESG reporting, which is available on our corporate website": 1,
+        "Nothing on our website, including our ESG reporting documents, or sections thereof, shall be deemed incorporated by reference into this Annual Report on Form 10-K or incorporated by reference into any of our other filings with the SEC": 1,
+        "Certain information relating to retirement-related benefits we provide to our associates is included in Note 11 to our Consolidated Financial Statements": 1,
+        "Growth - Provide ongoing growth, development and learning opportunities for associates and continue to attract talent with new skills": 1,
+        "We are invested in the growth of our associates – in support of our business and their success – by offering good entry-level jobs in addition to multiple career pathways that lead to great careers and better lives": 1,
+        "Approximately 75% of our U": 1,
+        "S salaried store, club and supply chain management started their careers in hourly positions": 1,
+        "Our focus on providing a path of opportunity for our associates through robust training, competitive wages and benefits and career mobility creates a strong associate value proposition and strengthens our workforce": 1,
+        "S , we seek to enable these pathways through programs like Walmart Academy, Live Better U (\"LBU\"), and other various associate training programs": 1,
+        "Walmart Academy offers training for on-the-job retail skills, leadership and well-being, serving our associates through a combination of digital and in-person offerings": 1,
+        "Additionally, our LBU program provides access to educational opportunities for our eligible part-time and full-time associates in the U": 1,
+        "S and Puerto Rico, allowing associates the opportunity to learn critical skills in order to promote into in-demand jobs within the company through high school diplomas, short-form certificates and credentials or college degrees": 1,
+        "Digital - Drive a digital transformation that improves the associate experience and powers the business": 1,
+        "To deliver a seamless customer and associate experience, we continue to invest in consumer-grade digital tools designed to improve associate productivity, efficiency, engagement, and performance — and these capabilities have been expanded to some international markets": 1,
+        "This allows associates to share real-time feedback and spend more time generating new ideas, developing strategy, and building relationships": 1,
+        "Our Website and Availability of SEC Reports and Other Information": 1,
+        "Our corporate website is located at www": 1,
+        "stock walmart": 3,
+        "com We file with, or furnish to, the SEC Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, amendments to those reports, proxy statements and annual reports to shareholders, and, from time to time, other documents": 1,
+        "The reports and other documents filed with, or furnished to, the SEC are available to investors on or through our corporate website free of charge as soon as reasonably practicable after we electronically file them with or furnish them to the SEC": 1,
+        "The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers, such as the Company, that file electronically with the SEC": 1,
+        "The address of that website is www": 1,
+        "sec gov": 1,
+        "Our SEC filings, our Reporting Protocols for Senior Financial Officers and our Code of Conduct can be found on our website at www": 1,
+        "com These documents are available in print to any shareholder who requests a copy by writing or calling our Investor Relations Department, which is located at our principal offices": 1,
+        "A description of any substantive amendment or waiver of Walmart's Reporting Protocols for Senior Financial Officers or our Code of Conduct for our chief executive officer, our chief financial officer and our controller, who is our principal accounting officer, will be disclosed on our website at www": 1,
+        "com under the Corporate Governance section": 1,
+        "Any such description will be located on our website for a period of 12 months following the amendment or waiver 12": 1
+      }
+    },
+    {
+      "type": "unexpected_word_percent",
+      "bag_of_word": {
+        "10": 3,
+        "11": 1,
+        "12": 2,
+        "75": 1,
+        "401": 1,
+        "our": 40,
+        "belonging": 1,
+        "focus": 2,
+        "aims": 1,
+        "to": 30,
+        "create": 1,
+        "opportunities": 3,
+        "for": 11,
+        "everyone": 1,
+        "so": 1,
+        "that": 7,
+        "every": 1,
+        "eligible": 3,
+        "and": 46,
+        "qualified": 1,
+        "individual": 1,
+        "can": 3,
+        "thrive": 1,
+        "perform": 1,
+        "we": 10,
+        "regularly": 1,
+        "review": 1,
+        "processes": 2,
+        "around": 1,
+        "fair": 1,
+        "pay": 2,
+        "practices": 1,
+        "are": 5,
+        "committed": 1,
+        "creating": 1,
+        "performance": 3,
+        "culture": 1,
+        "where": 2,
+        "associates": 16,
+        "rewarded": 1,
+        "based": 1,
+        "on": 14,
+        "meaningful": 1,
+        "factors": 1,
+        "such": 4,
+        "as": 7,
+        "qualifications": 1,
+        "experience": 3,
+        "the": 24,
+        "work": 2,
+        "they": 1,
+        "do": 1,
+        "build": 1,
+        "company": 4,
+        "feel": 1,
+        "seen": 1,
+        "supported": 1,
+        "connected": 1,
+        "gather": 1,
+        "respond": 1,
+        "associate": 9,
+        "feedback": 2,
+        "in": 20,
+        "variety": 1,
+        "of": 19,
+        "ways": 1,
+        "including": 6,
+        "person": 2,
+        "dialogue": 1,
+        "leadership": 2,
+        "visits": 2,
+        "listening": 1,
+        "sessions": 1,
+        "surveys": 2,
+        "like": 2,
+        "engagement": 2,
+        "survey": 1,
+        "monthly": 1,
+        "pulse": 1,
+        "always": 1,
+        "confidential": 1,
+        "channels": 2,
+        "open": 1,
+        "door": 1,
+        "ethics": 1,
+        "well": 5,
+        "being": 4,
+        "prioritize": 1,
+        "emotional": 1,
+        "physical": 1,
+        "financial": 5,
+        "invest": 3,
+        "by": 5,
+        "offering": 2,
+        "competitive": 2,
+        "wages": 2,
+        "broad": 1,
+        "range": 1,
+        "benefits": 6,
+        "meet": 1,
+        "diverse": 1,
+        "needs": 1,
+        "global": 1,
+        "population": 1,
+        "their": 4,
+        "dependents": 1,
+        "this": 3,
+        "includes": 1,
+        "paid": 3,
+        "match": 2,
+        "family": 1,
+        "building": 2,
+        "maternity": 1,
+        "leave": 2,
+        "fertility": 1,
+        "parental": 1,
+        "program": 2,
+        "all": 1,
+        "full": 2,
+        "time": 8,
+        "off": 1,
+        "stock": 4,
+        "purchase": 1,
+        "plan": 3,
+        "life": 2,
+        "insurance": 1,
+        "medical": 3,
+        "coverage": 1,
+        "supporting": 1,
+        "with": 9,
+        "free": 2,
+        "virtual": 2,
+        "doctor": 1,
+        "urgent": 1,
+        "care": 2,
+        "behavioral": 1,
+        "mental": 1,
+        "health": 1,
+        "services": 1,
+        "psychiatrists": 1,
+        "psychologists": 1,
+        "walmart": 7,
+        "discount": 1,
+        "card": 1,
+        "or": 12,
+        "sam": 1,
+        "club": 2,
+        "membership": 1,
+        "predictable": 1,
+        "scheduling": 1,
+        "helps": 1,
+        "outside": 1,
+        "know": 1,
+        "what": 1,
+        "expect": 1,
+        "paychecks": 1,
+        "additional": 1,
+        "information": 5,
+        "about": 1,
+        "how": 1,
+        "wage": 1,
+        "structure": 1,
+        "be": 5,
+        "found": 2,
+        "people": 1,
+        "brief": 1,
+        "most": 1,
+        "recent": 1,
+        "esg": 2,
+        "reporting": 4,
+        "which": 2,
+        "is": 6,
+        "available": 3,
+        "corporate": 4,
+        "website": 10,
+        "nothing": 1,
+        "documents": 4,
+        "sections": 1,
+        "thereof": 1,
+        "shall": 1,
+        "deemed": 1,
+        "incorporated": 2,
+        "reference": 2,
+        "into": 3,
+        "annual": 3,
+        "report": 1,
+        "form": 5,
+        "any": 4,
+        "other": 6,
+        "filings": 2,
+        "sec": 9,
+        "certain": 1,
+        "relating": 1,
+        "retirement": 1,
+        "related": 1,
+        "provide": 2,
+        "included": 1,
+        "note": 1,
+        "consolidated": 1,
+        "statements": 3,
+        "growth": 3,
+        "ongoing": 1,
+        "development": 1,
+        "learning": 1,
+        "continue": 2,
+        "attract": 1,
+        "talent": 1,
+        "new": 2,
+        "skills": 3,
+        "invested": 1,
+        "support": 1,
+        "business": 2,
+        "success": 1,
+        "good": 1,
+        "entry": 1,
+        "level": 1,
+        "jobs": 2,
+        "addition": 1,
+        "multiple": 1,
+        "career": 2,
+        "pathways": 2,
+        "lead": 1,
+        "great": 1,
+        "careers": 2,
+        "better": 2,
+        "lives": 1,
+        "approximately": 1,
+        "salaried": 1,
+        "store": 1,
+        "supply": 1,
+        "chain": 1,
+        "management": 1,
+        "started": 1,
+        "hourly": 1,
+        "positions": 1,
+        "providing": 1,
+        "path": 1,
+        "opportunity": 2,
+        "through": 5,
+        "robust": 1,
+        "training": 3,
+        "mobility": 1,
+        "creates": 1,
+        "strong": 1,
+        "value": 1,
+        "proposition": 1,
+        "strengthens": 1,
+        "workforce": 1,
+        "seek": 1,
+        "enable": 1,
+        "these": 3,
+        "programs": 2,
+        "academy": 2,
+        "live": 1,
+        "lbu": 2,
+        "various": 1,
+        "offers": 1,
+        "job": 1,
+        "retail": 1,
+        "serving": 1,
+        "combination": 1,
+        "digital": 4,
+        "offerings": 1,
+        "additionally": 1,
+        "provides": 1,
+        "access": 1,
+        "educational": 1,
+        "part": 1,
+        "puerto": 1,
+        "rico": 1,
+        "allowing": 1,
+        "learn": 1,
+        "critical": 1,
+        "order": 1,
+        "promote": 1,
+        "demand": 1,
+        "within": 1,
+        "high": 1,
+        "school": 1,
+        "diplomas": 1,
+        "short": 1,
+        "certificates": 1,
+        "credentials": 1,
+        "college": 1,
+        "degrees": 1,
+        "drive": 1,
+        "transformation": 1,
+        "improves": 1,
+        "powers": 1,
+        "deliver": 1,
+        "seamless": 1,
+        "customer": 1,
+        "consumer": 1,
+        "grade": 1,
+        "tools": 1,
+        "designed": 1,
+        "improve": 1,
+        "productivity": 1,
+        "efficiency": 1,
+        "capabilities": 1,
+        "have": 1,
+        "been": 1,
+        "expanded": 1,
+        "some": 1,
+        "international": 1,
+        "markets": 1,
+        "allows": 1,
+        "share": 1,
+        "real": 1,
+        "spend": 1,
+        "more": 1,
+        "generating": 1,
+        "ideas": 1,
+        "developing": 1,
+        "strategy": 1,
+        "relationships": 1,
+        "availability": 1,
+        "reports": 8,
+        "located": 3,
+        "at": 4,
+        "www": 4,
+        "com": 3,
+        "file": 3,
+        "furnish": 2,
+        "quarterly": 1,
+        "current": 1,
+        "amendments": 1,
+        "those": 1,
+        "proxy": 2,
+        "shareholders": 1,
+        "from": 1,
+        "filed": 1,
+        "furnished": 1,
+        "investors": 1,
+        "charge": 1,
+        "soon": 1,
+        "reasonably": 1,
+        "practicable": 1,
+        "after": 1,
+        "electronically": 2,
+        "them": 2,
+        "maintains": 1,
+        "contains": 1,
+        "regarding": 1,
+        "issuers": 1,
+        "address": 1,
+        "gov": 1,
+        "protocols": 2,
+        "senior": 2,
+        "officers": 2,
+        "code": 2,
+        "conduct": 2,
+        "print": 1,
+        "shareholder": 1,
+        "who": 2,
+        "requests": 1,
+        "copy": 1,
+        "writing": 1,
+        "calling": 1,
+        "investor": 1,
+        "relations": 1,
+        "department": 1,
+        "principal": 2,
+        "offices": 1,
+        "description": 2,
+        "substantive": 1,
+        "amendment": 2,
+        "waiver": 2,
+        "chief": 2,
+        "executive": 1,
+        "officer": 3,
+        "controller": 1,
+        "accounting": 1,
+        "will": 2,
+        "disclosed": 1,
+        "under": 1,
+        "governance": 1,
+        "section": 1,
+        "period": 1,
+        "months": 1,
+        "following": 1
+      }
+    },
+    {
+      "type": "too_many_word_occurence_percent",
+      "bag_of_word": {
+        "10": 3,
+        "11": 1,
+        "12": 2,
+        "75": 1,
+        "401": 1,
+        "our": 40,
+        "belonging": 1,
+        "focus": 2,
+        "aims": 1,
+        "to": 30,
+        "create": 1,
+        "opportunities": 3,
+        "for": 11,
+        "everyone": 1,
+        "so": 1,
+        "that": 7,
+        "every": 1,
+        "eligible": 3,
+        "and": 46,
+        "qualified": 1,
+        "individual": 1,
+        "can": 3,
+        "thrive": 1,
+        "perform": 1,
+        "we": 10,
+        "regularly": 1,
+        "review": 1,
+        "processes": 2,
+        "around": 1,
+        "fair": 1,
+        "pay": 2,
+        "practices": 1,
+        "are": 5,
+        "committed": 1,
+        "creating": 1,
+        "performance": 3,
+        "culture": 1,
+        "where": 2,
+        "associates": 16,
+        "rewarded": 1,
+        "based": 1,
+        "on": 14,
+        "meaningful": 1,
+        "factors": 1,
+        "such": 4,
+        "as": 7,
+        "qualifications": 1,
+        "experience": 3,
+        "the": 24,
+        "work": 2,
+        "they": 1,
+        "do": 1,
+        "build": 1,
+        "company": 4,
+        "feel": 1,
+        "seen": 1,
+        "supported": 1,
+        "connected": 1,
+        "gather": 1,
+        "respond": 1,
+        "associate": 9,
+        "feedback": 2,
+        "in": 20,
+        "variety": 1,
+        "of": 19,
+        "ways": 1,
+        "including": 6,
+        "person": 2,
+        "dialogue": 1,
+        "leadership": 2,
+        "visits": 2,
+        "listening": 1,
+        "sessions": 1,
+        "surveys": 2,
+        "like": 2,
+        "engagement": 2,
+        "survey": 1,
+        "monthly": 1,
+        "pulse": 1,
+        "always": 1,
+        "confidential": 1,
+        "channels": 2,
+        "open": 1,
+        "door": 1,
+        "ethics": 1,
+        "well": 5,
+        "being": 4,
+        "prioritize": 1,
+        "emotional": 1,
+        "physical": 1,
+        "financial": 5,
+        "invest": 3,
+        "by": 5,
+        "offering": 2,
+        "competitive": 2,
+        "wages": 2,
+        "broad": 1,
+        "range": 1,
+        "benefits": 6,
+        "meet": 1,
+        "diverse": 1,
+        "needs": 1,
+        "global": 1,
+        "population": 1,
+        "their": 4,
+        "dependents": 1,
+        "this": 3,
+        "includes": 1,
+        "paid": 3,
+        "match": 2,
+        "family": 1,
+        "building": 2,
+        "maternity": 1,
+        "leave": 2,
+        "fertility": 1,
+        "parental": 1,
+        "program": 2,
+        "all": 1,
+        "full": 2,
+        "time": 8,
+        "off": 1,
+        "stock": 4,
+        "purchase": 1,
+        "plan": 3,
+        "life": 2,
+        "insurance": 1,
+        "medical": 3,
+        "coverage": 1,
+        "supporting": 1,
+        "with": 9,
+        "free": 2,
+        "virtual": 2,
+        "doctor": 1,
+        "urgent": 1,
+        "care": 2,
+        "behavioral": 1,
+        "mental": 1,
+        "health": 1,
+        "services": 1,
+        "psychiatrists": 1,
+        "psychologists": 1,
+        "walmart": 7,
+        "discount": 1,
+        "card": 1,
+        "or": 12,
+        "sam": 1,
+        "club": 2,
+        "membership": 1,
+        "predictable": 1,
+        "scheduling": 1,
+        "helps": 1,
+        "outside": 1,
+        "know": 1,
+        "what": 1,
+        "expect": 1,
+        "paychecks": 1,
+        "additional": 1,
+        "information": 5,
+        "about": 1,
+        "how": 1,
+        "wage": 1,
+        "structure": 1,
+        "be": 5,
+        "found": 2,
+        "people": 1,
+        "brief": 1,
+        "most": 1,
+        "recent": 1,
+        "esg": 2,
+        "reporting": 4,
+        "which": 2,
+        "is": 6,
+        "available": 3,
+        "corporate": 4,
+        "website": 10,
+        "nothing": 1,
+        "documents": 4,
+        "sections": 1,
+        "thereof": 1,
+        "shall": 1,
+        "deemed": 1,
+        "incorporated": 2,
+        "reference": 2,
+        "into": 3,
+        "annual": 3,
+        "report": 1,
+        "form": 5,
+        "any": 4,
+        "other": 6,
+        "filings": 2,
+        "sec": 9,
+        "certain": 1,
+        "relating": 1,
+        "retirement": 1,
+        "related": 1,
+        "provide": 2,
+        "included": 1,
+        "note": 1,
+        "consolidated": 1,
+        "statements": 3,
+        "growth": 3,
+        "ongoing": 1,
+        "development": 1,
+        "learning": 1,
+        "continue": 2,
+        "attract": 1,
+        "talent": 1,
+        "new": 2,
+        "skills": 3,
+        "invested": 1,
+        "support": 1,
+        "business": 2,
+        "success": 1,
+        "good": 1,
+        "entry": 1,
+        "level": 1,
+        "jobs": 2,
+        "addition": 1,
+        "multiple": 1,
+        "career": 2,
+        "pathways": 2,
+        "lead": 1,
+        "great": 1,
+        "careers": 2,
+        "better": 2,
+        "lives": 1,
+        "approximately": 1,
+        "salaried": 1,
+        "store": 1,
+        "supply": 1,
+        "chain": 1,
+        "management": 1,
+        "started": 1,
+        "hourly": 1,
+        "positions": 1,
+        "providing": 1,
+        "path": 1,
+        "opportunity": 2,
+        "through": 5,
+        "robust": 1,
+        "training": 3,
+        "mobility": 1,
+        "creates": 1,
+        "strong": 1,
+        "value": 1,
+        "proposition": 1,
+        "strengthens": 1,
+        "workforce": 1,
+        "seek": 1,
+        "enable": 1,
+        "these": 3,
+        "programs": 2,
+        "academy": 2,
+        "live": 1,
+        "lbu": 2,
+        "various": 1,
+        "offers": 1,
+        "job": 1,
+        "retail": 1,
+        "serving": 1,
+        "combination": 1,
+        "digital": 4,
+        "offerings": 1,
+        "additionally": 1,
+        "provides": 1,
+        "access": 1,
+        "educational": 1,
+        "part": 1,
+        "puerto": 1,
+        "rico": 1,
+        "allowing": 1,
+        "learn": 1,
+        "critical": 1,
+        "order": 1,
+        "promote": 1,
+        "demand": 1,
+        "within": 1,
+        "high": 1,
+        "school": 1,
+        "diplomas": 1,
+        "short": 1,
+        "certificates": 1,
+        "credentials": 1,
+        "college": 1,
+        "degrees": 1,
+        "drive": 1,
+        "transformation": 1,
+        "improves": 1,
+        "powers": 1,
+        "deliver": 1,
+        "seamless": 1,
+        "customer": 1,
+        "consumer": 1,
+        "grade": 1,
+        "tools": 1,
+        "designed": 1,
+        "improve": 1,
+        "productivity": 1,
+        "efficiency": 1,
+        "capabilities": 1,
+        "have": 1,
+        "been": 1,
+        "expanded": 1,
+        "some": 1,
+        "international": 1,
+        "markets": 1,
+        "allows": 1,
+        "share": 1,
+        "real": 1,
+        "spend": 1,
+        "more": 1,
+        "generating": 1,
+        "ideas": 1,
+        "developing": 1,
+        "strategy": 1,
+        "relationships": 1,
+        "availability": 1,
+        "reports": 8,
+        "located": 3,
+        "at": 4,
+        "www": 4,
+        "com": 3,
+        "file": 3,
+        "furnish": 2,
+        "quarterly": 1,
+        "current": 1,
+        "amendments": 1,
+        "those": 1,
+        "proxy": 2,
+        "shareholders": 1,
+        "from": 1,
+        "filed": 1,
+        "furnished": 1,
+        "investors": 1,
+        "charge": 1,
+        "soon": 1,
+        "reasonably": 1,
+        "practicable": 1,
+        "after": 1,
+        "electronically": 2,
+        "them": 2,
+        "maintains": 1,
+        "contains": 1,
+        "regarding": 1,
+        "issuers": 1,
+        "address": 1,
+        "gov": 1,
+        "protocols": 2,
+        "senior": 2,
+        "officers": 2,
+        "code": 2,
+        "conduct": 2,
+        "print": 1,
+        "shareholder": 1,
+        "who": 2,
+        "requests": 1,
+        "copy": 1,
+        "writing": 1,
+        "calling": 1,
+        "investor": 1,
+        "relations": 1,
+        "department": 1,
+        "principal": 2,
+        "offices": 1,
+        "description": 2,
+        "substantive": 1,
+        "amendment": 2,
+        "waiver": 2,
+        "chief": 2,
+        "executive": 1,
+        "officer": 3,
+        "controller": 1,
+        "accounting": 1,
+        "will": 2,
+        "disclosed": 1,
+        "under": 1,
+        "governance": 1,
+        "section": 1,
+        "period": 1,
+        "months": 1,
+        "following": 1
+      }
+    },
+    {
+      "type": "missing_word_percent",
+      "bag_of_word": {
+        "10": 3,
+        "11": 1,
+        "12": 2,
+        "75": 1,
+        "401": 1,
+        "our": 40,
+        "belonging": 1,
+        "focus": 2,
+        "aims": 1,
+        "to": 30,
+        "create": 1,
+        "opportunities": 3,
+        "for": 11,
+        "everyone": 1,
+        "so": 1,
+        "that": 7,
+        "every": 1,
+        "eligible": 3,
+        "and": 46,
+        "qualified": 1,
+        "individual": 1,
+        "can": 3,
+        "thrive": 1,
+        "perform": 1,
+        "we": 10,
+        "regularly": 1,
+        "review": 1,
+        "processes": 2,
+        "around": 1,
+        "fair": 1,
+        "pay": 2,
+        "practices": 1,
+        "are": 5,
+        "committed": 1,
+        "creating": 1,
+        "performance": 3,
+        "culture": 1,
+        "where": 2,
+        "associates": 16,
+        "rewarded": 1,
+        "based": 1,
+        "on": 14,
+        "meaningful": 1,
+        "factors": 1,
+        "such": 4,
+        "as": 7,
+        "qualifications": 1,
+        "experience": 3,
+        "the": 24,
+        "work": 2,
+        "they": 1,
+        "do": 1,
+        "build": 1,
+        "company": 4,
+        "feel": 1,
+        "seen": 1,
+        "supported": 1,
+        "connected": 1,
+        "gather": 1,
+        "respond": 1,
+        "associate": 9,
+        "feedback": 2,
+        "in": 20,
+        "variety": 1,
+        "of": 19,
+        "ways": 1,
+        "including": 6,
+        "person": 2,
+        "dialogue": 1,
+        "leadership": 2,
+        "visits": 2,
+        "listening": 1,
+        "sessions": 1,
+        "surveys": 2,
+        "like": 2,
+        "engagement": 2,
+        "survey": 1,
+        "monthly": 1,
+        "pulse": 1,
+        "always": 1,
+        "confidential": 1,
+        "channels": 2,
+        "open": 1,
+        "door": 1,
+        "ethics": 1,
+        "well": 5,
+        "being": 4,
+        "prioritize": 1,
+        "emotional": 1,
+        "physical": 1,
+        "financial": 5,
+        "invest": 3,
+        "by": 5,
+        "offering": 2,
+        "competitive": 2,
+        "wages": 2,
+        "broad": 1,
+        "range": 1,
+        "benefits": 6,
+        "meet": 1,
+        "diverse": 1,
+        "needs": 1,
+        "global": 1,
+        "population": 1,
+        "their": 4,
+        "dependents": 1,
+        "this": 3,
+        "includes": 1,
+        "paid": 3,
+        "match": 2,
+        "family": 1,
+        "building": 2,
+        "maternity": 1,
+        "leave": 2,
+        "fertility": 1,
+        "parental": 1,
+        "program": 2,
+        "all": 1,
+        "full": 2,
+        "time": 8,
+        "off": 1,
+        "stock": 4,
+        "purchase": 1,
+        "plan": 3,
+        "life": 2,
+        "insurance": 1,
+        "medical": 3,
+        "coverage": 1,
+        "supporting": 1,
+        "with": 9,
+        "free": 2,
+        "virtual": 2,
+        "doctor": 1,
+        "urgent": 1,
+        "care": 2,
+        "behavioral": 1,
+        "mental": 1,
+        "health": 1,
+        "services": 1,
+        "psychiatrists": 1,
+        "psychologists": 1,
+        "walmart": 7,
+        "discount": 1,
+        "card": 1,
+        "or": 12,
+        "sam": 1,
+        "club": 2,
+        "membership": 1,
+        "predictable": 1,
+        "scheduling": 1,
+        "helps": 1,
+        "outside": 1,
+        "know": 1,
+        "what": 1,
+        "expect": 1,
+        "paychecks": 1,
+        "additional": 1,
+        "information": 5,
+        "about": 1,
+        "how": 1,
+        "wage": 1,
+        "structure": 1,
+        "be": 5,
+        "found": 2,
+        "people": 1,
+        "brief": 1,
+        "most": 1,
+        "recent": 1,
+        "esg": 2,
+        "reporting": 4,
+        "which": 2,
+        "is": 6,
+        "available": 3,
+        "corporate": 4,
+        "website": 10,
+        "nothing": 1,
+        "documents": 4,
+        "sections": 1,
+        "thereof": 1,
+        "shall": 1,
+        "deemed": 1,
+        "incorporated": 2,
+        "reference": 2,
+        "into": 3,
+        "annual": 3,
+        "report": 1,
+        "form": 5,
+        "any": 4,
+        "other": 6,
+        "filings": 2,
+        "sec": 9,
+        "certain": 1,
+        "relating": 1,
+        "retirement": 1,
+        "related": 1,
+        "provide": 2,
+        "included": 1,
+        "note": 1,
+        "consolidated": 1,
+        "statements": 3,
+        "growth": 3,
+        "ongoing": 1,
+        "development": 1,
+        "learning": 1,
+        "continue": 2,
+        "attract": 1,
+        "talent": 1,
+        "new": 2,
+        "skills": 3,
+        "invested": 1,
+        "support": 1,
+        "business": 2,
+        "success": 1,
+        "good": 1,
+        "entry": 1,
+        "level": 1,
+        "jobs": 2,
+        "addition": 1,
+        "multiple": 1,
+        "career": 2,
+        "pathways": 2,
+        "lead": 1,
+        "great": 1,
+        "careers": 2,
+        "better": 2,
+        "lives": 1,
+        "approximately": 1,
+        "salaried": 1,
+        "store": 1,
+        "supply": 1,
+        "chain": 1,
+        "management": 1,
+        "started": 1,
+        "hourly": 1,
+        "positions": 1,
+        "providing": 1,
+        "path": 1,
+        "opportunity": 2,
+        "through": 5,
+        "robust": 1,
+        "training": 3,
+        "mobility": 1,
+        "creates": 1,
+        "strong": 1,
+        "value": 1,
+        "proposition": 1,
+        "strengthens": 1,
+        "workforce": 1,
+        "seek": 1,
+        "enable": 1,
+        "these": 3,
+        "programs": 2,
+        "academy": 2,
+        "live": 1,
+        "lbu": 2,
+        "various": 1,
+        "offers": 1,
+        "job": 1,
+        "retail": 1,
+        "serving": 1,
+        "combination": 1,
+        "digital": 4,
+        "offerings": 1,
+        "additionally": 1,
+        "provides": 1,
+        "access": 1,
+        "educational": 1,
+        "part": 1,
+        "puerto": 1,
+        "rico": 1,
+        "allowing": 1,
+        "learn": 1,
+        "critical": 1,
+        "order": 1,
+        "promote": 1,
+        "demand": 1,
+        "within": 1,
+        "high": 1,
+        "school": 1,
+        "diplomas": 1,
+        "short": 1,
+        "certificates": 1,
+        "credentials": 1,
+        "college": 1,
+        "degrees": 1,
+        "drive": 1,
+        "transformation": 1,
+        "improves": 1,
+        "powers": 1,
+        "deliver": 1,
+        "seamless": 1,
+        "customer": 1,
+        "consumer": 1,
+        "grade": 1,
+        "tools": 1,
+        "designed": 1,
+        "improve": 1,
+        "productivity": 1,
+        "efficiency": 1,
+        "capabilities": 1,
+        "have": 1,
+        "been": 1,
+        "expanded": 1,
+        "some": 1,
+        "international": 1,
+        "markets": 1,
+        "allows": 1,
+        "share": 1,
+        "real": 1,
+        "spend": 1,
+        "more": 1,
+        "generating": 1,
+        "ideas": 1,
+        "developing": 1,
+        "strategy": 1,
+        "relationships": 1,
+        "availability": 1,
+        "reports": 8,
+        "located": 3,
+        "at": 4,
+        "www": 4,
+        "com": 3,
+        "file": 3,
+        "furnish": 2,
+        "quarterly": 1,
+        "current": 1,
+        "amendments": 1,
+        "those": 1,
+        "proxy": 2,
+        "shareholders": 1,
+        "from": 1,
+        "filed": 1,
+        "furnished": 1,
+        "investors": 1,
+        "charge": 1,
+        "soon": 1,
+        "reasonably": 1,
+        "practicable": 1,
+        "after": 1,
+        "electronically": 2,
+        "them": 2,
+        "maintains": 1,
+        "contains": 1,
+        "regarding": 1,
+        "issuers": 1,
+        "address": 1,
+        "gov": 1,
+        "protocols": 2,
+        "senior": 2,
+        "officers": 2,
+        "code": 2,
+        "conduct": 2,
+        "print": 1,
+        "shareholder": 1,
+        "who": 2,
+        "requests": 1,
+        "copy": 1,
+        "writing": 1,
+        "calling": 1,
+        "investor": 1,
+        "relations": 1,
+        "department": 1,
+        "principal": 2,
+        "offices": 1,
+        "description": 2,
+        "substantive": 1,
+        "amendment": 2,
+        "waiver": 2,
+        "chief": 2,
+        "executive": 1,
+        "officer": 3,
+        "controller": 1,
+        "accounting": 1,
+        "will": 2,
+        "disclosed": 1,
+        "under": 1,
+        "governance": 1,
+        "section": 1,
+        "period": 1,
+        "months": 1,
+        "following": 1
+      }
+    },
+    {
+      "type": "bag_of_digit_percent",
+      "bag_of_digit": {
+        "0": 4,
+        "1": 8,
+        "2": 2,
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 1
+      }
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "10"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "11"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "12"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "401"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "75"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "about"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "academy"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "access"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "accounting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "addition"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "additional"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "additionally"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "address"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "after"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "aims"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "all"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "allowing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "allows"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "always"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "amendment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "amendments"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "and"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "annual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "any"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "approximately"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "are"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "around"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "as"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "associate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "associates"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "at"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "attract"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "availability"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "available"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "based"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "be"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "been"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "behavioral"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "being"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "belonging"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "benefits"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "better"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "brief"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "broad"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "build"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "building"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "business"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "by"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "calling"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "can"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "capabilities"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "card"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "care"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "career"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "careers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "certain"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "certificates"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "chain"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "channels"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "charge"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "chief"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "club"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "code"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "college"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "com"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "combination"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "committed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "company"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "competitive"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "conduct"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "confidential"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "connected"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consolidated"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consumer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "contains"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "continue"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "controller"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "copy"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "corporate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "coverage"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "create"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "creates"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "creating"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "credentials"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "critical"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "culture"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "current"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "customer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "deemed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "degrees"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "deliver"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "demand"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "department"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "dependents"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "description"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "designed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "developing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "development"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "dialogue"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "digital"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "diplomas"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "disclosed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "discount"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "diverse"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "do"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "doctor"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "documents"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "door"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "drive"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "educational"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "efficiency"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "electronically"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "eligible"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "emotional"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "enable"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "engagement"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "entry"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "esg"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ethics"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "every"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "everyone"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "executive"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "expanded"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "expect"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "experience"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "factors"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fair"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "family"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "feedback"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "feel"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fertility"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "file"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "filed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "filings"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "financial"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "focus"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "following"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "for"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "form"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "found"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "free"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "from"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "full"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "furnish"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "furnished"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "gather"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "generating"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "global"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "good"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "gov"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "governance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "grade"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "great"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "growth"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "have"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "health"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "helps"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "high"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "hourly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "how"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ideas"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "improve"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "improves"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "in"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "included"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "includes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "including"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "incorporated"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "individual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "information"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "insurance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "international"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "into"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "invest"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "invested"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "investor"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "investors"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "is"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "issuers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "job"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "jobs"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "know"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "lbu"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "lead"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "leadership"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "learn"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "learning"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "leave"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "level"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "life"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "like"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "listening"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "live"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "lives"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "located"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "maintains"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "management"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "markets"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "match"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "maternity"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "meaningful"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "medical"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "meet"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "membership"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "mental"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "mobility"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "monthly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "months"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "more"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "most"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "multiple"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "needs"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "new"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "note"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "nothing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "of"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "off"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "offering"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "offerings"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "offers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "officer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "officers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "offices"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "on"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ongoing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "open"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "opportunities"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "opportunity"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "or"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "order"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "other"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "our"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "outside"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "paid"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "parental"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "part"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "path"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pathways"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pay"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "paychecks"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "people"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "perform"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "performance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "period"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "person"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "physical"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "plan"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "population"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "positions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "powers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "practicable"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "practices"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "predictable"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "principal"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "print"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "prioritize"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "processes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "productivity"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "program"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "programs"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "promote"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "proposition"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "protocols"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "provide"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "provides"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "providing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "proxy"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "psychiatrists"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "psychologists"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "puerto"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pulse"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "purchase"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "qualifications"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "qualified"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "quarterly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "range"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "real"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reasonably"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "recent"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reference"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regarding"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regularly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "related"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "relating"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "relations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "relationships"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "report"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reporting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reports"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "requests"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "respond"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "retail"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "retirement"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "review"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "rewarded"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "rico"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "robust"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "salaried"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sam"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "scheduling"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "school"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "seamless"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sec"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "section"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sections"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "seek"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "seen"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "senior"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "services"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "serving"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sessions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "shall"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "share"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "shareholder"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "shareholders"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "short"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "skills"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "so"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "some"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "soon"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "spend"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "started"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "statements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "stock"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "store"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "strategy"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "strengthens"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "strong"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "structure"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "substantive"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "success"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "such"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "supply"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "support"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "supported"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "supporting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "survey"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "surveys"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "talent"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "that"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "the"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "their"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "them"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "thereof"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "these"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "they"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "this"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "those"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "thrive"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "through"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "time"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "to"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "tools"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "training"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "transformation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "under"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "urgent"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "value"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "variety"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "various"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "virtual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "visits"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "wage"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "wages"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "waiver"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "walmart"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ways"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "we"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "website"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "well"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "what"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "where"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "which"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "who"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "will"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "with"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "within"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "work"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "workforce"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "writing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "www"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "A description of any substantive amendment or waiver of Walmart's Reporting Protocols for Senior Financial Officers or our Code of Conduct for our chief executive officer, our chief financial officer and our controller, who is our principal accounting officer, will be disclosed on our website at www"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Additional information about how we invest in our associates' well-being, including wage structure and pay, can be found in the Our People brief in our most recent ESG reporting, which is available on our corporate website"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Additionally, our LBU program provides access to educational opportunities for our eligible part-time and full-time associates in the U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Any such description will be located on our website for a period of 12 months following the amendment or waiver 12"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Approximately 75% of our U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Certain information relating to retirement-related benefits we provide to our associates is included in Note 11 to our Consolidated Financial Statements"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Digital - Drive a digital transformation that improves the associate experience and powers the business"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Growth - Provide ongoing growth, development and learning opportunities for associates and continue to attract talent with new skills"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "In the U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Nothing on our website, including our ESG reporting documents, or sections thereof, shall be deemed incorporated by reference into this Annual Report on Form 10-K or incorporated by reference into any of our other filings with the SEC"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our Belonging focus aims to create opportunities for everyone, so that every eligible and qualified individual can thrive and perform"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our SEC filings, our Reporting Protocols for Senior Financial Officers and our Code of Conduct can be found on our website at www"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our Website and Availability of SEC Reports and Other Information"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our corporate website is located at www"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our focus on providing a path of opportunity for our associates through robust training, competitive wages and benefits and career mobility creates a strong associate value proposition and strengthens our workforce"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S , this includes company-paid benefits such as 401(k) match, family building benefits, maternity leave, fertility benefits, a paid parental leave program to all full-time associates, paid time off, Associate Stock Purchase Plan match, life insurance, medical coverage (including supporting associates with a U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S , we seek to enable these pathways through programs like Walmart Academy, Live Better U (\"LBU\"), and other various associate training programs"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S Medical Plan with free virtual visits for medical doctor urgent care), behavioral and mental health services (including virtual care with psychiatrists and psychologists), a Walmart discount card or Sam's Club membership and predictable scheduling that helps associates plan for life outside of work and know what to expect in their paychecks"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S and Puerto Rico, allowing associates the opportunity to learn critical skills in order to promote into in-demand jobs within the company through high school diplomas, short-form certificates and credentials or college degrees"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S salaried store, club and supply chain management started their careers in hourly positions"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers, such as the Company, that file electronically with the SEC"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The address of that website is www"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The reports and other documents filed with, or furnished to, the SEC are available to investors on or through our corporate website free of charge as soon as reasonably practicable after we electronically file them with or furnish them to the SEC"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "This allows associates to share real-time feedback and spend more time generating new ideas, developing strategy, and building relationships"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "To build a company where associates feel seen, supported and connected, we gather and respond to associate feedback in a variety of ways, including in-person dialogue; leadership visits and listening sessions; surveys like our associate engagement survey and monthly pulse surveys; and always-on confidential channels, including our Open Door processes and ethics channels"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "To deliver a seamless customer and associate experience, we continue to invest in consumer-grade digital tools designed to improve associate productivity, efficiency, engagement, and performance — and these capabilities have been expanded to some international markets"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Walmart Academy offers training for on-the-job retail skills, leadership and well-being, serving our associates through a combination of digital and in-person offerings"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We are invested in the growth of our associates – in support of our business and their success – by offering good entry-level jobs in addition to multiple career pathways that lead to great careers and better lives"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We invest in our associates by offering competitive wages, as well as a broad range of benefits to meet the diverse needs of our global associate population and their eligible dependents"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We regularly review our processes around fair-pay practices and are committed to creating a performance culture where associates are rewarded based on meaningful factors such as qualifications, experience, performance and the work they do"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Well-being - Prioritize the emotional, physical and financial well-being of associates"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "com These documents are available in print to any shareholder who requests a copy by writing or calling our Investor Relations Department, which is located at our principal offices"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "com We file with, or furnish to, the SEC Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, amendments to those reports, proxy statements and annual reports to shareholders, and, from time to time, other documents"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "com under the Corporate Governance section"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "sec gov"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "stock walmart"
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our Belonging focus aims to create opportunities for everyone, so that every eligible and qualified individual can thrive and perform.",
+      "after": "We regularly review our processes around fair-pay practices and are committed to creating a performance culture where associates are rewarded based on meaningful factors such as qualifications, experience, performance and the work they do.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We regularly review our processes around fair-pay practices and are committed to creating a performance culture where associates are rewarded based on meaningful factors such as qualifications, experience, performance and the work they do.",
+      "after": "To build a company where associates feel seen, supported and connected, we gather and respond to associate feedback in a variety of ways, including in-person dialogue; leadership visits and listening sessions; surveys like our associate engagement survey and monthly pulse surveys; and always-on confidential channels, including our Open Door processes and ethics channels.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "To build a company where associates feel seen, supported and connected, we gather and respond to associate feedback in a variety of ways, including in-person dialogue; leadership visits and listening sessions; surveys like our associate engagement survey and monthly pulse surveys; and always-on confidential channels, including our Open Door processes and ethics channels.",
+      "after": "Well-being - Prioritize the emotional, physical and financial well-being of associates.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Well-being - Prioritize the emotional, physical and financial well-being of associates.",
+      "after": "We invest in our associates by offering competitive wages, as well as a broad range of benefits to meet the diverse needs of our global associate population and their eligible dependents.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We invest in our associates by offering competitive wages, as well as a broad range of benefits to meet the diverse needs of our global associate population and their eligible dependents.",
+      "after": "In the U.S., this includes company-paid benefits such as 401(k) match, family building benefits, maternity leave, fertility benefits, a paid parental leave program to all full-time associates, paid time off, Associate Stock Purchase Plan match, life insurance, medical coverage (including supporting associates with a U.S.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "In the U.S., this includes company-paid benefits such as 401(k) match, family building benefits, maternity leave, fertility benefits, a paid parental leave program to all full-time associates, paid time off, Associate Stock Purchase Plan match, life insurance, medical coverage (including supporting associates with a U.S.",
+      "after": "Medical Plan with free virtual visits for medical doctor urgent care), behavioral and mental health services (including virtual care with psychiatrists and psychologists), a Walmart discount card or Sam's Club membership and predictable scheduling that helps associates plan for life outside of work and know what to expect in their paychecks.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Medical Plan with free virtual visits for medical doctor urgent care), behavioral and mental health services (including virtual care with psychiatrists and psychologists), a Walmart discount card or Sam's Club membership and predictable scheduling that helps associates plan for life outside of work and know what to expect in their paychecks.",
+      "after": "Additional information about how we invest in our associates' well-being, including wage structure and pay, can be found in the Our People brief in our most recent ESG reporting, which is available on our corporate website.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Additional information about how we invest in our associates' well-being, including wage structure and pay, can be found in the Our People brief in our most recent ESG reporting, which is available on our corporate website.",
+      "after": "Nothing on our website, including our ESG reporting documents, or sections thereof, shall be deemed incorporated by reference into this Annual Report on Form 10-K or incorporated by reference into any of our other filings with the SEC.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Nothing on our website, including our ESG reporting documents, or sections thereof, shall be deemed incorporated by reference into this Annual Report on Form 10-K or incorporated by reference into any of our other filings with the SEC.",
+      "after": "Certain information relating to retirement-related benefits we provide to our associates is included in Note 11 to our Consolidated Financial Statements.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Certain information relating to retirement-related benefits we provide to our associates is included in Note 11 to our Consolidated Financial Statements.",
+      "after": "Growth - Provide ongoing growth, development and learning opportunities for associates and continue to attract talent with new skills.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Growth - Provide ongoing growth, development and learning opportunities for associates and continue to attract talent with new skills.",
+      "after": "We are invested in the growth of our associates – in support of our business and their success – by offering good entry-level jobs in addition to multiple career pathways that lead to great careers and better lives.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We are invested in the growth of our associates – in support of our business and their success – by offering good entry-level jobs in addition to multiple career pathways that lead to great careers and better lives.",
+      "after": "Approximately 75% of our U.S. salaried store, club and supply chain management started their careers in hourly positions.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Approximately 75% of our U.S. salaried store, club and supply chain management started their careers in hourly positions.",
+      "after": "Our focus on providing a path of opportunity for our associates through robust training, competitive wages and benefits and career mobility creates a strong associate value proposition and strengthens our workforce.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our focus on providing a path of opportunity for our associates through robust training, competitive wages and benefits and career mobility creates a strong associate value proposition and strengthens our workforce.",
+      "after": "In the U.S., we seek to enable these pathways through programs like Walmart Academy, Live Better U (\"LBU\"), and other various associate training programs.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "In the U.S., we seek to enable these pathways through programs like Walmart Academy, Live Better U (\"LBU\"), and other various associate training programs.",
+      "after": "Walmart Academy offers training for on-the-job retail skills, leadership and well-being, serving our associates through a combination of digital and in-person offerings.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Walmart Academy offers training for on-the-job retail skills, leadership and well-being, serving our associates through a combination of digital and in-person offerings.",
+      "after": "Additionally, our LBU program provides access to educational opportunities for our eligible part-time and full-time associates in the U.S. and Puerto Rico, allowing associates the opportunity to learn critical skills in order to promote into in-demand jobs within the company through high school diplomas, short-form certificates and credentials or college degrees.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Additionally, our LBU program provides access to educational opportunities for our eligible part-time and full-time associates in the U.S. and Puerto Rico, allowing associates the opportunity to learn critical skills in order to promote into in-demand jobs within the company through high school diplomas, short-form certificates and credentials or college degrees.",
+      "after": "Digital - Drive a digital transformation that improves the associate experience and powers the business.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Digital - Drive a digital transformation that improves the associate experience and powers the business.",
+      "after": "To deliver a seamless customer and associate experience, we continue to invest in consumer-grade digital tools designed to improve associate productivity, efficiency, engagement, and performance — and these capabilities have been expanded to some international markets.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "To deliver a seamless customer and associate experience, we continue to invest in consumer-grade digital tools designed to improve associate productivity, efficiency, engagement, and performance — and these capabilities have been expanded to some international markets.",
+      "after": "This allows associates to share real-time feedback and spend more time generating new ideas, developing strategy, and building relationships.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "This allows associates to share real-time feedback and spend more time generating new ideas, developing strategy, and building relationships.",
+      "after": "Our Website and Availability of SEC Reports and Other Information",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our Website and Availability of SEC Reports and Other Information",
+      "after": "Our corporate website is located at www.stock.walmart.com.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our corporate website is located at www.stock.walmart.com.",
+      "after": "We file with, or furnish to, the SEC Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, amendments to those reports, proxy statements and annual reports to shareholders, and, from time to time, other documents.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We file with, or furnish to, the SEC Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, amendments to those reports, proxy statements and annual reports to shareholders, and, from time to time, other documents.",
+      "after": "The reports and other documents filed with, or furnished to, the SEC are available to investors on or through our corporate website free of charge as soon as reasonably practicable after we electronically file them with or furnish them to the SEC.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The reports and other documents filed with, or furnished to, the SEC are available to investors on or through our corporate website free of charge as soon as reasonably practicable after we electronically file them with or furnish them to the SEC.",
+      "after": "The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers, such as the Company, that file electronically with the SEC.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The SEC maintains a website that contains reports, proxy and information statements and other information regarding issuers, such as the Company, that file electronically with the SEC.",
+      "after": "The address of that website is www.sec.gov.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The address of that website is www.sec.gov.",
+      "after": "Our SEC filings, our Reporting Protocols for Senior Financial Officers and our Code of Conduct can be found on our website at www.stock.walmart.com.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our SEC filings, our Reporting Protocols for Senior Financial Officers and our Code of Conduct can be found on our website at www.stock.walmart.com.",
+      "after": "These documents are available in print to any shareholder who requests a copy by writing or calling our Investor Relations Department, which is located at our principal offices.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "These documents are available in print to any shareholder who requests a copy by writing or calling our Investor Relations Department, which is located at our principal offices.",
+      "after": "A description of any substantive amendment or waiver of Walmart's Reporting Protocols for Senior Financial Officers or our Code of Conduct for our chief executive officer, our chief financial officer and our controller, who is our principal accounting officer, will be disclosed on our website at www.stock.walmart.com under the Corporate Governance section.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "A description of any substantive amendment or waiver of Walmart's Reporting Protocols for Senior Financial Officers or our Code of Conduct for our chief executive officer, our chief financial officer and our controller, who is our principal accounting officer, will be disclosed on our website at www.stock.walmart.com under the Corporate Governance section.",
+      "after": "Any such description will be located on our website for a period of 12 months following the amendment or waiver.",
+      "max_diffs": 0
+    },
+    {
+      "type": "is_title",
+      "text": "Our Website and Availability of SEC Reports and Other Information",
+      "level": 3
+    },
+    {
+      "type": "title_hierarchy_percent",
+      "title_hierarchy": {
+        "Our Website and Availability of SEC Reports and Other Information": {}
+      }
+    },
+    {
+      "type": "is_bold",
+      "text": "Well-being"
+    },
+    {
+      "type": "is_bold",
+      "text": "Growth"
+    },
+    {
+      "type": "is_bold",
+      "text": "Digital"
+    },
+    {
+      "type": "is_italic",
+      "text": "Prioritize the emotional, physical and financial well-being of associates."
+    },
+    {
+      "type": "is_italic",
+      "text": "Provide ongoing growth, development and learning opportunities for associates and continue to attract talent with new skills."
+    },
+    {
+      "type": "is_italic",
+      "text": "Drive a digital transformation that improves the associate experience and powers the business."
+    },
+    {
+      "type": "is_underline",
+      "text": "Note 11"
+    },
+    {
+      "type": "is_footer",
+      "text": "<page_number>12</page_number>"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "ground_truth_revision": {
+      "revision": "text-gt-extra-word-20261105-r1",
+      "source_dataset": "text_extended/v1.4",
+      "target_dataset": "text_extended/v1.4",
+      "source_sidecar_sha256": "87f194eca9d0833cbee9a57b666462a6f21cea74ef5ca7895042555fac758ea0",
+      "source_pdf_sha256": "b7bba765ec9f869c2b8f240b2838b4d5ef98801efc2d072ac9b5d14f401ba92c"
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/text.jsonl",
+    "parsebench_document": "text/text_simple__10k.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416925000059/walmartannualreport2025.pdf",
+      "accession": "0000104169-25-000059",
+      "provider": "datamulehub",
+      "sha256": "d7b6aa4c32d8dd43752dbb2aeae521be712170ea1d672dc82b0bcd5cda86e1e0",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 13,
+        "source_page_count": 97
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "b7bba765ec9f869c2b8f240b2838b4d5ef98801efc2d072ac9b5d14f401ba92c",
+    "input_sha256": "53a0ccf2eaa2d2110912dcdd2afba676ea0643526e36d8303fee0b6fd72c22cf"
+  },
+  "tags": [
+    "easy"
+  ]
+}

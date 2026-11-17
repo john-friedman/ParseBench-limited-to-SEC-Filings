@@ -1,0 +1,35 @@
+{
+  "id": "tables/Coca Cola 10-k_page68",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n<th>2024</th>\n<th>2023</th>\n<th>2022</th>\n    </tr>\n<tr>\n        <td class=\"\">Equity Attributable to Shareowners of The Coca-Cola Company</td>\n        <td></td>\n        <td></td>\n        <td></td>\n    </tr>\n<tr>\n        <td class=\"\">Number of Common Shares Outstanding</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>4,308</td>\n<td>4,328</td>\n<td>4,325</td>\n    </tr>\n<tr>\n        <td class=\"\">Treasury stock issued to employees related to stock-based compensation plans</td>\n<td>21</td>\n<td>17</td>\n<td>24</td>\n    </tr>\n<tr>\n        <td class=\"\">Purchases of stock for treasury</td>\n<td>(27)</td>\n<td>(37)</td>\n<td>(21)</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at end of year</td>\n<td>4,302</td>\n<td>4,308</td>\n<td>4,328</td>\n    </tr>\n<tr>\n        <td class=\"\">Common Stock</td>\n<td>$ 1,760</td>\n<td>$ 1,760</td>\n<td>$ 1,760</td>\n    </tr>\n<tr>\n        <td class=\"\">Capital Surplus</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>19,209</td>\n<td>18,822</td>\n<td>18,116</td>\n    </tr>\n<tr>\n        <td class=\"\">Stock issued to employees related to stock-based compensation plans</td>\n<td>319</td>\n<td>177</td>\n<td>373</td>\n    </tr>\n<tr>\n        <td class=\"\">Stock-based compensation expense</td>\n<td>273</td>\n<td>233</td>\n<td>332</td>\n    </tr>\n<tr>\n        <td class=\"\">Acquisition of interests held by noncontrolling owners</td>\n<td>—</td>\n<td>(20)</td>\n<td>—</td>\n    </tr>\n<tr>\n        <td class=\"\">Other activities</td>\n<td>—</td>\n<td>(3)</td>\n<td>1</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at end of year</td>\n<td>19,801</td>\n<td>19,209</td>\n<td>18,822</td>\n    </tr>\n<tr>\n        <td class=\"\">Reinvested Earnings</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>73,782</td>\n<td>71,019</td>\n<td>69,094</td>\n    </tr>\n<tr>\n        <td class=\"\">Net income attributable to shareowners of The Coca-Cola Company</td>\n<td>10,631</td>\n<td>10,714</td>\n<td>9,542</td>\n    </tr>\n<tr>\n        <td class=\"\">Dividends (per share — $1.94, $1.84 and $1.76 in 2024, 2023 and 2022, respectively)</td>\n<td>(8,359)</td>\n<td>(7,951)</td>\n<td>(7,617)</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at end of year</td>\n<td>76,054</td>\n<td>73,782</td>\n<td>71,019</td>\n    </tr>\n<tr>\n        <td class=\"\">Accumulated Other Comprehensive Income (Loss)</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>(14,275)</td>\n<td>(14,895)</td>\n<td>(14,330)</td>\n    </tr>\n<tr>\n        <td class=\"\">Net other comprehensive income (loss)</td>\n<td>(2,568)</td>\n<td>620</td>\n<td>(565)</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at end of year</td>\n<td>(16,843)</td>\n<td>(14,275)</td>\n<td>(14,895)</td>\n    </tr>\n<tr>\n        <td class=\"\">Treasury Stock</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>(54,535)</td>\n<td>(52,601)</td>\n<td>(51,641)</td>\n    </tr>\n<tr>\n        <td class=\"\">Treasury stock issued to employees related to stock-based compensation plans</td>\n<td>321</td>\n<td>255</td>\n<td>376</td>\n    </tr>\n<tr>\n        <td class=\"\">Purchases of stock for treasury</td>\n<td>(1,702)</td>\n<td>(2,189)</td>\n<td>(1,336)</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at end of year</td>\n<td>(55,916)</td>\n<td>(54,535)</td>\n<td>(52,601)</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Equity Attributable to Shareowners of The Coca-Cola Company</td>\n<td>$ 24,856</td>\n<td>$ 25,941</td>\n<td>$ 24,105</td>\n    </tr>\n<tr>\n        <td class=\"\">Equity Attributable to Noncontrolling Interests</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at beginning of year</td>\n<td>$ 1,539</td>\n<td>$ 1,721</td>\n<td>$ 1,861</td>\n    </tr>\n<tr>\n        <td class=\"\">Net income attributable to noncontrolling interests</td>\n<td>18</td>\n<td>(11)</td>\n<td>29</td>\n    </tr>\n<tr>\n        <td class=\"\">Net foreign currency translation adjustments</td>\n<td>(9)</td>\n<td>(147)</td>\n<td>(118)</td>\n    </tr>\n<tr>\n        <td class=\"\">Dividends paid to noncontrolling interests</td>\n<td>(28)</td>\n<td>(25)</td>\n<td>(51)</td>\n    </tr>\n<tr>\n        <td class=\"\">Acquisition of interests held by noncontrolling owners</td>\n<td>—</td>\n<td>(2)</td>\n<td>—</td>\n    </tr>\n<tr>\n        <td class=\"\">Divestitures</td>\n<td>(4)</td>\n<td>—</td>\n<td>—</td>\n    </tr>\n<tr>\n        <td class=\"\">Other activities</td>\n<td>—</td>\n<td>3</td>\n<td>—</td>\n    </tr>\n<tr>\n        <td class=\"\">Total Equity Attributable to Noncontrolling Interests</td>\n<td>$ 1,516</td>\n<td>$ 1,539</td>\n<td>$ 1,721</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Coca Cola 10-k_page68.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231.htm",
+      "accession": "0000021344-25-000011",
+      "provider": "datamulehub",
+      "sha256": "53b4326879bbec609a92485c7bab2e584e25372d805253cf6f89be5f3f656f6c",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 30,
+            "byte_start": 1364767,
+            "byte_end_exclusive": 1439740
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "1c472109c4ff1781c6d8a4865c29db01eb3e6a3f993ca1e2037188a5f7aa17ff",
+    "input_sha256": "b4a296866d873a8a03d84ffb49db86aaed7bc070ce790573b20660142b07df07"
+  },
+  "tags": []
+}

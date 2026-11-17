@@ -1,0 +1,35 @@
+{
+  "id": "tables/Goldman_Sachs_10-k__p1_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th>Title of each class</th>\n<th>Trading Symbol</th>\n<th>Exchange on which registered</th>\n    </tr>\n<tr>\n        <td>Common stock, par value $0.01 per share</td>\n<td>GS</td>\n<td>NYSE</td>\n    </tr>\n<tr>\n        <td>Depositary Shares, Each Representing 1/1,000th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series A</td>\n<td>GS PRA</td>\n<td>NYSE</td>\n    </tr>\n<tr>\n        <td>Depositary Shares, Each Representing 1/1,000th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series C</td>\n<td>GS PRC</td>\n<td>NYSE</td>\n    </tr>\n<tr>\n        <td>Depositary Shares, Each Representing 1/1,000th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series D</td>\n<td>GS PRD</td>\n<td>NYSE</td>\n    </tr>\n<tr>\n        <td>5.793% Fixed-to-Floating Rate Normal Automatic Preferred Enhanced Capital Securities of Goldman Sachs Capital II</td>\n<td>GS/43PE</td>\n<td>NYSE</td>\n    </tr>\n<tr>\n        <td>Floating Rate Normal Automatic Preferred Enhanced Capital Securities of Goldman Sachs Capital III</td>\n<td>GS/43PF</td>\n<td>NYSE</td>\n    </tr>\n<tr>\n        <td>Medium-Term Notes, Series F, Callable Fixed and Floating Rate Notes due March 2031 of GS Finance Corp.</td>\n<td>GS/31B</td>\n<td>NYSE</td>\n    </tr>\n<tr>\n        <td>Medium-Term Notes, Series F, Callable Fixed and Floating Rate Notes due May 2031 of GS Finance Corp.</td>\n<td>GS/31X</td>\n<td>NYSE</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Goldman_Sachs_10-k__p1_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "d554e0a5bf3de29bb63f28f76d693d7cc759f6dcde34d6a8657a6ee6d3580a24",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 5,
+            "byte_start": 1188798,
+            "byte_end_exclusive": 1198832
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "baa5888286c67eca630e4c6e131e9213ac5884febb305b204e08ceef51c0843c",
+    "input_sha256": "5b23742363c9d4d49f38b2e24478984366fe6528532bd47ae687f165f98eda61"
+  },
+  "tags": []
+}

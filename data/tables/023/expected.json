@@ -1,0 +1,40 @@
+{
+  "id": "tables/Coca Cola 10-k_page39",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\">Year Ended December 31,</td>\n        <th>2024</th>\n        <th>2023</th>\n    </tr>\n        <tr>\n        <td class=\"\">Concentrate operations</td>\n<td>59 %</td>\n<td>58 %</td>\n    </tr>\n<tr>\n        <td class=\"\">Finished product operations</td>\n<td>41</td>\n<td>42</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100 %</td>\n<td>100 %</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\">Year Ended December 31,</td>\n        <th>2024</th>\n        <th>2023</th>\n    </tr>\n        <tr>\n        <td class=\"\">Concentrate operations</td>\n<td>85 %</td>\n<td>83 %</td>\n    </tr>\n<tr>\n        <td class=\"\">Finished product operations</td>\n<td>15</td>\n<td>17</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100 %</td>\n<td>100 %</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Coca Cola 10-k_page39.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231.htm",
+      "accession": "0000021344-25-000011",
+      "provider": "datamulehub",
+      "sha256": "53b4326879bbec609a92485c7bab2e584e25372d805253cf6f89be5f3f656f6c",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 11,
+            "byte_start": 781664,
+            "byte_end_exclusive": 786880
+          },
+          {
+            "table_index_0based": 12,
+            "byte_start": 787231,
+            "byte_end_exclusive": 792447
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "259ab4119004fe52006027aa586f4588bebd02a45f823e032eb9c7662ea20951",
+    "input_sha256": "52364aca52fe321d3c7a51820ba5531efbb762db819cefe5d6add53e6cfbd6ef"
+  },
+  "tags": []
+}

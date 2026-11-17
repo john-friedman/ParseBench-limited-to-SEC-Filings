@@ -1,0 +1,49 @@
+{
+  "id": "financial_tables/annual-report-2024-3-2026-08-21_page88",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<page_header>\n**Strategic report** Corporate governance Financial statements Investor information GSK Annual Report 2024\n</page_header>\n\n## Group financial review continued\n\n## Financial performance summary\n\nThe Total results of the Group are set out below.\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">2024</th>\n      <th colspan=\"2\">2023</th>\n      <th colspan=\"2\">Growth</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>£m</th>\n      <th>% of turnover</th>\n      <th>£m</th>\n      <th>% of turnover</th>\n      <th>£%</th>\n      <th>CER%</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Turnover</td>\n      <td><b>31,376</b></td>\n      <td><b>100</b></td>\n      <td>30,328</td>\n      <td>100</td>\n      <td>3</td>\n      <td>7</td>\n    </tr>\n    <tr>\n      <td>Cost of sales</td>\n      <td><b>(9,048)</b></td>\n      <td><b>(28.8)</b></td>\n      <td>(8,565)</td>\n      <td>(28.2)</td>\n      <td>6</td>\n      <td>8</td>\n    </tr>\n    <tr>\n      <td>Gross profit</td>\n      <td><b>22,328</b></td>\n      <td><b>71.2</b></td>\n      <td>21,763</td>\n      <td>71.8</td>\n      <td>3</td>\n      <td>7</td>\n    </tr>\n    <tr>\n      <td>Selling, general and administration</td>\n      <td><b>(11,015)</b></td>\n      <td><b>(35.1)</b></td>\n      <td>(9,385)</td>\n      <td>(30.9)</td>\n      <td>17</td>\n      <td>20</td>\n    </tr>\n    <tr>\n      <td>Research and development</td>\n      <td><b>(6,401)</b></td>\n      <td><b>(20.4)</b></td>\n      <td>(6,223)</td>\n      <td>(20.5)</td>\n      <td>3</td>\n      <td>5</td>\n    </tr>\n    <tr>\n      <td>Royalty income</td>\n      <td><b>639</b></td>\n      <td><b>2.0</b></td>\n      <td>953</td>\n      <td>3.1</td>\n      <td>(33)</td>\n      <td>(33)</td>\n    </tr>\n    <tr>\n      <td>Other operating income/(expense)</td>\n      <td><b>(1,530)</b></td>\n      <td><b>(4.9)</b></td>\n      <td>(363)</td>\n      <td>(1.3)</td>\n      <td>&gt;(100)</td>\n      <td>&gt;(100)</td>\n    </tr>\n    <tr>\n      <td>Operating profit</td>\n      <td><b>4,021</b></td>\n      <td><b>12.8</b></td>\n      <td>6,745</td>\n      <td>22.2</td>\n      <td>(40)</td>\n      <td>(33)</td>\n    </tr>\n    <tr>\n      <td>Net finance costs</td>\n      <td><b>(547)</b></td>\n      <td></td>\n      <td>(677)</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Share of after tax profits/(losses) of associates and joint ventures</td>\n      <td><b>(3)</b></td>\n      <td></td>\n      <td>(5)</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Profit/(loss) on disposal of interest in associates and joint ventures</td>\n      <td><b>6</b></td>\n      <td></td>\n      <td>1</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Profit before taxation</td>\n      <td><b>3,477</b></td>\n      <td></td>\n      <td>6,064</td>\n      <td></td>\n      <td>(43)</td>\n      <td>(34)</td>\n    </tr>\n    <tr>\n      <td>Taxation</td>\n      <td><b>(526)</b></td>\n      <td></td>\n      <td>(756)</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Profit after taxation</td>\n      <td><b>2,951</b></td>\n      <td></td>\n      <td>5,308</td>\n      <td></td>\n      <td>(44)</td>\n      <td>(36)</td>\n    </tr>\n    <tr>\n      <td>Total profit attributable to non-controlling interests</td>\n      <td><b>376</b></td>\n      <td></td>\n      <td>380</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Total profit attributable to shareholders</td>\n      <td><b>2,575</b></td>\n      <td></td>\n      <td>4,928</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td></td>\n      <td><b>2,951</b></td>\n      <td></td>\n      <td>5,308</td>\n      <td></td>\n      <td>(44)</td>\n      <td>(36)</td>\n    </tr>\n    <tr>\n      <td>Total earnings per share (pence)</td>\n      <td><b>63.2p</b></td>\n      <td></td>\n      <td>121.6p</td>\n      <td></td>\n      <td>(48)</td>\n      <td>(40)</td>\n    </tr>\n    <tr>\n      <td>Total earnings per ADS (US$)</td>\n      <td><b>1.62</b></td>\n      <td></td>\n      <td>3.02</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>\n\nThe Core results for the Group are set out below. Reconciliations between Total results and Core results for 2024 and 2023 are set out on pages 98 to 99.\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">2024</th>\n      <th colspan=\"2\">2023</th>\n      <th colspan=\"2\">Growth</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>£m</th>\n      <th>% of turnover</th>\n      <th>£m</th>\n      <th>% of turnover</th>\n      <th>£%</th>\n      <th>CER%</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Turnover</td>\n      <td><b>31,376</b></td>\n      <td><b>100</b></td>\n      <td>30,328</td>\n      <td>100</td>\n      <td>3</td>\n      <td>7</td>\n    </tr>\n    <tr>\n      <td>Cost of sales</td>\n      <td><b>(7,870)</b></td>\n      <td><b>(25.1)</b></td>\n      <td>(7,716)</td>\n      <td>(25.4)</td>\n      <td>2</td>\n      <td>4</td>\n    </tr>\n    <tr>\n      <td>Selling, general and administration</td>\n      <td><b>(8,974)</b></td>\n      <td><b>(28.6)</b></td>\n      <td>(9,029)</td>\n      <td>(29.8)</td>\n      <td>(1)</td>\n      <td>2</td>\n    </tr>\n    <tr>\n      <td>Research and development</td>\n      <td><b>(6,023)</b></td>\n      <td><b>(19.2)</b></td>\n      <td>(5,750)</td>\n      <td>(19.0)</td>\n      <td>5</td>\n      <td>7</td>\n    </tr>\n    <tr>\n      <td>Royalty income</td>\n      <td><b>639</b></td>\n      <td><b>2.0</b></td>\n      <td>953</td>\n      <td>3.2</td>\n      <td>(33)</td>\n      <td>(33)</td>\n    </tr>\n    <tr>\n      <td><b>Core operating profit</b></td>\n      <td><b>9,148</b></td>\n      <td><b>29.2</b></td>\n      <td>8,786</td>\n      <td>29.0</td>\n      <td>4</td>\n      <td>11</td>\n    </tr>\n    <tr>\n      <td>Core profit before taxation</td>\n      <td><b>8,613</b></td>\n      <td></td>\n      <td>8,112</td>\n      <td></td>\n      <td>6</td>\n      <td>13</td>\n    </tr>\n    <tr>\n      <td>Taxation</td>\n      <td><b>(1,462)</b></td>\n      <td></td>\n      <td>(1,257)</td>\n      <td></td>\n      <td>16</td>\n      <td>24</td>\n    </tr>\n    <tr>\n      <td>Core profit after taxation</td>\n      <td><b>7,151</b></td>\n      <td></td>\n      <td>6,855</td>\n      <td></td>\n      <td>4</td>\n      <td>11</td>\n    </tr>\n    <tr>\n      <td>Core profit attributable to non-controlling interest</td>\n      <td><b>654</b></td>\n      <td></td>\n      <td>572</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Core profit attributable to shareholders</td>\n      <td><b>6,497</b></td>\n      <td></td>\n      <td>6,283</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Core profit after taxation</td>\n      <td><b>7,151</b></td>\n      <td></td>\n      <td>6,855</td>\n      <td></td>\n      <td>4</td>\n      <td>11</td>\n    </tr>\n    <tr>\n      <td>Core earnings per share (p)</td>\n      <td><b>159.3p</b></td>\n      <td></td>\n      <td>155.1p</td>\n      <td></td>\n      <td>3</td>\n      <td>10</td>\n    </tr>\n  </tbody>\n</table>\n\n<page_number>86</page_number>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "annual-report-2024 (3).pdf",
+    "source_sha256": "dbc0ff92456a00c6260417ae2f9ec72b83cad422008215ef522131bc5200ecbb",
+    "annotated_at": "2026-08-21T15:52:12.597Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/annual-report-2024-3-2026-08-21_page88.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm",
+      "accession": "0001131399-25-000007",
+      "provider": "datamulehub",
+      "sha256": "7444753846614e2c3341c8d2c00213f0c72ac186db7d5ac6a22c68b791ac42e7",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 201,
+            "byte_start": 5378176,
+            "byte_end_exclusive": 5466247
+          },
+          {
+            "table_index_0based": 202,
+            "byte_start": 5469939,
+            "byte_end_exclusive": 5536950
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "dbc0ff92456a00c6260417ae2f9ec72b83cad422008215ef522131bc5200ecbb",
+    "input_sha256": "598e5ef184fcf299e20a93b36c37b2d46f5f4c78b3ea7ee070ab536ecf72b74c"
+  },
+  "tags": []
+}

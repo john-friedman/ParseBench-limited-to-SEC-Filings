@@ -1,0 +1,35 @@
+{
+  "id": "tables/Home_Depot_10-k_unrestricted__p45_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <th>in millions</th>\n        <th>Fiscal 2024</th>\n        <th>Fiscal 2023</th>\n        <th>Fiscal 2022</th>\n    </tr>\n        <tr>\n        <td class=\"\">Net earnings</td>\n<td>$ 14,806</td>\n<td>$ 15,143</td>\n<td>$ 17,105</td>\n    </tr>\n<tr>\n        <td class=\"\">Other comprehensive income (loss), net of tax:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Foreign currency translation adjustments</td>\n<td>(605)</td>\n<td>232</td>\n<td>(22)</td>\n    </tr>\n<tr>\n        <td class=\"\">Cash flow hedges</td>\n<td>(45)</td>\n<td>8</td>\n<td>9</td>\n    </tr>\n<tr>\n        <td class=\"\">Other</td>\n<td>(2)</td>\n<td>1</td>\n<td>(1)</td>\n    </tr>\n<tr>\n        <td class=\"\">Total other comprehensive income (loss), net of tax</td>\n<td>(652)</td>\n<td>241</td>\n<td>(14)</td>\n    </tr>\n<tr>\n        <td class=\"\">Comprehensive income</td>\n<td>$ 14,154</td>\n<td>$ 15,384</td>\n<td>$ 17,091</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Home_Depot_10-k_unrestricted__p45_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000085/hd-20250202.htm",
+      "accession": "0000354950-25-000085",
+      "provider": "datamulehub",
+      "sha256": "cff28db2d142e0e74a2f6460460c9a150d26933fac043782cf790360ca1f0057",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 64,
+            "byte_start": 901529,
+            "byte_end_exclusive": 918260
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "73b3d1fe3a3b5b554e1147f4b4d31e1c546346c37e82113a1fa0c88990f2974d",
+    "input_sha256": "ef0dbfddd0b8eb300ecc7a8d56bfe315f7430deec85e197e71b5dd0e7ca8c5ed"
+  },
+  "tags": []
+}

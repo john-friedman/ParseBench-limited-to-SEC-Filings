@@ -1,0 +1,157 @@
+{
+  "id": "dense_tables/dense_table_478",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "[Table of Contents](#)\n\n<table>\n<thead>\n<tr><th>(in millions, except per share data)</th><th>First Quarter</th><th>Second Quarter</th><th>Third Quarter</th><th>Fourth Quarter</th></tr>\n</thead>\n<tbody>\n<tr><td>Fiscal 2024:</td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Net sales</td><td>$ 4,165.6</td><td>$ 4,065.5</td><td>$ 4,338.0</td><td>$ 4,996.7</td></tr>\n<tr><td>Gross profit</td><td>$ 1,476.5</td><td>$ 1,391.3</td><td>$ 1,534.1</td><td>$ 1,879.8</td></tr>\n<tr><td>Income from continuing operations, net of tax</td><td>$ 267.7</td><td>$ 142.3</td><td>$ 232.3</td><td>$ 400.2</td></tr>\n<tr><td>Income (loss) from discontinued operations, net of tax<sup>(1)</sup></td><td>$ 32.4</td><td>$ (9.9)</td><td>$ 1.0</td><td>$ (4,096.1)</td></tr>\n<tr><td>Net income (loss)</td><td>$ 300.1</td><td>$ 132.4</td><td>$ 233.3</td><td>$ (3,695.9)</td></tr>\n<tr><td>Basic earnings (loss) per share of common stock:</td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Continuing operations</td><td>$ 1.23</td><td>$ 0.66</td><td>$ 1.09</td><td>$ 1.86</td></tr>\n<tr><td>Discontinued operations</td><td>0.15</td><td>(0.04)</td><td>—</td><td>(19.04)</td></tr>\n<tr><td>Total basic earnings (loss) per share of common stock</td><td>$ 1.38</td><td>$ 0.62</td><td>$ 1.09</td><td>$ (17.18)</td></tr>\n<tr><td>Diluted earnings (loss) per share of common stock:</td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Continuing operations</td><td>$ 1.23</td><td>$ 0.66</td><td>$ 1.08</td><td>$ 1.86</td></tr>\n<tr><td>Discontinued operations</td><td>0.15</td><td>(0.04)</td><td>—</td><td>(19.03)</td></tr>\n<tr><td>Total diluted earnings (loss) per share of common stock</td><td>$ 1.38</td><td>$ 0.62</td><td>$ 1.08</td><td>$ (17.17)</td></tr>\n<tr><td>Fiscal 2023:</td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Net sales</td><td>$ 3,931.7</td><td>$ 3,873.4</td><td>$ 4,003.8</td><td>$ 4,961.4</td></tr>\n<tr><td>Gross profit</td><td>$ 1,388.7</td><td>$ 1,293.2</td><td>$ 1,393.8</td><td>$ 1,933.2</td></tr>\n<tr><td>Income from continuing operations, net of tax</td><td>$ 291.6</td><td>$ 186.8</td><td>$ 255.0</td><td>$ 532.4</td></tr>\n<tr><td>Income (loss) from discontinued operations, net of tax<sup>(2)</sup></td><td>$ 7.4</td><td>$ 13.6</td><td>$ (43.0)</td><td>$ (2,242.2)</td></tr>\n<tr><td>Net income (loss)</td><td>$ 299.0</td><td>$ 200.4</td><td>$ 212.0</td><td>$ (1,709.8)</td></tr>\n<tr><td>Basic earnings (loss) per share of common stock:</td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Continuing operations</td><td>$ 1.32</td><td>$ 0.85</td><td>$ 1.16</td><td>$ 2.44</td></tr>\n<tr><td>Discontinued operations</td><td>0.03</td><td>0.06</td><td>(0.19)</td><td>(10.29)</td></tr>\n<tr><td>Total basic earnings (loss) per share of common stock</td><td>$ 1.35</td><td>$ 0.91</td><td>$ 0.97</td><td>$ (7.85)</td></tr>\n<tr><td>Diluted earnings (loss) per share of common stock:</td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Continuing operations</td><td>$ 1.32</td><td>$ 0.85</td><td>$ 1.16</td><td>$ 2.44</td></tr>\n<tr><td>Discontinued operations</td><td>0.03</td><td>0.06</td><td>(0.19)</td><td>(10.27)</td></tr>\n<tr><td>Total diluted earnings (loss) per share of common stock</td><td>$ 1.35</td><td>$ 0.91</td><td>$ 0.97</td><td>$ (7.83)</td></tr>\n</tbody>\n</table>\n\n<sup>(1)</sup>Income (loss) from discontinued operations, net of tax in the fourth quarter of fiscal 2024 includes the following charges: $1,400.0 million trade name impairment, $490.5 million goodwill impairment, $80.2 million of long-lived asset impairments and a $3,438.8 million loss from classification to held for sale. See Note 15 for further detail.\n\n<sup>(2)</sup>Income (loss) from discontinued operations, net of tax in the fourth quarter of fiscal 2023 includes the following charges: $950.0 million trade name impairment, $1,069.0 million goodwill impairment, $500.6 million of long-lived asset impairments, and $80.6 million of inventory markdowns and $5.6 million of capitalized distribution costs impairment from store closures. See Note 15 for further detail.\n\n70",
+  "test_rules": [
+    {
+      "type": "table_header_chain",
+      "data_cell": "fiscal 2024:",
+      "column_headers": [
+        "(in millions, except per share data)"
+      ],
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "second quarter",
+        "fourth quarter",
+        "first quarter",
+        "third quarter"
+      ],
+      "page": 1,
+      "pdf": "dense_table_478.pdf",
+      "verified": false,
+      "id": "dense_v01_94aae024f46b5e31"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "fiscal 2024:",
+      "expected_neighbor": "net sales",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "second quarter",
+        "fourth quarter",
+        "first quarter",
+        "third quarter"
+      ],
+      "page": 1,
+      "pdf": "dense_table_478.pdf",
+      "verified": false,
+      "id": "dense_v01_268098a1f154ce64"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "fourth quarter",
+      "cell_b": "$ (7.83)",
+      "table_anchor_cells": [
+        "(in millions, except per share data)",
+        "second quarter",
+        "fourth quarter",
+        "first quarter",
+        "third quarter"
+      ],
+      "page": 1,
+      "pdf": "dense_table_478.pdf",
+      "verified": false,
+      "id": "dense_v01_e45702e4daa64410"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_478",
+    "gt_status": "reannotated_reviewed_keep",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_478.md",
+    "source_pdf": "/Users/pierre/Code/pdfDataSetOrdered/tableSimple/10k/pdf/0000935703-25-000015.pdf",
+    "source_page": 70,
+    "source_n_pages": 99,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 190.0,
+      "rows": 22,
+      "cols": 9,
+      "cells": 182,
+      "fill": 0.919,
+      "numeric_ratio": 0.484,
+      "n_items": 205,
+      "tabular_line_ratio": 0.632,
+      "n_blocks": 1
+    },
+    "shape_class": "medium/mixed/portrait",
+    "verify": {
+      "median_cell_len": 4,
+      "words_per_cell": 1.41,
+      "aligned_ratio": 0.984,
+      "row_coverage": 0.579,
+      "text_sha1": "ba03120c52c6b512678c87176f242bcfe6d3a653"
+    },
+    "header_preview": "Net sales | $ | 4,165.6 | $ | 4,065.5 | $ | 4,338.0 | $ | 4,996.7",
+    "draft_check": {
+      "text_layer_numbers": 104,
+      "numeric_coverage": 1.0
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 0.619,
+        "blind_rows": 10,
+        "text_layer_token_precision": 0.9858,
+        "text_layer_token_recall": 0.9858,
+        "agreement_with_previous_reference_table_next": 1.0
+      },
+      "review": {
+        "verdict": "keep",
+        "reason": "All 28 rows match the image and vector text layer (values, parentheses, em dashes, footnote marks). Blind-read mismatches are only the separate '$' column layout, which the draft merges into the number (allowed convention).",
+        "changes": [],
+        "regions_checked": 4
+      },
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_478.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/935703/000093570325000015/dltr-20250201.htm",
+      "accession": "0000935703-25-000015",
+      "provider": "datamulehub",
+      "sha256": "bd4b8abdf1b51fcd1609a9a24db41e2b4d463c89111f5f593867d2e4fc890cf1",
+      "scope": "table",
+      "mapping_url": "https://www.sec.gov/Archives/edgar/data/935703/000093570325000015/0000935703-25-000015-index.htm",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 63,
+            "byte_start": 1639610,
+            "byte_end_exclusive": 1721158
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ad27a4daf9e2e0bd2ce3ad9182cf376695529049e3175bd46aeeb62b651ccb5b",
+    "input_sha256": "7fd9560d57cc0c8ba3441b9ad578a872b98d26c7525d754721eb03bd75f86af1"
+  },
+  "tags": [
+    "dense_table",
+    "medium_columns",
+    "mixed_content",
+    "portrait",
+    "gt_draft"
+  ]
+}

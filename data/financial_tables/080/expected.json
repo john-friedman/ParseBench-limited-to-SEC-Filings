@@ -1,0 +1,40 @@
+{
+  "id": "financial_tables/es-2026-08-13_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# Executive Summary\n\nThe business delivered strong Q3 results, as all of our KPIs met or exceeded guidance and profitability reached record levels. MAU net additions ticked up to 14 million, surpassing guidance by 1 million. Subscriber net additions of 6 million were also ahead by 1 million. Despite greater than anticipated headwinds from unfavorable currency movements, Revenue was in-line and grew 21% Y/Y on a constant currency* basis. Gross Margin of 31.1% was ahead of guidance and up 473 bps Y/Y, while Operating Income of €454 million was better due to Gross Margin strength and lower personnel related and marketing costs. Operating Income was affected by €54 million in Social Charges, which were €39 million above forecast due to share price appreciation during the quarter. Q3 Free Cash Flow* reached €711 million, bringing year-to-date Free Cash Flow generation to €1.4 billion.\n\nOverall, we are very pleased with our performance heading into year-end and view the business as well positioned to sustainably grow towards the long-term goals outlined at our 2022 Investor Day.\n\n<table>\n  <thead>\n    <tr>\n        <th>USER &amp; FINANCIAL SUMMARY</th>\n        <th>Q3 2023</th>\n        <th>Q2 2024</th>\n        <th>Q3 2024</th>\n        <th>Y/Y</th>\n        <th>Q/Q</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <td colspan=\"6\"><strong><sup>USERS (M)</sup></strong></td>\n    </tr>\n    <tr>\n        <td>Total Monthly Active Users (\"MAUs\")</td>\n        <td>574</td>\n        <td>626</td>\n        <td>640</td>\n        <td>11%</td>\n        <td>2%</td>\n    </tr>\n    <tr>\n        <td>Premium Subscribers</td>\n        <td>226</td>\n        <td>246</td>\n        <td>252</td>\n        <td>12%</td>\n        <td>2%</td>\n    </tr>\n    <tr>\n        <td>Ad-Supported MAUs</td>\n        <td>361</td>\n        <td>393</td>\n        <td>402</td>\n        <td>11%</td>\n        <td>2%</td>\n    </tr>\n    <tr>\n        <td colspan=\"6\"><strong>FINANCIALS (€M)</strong></td>\n    </tr>\n    <tr>\n        <td>Premium</td>\n        <td>2,910</td>\n        <td>3,351</td>\n        <td>3,516</td>\n        <td>21%</td>\n        <td>5%</td>\n    </tr>\n    <tr>\n        <td>Ad-Supported</td>\n        <td>447</td>\n        <td>456</td>\n        <td>472</td>\n        <td>6%</td>\n        <td>4%</td>\n    </tr>\n    <tr>\n        <td><strong>Total Revenue</strong></td>\n        <td><strong>3,357</strong></td>\n        <td><strong>3,807</strong></td>\n        <td><strong>3,988</strong></td>\n        <td><strong>19%</strong></td>\n        <td><strong>5%</strong></td>\n    </tr>\n    <tr>\n        <td>Gross Profit</td>\n        <td>885</td>\n        <td>1,112</td>\n        <td>1,240</td>\n        <td>40%</td>\n        <td>12%</td>\n    </tr>\n    <tr>\n        <td>Gross Margin</td>\n        <td>26.4%</td>\n        <td>29.2%</td>\n        <td>31.1%</td>\n        <td>--</td>\n        <td>--</td>\n    </tr>\n    <tr>\n        <td>Operating Income</td>\n        <td>32</td>\n        <td>266</td>\n        <td>454</td>\n        <td>--</td>\n        <td>--</td>\n    </tr>\n    <tr>\n        <td>Operating Margin</td>\n        <td>1.0%</td>\n        <td>7.0%</td>\n        <td>11.4%</td>\n        <td>--</td>\n        <td>--</td>\n    </tr>\n    <tr>\n        <td>Net Cash Flows From Operating Activities</td>\n        <td>211</td>\n        <td>492</td>\n        <td>715</td>\n        <td>--</td>\n        <td>--</td>\n    </tr>\n    <tr>\n        <td>Free Cash Flow*</td>\n        <td>216</td>\n        <td>490</td>\n        <td>711</td>\n        <td>--</td>\n        <td>--</td>\n    </tr>\n  </tbody>\n</table>\n\n\n\nlogo",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "es.pdf",
+    "source_sha256": "5fb5d2c2f7c54817d13f8ad8b4931a3d4d2ce3e335b94772f092524e60ca6993",
+    "annotated_at": "2026-08-13T04:17:07.192Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/es-2026-08-13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1639920/000114036124046169/ef20038206_ex99-1.htm",
+      "accession": "0001140361-24-046169",
+      "provider": "datamulehub",
+      "sha256": "19e3d2733729e789ecb722aa94630ad26c3411022dfe13bc8f1ed03b3fa10c9f",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "image_url": "https://www.sec.gov/Archives/edgar/data/1639920/000114036124046169/ef20038206_ex99-1slide3.jpg",
+        "image_sha256": "9381118b2d17c41aa5bcd58ead8266ce014527251fc48b3ba2421aabbba5c274",
+        "image_embedded": true
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "5fb5d2c2f7c54817d13f8ad8b4931a3d4d2ce3e335b94772f092524e60ca6993",
+    "input_sha256": "3bdfc47ac0feb4fdcc410cdf20d98f80db2874982a2f207488756372095de1a2"
+  },
+  "tags": []
+}

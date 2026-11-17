@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/2025-cisco-full-annual-report-2026-08-21_page65",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "financing arrangement in accordance with revenue recognition policies, or we record a liability for the fair value of the guarantees. In either case, the deferred revenue is recognized as revenue when the guarantee is removed. As of July 26, 2025, the total maximum potential future payments related to these guarantees was approximately $123 million, of which approximately $13 million was recorded as deferred revenue.\n\n## <u>Borrowings</u>\n\n*<u>Senior Notes</u>* The following table summarizes the principal amount of our senior notes (in millions):\n\n<table>\n    <thead>\n        <tr>\n            <th></th>\n            <th>Maturity Date</th>\n            <th>July 26, 2025</th>\n            <th>July 27, 2024</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>Senior notes:</td>\n            <td></td>\n            <td></td>\n            <td></td>\n        </tr>\n        <tr>\n            <td>    Fixed-rate notes:</td>\n            <td></td>\n            <td></td>\n            <td></td>\n        </tr>\n        <tr>\n            <td>        3.50%</td>\n            <td>June 15, 2025</td>\n            <td>$ —</td>\n            <td>$ 500</td>\n        </tr>\n        <tr>\n            <td>        4.90%</td>\n            <td>February 26, 2026</td>\n            <td><strong>1,000</strong></td>\n            <td>1,000</td>\n        </tr>\n        <tr>\n            <td>        2.95%</td>\n            <td>February 28, 2026</td>\n            <td><strong>750</strong></td>\n            <td>750</td>\n        </tr>\n        <tr>\n            <td>        2.50%</td>\n            <td>September 20, 2026</td>\n            <td><strong>1,500</strong></td>\n            <td>1,500</td>\n        </tr>\n        <tr>\n            <td>        4.80%</td>\n            <td>February 26, 2027</td>\n            <td><strong>2,000</strong></td>\n            <td>2,000</td>\n        </tr>\n        <tr>\n            <td>        4.55%</td>\n            <td>February 24, 2028</td>\n            <td><strong>1,000</strong></td>\n            <td>—</td>\n        </tr>\n        <tr>\n            <td>        4.85%</td>\n            <td>February 26, 2029</td>\n            <td><strong>2,500</strong></td>\n            <td>2,500</td>\n        </tr>\n        <tr>\n            <td>        4.75%</td>\n            <td>February 24, 2030</td>\n            <td><strong>1,000</strong></td>\n            <td>—</td>\n        </tr>\n        <tr>\n            <td>        4.95%</td>\n            <td>February 26, 2031</td>\n            <td><strong>2,500</strong></td>\n            <td>2,500</td>\n        </tr>\n        <tr>\n            <td>        4.95%</td>\n            <td>February 24, 2032</td>\n            <td><strong>1,000</strong></td>\n            <td>—</td>\n        </tr>\n        <tr>\n            <td>        5.05%</td>\n            <td>February 26, 2034</td>\n            <td><strong>2,500</strong></td>\n            <td>2,500</td>\n        </tr>\n        <tr>\n            <td>        5.10%</td>\n            <td>February 24, 2035</td>\n            <td><strong><b>1,250</b></strong></td>\n            <td>—</td>\n        </tr>\n        <tr>\n            <td>        5.90%</td>\n            <td>February 15, 2039</td>\n            <td><strong>2,000</strong></td>\n            <td>2,000</td>\n        </tr>\n        <tr>\n            <td>        5.50%</td>\n            <td>January 15, 2040</td>\n            <td><strong>2,000</strong></td>\n            <td>2,000</td>\n        </tr>\n        <tr>\n            <td>        5.30%</td>\n            <td>February 26, 2054</td>\n            <td><strong>2,000</strong></td>\n            <td>2,000</td>\n        </tr>\n        <tr>\n            <td>        5.50%</td>\n            <td>February 24, 2055</td>\n            <td><strong>750</strong></td>\n            <td>—</td>\n        </tr>\n        <tr>\n            <td>        5.35%</td>\n            <td>February 26, 2064</td>\n            <td><strong>1,000</strong></td>\n            <td>1,000</td>\n        </tr>\n        <tr>\n            <td>            Total</td>\n            <td></td>\n            <td>$ <strong>24,750</strong></td>\n            <td>$ 20,250</td>\n        </tr>\n    </tbody>\n</table>\n\nIn February 2025, we issued senior notes for an aggregate principal amount of $5.0 billion.\n\nInterest is payable semiannually on each class of the senior fixed-rate notes, each of which is redeemable by us at any time, subject to a make-whole premium. We were in compliance with all debt covenants as of July 26, 2025.\n\n*<u>Commercial Paper</u>* We have a short-term debt financing program in which up to $15.0 billion is available through the issuance of commercial paper notes. We use the proceeds from the issuance of commercial paper notes for general corporate purposes. We had $3.5 billion and $10.9 billion in commercial paper notes outstanding as of July 26, 2025, and July 27, 2024, respectively.\n\n*<u>Credit Facility</u>* On February 2, 2024, we entered into an amended and restated 5-year $5.0 billion unsecured revolving credit agreement. The interest rate for the credit agreement is determined based on a formula using certain market rates. The credit agreement requires that we comply with certain covenants, including that we maintain an interest coverage ratio (defined in the agreement as the ratio of consolidated EBITDA to consolidated interest expense) of not less than 3.0 to 1.0. As of July 26, 2025, we were in compliance with all associated covenants and we had not borrowed any funds under our credit agreement.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "2025-cisco-full-annual-report.pdf",
+    "source_sha256": "d01ed872ca00a1ccaaec64f3fa4a720e913264861d337311a8f4c65fb8f5103b",
+    "annotated_at": "2026-08-21T15:38:58.514Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/2025-cisco-full-annual-report-2026-08-21_page65.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000111/csco-20250726.htm",
+      "accession": "0000858877-25-000111",
+      "provider": "datamulehub",
+      "sha256": "aa17878a0f56563a5f43c81cad17f94ee6e15ba1bdd627888860434c1cfb8650",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 43,
+            "byte_start": 1102357,
+            "byte_end_exclusive": 1131804
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "d01ed872ca00a1ccaaec64f3fa4a720e913264861d337311a8f4c65fb8f5103b",
+    "input_sha256": "0ab5f0c348425d1cf4b4d3ee1db80fb990746ed16b712f091c46aa905706e20e"
+  },
+  "tags": []
+}

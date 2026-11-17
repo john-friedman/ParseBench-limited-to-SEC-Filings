@@ -1,0 +1,45 @@
+{
+  "id": "tables/Apple 10-k_page43",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>2025</th>\n        <th>2024</th>\n    </tr>\n<tr>\n        <td class=\"\">Deferred tax assets</td>\n<td>$ 20,777</td>\n<td>$ 19,499</td>\n    </tr>\n<tr>\n        <td class=\"\">Other non-current assets</td>\n<td>62,950</td>\n<td>55,335</td>\n    </tr>\n<tr>\n        <td class=\"\">Total other non-current assets</td>\n<td>$ 83,727</td>\n<td>$ 74,834</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>2025</th>\n        <th>2024</th>\n    </tr>\n<tr>\n        <td class=\"\">Income taxes payable</td>\n<td>$ 13,016</td>\n<td>$ 26,601</td>\n    </tr>\n<tr>\n        <td class=\"\">Accrued distribution and marketing</td>\n<td>8,919</td>\n<td>7,679</td>\n    </tr>\n<tr>\n        <td class=\"\">Other current liabilities</td>\n<td>44,452</td>\n<td>44,024</td>\n    </tr>\n<tr>\n        <td class=\"\">Total other current liabilities</td>\n<td>$ 66,387</td>\n<td>$ 78,304</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>2025</th>\n        <th>2024</th>\n        <th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Federal:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Current</td>\n<td>$ 11,487</td>\n<td>$ 5,571</td>\n<td>$ 9,445</td>\n    </tr>\n<tr>\n        <td class=\"\">Deferred</td>\n<td>(1,804)</td>\n<td>(3,080)</td>\n<td>(3,644)</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>9,683</td>\n<td>2,491</td>\n<td>5,801</td>\n    </tr>\n<tr>\n        <td class=\"\">State:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Current</td>\n<td>1,680</td>\n<td>1,726</td>\n<td>1,570</td>\n    </tr>\n<tr>\n        <td class=\"\">Deferred</td>\n<td>(139)</td>\n<td>(298)</td>\n<td>(49)</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>1,541</td>\n<td>1,428</td>\n<td>1,521</td>\n    </tr>\n<tr>\n        <td class=\"\">Foreign:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Current</td>\n<td>8,891</td>\n<td>25,483</td>\n<td>8,750</td>\n    </tr>\n<tr>\n        <td class=\"\">Deferred</td>\n<td>604</td>\n<td>347</td>\n<td>669</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>9,495</td>\n<td>25,830</td>\n<td>9,419</td>\n    </tr>\n<tr>\n        <td class=\"\">Provision for income taxes</td>\n<td>$ 20,719</td>\n<td>$ 29,749</td>\n<td>$ 16,741</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Apple 10-k_page43.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "accession": "0000320193-25-000079",
+      "provider": "datamulehub",
+      "sha256": "274361a794f84b24d75b4ee98bc8eff5a031b4fc1be1a1210dbc2b10d92c5179",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 33,
+            "byte_start": 963924,
+            "byte_end_exclusive": 970062
+          },
+          {
+            "table_index_0based": 34,
+            "byte_start": 970437,
+            "byte_end_exclusive": 978042
+          },
+          {
+            "table_index_0based": 35,
+            "byte_start": 982121,
+            "byte_end_exclusive": 1007174
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "d17a20d340bd02862a30cb56bb88120d4b7a938853b1c4413a8f7267cad09c4c",
+    "input_sha256": "369de5bda1b4647b7d2cf4850ba99622ad1b2e19b79035e35bbf4ea3d49d8894"
+  },
+  "tags": []
+}

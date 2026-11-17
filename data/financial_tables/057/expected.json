@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/annual-report-2024-3-2026-08-21_page163",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<page_header>\nStrategic report Corporate governance Financial statements Investor information GSK Annual Report 2024\n</page_header>\n\n# Annual report on remuneration continued\n\nPay for performance (audited) continued\n\n## Vesting of 2022 PSP LTI awards\n\n**Relative Total Shareholder Return 30%** + **Total Sales Growth 20%** + **Core Operating Profit Growth 20%** + **Pipeline Progress 20%** + **RB: Environment 10%** = **Total Vested LTI**\n\n### **Overview of PSP LTI performance**\n\nIn line with the Committee’s agreed principles, actual performance against each measure is carefully reviewed and adjustments are made, as appropriate. This ensures that the vesting outcome reflects genuine underlying business performance and has been delivered in line with our culture and values. The Committee did not deem it necessary to exercise any discretion in relation to the vesting of the awards or due to share price changes. Overall, 80.75% of the 2022 PSP awards vested against the targets set out below.\n\n### **2022 PSP Outcomes**\n\n<table>\n    <thead>\n        <tr>\n            <th rowspan=\"2\">Performance measures<br>and relative weighting</th>\n            <th rowspan=\"2\" colspan=\"5\">Performance targets</th>\n            <th colspan=\"3\">Outcome and vesting level</th>\n        </tr>\n        <tr>\n            <th>Outcome</th>\n            <th>% of<br>maximum</th>\n            <th>% of<br>award</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td rowspan=\"7\">Relative TSR<br>(30%)</td>\n            <td></td>\n            <td colspan=\"2\">TSR ranking within comparator<br>group (10 companies)</td>\n            <td colspan=\"2\">% vesting</td>\n            <td rowspan=\"7\">Ranked 5th</td>\n            <td rowspan=\"7\">40</td>\n            <td rowspan=\"7\">12</td>\n        </tr>\n        <tr>\n            <td><b>Maximum</b></td>\n            <td colspan=\"2\">1st, 2nd, 3rd</td>\n            <td colspan=\"2\">100</td>\n        </tr>\n        <tr>\n            <td></td>\n            <td colspan=\"2\">4th</td>\n            <td colspan=\"2\">70</td>\n        </tr>\n        <tr>\n            <td></td>\n            <td colspan=\"2\">5th</td>\n            <td colspan=\"2\">40</td>\n        </tr>\n        <tr>\n            <td><b>Threshold<sup>(1)</sup></b></td>\n            <td colspan=\"2\">Median</td>\n            <td colspan=\"2\">25</td>\n        </tr>\n        <tr>\n            <td></td>\n            <td colspan=\"2\">6th to 10th</td>\n            <td colspan=\"2\">0</td>\n        </tr>\n        <tr>\n            <td colspan=\"5\"><sup>(1)</sup> The median vesting threshold falls between two companies. The Relative TSR<br>comparator group is set out on page 168.</td>\n        </tr>\n        <tr>\n            <td>Total sales growth<sup>(2)</sup><br>(20%)</td>\n            <td colspan=\"5\">Recognises the importance of the company's commercial ambitions with regard to<br>operating profit growth. The measure vests in accordance with the same table as<br>set out below for core operating profit growth, against a target of £76.47bn.</td>\n            <td>£86.15bn</td>\n            <td>100</td>\n            <td>20</td>\n        </tr>\n        <tr>\n            <td rowspan=\"7\">Core operating profit<br>growth<sup>(2)</sup><br>(20%)</td>\n            <td colspan=\"5\">Recognises the importance of the company's commercial ambitions with regard to<br>operating profit growth against a target of £22.49bn.</td>\n            <td rowspan=\"7\">£24.20bn</td>\n            <td rowspan=\"7\">100</td>\n            <td rowspan=\"7\">20</td>\n        </tr>\n        <tr>\n            <td></td>\n            <td colspan=\"2\">Performance vs Target</td>\n            <td colspan=\"2\">% vesting</td>\n        </tr>\n        <tr>\n            <td><b>Maximum</b></td>\n            <td colspan=\"2\">105 %</td>\n            <td colspan=\"2\">100</td>\n        </tr>\n        <tr>\n            <td></td>\n            <td colspan=\"2\">103 %</td>\n            <td colspan=\"2\">75</td>\n        </tr>\n        <tr>\n            <td></td>\n            <td colspan=\"2\">100 %</td>\n            <td colspan=\"2\">50</td>\n        </tr>\n        <tr>\n            <td><b>Threshold</b></td>\n            <td colspan=\"2\">99 %</td>\n            <td colspan=\"2\">25</td>\n        </tr>\n        <tr>\n            <td></td>\n            <td colspan=\"2\">&lt;99%</td>\n            <td colspan=\"2\">0</td>\n        </tr>\n        <tr>\n            <td rowspan=\"5\">Pipeline progress<br>(20%)</td>\n            <td colspan=\"5\">Targets strengthening our pipeline through progression of high quality assets into<br>pivotal trials and the achievement of regulatory approvals in major markets. The<br>points are allocated on achievement of these two equally weighted elements of<br>10%.</td>\n            <td></td>\n            <td></td>\n            <td></td>\n        </tr>\n        <tr>\n            <td></td>\n            <td>Threshold</td>\n            <td></td>\n            <td></td>\n            <td>Maximum</td>\n            <td></td>\n            <td></td>\n            <td></td>\n        </tr>\n        <tr>\n            <td>Measure</td>\n            <td>25%</td>\n            <td>50%</td>\n            <td>75%</td>\n            <td>100%</td>\n            <td></td>\n            <td></td>\n            <td></td>\n        </tr>\n        <tr>\n            <td><b>Pivotal Trial starts</b></td>\n            <td>11</td>\n            <td>13</td>\n            <td>15</td>\n            <td>17</td>\n            <td>17 points</td>\n            <td>100</td>\n            <td></td>\n        </tr>\n        <tr>\n            <td><b>Major regulatory<br>approval milestones</b></td>\n            <td>16</td>\n            <td>18</td>\n            <td>20</td>\n            <td>22</td>\n            <td>21 points</td>\n            <td>87.5</td>\n            <td>18.75</td>\n        </tr>\n        <tr>\n            <td rowspan=\"2\">RB: Environment<br>(10%)</td>\n            <td colspan=\"5\">Recognises the importance of our Responsible Business priority and ambitions of<br>having a Nature Net positive and Climate Net Zero impact by 2030. The measure<br>includes six key performance measures (3x Climate ambitions and 3x Nature<br>ambitions).</td>\n            <td rowspan=\"2\">Met</td>\n            <td rowspan=\"2\">100</td>\n            <td rowspan=\"2\">10</td>\n        </tr>\n        <tr>\n            <td colspan=\"5\"><b>100% vesting</b> Every measure must have been achieved, and at least two<br>of the six measures, at least one in Climate and one in<br>Nature, must have exceeded their targets at the end of<br>2024.</td>\n        </tr>\n        <tr>\n            <th colspan=\"8\">Total vesting in respect of 2022 PSP awards</th>\n            <td><b>80.75</b></td>\n        </tr>\n    </tbody>\n</table>\n(2) excluding COVID-19 solutions\n\n<page_number>161</page_number>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "annual-report-2024 (3).pdf",
+    "source_sha256": "1787d1123e36ced2c2d92ad17e38ca31b56505774a9d2b4f75788916e567d111",
+    "annotated_at": "2026-08-21T16:52:49.855Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/annual-report-2024-3-2026-08-21_page163.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm",
+      "accession": "0001131399-25-000007",
+      "provider": "datamulehub",
+      "sha256": "7444753846614e2c3341c8d2c00213f0c72ac186db7d5ac6a22c68b791ac42e7",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 423,
+            "byte_start": 10709468,
+            "byte_end_exclusive": 10793254
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "1787d1123e36ced2c2d92ad17e38ca31b56505774a9d2b4f75788916e567d111",
+    "input_sha256": "2199c5253bb2ea6541313c9beb207083abf3a23f219016abbc8d3148be0c7e74"
+  },
+  "tags": []
+}

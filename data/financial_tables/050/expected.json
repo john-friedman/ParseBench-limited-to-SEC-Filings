@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/Visa-Fiscal-2025-Annual-Report-1-2026-08-21_page4",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "# **Operational highlights**\n\n*12 months ended September 30 (except where noted)*\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>2023</th>\n      <th>2024</th>\n      <th>2025</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Total volume<sup>1</sup></td>\n      <td>$14.8T</td>\n      <td>$15.7T</td>\n      <td><strong><b>$16.7T</b></strong></td>\n    </tr>\n    <tr>\n      <td>Payments volume<sup>1</sup></td>\n      <td>$12.3T</td>\n      <td>$13.2T</td>\n      <td><strong><b>$14.2T</b></strong></td>\n    </tr>\n    <tr>\n      <td>Transactions processed on Visa’s networks<sup>2</sup></td>\n      <td>212.6B</td>\n      <td>233.8B</td>\n      <td><strong><b>257.5B</b></strong></td>\n    </tr>\n    <tr>\n      <td>Payment credentials<sup>3</sup></td>\n      <td>4.3B</td>\n      <td>4.6B</td>\n      <td><strong><b>4.9B</b></strong></td>\n    </tr>\n  </tbody>\n</table>\n\n## **Financial highlights (GAAP)**\n\n*In millions (except per share data)*\n\n<table>\n\n  <thead>\n    <tr>\n      <th></th>\n      <th>FY 2023</th>\n      <th>FY 2024</th>\n      <th>FY 2025</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Net revenue</td>\n      <td>$32,653</td>\n      <td>$35,926</td>\n      <td><strong><b>$40,000</b></strong></td>\n    </tr>\n    <tr>\n      <td>Operating expenses</td>\n      <td>$11,653</td>\n      <td>$12,331</td>\n      <td><strong><b>$16,006</b></strong></td>\n    </tr>\n    <tr>\n      <td>Net income</td>\n      <td>$17,273</td>\n      <td>$19,743</td>\n      <td><strong><b>$20,058</b></strong></td>\n    </tr>\n    <tr>\n      <td>Diluted class A common stock earnings per share</td>\n      <td>$8.28</td>\n      <td>$9.73</td>\n      <td><strong><b>$10.20</b></strong></td>\n    </tr>\n  </tbody>\n</table>\n\n## **Financial highlights (non-GAAP)<sup>4</sup>**\n\n*In millions (except per share data)*\n\n<table>\n\n  <thead>\n    <tr>\n      <th></th>\n      <th>FY 2023</th>\n      <th>FY 2024</th>\n      <th>FY 2025</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Operating expenses</td>\n      <td>$10,481</td>\n      <td>$11,609</td>\n      <td><b><b>$12,906</b></b></td>\n    </tr>\n    <tr>\n      <td>Net income</td>\n      <td>$18,280</td>\n      <td>$20,389</td>\n      <td><b><b>$22,542</b></b></td>\n    </tr>\n    <tr>\n      <td>Diluted class A common stock earnings per share</td>\n      <td>$8.77</td>\n      <td>$10.05</td>\n      <td><b><b>$11.47</b></b></td>\n    </tr>\n  </tbody>\n</table>\n\n*<sup>1</sup> Total volume is the sum of payments volume and cash volume. Payments volume represents the aggregate dollar amount of purchases made with cards and other form factors carrying the Visa, Visa Electron, V PAY and Interlink brands and excludes Europe co-badged volume. Cash volume generally consists of cash access transactions, balance access transactions, balance transfers and convenience checks. For further discussion, see Item 7 in this Annual Report.*\n*<sup>2</sup> Processed transactions include payments and cash transactions, and represent transactions using cards and other form factors carrying the Visa, Visa Electron, V PAY, Interlink and PLUS brands processed on Visa’s networks.*\n*<sup>3</sup> Number of cards at June 30, 2023, June 30, 2024 and June 30, 2025.*\n*<sup>4</sup> For further discussion and a reconciliation of our GAAP to non-GAAP financial measures presented, see Item 7 in this Annual Report.*",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Visa-Fiscal-2025-Annual-Report (1).pdf",
+    "source_sha256": "8b49d6a4697121973fcd4f50762128f3252ef325269923f98e4b04c8b6ceaced",
+    "annotated_at": "2026-08-21T17:38:54.819Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Visa-Fiscal-2025-Annual-Report-1-2026-08-21_page4.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000637/v014524-ars.pdf",
+      "accession": "0001308179-25-000637",
+      "provider": "datamulehub",
+      "sha256": "50377feb2f7fa51cad3a1168487c3268b5cb261004f31b12dfa5e2230d68c85b",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 3,
+        "source_page_count": 136
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "8b49d6a4697121973fcd4f50762128f3252ef325269923f98e4b04c8b6ceaced",
+    "input_sha256": "528b54a85c3f49c19366f7d27c7ea1ed1c7861daa29588efa9355c4c1e47f280"
+  },
+  "tags": []
+}

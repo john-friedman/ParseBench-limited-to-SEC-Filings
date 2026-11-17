@@ -1,0 +1,66 @@
+{
+  "id": "headings/case-0026-44b3a4201e0c",
+  "subset": "headings",
+  "dimension": "formatting",
+  "document": "sec_input.html",
+  "expected_markdown": null,
+  "test_rules": [
+    {
+      "type": "heading_structure",
+      "id": "case-0026-44b3a4201e0c:heading-structure-001",
+      "page": 1,
+      "headings": [
+        {
+          "text": "THE WALT DISNEY COMPANY CONDENSED CONSOLIDATED BALANCE SHEETS",
+          "level": 2
+        }
+      ],
+      "tags": [
+        "heading-structure",
+        "financial",
+        "full-document-reviewed"
+      ]
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "q2-fy26-earnings.pdf",
+    "source_sha256": "44b3a4201e0c31994b1590ffe38069d345bc534ce3a53e7f149a714944fd5391",
+    "source_page": 18,
+    "source_page_count": 26,
+    "cohort": "financial",
+    "annotation_evidence": [
+      "target_page_raster",
+      "adjacent_page_context",
+      "full_document_outline"
+    ],
+    "scoring": "next",
+    "primary_metric": "formatting_v2",
+    "headline": "feature",
+    "headline_reason": "complete page heading list (heading_structure rule)",
+    "next_version": "v0.4",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/headings.jsonl",
+    "parsebench_document": "headings/case-0026-44b3a4201e0c.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000036/fy2026_q2xprxex991.htm",
+      "accession": "0001744489-26-000036",
+      "provider": "datamulehub",
+      "sha256": "a0be672ca1f8268a76933f3e013e3c69248459dadf6ff2d2408f0bd3f372299e",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 283511,
+        "byte_end_exclusive": 328154,
+        "page_fragment_index_0based": 17
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "62f0b71da6b82a668fd012e6d4a98d28289430c21685806386e583bb989db2fa",
+    "input_sha256": "a8340228adcec549243b7a218cba6a6bc95831d7b8e5a1ffc4534aeb92169454"
+  },
+  "tags": [
+    "heading-structure",
+    "financial",
+    "full-document-reviewed"
+  ]
+}

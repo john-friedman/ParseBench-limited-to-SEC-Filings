@@ -1,0 +1,35 @@
+{
+  "id": "tables/Home_Depot_10-k_unrestricted__p3_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th>Term</th>\n<th>Definition</th>\n    </tr>\n<tr>\n        <td>ASU</td>\n<td>Accounting Standards Update</td>\n    </tr>\n<tr>\n        <td>BODFS</td>\n<td>Buy Online, Deliver From Store</td>\n    </tr>\n<tr>\n        <td>BOPIS</td>\n<td>Buy Online, Pickup In Store</td>\n    </tr>\n<tr>\n        <td>BORIS</td>\n<td>Buy Online, Return In Store</td>\n    </tr>\n<tr>\n        <td>BOSS</td>\n<td>Buy Online, Ship to Store</td>\n    </tr>\n<tr>\n        <td>Comparable sales</td>\n<td>As defined in the Results of Operations section of MD&amp;A</td>\n    </tr>\n<tr>\n        <td>DIFM</td>\n<td>Do-It-For-Me</td>\n    </tr>\n<tr>\n        <td>DIY</td>\n<td>Do-It-Yourself</td>\n    </tr>\n<tr>\n        <td>EH&amp;S</td>\n<td>Environmental, Health, and Safety</td>\n    </tr>\n<tr>\n        <td>EPA</td>\n<td>U.S. Environmental Protection Agency</td>\n    </tr>\n<tr>\n        <td>ESPP</td>\n<td>Employee Stock Purchase Plan</td>\n    </tr>\n<tr>\n        <td>Exchange Act</td>\n<td>Securities Exchange Act of 1934, as amended</td>\n    </tr>\n<tr>\n        <td>FASB</td>\n<td>Financial Accounting Standards Board</td>\n    </tr>\n<tr>\n        <td>fiscal 2022</td>\n<td>Fiscal year ended January 29, 2023 (includes 52 weeks)</td>\n    </tr>\n<tr>\n        <td>fiscal 2023</td>\n<td>Fiscal year ended January 28, 2024 (includes 52 weeks)</td>\n    </tr>\n<tr>\n        <td>fiscal 2024</td>\n<td>Fiscal year ended February 2, 2025 (includes 53 weeks)</td>\n    </tr>\n<tr>\n        <td>fiscal 2025</td>\n<td>Fiscal year ending February 1, 2026 (includes 52 weeks)</td>\n    </tr>\n<tr>\n        <td>GAAP</td>\n<td>U.S. generally accepted accounting principles</td>\n    </tr>\n<tr>\n        <td>IRS</td>\n<td>Internal Revenue Service</td>\n    </tr>\n<tr>\n        <td>MD&amp;A</td>\n<td>Management's Discussion and Analysis of Financial Condition and Results of Operations</td>\n    </tr>\n<tr>\n        <td>MRO</td>\n<td>Maintenance, repair, and operations</td>\n    </tr>\n<tr>\n        <td>NOPAT</td>\n<td>Net operating profit after tax</td>\n    </tr>\n<tr>\n        <td>NYSE</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>PLCC</td>\n<td>Private label credit card</td>\n    </tr>\n<tr>\n        <td>Pro</td>\n<td>Professional customer</td>\n    </tr>\n<tr>\n        <td>Restoration Plans</td>\n<td>Home Depot FutureBuilder Restoration Plan and HD Supply Restoration Plan</td>\n    </tr>\n<tr>\n        <td>ROIC</td>\n<td>Return on invested capital</td>\n    </tr>\n<tr>\n        <td>SEC</td>\n<td>Securities and Exchange Commission</td>\n    </tr>\n<tr>\n        <td>Securities Act</td>\n<td>Securities Act of 1933, as amended</td>\n    </tr>\n<tr>\n        <td>SG&amp;A</td>\n<td>Selling, general, and administrative expenses</td>\n    </tr>\n<tr>\n        <td>SRS</td>\n<td>SRS Distribution Inc.</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Home_Depot_10-k_unrestricted__p3_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000085/hd-20250202.htm",
+      "accession": "0000354950-25-000085",
+      "provider": "datamulehub",
+      "sha256": "cff28db2d142e0e74a2f6460460c9a150d26933fac043782cf790360ca1f0057",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 7,
+            "byte_start": 226060,
+            "byte_end_exclusive": 245179
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "110906d10c6ae97ddcc499a2765b5c73cd7985224296a9f2c90847cce62994d7",
+    "input_sha256": "7b69416cd82fc9a4ed0f6cf0c7892d29ae3eb6f3719dd0183d2aac587ca23a52"
+  },
+  "tags": []
+}

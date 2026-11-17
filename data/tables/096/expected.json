@@ -1,0 +1,35 @@
+{
+  "id": "tables/walmart-earnings-release-fy24-q4_page13",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"4\">Three Months Ended January 31,</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">Walmart International</th>\n      <th colspan=\"2\">Consolidated</th>\n    </tr>\n    <tr>\n      <th>(Dollars in millions)</th>\n      <th>2024</th>\n      <th>2023</th>\n      <th>2024</th>\n      <th>2023</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Operating income:</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Operating income, as reported</td>\n      <td>$ 1,438</td>\n      <td>$ 289</td>\n      <td>$ 7,254</td>\n      <td>$ 5,561</td>\n    </tr>\n    <tr>\n      <td>Business reorganization and restructuring charges¹</td>\n      <td>—</td>\n      <td>849</td>\n      <td>—</td>\n      <td>849</td>\n    </tr>\n    <tr>\n      <td>Adjusted operating income</td>\n      <td>$ 1,438</td>\n      <td>$ 1,138</td>\n      <td>$ 7,254</td>\n      <td>$ 6,410</td>\n    </tr>\n    <tr>\n      <td>Percent change³</td>\n      <td>26.4%</td>\n      <td>NP</td>\n      <td>13.2%</td>\n      <td>NP</td>\n    </tr>\n    <tr>\n      <td>Currency exchange rate fluctuations</td>\n      <td>(146)</td>\n      <td>—</td>\n      <td>(146)</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Adjusted operating income, constant currency</td>\n      <td>$ 1,292</td>\n      <td>$ 1,138</td>\n      <td>$ 7,108</td>\n      <td>$ 6,410</td>\n    </tr>\n    <tr>\n      <td>Percent change³</td>\n      <td>13.5%</td>\n      <td>NP</td>\n      <td>10.9%</td>\n      <td>NP</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"4\">Fiscal Year Ended January 31,</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">Walmart International</th>\n      <th colspan=\"2\">Consolidated</th>\n    </tr>\n    <tr>\n      <th>(Dollars in millions)</th>\n      <th>2024</th>\n      <th>2023</th>\n      <th>2024</th>\n      <th>2023</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Operating income:</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Operating income, as reported</td>\n      <td>$ 4,909</td>\n      <td>$ 2,965</td>\n      <td>$ 27,012</td>\n      <td>$ 20,428</td>\n    </tr>\n    <tr>\n      <td>Business reorganization and restructuring charges¹</td>\n      <td>—</td>\n      <td>849</td>\n      <td>—</td>\n      <td>849</td>\n    </tr>\n    <tr>\n      <td>Opioid legal charges²</td>\n      <td>—</td>\n      <td>—</td>\n      <td>93</td>\n      <td>3,325</td>\n    </tr>\n    <tr>\n      <td>Adjusted operating income</td>\n      <td>$ 4,909</td>\n      <td>$ 3,814</td>\n      <td>$ 27,105</td>\n      <td>$ 24,602</td>\n    </tr>\n    <tr>\n      <td>Percent change³</td>\n      <td>28.7%</td>\n      <td>NP</td>\n      <td>10.2%</td>\n      <td>NP</td>\n    </tr>\n    <tr>\n      <td>Currency exchange rate fluctuations</td>\n      <td>(506)</td>\n      <td>—</td>\n      <td>(506)</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Adjusted operating income, constant currency</td>\n      <td>$ 4,403</td>\n      <td>$ 3,814</td>\n      <td>$ 26,599</td>\n      <td>$ 24,602</td>\n    </tr>\n    <tr>\n      <td>Percent change³</td>\n      <td>15.4%</td>\n      <td>NP</td>\n      <td>8.1%</td>\n      <td>NP</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/walmart-earnings-release-fy24-q4_page13.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000019/earningsreleasefy24q4.htm",
+      "accession": "0000104169-24-000019",
+      "provider": "datamulehub",
+      "sha256": "e5ee3e8d267e3a7f363151d24ddb1cf0158546f3dda956fb7a49c638a07f16da",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 24,
+            "byte_start": 445009,
+            "byte_end_exclusive": 485157
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "d884d05976ef6c678dc61345d452f624740e90f3f6a5e0505015391b80fdd03f",
+    "input_sha256": "d8c3444ca9d7c47d6ebac7d6643457c332a2dd0f09cea9ce48f6d1f509c0e9be"
+  },
+  "tags": []
+}

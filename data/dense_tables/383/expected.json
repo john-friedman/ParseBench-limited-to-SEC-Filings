@@ -1,0 +1,349 @@
+{
+  "id": "dense_tables/dense_table_383",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "Table 7\n\n# Segment Financials\n# (Unaudited)\n\n<table>\n<thead>\n<tr><th rowspan=\"2\">($ in thousands, except share and per share data)</th><th colspan=\"9\">Quarter Ended</th></tr>\n<tr><th>September 30, 2024</th><th>June 30, 2024</th><th>March 31, 2024</th><th>December 31, 2023</th><th>September 30, 2023</th><th>June 30, 2023</th><th>March 31, 2023</th><th>December 31, 2022</th><th>September 30, 2022</th></tr>\n</thead>\n<tbody>\n<tr><td>Lending</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Net interest income</td><td>$ 316,268</td><td>$ 279,212</td><td>$ 266,536</td><td>$ 262,626</td><td>$ 265,215</td><td>$ 231,885</td><td>$ 201,047</td><td>$ 183,607</td><td>$ 139,516</td></tr>\n<tr><td>Total noninterest income</td><td>79,977</td><td>61,493</td><td>63,940</td><td>90,500</td><td>83,758</td><td>99,556</td><td>136,034</td><td>144,584</td><td>162,178</td></tr>\n<tr><td>Total net revenue</td><td>396,245</td><td>340,705</td><td>330,476</td><td>353,126</td><td>348,973</td><td>331,441</td><td>337,081</td><td>328,191</td><td>301,694</td></tr>\n<tr><td>Adjusted net revenue – Lending<sup>(1)</sup></td><td>391,892</td><td>339,052</td><td>325,323</td><td>346,541</td><td>342,481</td><td>322,238</td><td>325,086</td><td>314,930</td><td>296,965</td></tr>\n<tr><td>Contribution profit – Lending<sup>(2)</sup></td><td>238,928</td><td>197,938</td><td>207,719</td><td>226,110</td><td>203,956</td><td>183,309</td><td>209,898</td><td>208,799</td><td>180,562</td></tr>\n<tr><td>Technology Platform</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Net interest income</td><td>$ 629</td><td>$ 555</td><td>$ 501</td><td>$ 941</td><td>$ 573</td><td>$ —</td><td>$ —</td><td>$ —</td><td>$ —</td></tr>\n<tr><td>Total noninterest income</td><td>101,910</td><td>94,883</td><td>93,865</td><td>95,966</td><td>89,350</td><td>87,623</td><td>77,887</td><td>85,652</td><td>84,777</td></tr>\n<tr><td>Total net revenue<sup>(2)</sup></td><td>102,539</td><td>95,438</td><td>94,366</td><td>96,907</td><td>89,923</td><td>87,623</td><td>77,887</td><td>85,652</td><td>84,777</td></tr>\n<tr><td>Contribution profit – Technology Platform</td><td>32,955</td><td>31,151</td><td>30,742</td><td>30,584</td><td>32,191</td><td>17,154</td><td>14,857</td><td>16,881</td><td>19,536</td></tr>\n<tr><td>Financial Services</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Net interest income</td><td>$ 154,143</td><td>$ 139,229</td><td>$ 119,713</td><td>$ 109,072</td><td>$ 93,101</td><td>$ 74,637</td><td>$ 58,037</td><td>$ 45,609</td><td>$ 28,158</td></tr>\n<tr><td>Total noninterest income</td><td>84,165</td><td>36,903</td><td>30,838</td><td>30,043</td><td>25,146</td><td>23,415</td><td>23,064</td><td>19,208</td><td>20,795</td></tr>\n<tr><td>Total net revenue</td><td>238,308</td><td>176,132</td><td>150,551</td><td>139,115</td><td>118,247</td><td>98,052</td><td>81,101</td><td>64,817</td><td>48,953</td></tr>\n<tr><td>Contribution profit (loss) – Financial Services<sup>(2)</sup></td><td>99,758</td><td>55,220</td><td>37,174</td><td>25,060</td><td>3,260</td><td>(4,347)</td><td>(24,235)</td><td>(43,588)</td><td>(52,623)</td></tr>\n<tr><td>Corporate/Other</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Net interest income (expense)</td><td>$ (40,030)</td><td>$ (6,412)</td><td>$ 15,968</td><td>$ 17,002</td><td>$ (13,926)</td><td>$ (15,396)</td><td>$ (23,074)</td><td>$ (20,632)</td><td>$ (9,824)</td></tr>\n<tr><td>Total noninterest income (loss)</td><td>59</td><td>(7,245)</td><td>53,634</td><td>9,254</td><td>(6,008)</td><td>(3,702)</td><td>(837)</td><td>(1,349)</td><td>(1,615)</td></tr>\n<tr><td>Total net revenue (loss)<sup>(2)</sup></td><td>(39,971)</td><td>(13,657)</td><td>69,602</td><td>26,256</td><td>(19,934)</td><td>(19,098)</td><td>(23,911)</td><td>(21,981)</td><td>(11,439)</td></tr>\n<tr><td>Consolidated</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Net interest income</td><td>$ 431,010</td><td>$ 412,584</td><td>$ 402,718</td><td>$ 389,641</td><td>$ 344,963</td><td>$ 291,126</td><td>$ 236,010</td><td>$ 208,584</td><td>$ 157,850</td></tr>\n<tr><td>Total noninterest income</td><td>266,111</td><td>186,034</td><td>242,277</td><td>225,763</td><td>192,246</td><td>206,892</td><td>236,148</td><td>248,095</td><td>266,135</td></tr>\n<tr><td>Total net revenue</td><td>697,121</td><td>598,618</td><td>644,995</td><td>615,404</td><td>537,209</td><td>498,018</td><td>472,158</td><td>456,679</td><td>423,985</td></tr>\n<tr><td>Adjusted net revenue<sup>(1)</sup></td><td>689,445</td><td>596,965</td><td>580,648</td><td>594,245</td><td>530,717</td><td>488,815</td><td>460,163</td><td>443,418</td><td>419,256</td></tr>\n<tr><td>Net income (loss)</td><td>60,745</td><td>17,404</td><td>88,043</td><td>47,913</td><td>(266,684)</td><td>(47,549)</td><td>(34,422)</td><td>(40,006)</td><td>(74,209)</td></tr>\n<tr><td>Adjusted EBITDA<sup>(1)</sup></td><td>186,237</td><td>137,901</td><td>144,385</td><td>181,204</td><td>98,025</td><td>76,819</td><td>75,689</td><td>70,060</td><td>44,298</td></tr>\n</tbody>\n</table>\n\n(1) Adjusted net revenue and adjusted EBITDA are non-GAAP financial measures. For additional information on these measures and reconciliations to the most directly comparable GAAP measures, see \"Non-GAAP Financial Measures\" and Table 2 to the \"Financial Tables\" herein.\n\n(2) Technology Platform segment total net revenue includes intercompany fees. The equal and offsetting intercompany expenses are reflected within all three segments' directly attributable expenses, as well as within expenses not allocated to segments. The intercompany revenues and expenses are eliminated in consolidation. The revenues are eliminated within Corporate/Other and the expenses represent a reconciling item of segment contribution profit (loss) to consolidated income (loss) before income taxes.\n\n24",
+  "test_rules": [
+    {
+      "type": "table_rowspan",
+      "cell": "($ in thousands, except share and per share data)",
+      "expected_rowspan": 2,
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_93649f3f6e183b9c"
+    },
+    {
+      "type": "table_colspan",
+      "cell": "quarter ended",
+      "expected_colspan": 9,
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_c5a5cfac92e70037"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "lending",
+      "column_headers": [
+        "($ in thousands, except share and per share data)"
+      ],
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_428c217d1f65ea62"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "lending",
+      "expected_neighbor": "net interest income",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_34c3abffbdf3e8aa"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "technology platform",
+      "expected_neighbor": "net interest income",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_cfe39ed1f19f42da"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "30,043",
+      "expected_neighbor": "25,146",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_79af9ad178005b48"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "20,795",
+      "expected_neighbor": "48,953",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_ee5ab5014b33da8c"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "total net revenue (loss)()",
+      "expected_neighbor": "(39,971)",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_3b7b47fcc5644f54"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "26,256",
+      "expected_neighbor": "(19,934)",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_8c6fbb69fbdd23e6"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "adjusted ebitda()",
+      "expected_neighbor": "186,237",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_7d72168236161a56"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "181,204",
+      "expected_neighbor": "98,025",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_bc7456ae8d555cf1"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "adjusted ebitda()",
+      "cell_b": "44,298",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_2015b235830d565a"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "($ in thousands, except share and per share data)",
+      "cell_b": "adjusted ebitda()",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_ca0291f101b2c2b4"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "december 31, 2023",
+      "cell_b": "181,204",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_73d839bf9a53d505"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "september 30, 2022",
+      "cell_b": "44,298",
+      "table_anchor_cells": [
+        "($ in thousands, except share and per share data)",
+        "september 30, 2024",
+        "september 30, 2023",
+        "september 30, 2022",
+        "december 31, 2023"
+      ],
+      "page": 1,
+      "pdf": "dense_table_383.pdf",
+      "verified": false,
+      "id": "dense_v01_ad5c0107251504e0"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_383",
+    "gt_status": "reannotated_reviewed_keep",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_383.md",
+    "source_pdf": "/Users/pierre/Code/pdfDataSetOrdered/finance/Q3-2024-Earnings-Release.pdf",
+    "source_page": 25,
+    "source_n_pages": 25,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 506.0,
+      "rows": 23,
+      "cols": 23,
+      "cells": 483,
+      "fill": 0.913,
+      "numeric_ratio": 0.008,
+      "n_items": 532,
+      "tabular_line_ratio": 0.625,
+      "n_blocks": 1
+    },
+    "shape_class": "wide/text/landscape",
+    "verify": {
+      "median_cell_len": 2,
+      "words_per_cell": 1.07,
+      "aligned_ratio": 0.805,
+      "row_coverage": 0.575,
+      "text_sha1": "c877c7403b5020e06769002320259be1f311d9ea"
+    },
+    "header_preview": "BSb\u0001W?bSCSab\u0001W?Q@>S'''''''''''''''''''''''''''''''''''''''''''''''''''' | \u0001 | , /%\u000e/1\u0001 | \u0001 | \u000e02%\u000e | \u000e\u0001 | \u0001 | \u000e//%.,/\u0001 | \u0001 | \u000e/\u000e%/\u000e/\u0001 | \u0001 | \u000e/.%\u000e | .\u0001 | \u0001 | \u000e, | %11.\u0001 | \u0001 | \u000e) | %)-0\u0001 | \u0001 | 1,%/)0\u0001 |",
+    "draft_check": {
+      "text_layer_numbers": 53,
+      "numeric_coverage": 0.057
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed_text_layer_mismatch",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 0.9512,
+        "blind_rows": 10,
+        "text_layer_token_precision": 0.0463,
+        "text_layer_token_recall": 0.0301,
+        "agreement_with_previous_reference_table_next": 0.94
+      },
+      "review": {
+        "verdict": "keep",
+        "reason": "The only blind mismatch is the '$' convention (blind split '$' into its own cells; draft keeps '$ 629'), which is allowed. All 26 body rows x 9 quarters checked against four high-resolution quadrant crops: values, parentheses, em-dashes, footnote marks (1)/(2) and section rows match the image. Text layer ignored as instructed.",
+        "changes": [],
+        "regions_checked": 4
+      },
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_383.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1818874/000181887424000229/q32024earningsrelease.htm",
+      "accession": "0001818874-24-000229",
+      "provider": "datamulehub",
+      "sha256": "73ea3ccd4dccd0a9afec239ab234432f85b66ed66b73f202280272c9cca46b51",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 25,
+            "byte_start": 753402,
+            "byte_end_exclusive": 899283
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "4431297a232d47a74dadc0ddbe2b0ac5a72cfc5e20f1aa2f524d8747aa0aa6cc",
+    "input_sha256": "01e7990d3534a2387a253dec15002ccdccdc64b2d7274c0dd71196668dc3cb4f"
+  },
+  "tags": [
+    "dense_table",
+    "wide_columns",
+    "text_content",
+    "landscape",
+    "gt_draft",
+    "draft_text_layer_mismatch"
+  ]
+}

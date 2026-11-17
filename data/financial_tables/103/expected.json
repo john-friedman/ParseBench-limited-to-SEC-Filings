@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/sd-2026-08-13_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "**Share Data**\n\n<table>\n  <caption><b>T33 Shares and other instruments</b></caption>\n  <thead>\n    <tr>\n      <th>July 31, 2024</th>\n      <th>Amount ($ millions)</th>\n      <th>Dividends declared per share<sup>(1)</sup></th>\n      <th>Number outstanding (000s)</th>\n      <th>Conversion feature</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><b>Common Shares</b><sup>(2)</sup></td>\n      <td>$ 21,549</td>\n      <td>$ 1.06</td>\n      <td>1,237,339</td>\n      <td>n/a</td>\n    </tr>\n  </tbody>\n</table>\n<table>\n  <thead>\n    <tr>\n      <th>NVCC Additional Tier 1 Securities<sup>(3)(5)</sup></th>\n      <th>Amount ($ millions)</th>\n      <th>Distribution<sup>(4)</sup></th>\n      <th>Yield (%)</th>\n      <th>Number outstanding (000s)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Subordinated Additional Tier 1 Capital Notes</td>\n      <td>U.S.$ 1,250</td>\n      <td>U.S.$ 20.9906</td>\n      <td>8.21370</td>\n      <td>1,250</td>\n    </tr>\n    <tr>\n      <td>Subordinated Additional Tier 1 Capital Notes</td>\n      <td>U.S.$ 1,250</td>\n      <td>U.S.$ 12.25</td>\n      <td>4.900</td>\n      <td>1,250</td>\n    </tr>\n    <tr>\n      <td>Limited Recourse Capital Notes Series 1</td>\n      <td>$ 1,250</td>\n      <td>$ 9.25</td>\n      <td>3.700</td>\n      <td>1,250</td>\n    </tr>\n    <tr>\n      <td>Limited Recourse Capital Notes Series 2</td>\n      <td>U.S.$ 600</td>\n      <td>U.S.$ 9.0625</td>\n      <td>3.625</td>\n      <td>600</td>\n    </tr>\n    <tr>\n      <td>Limited Recourse Capital Notes Series 3</td>\n      <td>$ 1,500</td>\n      <td>$ 17.5575</td>\n      <td>7.023</td>\n      <td>1,500</td>\n    </tr>\n    <tr>\n      <td>Limited Recourse Capital Notes Series 4</td>\n      <td>U.S.$ 750</td>\n      <td>U.S.$ 21.5625</td>\n      <td>8.625</td>\n      <td>750</td>\n    </tr>\n    <tr>\n      <td>Limited Recourse Capital Notes Series 5</td>\n      <td>U.S.$ 750</td>\n      <td>U.S.$ 20.0000</td>\n      <td>8.000</td>\n      <td>750</td>\n    </tr>\n  </tbody>\n</table>\n<table>\n  <thead>\n    <tr>\n      <th>NVCC Subordinated Debentures<sup>(3)</sup></th>\n      <th>Amount ($ millions)</th>\n      <th>Interest rate (%)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Subordinated debentures due December 2025</td>\n      <td>U.S.$ 1,250</td>\n      <td>4.500</td>\n    </tr>\n    <tr>\n      <td>Subordinated debentures due July 2029<sup>(6)</sup></td>\n      <td>$ –</td>\n      <td>2.836</td>\n    </tr>\n    <tr>\n      <td>Subordinated debentures due May 2032</td>\n      <td>$ 1,750</td>\n      <td>3.934</td>\n    </tr>\n    <tr>\n      <td>Subordinated debentures due December 2032</td>\n      <td>JPY 33,000</td>\n      <td>1.800</td>\n    </tr>\n    <tr>\n      <td>Subordinated debentures due August 2033</td>\n      <td>$ 1,000</td>\n      <td>5.679</td>\n    </tr>\n    <tr>\n      <td>Subordinated debentures due December 2033</td>\n      <td>JPY 12,000</td>\n      <td>1.830</td>\n    </tr>\n    <tr>\n      <td>Subordinated debentures due August 2034</td>\n      <td>$ 1,000</td>\n      <td>4.959</td>\n    </tr>\n    <tr>\n      <td>Subordinated debentures due May 2037</td>\n      <td>U.S.$ 1,250</td>\n      <td>4.588</td>\n    </tr>\n  </tbody>\n</table>\n<table>\n  <thead>\n    <tr>\n      <th>Other</th>\n      <th>Amount ($ millions)</th>\n      <th>Distribution<sup>(4)</sup></th>\n      <th>Yield (%)</th>\n      <th>Number outstanding (000s)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Scotiabank Trust Securities – Series 2006-1 issued by Scotiabank Capital Trust<sup>(7)</sup></td>\n      <td>$ 750</td>\n      <td>$ 28.25</td>\n      <td>5.650</td>\n      <td>750</td>\n    </tr>\n  </tbody>\n</table>\n<table>\n  <thead>\n    <tr>\n      <th>Options</th>\n      <th>Number outstanding (000s)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Outstanding options granted under the Stock Option Plans to purchase common shares<sup>(2)</sup></td>\n      <td>11,877</td>\n    </tr>\n  </tbody>\n</table>\n\n(1) Dividends are paid quarterly, if and when declared. Represents dividends announced on August 27, 2024. The Board of Directors, at its meeting on August 26, 2024, approved a dividend payable on October 29, 2024 to shareholders of record as of October 2, 2024.\n\n\n\n(2) As at August 16, 2024, the number of outstanding common shares and options were 1,237,339 thousand and 11,839 thousand, respectively.\n\n\n\n(3) These securities contain Non-Viability Contingent Capital (NVCC) provisions necessary to qualify as regulatory capital under Basel III. Refer to Notes 21 and 24 of the Consolidated Financial Statements in the Bank’s 2023 Annual Report for further details. The maximum number of common shares issuable on conversion of NVCC subordinated debentures, NVCC Subordinated additional Tier 1 capital notes, including those issued to Scotiabank LRCN Trust as recourse assets in respect of NVCC Limited Recourse Capital Notes as at July 31, 2024 would be 4,560 million common shares based on the floor price and excluding the impact of any accrued and unpaid interest and any declared but unpaid dividends.\n\n\n\n(4) Distributions per face amount of $1,000 or U.S.$1,000 semi-annually or quarterly, as applicable.\n\n\n\n(5) Quarterly distributions are recorded in each fiscal quarter, if and when paid.\n\n\n\n(6) On July 3, 2024, the Bank redeemed all outstanding $1,500 million 2.836% Subordinated Debentures (NVCC) due July 2029 at 100% of their principal amount plus accrued and unpaid interest. For more details, refer to Note 12 of the Consolidated Financial Statements.\n\n\n\n(7) These securities have exchange features. Refer to Table 31 in the Bank’s 2023 Annual Report for further details.\n\n\n\nFor further details on outstanding securities of the Bank, including convertibility features, refer to Notes 21, 24 and 26 of the Bank’s Consolidated Financial Statements in the 2023 Annual Report.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "sd.pdf",
+    "source_sha256": "b5daef48badb2326dabb5d9b54d2e127d2440465cf5d418a1a8e967393d4c172",
+    "annotated_at": "2026-08-13T07:36:04.417Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/sd-2026-08-13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/9631/000119312524207433/d855173dex991.htm",
+      "accession": "0001193125-24-207433",
+      "provider": "datamulehub",
+      "sha256": "e69785c7e35016adf05961509ebd3417dc5b1ca46304a68426b79ceeeb4a29de",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 285,
+            "byte_start": 4564044,
+            "byte_end_exclusive": 4614572
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "b5daef48badb2326dabb5d9b54d2e127d2440465cf5d418a1a8e967393d4c172",
+    "input_sha256": "501f3ab05075c703758a99ceaba878bcdd6a036b18a6d757607f5e891793d56c"
+  },
+  "tags": []
+}

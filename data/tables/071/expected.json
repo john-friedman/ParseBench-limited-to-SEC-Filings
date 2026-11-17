@@ -1,0 +1,40 @@
+{
+  "id": "tables/METLIFE-10Q-20240205 unrestricted_page8",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n<thead>\n      <tr>\n        <td class=\"\"></td>\n        <th>Preferred Stock</th>\n        <th>Common Stock</th>\n        <th>Additional Paid-in Capital</th>\n        <th>Retained Earnings</th>\n        <th>Treasury Stock at Cost</th>\n        <th>Accumulated Other Comprehensive Income (Loss)</th>\n        <th>Total MetLife, Inc.'s Stockholders' Equity</th>\n        <th>Noncontrolling Interests</th>\n        <th>Total Equity</th>\n    </tr>\n</thead>\n<tbody>\n        <tr>\n        <td class=\"\">Balance at December 31, 2023</td>\n<td>$ —</td>\n<td>$ 12</td>\n<td>$ 33,690</td>\n<td>$ 40,146</td>\n<td>$ (24,591)</td>\n<td>$ (19,242)</td>\n<td>$ 30,015</td>\n<td>$ 238</td>\n<td>$ 30,253</td>\n    </tr>\n<tr>\n        <td class=\"\">Cumulative effects of changes in accounting principles, net of income tax</td>\n<td></td>\n<td></td>\n<td></td>\n<td>(219)</td>\n<td></td>\n<td></td>\n<td>(219)</td>\n<td></td>\n<td>(219)</td>\n    </tr>\n<tr>\n        <td class=\"\">Treasury stock acquired in connection with share repurchases (includes $11 million of excise tax)</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>(1,183)</td>\n<td></td>\n<td>(1,183)</td>\n<td></td>\n<td>(1,183)</td>\n    </tr>\n<tr>\n        <td class=\"\">Stock-based compensation</td>\n<td></td>\n<td></td>\n<td>28</td>\n<td></td>\n<td></td>\n<td></td>\n<td>28</td>\n<td></td>\n<td>28</td>\n    </tr>\n<tr>\n        <td class=\"\">Dividends on preferred stock</td>\n<td></td>\n<td></td>\n<td></td>\n<td>(67)</td>\n<td></td>\n<td></td>\n<td>(67)</td>\n<td></td>\n<td>(67)</td>\n    </tr>\n<tr>\n        <td class=\"\">Dividends on common stock (declared per share of $0.520)</td>\n<td></td>\n<td></td>\n<td></td>\n<td>(377)</td>\n<td></td>\n<td></td>\n<td>(377)</td>\n<td></td>\n<td>(377)</td>\n    </tr>\n<tr>\n        <td class=\"\">Change in equity of noncontrolling interests</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>—</td>\n<td>14</td>\n<td>14</td>\n    </tr>\n<tr>\n        <td class=\"\">Net income (loss)</td>\n<td></td>\n<td></td>\n<td></td>\n<td>867</td>\n<td></td>\n<td></td>\n<td>867</td>\n<td>8</td>\n<td>875</td>\n    </tr>\n<tr>\n        <td class=\"\">Other comprehensive income (loss), net of income tax</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>(529)</td>\n<td>(529)</td>\n<td>1</td>\n<td>(528)</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at March 31, 2024</td>\n<td>$ —</td>\n<td>$ 12</td>\n<td>$ 33,718</td>\n<td>$ 40,350</td>\n<td>$ (25,774)</td>\n<td>$ (19,771)</td>\n<td>$ 28,535</td>\n<td>$ 261</td>\n<td>$ 28,796</td>\n    </tr>\n</tbody>\n</table>\n\n<table>\n<thead>\n      <tr>\n        <td class=\"\"></td>\n        <th>Preferred Stock</th>\n        <th>Common Stock</th>\n        <th>Additional Paid-in Capital</th>\n        <th>Retained Earnings</th>\n        <th>Treasury Stock at Cost</th>\n        <th>Accumulated Other Comprehensive Income (Loss)</th>\n        <th>Total MetLife, Inc.'s Stockholders' Equity</th>\n        <th>Noncontrolling Interests</th>\n        <th>Total Equity</th>\n    </tr>\n</thead>\n<tbody>\n        <tr>\n        <td class=\"\">Balance at December 31, 2022</td>\n<td>$ —</td>\n<td>$ 12</td>\n<td>$ 33,616</td>\n<td>$ 40,332</td>\n<td>$ (21,458)</td>\n<td>$ (22,621)</td>\n<td>$ 29,881</td>\n<td>$ 244</td>\n<td>$ 30,125</td>\n    </tr>\n<tr>\n        <td class=\"\">Treasury stock acquired in connection with share repurchases (includes $7 million of excise tax)</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>(787)</td>\n<td></td>\n<td>(787)</td>\n<td></td>\n<td>(787)</td>\n    </tr>\n<tr>\n        <td class=\"\">Stock-based compensation</td>\n<td></td>\n<td></td>\n<td>1</td>\n<td></td>\n<td></td>\n<td></td>\n<td>1</td>\n<td></td>\n<td>1</td>\n    </tr>\n<tr>\n        <td class=\"\">Dividends on preferred stock</td>\n<td></td>\n<td></td>\n<td></td>\n<td>(66)</td>\n<td></td>\n<td></td>\n<td>(66)</td>\n<td></td>\n<td>(66)</td>\n    </tr>\n<tr>\n        <td class=\"\">Dividends on common stock (declared per share of $0.500)</td>\n<td></td>\n<td></td>\n<td></td>\n<td>(389)</td>\n<td></td>\n<td></td>\n<td>(389)</td>\n<td></td>\n<td>(389)</td>\n    </tr>\n<tr>\n        <td class=\"\">Change in equity of noncontrolling interests</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>—</td>\n<td>(2)</td>\n<td>(2)</td>\n    </tr>\n<tr>\n        <td class=\"\">Net income (loss)</td>\n<td></td>\n<td></td>\n<td></td>\n<td>80</td>\n<td></td>\n<td></td>\n<td>80</td>\n<td>5</td>\n<td>85</td>\n    </tr>\n<tr>\n        <td class=\"\">Other comprehensive income (loss), net of income tax</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td>3,474</td>\n<td>3,474</td>\n<td>(18)</td>\n<td>3,456</td>\n    </tr>\n<tr>\n        <td class=\"\">Balance at March 31, 2023</td>\n<td>$ —</td>\n<td>$ 12</td>\n<td>$ 33,617</td>\n<td>$ 39,957</td>\n<td>$ (22,245)</td>\n<td>$ (19,147)</td>\n<td>$ 32,194</td>\n<td>$ 229</td>\n<td>$ 32,423</td>\n    </tr>\n</tbody>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/METLIFE-10Q-20240205 unrestricted_page8.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1099219/000109921924000141/met-20240331.htm",
+      "accession": "0001099219-24-000141",
+      "provider": "datamulehub",
+      "sha256": "5ebf09d1429e5ffcaa7c0ab82b684ba285b22b72db14134c704d012e7082cb3b",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 11,
+            "byte_start": 1290471,
+            "byte_end_exclusive": 1335835
+          },
+          {
+            "table_index_0based": 12,
+            "byte_start": 1335898,
+            "byte_end_exclusive": 1378343
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "332cbd9349f2360cdfab8a8bb0a174105571328f41a2dbd8236ae72a8e8af7e4",
+    "input_sha256": "9fd1f44703ddc1b4a0deb7d08f234ba328f67d12fb2f571ab0bec597bbca14a2"
+  },
+  "tags": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tables/Victoria Secret 10-k_page4",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>February 1, 2025</th>\n        <th>February 3, 2024</th>\n    </tr>\n<tr>\n        <td class=\"\">Company-Operated:</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">U.S.</td>\n<td>782</td>\n<td>808</td>\n    </tr>\n<tr>\n        <td class=\"\">Canada</td>\n<td>24</td>\n<td>23</td>\n    </tr>\n<tr>\n        <td class=\"\"></td>\n<td>806</td>\n<td>831</td>\n    </tr>\n<tr>\n        <td class=\"\">China Joint Venture:</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Beauty &amp; Accessories (a)</td>\n<td>30</td>\n<td>34</td>\n    </tr>\n<tr>\n        <td class=\"\">Full Assortment</td>\n<td>40</td>\n<td>36</td>\n    </tr>\n<tr>\n        <td class=\"\"></td>\n<td>70</td>\n<td>70</td>\n    </tr>\n<tr>\n        <td class=\"\">Adore Me</td>\n<td>6</td>\n<td>6</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>882</td>\n<td>907</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>Beginning of Year</th>\n        <th>Opened</th>\n        <th>Closed</th>\n        <th>Acquired (a)</th>\n        <th>Reclassed to Joint Venture (b)</th>\n        <th>End of Year</th>\n    </tr>\n<tr>\n        <td class=\"\">2024 (c)</td>\n<td>907</td>\n<td>24</td>\n<td>(49)</td>\n<td>—</td>\n<td>—</td>\n<td>882</td>\n    </tr>\n<tr>\n        <td class=\"\">2023 (c)</td>\n<td>915</td>\n<td>21</td>\n<td>(29)</td>\n<td>—</td>\n<td>—</td>\n<td>907</td>\n    </tr>\n<tr>\n        <td class=\"\">2022 (c)</td>\n<td>899</td>\n<td>26</td>\n<td>(24)</td>\n<td>6</td>\n<td>8</td>\n<td>915</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Victoria Secret 10-k_page4.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643725000006/vsco-20250201.htm",
+      "accession": "0001856437-25-000006",
+      "provider": "datamulehub",
+      "sha256": "c61188a3b679a072e3532c138c245992615b963995f761959e0a919d49e04d05",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 7,
+            "byte_start": 188653,
+            "byte_end_exclusive": 199597
+          },
+          {
+            "table_index_0based": 8,
+            "byte_start": 200382,
+            "byte_end_exclusive": 211658
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "7034bee7fd6785798a10a844fd1ff53d1dde72084873c2a48dc8c82d7b35e56f",
+    "input_sha256": "20eafc2110cfbe1b533a153dc7fc1e422448394225e58f9ce5a96ff355815df2"
+  },
+  "tags": []
+}

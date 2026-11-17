@@ -1,0 +1,327 @@
+{
+  "id": "dense_tables/dense_table_444",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "# Five-Year Financial Summary\n\n<table>\n<thead>\n<tr><th></th><th>2025</th><th>2024</th><th>2023<sup>(a)</sup></th><th>2022</th><th>2021</th></tr>\n</thead>\n<tbody>\n<tr><td>FINANCIAL RESULTS (in millions)</td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Net Sales</td><td>$ 104,780</td><td>$ 106,566</td><td>$ 107,412</td><td>$ 109,120</td><td>$ 106,005</td></tr>\n<tr><td>Cost of sales</td><td>75,511</td><td>76,502</td><td>77,828</td><td>82,306</td><td>74,963</td></tr>\n<tr><td>Selling, general and administrative expenses (SG&amp;A)</td><td>21,535</td><td>21,969</td><td>21,462</td><td>20,581</td><td>19,752</td></tr>\n<tr><td>Depreciation and amortization (exclusive of depreciation included in cost of sales)</td><td>2,617</td><td>2,529</td><td>2,415</td><td>2,385</td><td>2,344</td></tr>\n<tr><td>Operating income</td><td>5,117</td><td>5,566</td><td>5,707</td><td>3,848</td><td>8,946</td></tr>\n<tr><td>Net interest expense</td><td>445</td><td>411</td><td>502</td><td>478</td><td>421</td></tr>\n<tr><td>Net other income</td><td>(95)</td><td>(106)</td><td>(92)</td><td>(48)</td><td>(382)</td></tr>\n<tr><td>Earnings before income taxes</td><td>4,767</td><td>5,261</td><td>5,297</td><td>3,418</td><td>8,907</td></tr>\n<tr><td>Provision for income taxes</td><td>1,062</td><td>1,170</td><td>1,159</td><td>638</td><td>1,961</td></tr>\n<tr><td>Net earnings</td><td>$ 3,705</td><td>$ 4,091</td><td>$ 4,138</td><td>$ 2,780</td><td>$ 6,946</td></tr>\n<tr><td>PER SHARE</td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Basic earnings per share</td><td>$ 8.16</td><td>$ 8.89</td><td>$ 8.96</td><td>$ 6.02</td><td>$ 14.23</td></tr>\n<tr><td>Diluted earnings per share</td><td>$ 8.13</td><td>$ 8.86</td><td>$ 8.94</td><td>$ 5.98</td><td>$ 14.10</td></tr>\n<tr><td>Cash dividends declared</td><td>$ 4.54</td><td>$ 4.46</td><td>$ 4.38</td><td>$ 4.14</td><td>$ 3.38</td></tr>\n<tr><td>FINANCIAL POSITION (in millions)</td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Total assets</td><td>$ 59,490</td><td>$ 57,769</td><td>$ 55,356</td><td>$ 53,335</td><td>$ 53,811</td></tr>\n<tr><td>Long-term debt and other borrowings, including current portion</td><td>$ 16,456</td><td>$ 15,940</td><td>$ 16,038</td><td>$ 16,139</td><td>$ 13,720</td></tr>\n<tr><td>Less: Short-term investments</td><td>4,611</td><td>3,893</td><td>2,897</td><td>1,343</td><td>4,985</td></tr>\n<tr><td>Net debt <sup>(b)</sup></td><td>$ 11,845</td><td>$ 12,047</td><td>$ 13,141</td><td>$ 14,796</td><td>$ 8,735</td></tr>\n<tr><td>Shareholders’ investment</td><td>$ 16,165</td><td>$ 14,666</td><td>$ 13,432</td><td>$ 11,232</td><td>$ 12,827</td></tr>\n<tr><td>FINANCIAL RATIOS</td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Comparable sales change <sup>(c)</sup></td><td>(2.6) %</td><td>0.1 %</td><td>(3.7) %</td><td>2.2 %</td><td>12.7 %</td></tr>\n<tr><td>Gross margin (% of net sales)</td><td>27.9 %</td><td>28.2 %</td><td>27.5 %</td><td>24.6 %</td><td>29.3 %</td></tr>\n<tr><td>SG&amp;A expenses (% of net sales)</td><td>20.6 %</td><td>20.6 %</td><td>20.0 %</td><td>18.9 %</td><td>18.6 %</td></tr>\n<tr><td>Operating income margin (% of net sales)</td><td>4.9 %</td><td>5.2 %</td><td>5.3 %</td><td>3.5 %</td><td>8.4 %</td></tr>\n<tr><td>OTHER</td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Common shares outstanding (in millions)</td><td>452.8</td><td>455.6</td><td>461.7</td><td>460.3</td><td>471.3</td></tr>\n<tr><td>Operating cash flow (in millions)</td><td>$ 6,562</td><td>$ 7,367</td><td>$ 8,621</td><td>$ 4,018</td><td>$ 8,625</td></tr>\n<tr><td>Capital expenditures (in millions)</td><td>$ 3,727</td><td>$ 2,891</td><td>$ 4,806</td><td>$ 5,528</td><td>$ 3,544</td></tr>\n<tr><td>Net sales per square foot <sup>(d)</sup></td><td>$ 420</td><td>$ 431</td><td>$ 438</td><td>$ 447</td><td>$ 437</td></tr>\n<tr><td>Retail square feet (in thousands)</td><td>250,518</td><td>248,278</td><td>245,939</td><td>244,584</td><td>243,284</td></tr>\n<tr><td>Square footage growth</td><td>0.9 %</td><td>1.0 %</td><td>0.6 %</td><td>0.5 %</td><td>0.7 %</td></tr>\n<tr><td>Total number of stores</td><td>1,995</td><td>1,978</td><td>1,956</td><td>1,948</td><td>1,926</td></tr>\n<tr><td>Total number of supply chain facilities</td><td>70</td><td>66</td><td>59</td><td>56</td><td>49</td></tr>\n</tbody>\n</table>\n\n(a) 2023 consisted of 53 weeks compared with 52 weeks in all other periods presented. The extra week in 2023 contributed $1.7 billion to Net Sales.\n\n(b) We calculate Net Debt, a non-GAAP measure, as Long-Term Debt and Other Borrowings, Including Current Portion, net of Short-Term Investments. We believe Net Debt is a useful indicator of our level of financial leverage because short-term investments are available to pay debt maturity obligations. A reconciliation to the most comparable GAAP measure, Long-Term Debt and Other Borrowings, Including Current Portion, is provided above. Other companies may calculate Net Debt differently than we do, limiting the usefulness of the measure for comparisons with other companies.\n\n(c) See definition of comparable sales in Form 10-K, Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations.\n\n(d) Represents Net Sales per retail square foot which is calculated using rolling four quarters average retail square feet.",
+  "test_rules": [
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "financial results (in millions)",
+      "expected_neighbor": "net sales",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_4946cd83ce1002de"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "earnings before income taxes",
+      "expected_neighbor": "4,767",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_06f808102d398bbd"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "5,261",
+      "expected_neighbor": "5,297",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_74200288dd29d481"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "8,907",
+      "expected_neighbor": "1,961",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_f561d360702027fd"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "long-term debt and other borrowings, including current portion",
+      "expected_neighbor": "$ 16,456",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_6a625d77a17f7d20"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "$ 15,940",
+      "expected_neighbor": "$ 16,038",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_5c768b709dd69851"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "$ 13,720",
+      "expected_neighbor": "4,985",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_87b0b6f299d13fec"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "operating income margin (% of net sales)",
+      "expected_neighbor": "4.9 %",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_036b79fa3d75dd7b"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "5.2 %",
+      "expected_neighbor": "5.3 %",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_ef2c2c81440ba73a"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "total number of supply chain facilities",
+      "expected_neighbor": "70",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_d66e4affc645ef0b"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "long-term debt and other borrowings, including current portion",
+      "cell_b": "$ 13,720",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_09056b8d8d92a2eb"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "total number of supply chain facilities",
+      "cell_b": "49",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_8aa695e18b58d383"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "2024",
+      "cell_b": "66",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_dd03835337f86025"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "2021",
+      "cell_b": "49",
+      "table_anchor_cells": [
+        "2023(a)",
+        "2025",
+        "2024",
+        "2022",
+        "2021"
+      ],
+      "page": 1,
+      "pdf": "dense_table_444.pdf",
+      "verified": false,
+      "id": "dense_v01_d664ab15ada4afa1"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_444",
+    "gt_status": "reannotated_confirmed",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_444.md",
+    "source_pdf": "/Volumes/T7/bigBagOfPdf11/2025-Annual-Report-Target-Corporation.pdf",
+    "source_page": 5,
+    "source_n_pages": 91,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 287.9,
+      "rows": 30,
+      "cols": 11,
+      "cells": 246,
+      "fill": 0.745,
+      "numeric_ratio": 0.602,
+      "n_items": 281,
+      "tabular_line_ratio": 0.696,
+      "n_blocks": 1
+    },
+    "shape_class": "medium/numeric/portrait",
+    "verify": {
+      "median_cell_len": 5,
+      "words_per_cell": 1.48,
+      "aligned_ratio": 0.732,
+      "row_coverage": 0.652,
+      "text_sha1": "dc258251f268937a5f4bdc55f1f2b604a900770f"
+    },
+    "header_preview": "Net Sales | $ | 104,780 | $ | 106,566 | $ | 107,412 | $ | 109,120 | $ | 106,005",
+    "draft_check": {
+      "text_layer_numbers": 148,
+      "numeric_coverage": 1.0
+    },
+    "review": {
+      "date": "2026-09-15",
+      "by": "claude-visual-review",
+      "note": "Only $-spacing differences across tiers; accepted."
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_reviewed",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 1.0,
+        "blind_rows": 10,
+        "text_layer_token_precision": 0.9926,
+        "text_layer_token_recall": 0.9982,
+        "agreement_with_previous_reference_table_next": 0.9858
+      },
+      "review": null,
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_444.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000018/a2025_annualreportxtgt.pdf",
+      "accession": "0000027419-26-000018",
+      "provider": "datamulehub",
+      "sha256": "51b83347fecf21eb64c1cd55923d64aef079a4a51a33f260c9b1000bcb1b5338",
+      "scope": "page",
+      "mapping_url": "https://www.sec.gov/Archives/edgar/data/27419/000002741926000016/tgt-20260131.htm",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 5,
+        "source_page_count": 92
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "d72c7496a7c52c6684885b1c3258a1a7c21f45165fa7db2302178c2199ae24a2",
+    "input_sha256": "dbbaf7a1791bdaa3d1ba64e9ca2acfbf7049e447ed644a2d4721593933bfee83"
+  },
+  "tags": [
+    "dense_table",
+    "medium_columns",
+    "numeric_content",
+    "portrait",
+    "gt_draft",
+    "gt_reviewed"
+  ]
+}

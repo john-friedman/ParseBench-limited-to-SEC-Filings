@@ -1,0 +1,49 @@
+{
+  "id": "financial_tables/Q3-2025-GAAP-and-Non-GAAP-Earnings-Tables-2026-08-13_page6",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "**RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES**\n**(in millions, except per share data) (Unaudited)**\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>September 27, 2025</th>\n      <th>June 28, 2025</th>\n      <th>September 28, 2024</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>GAAP gross profit</td>\n      <td>$ 4,780</td>\n      <td>$ 3,059</td>\n      <td>$ 3,419</td>\n    </tr>\n    <tr>\n      <td>GAAP gross margin</td>\n      <td>52%</td>\n      <td>40%</td>\n      <td>50%</td>\n    </tr>\n    <tr>\n      <td>Stock-based compensation</td>\n      <td>7</td>\n      <td>6</td>\n      <td>5</td>\n    </tr>\n    <tr>\n      <td>Amortization of acquisition-related intangibles</td>\n      <td>260</td>\n      <td>260</td>\n      <td>233</td>\n    </tr>\n    <tr>\n      <td>Acquisition-related and other costs<sup>(1)</sup></td>\n      <td>-</td>\n      <td>1</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Inventory loss at (recovery from) contract manufacturer<sup>(2)</sup></td>\n      <td>(67)</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Loss contingency on legal matter</td>\n      <td>12</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Non-GAAP gross profit</td>\n      <td>$ 4,992</td>\n      <td>$ 3,326</td>\n      <td>$ 3,657</td>\n    </tr>\n    <tr>\n      <td>Non-GAAP gross margin</td>\n      <td>54%</td>\n      <td>43%</td>\n      <td>54%</td>\n    </tr>\n    <tr>\n      <td>GAAP operating expenses<sup>(3)</sup></td>\n      <td>$ 3,510</td>\n      <td>$ 3,193</td>\n      <td>$ 2,695</td>\n    </tr>\n    <tr>\n      <td>GAAP operating expenses/revenue %</td>\n      <td>38%</td>\n      <td>42%</td>\n      <td>40%</td>\n    </tr>\n    <tr>\n      <td>Stock-based compensation</td>\n      <td>412</td>\n      <td>363</td>\n      <td>346</td>\n    </tr>\n    <tr>\n      <td>Amortization of acquisition-related intangibles</td>\n      <td>302</td>\n      <td>308</td>\n      <td>352</td>\n    </tr>\n    <tr>\n      <td>Acquisition-related and other costs<sup>(1)</sup></td>\n      <td>42</td>\n      <td>93</td>\n      <td>55</td>\n    </tr>\n    <tr>\n      <td>Non-GAAP operating expenses<sup>(3)</sup></td>\n      <td>$ 2,754</td>\n      <td>$ 2,429</td>\n      <td>$ 1,942</td>\n    </tr>\n    <tr>\n      <td>Non-GAAP operating expenses/revenue %</td>\n      <td>30%</td>\n      <td>32%</td>\n      <td>28%</td>\n    </tr>\n    <tr>\n      <td>GAAP operating income (loss)</td>\n      <td>$ 1,270</td>\n      <td>$ (134)</td>\n      <td>$ 724</td>\n    </tr>\n    <tr>\n      <td>GAAP operating margin</td>\n      <td>14%</td>\n      <td>(2%)</td>\n      <td>11%</td>\n    </tr>\n    <tr>\n      <td>Stock-based compensation</td>\n      <td>419</td>\n      <td>369</td>\n      <td>351</td>\n    </tr>\n    <tr>\n      <td>Amortization of acquisition-related intangibles</td>\n      <td>562</td>\n      <td>568</td>\n      <td>585</td>\n    </tr>\n    <tr>\n      <td>Acquisition-related and other costs<sup>(1)</sup></td>\n      <td>42</td>\n      <td>94</td>\n      <td>55</td>\n    </tr>\n    <tr>\n      <td>Inventory loss at (recovery from) contract manufacturer<sup>(2)</sup></td>\n      <td>(67)</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Loss contingency on legal matter</td>\n      <td>12</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Non-GAAP operating income</td>\n      <td>$ 2,238</td>\n      <td>$ 897</td>\n      <td>$ 1,715</td>\n    </tr>\n    <tr>\n      <td>Non-GAAP operating margin</td>\n      <td>24%</td>\n      <td>12%</td>\n      <td>25%</td>\n    </tr>\n  </tbody>\n</table>\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"7\">Three Months Ended</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">September 27, 2025</th>\n      <th colspan=\"2\">June 28, 2025</th>\n      <th colspan=\"2\">September 28, 2024</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>GAAP net income / earnings per share</td>\n      <td>$ 1,243</td>\n      <td>$ 0.75</td>\n      <td>$ 872</td>\n      <td>$ 0.54</td>\n      <td>$ 771</td>\n      <td>$ 0.47</td>\n    </tr>\n    <tr>\n      <td>Stock-based compensation</td>\n      <td>419</td>\n      <td>0.26</td>\n      <td>369</td>\n      <td>0.23</td>\n      <td>351</td>\n      <td>0.21</td>\n    </tr>\n    <tr>\n      <td>Amortization of acquisition-related intangibles</td>\n      <td>562</td>\n      <td>0.34</td>\n      <td>568</td>\n      <td>0.35</td>\n      <td>585</td>\n      <td>0.36</td>\n    </tr>\n    <tr>\n      <td>Acquisition-related and other costs<sup>(1)</sup></td>\n      <td>43</td>\n      <td>0.03</td>\n      <td>96</td>\n      <td>0.05</td>\n      <td>56</td>\n      <td>0.03</td>\n    </tr>\n    <tr>\n      <td>Inventory loss at (recovery from) contract manufacturer<sup>(2)</sup></td>\n      <td>(67)</td>\n      <td>(0.04)</td>\n      <td>-</td>\n      <td>-</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Loss contingency on legal matter</td>\n      <td>12</td>\n      <td>0.01</td>\n      <td>-</td>\n      <td>-</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>(Gains) losses on equity investments, net</td>\n      <td>(26)</td>\n      <td>(0.02)</td>\n      <td>(61)</td>\n      <td>(0.04)</td>\n      <td>(1)</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Equity income in investee</td>\n      <td>(10)</td>\n      <td>-</td>\n      <td>(8)</td>\n      <td>-</td>\n      <td>(7)</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Release of reserves for uncertain tax positions<sup>(4)</sup></td>\n      <td>-</td>\n      <td>-</td>\n      <td>(853)</td>\n      <td>(0.52)</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Income tax provision</td>\n      <td>(140)</td>\n      <td>(0.09)</td>\n      <td>(98)</td>\n      <td>(0.06)</td>\n      <td>(251)</td>\n      <td>(0.15)</td>\n    </tr>\n    <tr>\n      <td>Income from discontinued operations, net of tax<sup>(5)</sup></td>\n      <td>(71)</td>\n      <td>(0.04)</td>\n      <td>(104)</td>\n      <td>(0.07)</td>\n      <td>-</td>\n      <td>-</td>\n    </tr>\n    <tr>\n      <td>Non-GAAP net income / earnings per share</td>\n      <td>$ 1,965</td>\n      <td>$ 1.20</td>\n      <td>$ 781</td>\n      <td>$ 0.48</td>\n      <td>$ 1,504</td>\n      <td>$ 0.92</td>\n    </tr>\n  </tbody>\n</table>\n\n(1) Acquisition-related and other costs primarily include transaction costs, purchase price fair value adjustments for inventory, certain compensation charges, and workforce rebalancing charges.\n\n(2) Inventory loss at (recovery from) contract manufacturer is related to losses due to an incident at a third-party contract manufacturing facility in Q1'24 and the corresponding recovery.\n\n(3) Effective first quarter of 2025, licensing gain is reclassified against Marketing, general and administrative expenses as the amounts were immaterial.\n\n(4) Release of reserves for uncertain tax positions pertains to the reasonable cause relief related to dual consolidated losses approved by IRS in Q2'25.\n\n(5) Income from discontinued operations is related to ZT Systems' manufacturing business which is classified as held-for-sale.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Q3+2025+GAAP+and+Non-GAAP+Earnings+Tables_.pdf",
+    "source_sha256": "90c2ee06c9695c17f516930c5fc16d07dd6670038c7b30241a8e148d6ba77eed",
+    "annotated_at": "2026-08-13T06:04:54.716Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Q3-2025-GAAP-and-Non-GAAP-Earnings-Tables-2026-08-13_page6.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000163/q32025991.htm",
+      "accession": "0000002488-25-000163",
+      "provider": "datamulehub",
+      "sha256": "6923b2589e90765e4d715f38a541a9d393b02289ac4971b8994329340f58b4b7",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 2,
+            "byte_start": 61934,
+            "byte_end_exclusive": 110473
+          },
+          {
+            "table_index_0based": 3,
+            "byte_start": 110484,
+            "byte_end_exclusive": 146833
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "90c2ee06c9695c17f516930c5fc16d07dd6670038c7b30241a8e148d6ba77eed",
+    "input_sha256": "d9d6bcf564c5773127f297981d863d0b9f6e71ce9c2d54b707f471473f73efe3"
+  },
+  "tags": []
+}

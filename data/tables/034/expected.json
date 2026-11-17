@@ -1,0 +1,40 @@
+{
+  "id": "tables/Goldman Sachs 10-k_page122",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n<thead>\n      <tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">As of December</th>\n    </tr>\n        <tr>\n        <th>$ in millions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n</thead>\n<tbody>\n<tr>\n        <td class=\"\">Securities Financing Transactions</td>\n<td>$39,299</td>\n<td>$40,201</td>\n    </tr>\n<tr>\n        <td class=\"\">Industry</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Financial Institutions</td>\n<td>39%</td>\n<td>30%</td>\n    </tr>\n<tr>\n        <td class=\"\">Funds</td>\n<td>27%</td>\n<td>33%</td>\n    </tr>\n<tr>\n        <td class=\"\">Municipalities &amp; Nonprofit</td>\n<td>10%</td>\n<td>7%</td>\n    </tr>\n<tr>\n        <td class=\"\">Sovereign</td>\n<td>24%</td>\n<td>29%</td>\n    </tr>\n<tr>\n        <td class=\"\">Other (including Special Purpose Vehicles)</td>\n<td>–</td>\n<td>1%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n<tr>\n        <td class=\"\">Region</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Americas</td>\n<td>55%</td>\n<td>45%</td>\n    </tr>\n<tr>\n        <td class=\"\">EMEA</td>\n<td>31%</td>\n<td>38%</td>\n    </tr>\n<tr>\n        <td class=\"\">Asia</td>\n<td>14%</td>\n<td>17%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n<tr>\n        <td class=\"\">Credit Quality (Credit Rating Equivalent)</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">AAA</td>\n<td>18%</td>\n<td>14%</td>\n    </tr>\n<tr>\n        <td class=\"\">AA</td>\n<td>22%</td>\n<td>31%</td>\n    </tr>\n<tr>\n        <td class=\"\">A</td>\n<td>42%</td>\n<td>38%</td>\n    </tr>\n<tr>\n        <td class=\"\">BBB</td>\n<td>9%</td>\n<td>7%</td>\n    </tr>\n<tr>\n        <td class=\"\">BB or lower</td>\n<td>9%</td>\n<td>10%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n</tbody>\n  </table>\n\n<table>\n<thead>\n      <tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">As of December</th>\n    </tr>\n        <tr>\n        <th>$ in millions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n</thead>\n<tbody>\n<tr>\n        <td class=\"\">Other Credit Exposures</td>\n<td>$48,013</td>\n<td>$50,820</td>\n    </tr>\n<tr>\n        <td class=\"\">Industry</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Financial Institutions</td>\n<td>77%</td>\n<td>80%</td>\n    </tr>\n<tr>\n        <td class=\"\">Funds</td>\n<td>13%</td>\n<td>13%</td>\n    </tr>\n<tr>\n        <td class=\"\">Other (including Special Purpose Vehicles)</td>\n<td>10%</td>\n<td>7%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n<tr>\n        <td class=\"\">Region</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Americas</td>\n<td>44%</td>\n<td>35%</td>\n    </tr>\n<tr>\n        <td class=\"\">EMEA</td>\n<td>41%</td>\n<td>54%</td>\n    </tr>\n<tr>\n        <td class=\"\">Asia</td>\n<td>15%</td>\n<td>11%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n<tr>\n        <td class=\"\">Credit Quality (Credit Rating Equivalent)</td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">AAA</td>\n<td>4%</td>\n<td>2%</td>\n    </tr>\n<tr>\n        <td class=\"\">AA</td>\n<td>49%</td>\n<td>57%</td>\n    </tr>\n<tr>\n        <td class=\"\">A</td>\n<td>24%</td>\n<td>26%</td>\n    </tr>\n<tr>\n        <td class=\"\">BBB</td>\n<td>8%</td>\n<td>6%</td>\n    </tr>\n<tr>\n        <td class=\"\">BB or lower</td>\n<td>14%</td>\n<td>8%</td>\n    </tr>\n<tr>\n        <td class=\"\">Unrated</td>\n<td>1%</td>\n<td>1%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>100%</td>\n<td>100%</td>\n    </tr>\n</tbody>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Goldman Sachs 10-k_page122.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "d554e0a5bf3de29bb63f28f76d693d7cc759f6dcde34d6a8657a6ee6d3580a24",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 213,
+            "byte_start": 3878432,
+            "byte_end_exclusive": 3903043
+          },
+          {
+            "table_index_0based": 214,
+            "byte_start": 3905262,
+            "byte_end_exclusive": 3928614
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ca3b5e7674781dc6892e41bbeb619a96cf08a7a3489c23a74a0f0e14d0864d22",
+    "input_sha256": "258f087fb214507203bbba2a42ebe1cd2c87528dd530dfbd7de976549f30d326"
+  },
+  "tags": []
+}

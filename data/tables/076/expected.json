@@ -1,0 +1,30 @@
+{
+  "id": "tables/Tables - Apple Def 14a_page18",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "<table>\n    <tr>\n        <th>Proposal</th>\n        <th></th>\n        <th>Board Recommendation</th>\n        <th>Page Reference</th>\n    </tr>\n    <tr>\n        <td>8</td>\n        <td>Racial and Gender Pay Gaps<br/><br/>• We already have a comprehensive approach to pay equity and diverse representation at every level of the Company, and since 2017 have achieved gender pay equity globally, as well as pay equity by race and ethnicity in the United States, and in 2022, we also achieved pay equity at the intersections of gender and race and ethnicity in our U.S. workforce.<br/><br/>• We report on our progress on representation annually on our Inclusion and Diversity website, and we believe our transparency represents a more meaningful approach to pay equity and representation than the approach set forth in the proposal.</td>\n        <td>AGAINST</td>\n        <td>89</td>\n    </tr>\n    <tr>\n        <td>9</td>\n        <td>Shareholder Proxy Access Amendments<br/><br/>• Our proxy access bylaws were developed giving careful consideration to the varying viewpoints offered by many of our shareholders and provide a meaningful opportunity for shareholders to nominate directors, while the newly adopted universal proxy card rules provide further options for shareholders.<br/><br/>• Apple has a robust shareholder engagement program and, over the course of our engagement in calendar year 2022 with shareholders representing over 60% of institutional shares held, no shareholders provided feedback on, or sought changes to, our existing proxy access provisions.</td>\n        <td>AGAINST</td>\n        <td>93</td>\n    </tr>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Tables - Apple Def 14a_page18.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000130817923000019/laap2023_def14.pdf",
+      "accession": "0001308179-23-000019",
+      "provider": "datamulehub",
+      "sha256": "fe263659deb80fa0e66314d6ba9210b46a263ddb65451a42d848c574d954b704",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 17,
+        "source_page_count": 113
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ce9367018d15041166dfeaf13239d672b761d67184db7966e8806a37e25546cc",
+    "input_sha256": "429203e34747f1644d906b48fa547311eca7f2332ec5608fc237977fe01c47df"
+  },
+  "tags": []
+}

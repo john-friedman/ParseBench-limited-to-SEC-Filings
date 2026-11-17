@@ -1,0 +1,2766 @@
+{
+  "id": "text/text_simple__k10",
+  "subset": "text",
+  "dimension": "text",
+  "document": "sec_input.html",
+  "expected_markdown": "<page_header>\n[Table of Contents](TableofContents)\n</page_header>\n\n# PART I\n\n## Forward-Looking Statements\n\n*This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws. These forward-looking statements include, but are not limited to, statements regarding: our core strategy; our ability to improve our content offerings and service; our future financial performance, including expectations regarding revenues, deferred revenue, operating income and margin, net income, expenses, and profitability; liquidity, including the sufficiency of our capital resources, net cash provided by (used in) operating activities, access to financing sources, and free cash flows; capital allocation strategies, including any stock repurchases or repurchase programs; seasonality; stock price volatility; impact of foreign exchange rate fluctuations, including on net income, revenues and average revenues per paying member; impact of interest rate fluctuations; adequacy of existing facilities; future regulatory changes and their impact on our business; intellectual property; price changes and testing; accounting treatment for changes related to content assets; acquisitions; actions by competitors; membership growth, including impact of content and pricing changes on membership growth; partnerships; advertising; multi-household usage; member viewing patterns; dividends; future contractual obligations, including unknown content obligations and timing of payments; our global content and marketing investments, including investments in original programming; impact of work stoppages; content amortization; resolutions of tax examinations; tax expense; unrecognized tax benefits; deferred tax assets; our ability to effectively manage change and growth; our company culture; and our ability to attract and retain qualified employees and key personnel. These forward-looking statements are subject to risks and uncertainties that could cause actual results and events to differ. A detailed discussion of these and other risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included throughout this filing and particularly in Item 1A: \"Risk Factors\" section set forth in this Annual Report on Form 10-K. All forward-looking statements included in this document are based on information available to us on the date hereof, and we assume no obligation to revise or publicly release any revision to any such forward-looking statement, except as may otherwise be required by law.*\n\n## Item 1. Business\n\n### ABOUT US\n\nNetflix, Inc. (“Netflix”, “the Company”, “registrant”, “we”, or “us”) is one of the world’s leading entertainment services with over 260 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nOur core strategy is to grow our business globally within the parameters of our operating margin target. We strive to continuously improve our members' experience by offering compelling content that delights them and attracts new members. We seek to drive conversation around our content to further enhance member joy, and we are continuously enhancing our user interface to help our members more easily choose content that they will find enjoyable.\n\n### BUSINESS SEGMENTS\n\nWe operate as one operating segment. Our revenues are primarily derived from monthly membership fees for services related to streaming content to our members. See Note 12, *Segment and Geographic Information*, in the accompanying notes to our consolidated financial statements for further detail.\n\n### COMPETITION\n\nThe market for entertainment video is intensely competitive and subject to rapid change. We compete with a broad set of activities for consumers’ leisure time, including other entertainment video providers, such as linear TV, streaming entertainment providers (including those that provide pirated content), video gaming providers and more broadly against other sources of entertainment, like social media, that our members could choose in their moments of free time. We also compete against entertainment video providers and content producers in obtaining content for our service, both for licensed content and for original content projects.\n\nWhile consumers may maintain simultaneous relationships with multiple entertainment sources, we strive for consumers to choose us in their moments of free time. We have often referred to this choice as our objective of \"winning moments of truth.\" In attempting to win these moments of truth with our members, we seek to continually improve our service, including both our technology and our content offerings.\n\n### SEASONALITY\n\n<page_footer>\n<page_number>1</page_number>\n</page_footer>",
+  "test_rules": [
+    {
+      "type": "missing_sentence_percent",
+      "bag_of_sentence": {
+        "Table of Contents": 1,
+        "PART I Forward-Looking Statements": 1,
+        "This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws": 1,
+        "These forward-looking statements include, but are not limited to, statements regarding: our core strategy; our ability to improve our content offerings and service; our future financial performance, including expectations regarding revenues, deferred revenue, operating income and margin, net income, expenses, and profitability; liquidity, including the sufficiency of our capital resources, net cash provided by (used in) operating activities, access to financing sources, and free cash flows; capital allocation strategies, including any stock repurchases or repurchase programs; seasonality; stock price volatility; impact of foreign exchange rate fluctuations, including on net income, revenues and average revenues per paying member; impact of interest rate fluctuations; adequacy of existing facilities; future regulatory changes and their impact on our business; intellectual property; price changes and testing; accounting treatment for changes related to content assets; acquisitions; actions by competitors; membership growth, including impact of content and pricing changes on membership growth; partnerships; advertising; multi-household usage; member viewing patterns; dividends; future contractual obligations, including unknown content obligations and timing of payments; our global content and marketing investments, including investments in original programming; impact of work stoppages; content amortization; resolutions of tax examinations; tax expense; unrecognized tax benefits; deferred tax assets; our ability to effectively manage change and growth; our company culture; and our ability to attract and retain qualified employees and key personnel": 1,
+        "These forward-looking statements are subject to risks and uncertainties that could cause actual results and events to differ": 1,
+        "A detailed discussion of these and other risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included throughout this filing and particularly in Item 1A: \"Risk Factors\" section set forth in this Annual Report on Form 10-K": 1,
+        "All forward-looking statements included in this document are based on information available to us on the date hereof, and we assume no obligation to revise or publicly release any revision to any such forward-looking statement, except as may otherwise be required by law": 1,
+        "Item 1. Business": 1,
+        "ABOUT US": 1,
+        "Netflix, Inc": 1,
+        "Netflix\", \"the Company\", \"registrant\", \"we\", or \"us\") is one of the world's leading entertainment services with over 260 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages": 1,
+        "Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time": 1,
+        "Our core strategy is to grow our business globally within the parameters of our operating margin target": 1,
+        "We strive to continuously improve our members' experience by offering compelling content that delights them and attracts new members": 1,
+        "We seek to drive conversation around our content to further enhance member joy, and we are continuously enhancing our user interface to help our members more easily choose content that they will find enjoyable": 1,
+        "BUSINESS SEGMENTS": 1,
+        "We operate as one operating segment": 1,
+        "Our revenues are primarily derived from monthly membership fees for services related to streaming content to our members": 1,
+        "See Note 12, Segment and Geographic Information, in the accompanying notes to our consolidated financial statements for further detail": 1,
+        "COMPETITION": 1,
+        "The market for entertainment video is intensely competitive and subject to rapid change": 1,
+        "We compete with a broad set of activities for consumers' leisure time, including other entertainment video providers, such as linear TV, streaming entertainment providers (including those that provide pirated content), video gaming providers and more broadly against other sources of entertainment, like social media, that our members could choose in their moments of free time": 1,
+        "We also compete against entertainment video providers and content producers in obtaining content for our service, both for licensed content and for original content projects": 1,
+        "While consumers may maintain simultaneous relationships with multiple entertainment sources, we strive for consumers to choose us in their moments of free time": 1,
+        "We have often referred to this choice as our objective of \"winning moments of truth": 1,
+        "In attempting to win these moments of truth with our members, we seek to continually improve our service, including both our technology and our content offerings": 1,
+        "SEASONALITY 1": 1
+      }
+    },
+    {
+      "type": "unexpected_sentence_percent",
+      "bag_of_sentence": {
+        "Table of Contents": 1,
+        "PART I Forward-Looking Statements": 1,
+        "This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws": 1,
+        "These forward-looking statements include, but are not limited to, statements regarding: our core strategy; our ability to improve our content offerings and service; our future financial performance, including expectations regarding revenues, deferred revenue, operating income and margin, net income, expenses, and profitability; liquidity, including the sufficiency of our capital resources, net cash provided by (used in) operating activities, access to financing sources, and free cash flows; capital allocation strategies, including any stock repurchases or repurchase programs; seasonality; stock price volatility; impact of foreign exchange rate fluctuations, including on net income, revenues and average revenues per paying member; impact of interest rate fluctuations; adequacy of existing facilities; future regulatory changes and their impact on our business; intellectual property; price changes and testing; accounting treatment for changes related to content assets; acquisitions; actions by competitors; membership growth, including impact of content and pricing changes on membership growth; partnerships; advertising; multi-household usage; member viewing patterns; dividends; future contractual obligations, including unknown content obligations and timing of payments; our global content and marketing investments, including investments in original programming; impact of work stoppages; content amortization; resolutions of tax examinations; tax expense; unrecognized tax benefits; deferred tax assets; our ability to effectively manage change and growth; our company culture; and our ability to attract and retain qualified employees and key personnel": 1,
+        "These forward-looking statements are subject to risks and uncertainties that could cause actual results and events to differ": 1,
+        "A detailed discussion of these and other risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included throughout this filing and particularly in Item 1A: \"Risk Factors\" section set forth in this Annual Report on Form 10-K": 1,
+        "All forward-looking statements included in this document are based on information available to us on the date hereof, and we assume no obligation to revise or publicly release any revision to any such forward-looking statement, except as may otherwise be required by law": 1,
+        "Item 1. Business": 1,
+        "ABOUT US": 1,
+        "Netflix, Inc": 1,
+        "Netflix\", \"the Company\", \"registrant\", \"we\", or \"us\") is one of the world's leading entertainment services with over 260 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages": 1,
+        "Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time": 1,
+        "Our core strategy is to grow our business globally within the parameters of our operating margin target": 1,
+        "We strive to continuously improve our members' experience by offering compelling content that delights them and attracts new members": 1,
+        "We seek to drive conversation around our content to further enhance member joy, and we are continuously enhancing our user interface to help our members more easily choose content that they will find enjoyable": 1,
+        "BUSINESS SEGMENTS": 1,
+        "We operate as one operating segment": 1,
+        "Our revenues are primarily derived from monthly membership fees for services related to streaming content to our members": 1,
+        "See Note 12, Segment and Geographic Information, in the accompanying notes to our consolidated financial statements for further detail": 1,
+        "COMPETITION": 1,
+        "The market for entertainment video is intensely competitive and subject to rapid change": 1,
+        "We compete with a broad set of activities for consumers' leisure time, including other entertainment video providers, such as linear TV, streaming entertainment providers (including those that provide pirated content), video gaming providers and more broadly against other sources of entertainment, like social media, that our members could choose in their moments of free time": 1,
+        "We also compete against entertainment video providers and content producers in obtaining content for our service, both for licensed content and for original content projects": 1,
+        "While consumers may maintain simultaneous relationships with multiple entertainment sources, we strive for consumers to choose us in their moments of free time": 1,
+        "We have often referred to this choice as our objective of \"winning moments of truth": 1,
+        "In attempting to win these moments of truth with our members, we seek to continually improve our service, including both our technology and our content offerings": 1,
+        "SEASONALITY 1": 1
+      },
+      "original_md": "<page_header>\n[Table of Contents](TableofContents)\n</page_header>\n\n# PART I\n\n## Forward-Looking Statements\n\n*This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws. These forward-looking statements include, but are not limited to, statements regarding: our core strategy; our ability to improve our content offerings and service; our future financial performance, including expectations regarding revenues, deferred revenue, operating income and margin, net income, expenses, and profitability; liquidity, including the sufficiency of our capital resources, net cash provided by (used in) operating activities, access to financing sources, and free cash flows; capital allocation strategies, including any stock repurchases or repurchase programs; seasonality; stock price volatility; impact of foreign exchange rate fluctuations, including on net income, revenues and average revenues per paying member; impact of interest rate fluctuations; adequacy of existing facilities; future regulatory changes and their impact on our business; intellectual property; price changes and testing; accounting treatment for changes related to content assets; acquisitions; actions by competitors; membership growth, including impact of content and pricing changes on membership growth; partnerships; advertising; multi-household usage; member viewing patterns; dividends; future contractual obligations, including unknown content obligations and timing of payments; our global content and marketing investments, including investments in original programming; impact of work stoppages; content amortization; resolutions of tax examinations; tax expense; unrecognized tax benefits; deferred tax assets; our ability to effectively manage change and growth; our company culture; and our ability to attract and retain qualified employees and key personnel. These forward-looking statements are subject to risks and uncertainties that could cause actual results and events to differ. A detailed discussion of these and other risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included throughout this filing and particularly in Item 1A: \"Risk Factors\" section set forth in this Annual Report on Form 10-K. All forward-looking statements included in this document are based on information available to us on the date hereof, and we assume no obligation to revise or publicly release any revision to any such forward-looking statement, except as may otherwise be required by law.*\n\n## Item 1. Business\n\n### ABOUT US\n\nNetflix, Inc. (“Netflix”, “the Company”, “registrant”, “we”, or “us”) is one of the world’s leading entertainment services with over 260 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nOur core strategy is to grow our business globally within the parameters of our operating margin target. We strive to continuously improve our members' experience by offering compelling content that delights them and attracts new members. We seek to drive conversation around our content to further enhance member joy, and we are continuously enhancing our user interface to help our members more easily choose content that they will find enjoyable.\n\n### BUSINESS SEGMENTS\n\nWe operate as one operating segment. Our revenues are primarily derived from monthly membership fees for services related to streaming content to our members. See Note 12, *Segment and Geographic Information*, in the accompanying notes to our consolidated financial statements for further detail.\n\n### COMPETITION\n\nThe market for entertainment video is intensely competitive and subject to rapid change. We compete with a broad set of activities for consumers’ leisure time, including other entertainment video providers, such as linear TV, streaming entertainment providers (including those that provide pirated content), video gaming providers and more broadly against other sources of entertainment, like social media, that our members could choose in their moments of free time. We also compete against entertainment video providers and content producers in obtaining content for our service, both for licensed content and for original content projects.\n\nWhile consumers may maintain simultaneous relationships with multiple entertainment sources, we strive for consumers to choose us in their moments of free time. We have often referred to this choice as our objective of \"winning moments of truth.\" In attempting to win these moments of truth with our members, we seek to continually improve our service, including both our technology and our content offerings.\n\n### SEASONALITY\n\n<page_footer>\n<page_number>1</page_number>\n</page_footer>"
+    },
+    {
+      "type": "too_many_sentence_occurence_percent",
+      "bag_of_sentence": {
+        "Table of Contents": 1,
+        "PART I Forward-Looking Statements": 1,
+        "This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws": 1,
+        "These forward-looking statements include, but are not limited to, statements regarding: our core strategy; our ability to improve our content offerings and service; our future financial performance, including expectations regarding revenues, deferred revenue, operating income and margin, net income, expenses, and profitability; liquidity, including the sufficiency of our capital resources, net cash provided by (used in) operating activities, access to financing sources, and free cash flows; capital allocation strategies, including any stock repurchases or repurchase programs; seasonality; stock price volatility; impact of foreign exchange rate fluctuations, including on net income, revenues and average revenues per paying member; impact of interest rate fluctuations; adequacy of existing facilities; future regulatory changes and their impact on our business; intellectual property; price changes and testing; accounting treatment for changes related to content assets; acquisitions; actions by competitors; membership growth, including impact of content and pricing changes on membership growth; partnerships; advertising; multi-household usage; member viewing patterns; dividends; future contractual obligations, including unknown content obligations and timing of payments; our global content and marketing investments, including investments in original programming; impact of work stoppages; content amortization; resolutions of tax examinations; tax expense; unrecognized tax benefits; deferred tax assets; our ability to effectively manage change and growth; our company culture; and our ability to attract and retain qualified employees and key personnel": 1,
+        "These forward-looking statements are subject to risks and uncertainties that could cause actual results and events to differ": 1,
+        "A detailed discussion of these and other risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included throughout this filing and particularly in Item 1A: \"Risk Factors\" section set forth in this Annual Report on Form 10-K": 1,
+        "All forward-looking statements included in this document are based on information available to us on the date hereof, and we assume no obligation to revise or publicly release any revision to any such forward-looking statement, except as may otherwise be required by law": 1,
+        "Item 1. Business": 1,
+        "ABOUT US": 1,
+        "Netflix, Inc": 1,
+        "Netflix\", \"the Company\", \"registrant\", \"we\", or \"us\") is one of the world's leading entertainment services with over 260 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages": 1,
+        "Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time": 1,
+        "Our core strategy is to grow our business globally within the parameters of our operating margin target": 1,
+        "We strive to continuously improve our members' experience by offering compelling content that delights them and attracts new members": 1,
+        "We seek to drive conversation around our content to further enhance member joy, and we are continuously enhancing our user interface to help our members more easily choose content that they will find enjoyable": 1,
+        "BUSINESS SEGMENTS": 1,
+        "We operate as one operating segment": 1,
+        "Our revenues are primarily derived from monthly membership fees for services related to streaming content to our members": 1,
+        "See Note 12, Segment and Geographic Information, in the accompanying notes to our consolidated financial statements for further detail": 1,
+        "COMPETITION": 1,
+        "The market for entertainment video is intensely competitive and subject to rapid change": 1,
+        "We compete with a broad set of activities for consumers' leisure time, including other entertainment video providers, such as linear TV, streaming entertainment providers (including those that provide pirated content), video gaming providers and more broadly against other sources of entertainment, like social media, that our members could choose in their moments of free time": 1,
+        "We also compete against entertainment video providers and content producers in obtaining content for our service, both for licensed content and for original content projects": 1,
+        "While consumers may maintain simultaneous relationships with multiple entertainment sources, we strive for consumers to choose us in their moments of free time": 1,
+        "We have often referred to this choice as our objective of \"winning moments of truth": 1,
+        "In attempting to win these moments of truth with our members, we seek to continually improve our service, including both our technology and our content offerings": 1,
+        "SEASONALITY 1": 1
+      }
+    },
+    {
+      "type": "unexpected_word_percent",
+      "bag_of_word": {
+        "10": 2,
+        "12": 1,
+        "190": 1,
+        "260": 1,
+        "table": 1,
+        "of": 21,
+        "contents": 1,
+        "part": 1,
+        "forward": 7,
+        "looking": 7,
+        "statements": 8,
+        "this": 5,
+        "annual": 2,
+        "report": 2,
+        "on": 7,
+        "form": 2,
+        "contains": 1,
+        "within": 2,
+        "the": 9,
+        "meaning": 1,
+        "federal": 1,
+        "securities": 1,
+        "laws": 1,
+        "these": 4,
+        "include": 1,
+        "but": 1,
+        "are": 5,
+        "not": 1,
+        "limited": 1,
+        "to": 25,
+        "regarding": 2,
+        "our": 27,
+        "core": 2,
+        "strategy": 2,
+        "ability": 3,
+        "improve": 3,
+        "content": 16,
+        "offerings": 2,
+        "and": 33,
+        "service": 3,
+        "future": 3,
+        "financial": 2,
+        "performance": 1,
+        "including": 10,
+        "expectations": 1,
+        "revenues": 4,
+        "deferred": 2,
+        "revenue": 1,
+        "operating": 4,
+        "income": 3,
+        "margin": 2,
+        "net": 3,
+        "expenses": 1,
+        "profitability": 1,
+        "liquidity": 1,
+        "sufficiency": 1,
+        "capital": 2,
+        "resources": 1,
+        "cash": 2,
+        "provided": 1,
+        "by": 4,
+        "used": 1,
+        "in": 11,
+        "activities": 2,
+        "access": 1,
+        "financing": 1,
+        "sources": 3,
+        "free": 3,
+        "flows": 1,
+        "allocation": 1,
+        "strategies": 1,
+        "any": 4,
+        "stock": 2,
+        "repurchases": 1,
+        "or": 3,
+        "repurchase": 1,
+        "programs": 1,
+        "seasonality": 2,
+        "price": 2,
+        "volatility": 1,
+        "impact": 5,
+        "foreign": 1,
+        "exchange": 1,
+        "rate": 2,
+        "fluctuations": 2,
+        "average": 1,
+        "per": 1,
+        "paying": 1,
+        "member": 3,
+        "interest": 1,
+        "adequacy": 1,
+        "existing": 1,
+        "facilities": 1,
+        "regulatory": 1,
+        "changes": 4,
+        "their": 4,
+        "business": 4,
+        "intellectual": 1,
+        "property": 1,
+        "testing": 1,
+        "accounting": 1,
+        "treatment": 1,
+        "for": 9,
+        "related": 2,
+        "assets": 2,
+        "acquisitions": 1,
+        "actions": 1,
+        "competitors": 1,
+        "membership": 3,
+        "growth": 3,
+        "pricing": 1,
+        "partnerships": 1,
+        "advertising": 1,
+        "multi": 1,
+        "household": 1,
+        "usage": 1,
+        "viewing": 1,
+        "patterns": 1,
+        "dividends": 1,
+        "contractual": 1,
+        "obligations": 2,
+        "unknown": 1,
+        "timing": 1,
+        "payments": 1,
+        "global": 1,
+        "marketing": 1,
+        "investments": 2,
+        "original": 2,
+        "programming": 1,
+        "work": 1,
+        "stoppages": 1,
+        "amortization": 1,
+        "resolutions": 1,
+        "tax": 4,
+        "examinations": 1,
+        "expense": 1,
+        "unrecognized": 1,
+        "benefits": 1,
+        "effectively": 1,
+        "manage": 1,
+        "change": 3,
+        "company": 2,
+        "culture": 1,
+        "attract": 1,
+        "retain": 1,
+        "qualified": 1,
+        "employees": 1,
+        "key": 1,
+        "personnel": 1,
+        "subject": 2,
+        "risks": 2,
+        "uncertainties": 2,
+        "that": 6,
+        "could": 3,
+        "cause": 2,
+        "actual": 2,
+        "results": 2,
+        "events": 2,
+        "differ": 2,
+        "detailed": 1,
+        "discussion": 1,
+        "other": 3,
+        "materially": 1,
+        "from": 2,
+        "such": 3,
+        "is": 4,
+        "included": 2,
+        "throughout": 1,
+        "filing": 1,
+        "particularly": 1,
+        "item": 2,
+        "1a": 1,
+        "risk": 1,
+        "factors": 1,
+        "section": 1,
+        "set": 2,
+        "forth": 1,
+        "all": 1,
+        "document": 1,
+        "based": 1,
+        "information": 2,
+        "available": 1,
+        "us": 4,
+        "date": 1,
+        "hereof": 1,
+        "we": 11,
+        "assume": 1,
+        "no": 1,
+        "obligation": 1,
+        "revise": 1,
+        "publicly": 1,
+        "release": 1,
+        "revision": 1,
+        "statement": 1,
+        "except": 1,
+        "as": 6,
+        "may": 2,
+        "otherwise": 1,
+        "be": 1,
+        "required": 1,
+        "law": 1,
+        "about": 1,
+        "netflix": 2,
+        "inc": 1,
+        "registrant": 1,
+        "one": 2,
+        "world": 1,
+        "leading": 1,
+        "entertainment": 7,
+        "services": 2,
+        "with": 4,
+        "over": 2,
+        "million": 1,
+        "paid": 1,
+        "memberships": 1,
+        "countries": 1,
+        "enjoying": 1,
+        "tv": 2,
+        "series": 1,
+        "films": 1,
+        "games": 1,
+        "across": 1,
+        "wide": 1,
+        "variety": 1,
+        "genres": 1,
+        "languages": 1,
+        "members": 7,
+        "can": 2,
+        "play": 1,
+        "pause": 1,
+        "resume": 1,
+        "watching": 1,
+        "much": 1,
+        "they": 2,
+        "want": 1,
+        "anytime": 1,
+        "anywhere": 1,
+        "plans": 1,
+        "at": 1,
+        "time": 4,
+        "grow": 1,
+        "globally": 1,
+        "parameters": 1,
+        "target": 1,
+        "strive": 2,
+        "continuously": 2,
+        "experience": 1,
+        "offering": 1,
+        "compelling": 1,
+        "delights": 1,
+        "them": 1,
+        "attracts": 1,
+        "new": 1,
+        "seek": 2,
+        "drive": 1,
+        "conversation": 1,
+        "around": 1,
+        "further": 2,
+        "enhance": 1,
+        "joy": 1,
+        "enhancing": 1,
+        "user": 1,
+        "interface": 1,
+        "help": 1,
+        "more": 2,
+        "easily": 1,
+        "choose": 3,
+        "will": 1,
+        "find": 1,
+        "enjoyable": 1,
+        "segments": 1,
+        "operate": 1,
+        "segment": 2,
+        "primarily": 1,
+        "derived": 1,
+        "monthly": 1,
+        "fees": 1,
+        "streaming": 2,
+        "see": 1,
+        "note": 1,
+        "geographic": 1,
+        "accompanying": 1,
+        "notes": 1,
+        "consolidated": 1,
+        "detail": 1,
+        "competition": 1,
+        "market": 1,
+        "video": 4,
+        "intensely": 1,
+        "competitive": 1,
+        "rapid": 1,
+        "compete": 2,
+        "broad": 1,
+        "consumers": 3,
+        "leisure": 1,
+        "providers": 4,
+        "linear": 1,
+        "those": 1,
+        "provide": 1,
+        "pirated": 1,
+        "gaming": 1,
+        "broadly": 1,
+        "against": 2,
+        "like": 1,
+        "social": 1,
+        "media": 1,
+        "moments": 4,
+        "also": 1,
+        "producers": 1,
+        "obtaining": 1,
+        "both": 2,
+        "licensed": 1,
+        "projects": 1,
+        "while": 1,
+        "maintain": 1,
+        "simultaneous": 1,
+        "relationships": 1,
+        "multiple": 1,
+        "have": 1,
+        "often": 1,
+        "referred": 1,
+        "choice": 1,
+        "objective": 1,
+        "winning": 1,
+        "truth": 2,
+        "attempting": 1,
+        "win": 1,
+        "continually": 1,
+        "technology": 1
+      }
+    },
+    {
+      "type": "too_many_word_occurence_percent",
+      "bag_of_word": {
+        "10": 2,
+        "12": 1,
+        "190": 1,
+        "260": 1,
+        "table": 1,
+        "of": 21,
+        "contents": 1,
+        "part": 1,
+        "forward": 7,
+        "looking": 7,
+        "statements": 8,
+        "this": 5,
+        "annual": 2,
+        "report": 2,
+        "on": 7,
+        "form": 2,
+        "contains": 1,
+        "within": 2,
+        "the": 9,
+        "meaning": 1,
+        "federal": 1,
+        "securities": 1,
+        "laws": 1,
+        "these": 4,
+        "include": 1,
+        "but": 1,
+        "are": 5,
+        "not": 1,
+        "limited": 1,
+        "to": 25,
+        "regarding": 2,
+        "our": 27,
+        "core": 2,
+        "strategy": 2,
+        "ability": 3,
+        "improve": 3,
+        "content": 16,
+        "offerings": 2,
+        "and": 33,
+        "service": 3,
+        "future": 3,
+        "financial": 2,
+        "performance": 1,
+        "including": 10,
+        "expectations": 1,
+        "revenues": 4,
+        "deferred": 2,
+        "revenue": 1,
+        "operating": 4,
+        "income": 3,
+        "margin": 2,
+        "net": 3,
+        "expenses": 1,
+        "profitability": 1,
+        "liquidity": 1,
+        "sufficiency": 1,
+        "capital": 2,
+        "resources": 1,
+        "cash": 2,
+        "provided": 1,
+        "by": 4,
+        "used": 1,
+        "in": 11,
+        "activities": 2,
+        "access": 1,
+        "financing": 1,
+        "sources": 3,
+        "free": 3,
+        "flows": 1,
+        "allocation": 1,
+        "strategies": 1,
+        "any": 4,
+        "stock": 2,
+        "repurchases": 1,
+        "or": 3,
+        "repurchase": 1,
+        "programs": 1,
+        "seasonality": 2,
+        "price": 2,
+        "volatility": 1,
+        "impact": 5,
+        "foreign": 1,
+        "exchange": 1,
+        "rate": 2,
+        "fluctuations": 2,
+        "average": 1,
+        "per": 1,
+        "paying": 1,
+        "member": 3,
+        "interest": 1,
+        "adequacy": 1,
+        "existing": 1,
+        "facilities": 1,
+        "regulatory": 1,
+        "changes": 4,
+        "their": 4,
+        "business": 4,
+        "intellectual": 1,
+        "property": 1,
+        "testing": 1,
+        "accounting": 1,
+        "treatment": 1,
+        "for": 9,
+        "related": 2,
+        "assets": 2,
+        "acquisitions": 1,
+        "actions": 1,
+        "competitors": 1,
+        "membership": 3,
+        "growth": 3,
+        "pricing": 1,
+        "partnerships": 1,
+        "advertising": 1,
+        "multi": 1,
+        "household": 1,
+        "usage": 1,
+        "viewing": 1,
+        "patterns": 1,
+        "dividends": 1,
+        "contractual": 1,
+        "obligations": 2,
+        "unknown": 1,
+        "timing": 1,
+        "payments": 1,
+        "global": 1,
+        "marketing": 1,
+        "investments": 2,
+        "original": 2,
+        "programming": 1,
+        "work": 1,
+        "stoppages": 1,
+        "amortization": 1,
+        "resolutions": 1,
+        "tax": 4,
+        "examinations": 1,
+        "expense": 1,
+        "unrecognized": 1,
+        "benefits": 1,
+        "effectively": 1,
+        "manage": 1,
+        "change": 3,
+        "company": 2,
+        "culture": 1,
+        "attract": 1,
+        "retain": 1,
+        "qualified": 1,
+        "employees": 1,
+        "key": 1,
+        "personnel": 1,
+        "subject": 2,
+        "risks": 2,
+        "uncertainties": 2,
+        "that": 6,
+        "could": 3,
+        "cause": 2,
+        "actual": 2,
+        "results": 2,
+        "events": 2,
+        "differ": 2,
+        "detailed": 1,
+        "discussion": 1,
+        "other": 3,
+        "materially": 1,
+        "from": 2,
+        "such": 3,
+        "is": 4,
+        "included": 2,
+        "throughout": 1,
+        "filing": 1,
+        "particularly": 1,
+        "item": 2,
+        "1a": 1,
+        "risk": 1,
+        "factors": 1,
+        "section": 1,
+        "set": 2,
+        "forth": 1,
+        "all": 1,
+        "document": 1,
+        "based": 1,
+        "information": 2,
+        "available": 1,
+        "us": 4,
+        "date": 1,
+        "hereof": 1,
+        "we": 11,
+        "assume": 1,
+        "no": 1,
+        "obligation": 1,
+        "revise": 1,
+        "publicly": 1,
+        "release": 1,
+        "revision": 1,
+        "statement": 1,
+        "except": 1,
+        "as": 6,
+        "may": 2,
+        "otherwise": 1,
+        "be": 1,
+        "required": 1,
+        "law": 1,
+        "about": 1,
+        "netflix": 2,
+        "inc": 1,
+        "registrant": 1,
+        "one": 2,
+        "world": 1,
+        "leading": 1,
+        "entertainment": 7,
+        "services": 2,
+        "with": 4,
+        "over": 2,
+        "million": 1,
+        "paid": 1,
+        "memberships": 1,
+        "countries": 1,
+        "enjoying": 1,
+        "tv": 2,
+        "series": 1,
+        "films": 1,
+        "games": 1,
+        "across": 1,
+        "wide": 1,
+        "variety": 1,
+        "genres": 1,
+        "languages": 1,
+        "members": 7,
+        "can": 2,
+        "play": 1,
+        "pause": 1,
+        "resume": 1,
+        "watching": 1,
+        "much": 1,
+        "they": 2,
+        "want": 1,
+        "anytime": 1,
+        "anywhere": 1,
+        "plans": 1,
+        "at": 1,
+        "time": 4,
+        "grow": 1,
+        "globally": 1,
+        "parameters": 1,
+        "target": 1,
+        "strive": 2,
+        "continuously": 2,
+        "experience": 1,
+        "offering": 1,
+        "compelling": 1,
+        "delights": 1,
+        "them": 1,
+        "attracts": 1,
+        "new": 1,
+        "seek": 2,
+        "drive": 1,
+        "conversation": 1,
+        "around": 1,
+        "further": 2,
+        "enhance": 1,
+        "joy": 1,
+        "enhancing": 1,
+        "user": 1,
+        "interface": 1,
+        "help": 1,
+        "more": 2,
+        "easily": 1,
+        "choose": 3,
+        "will": 1,
+        "find": 1,
+        "enjoyable": 1,
+        "segments": 1,
+        "operate": 1,
+        "segment": 2,
+        "primarily": 1,
+        "derived": 1,
+        "monthly": 1,
+        "fees": 1,
+        "streaming": 2,
+        "see": 1,
+        "note": 1,
+        "geographic": 1,
+        "accompanying": 1,
+        "notes": 1,
+        "consolidated": 1,
+        "detail": 1,
+        "competition": 1,
+        "market": 1,
+        "video": 4,
+        "intensely": 1,
+        "competitive": 1,
+        "rapid": 1,
+        "compete": 2,
+        "broad": 1,
+        "consumers": 3,
+        "leisure": 1,
+        "providers": 4,
+        "linear": 1,
+        "those": 1,
+        "provide": 1,
+        "pirated": 1,
+        "gaming": 1,
+        "broadly": 1,
+        "against": 2,
+        "like": 1,
+        "social": 1,
+        "media": 1,
+        "moments": 4,
+        "also": 1,
+        "producers": 1,
+        "obtaining": 1,
+        "both": 2,
+        "licensed": 1,
+        "projects": 1,
+        "while": 1,
+        "maintain": 1,
+        "simultaneous": 1,
+        "relationships": 1,
+        "multiple": 1,
+        "have": 1,
+        "often": 1,
+        "referred": 1,
+        "choice": 1,
+        "objective": 1,
+        "winning": 1,
+        "truth": 2,
+        "attempting": 1,
+        "win": 1,
+        "continually": 1,
+        "technology": 1
+      }
+    },
+    {
+      "type": "missing_word_percent",
+      "bag_of_word": {
+        "10": 2,
+        "12": 1,
+        "190": 1,
+        "260": 1,
+        "table": 1,
+        "of": 21,
+        "contents": 1,
+        "part": 1,
+        "forward": 7,
+        "looking": 7,
+        "statements": 8,
+        "this": 5,
+        "annual": 2,
+        "report": 2,
+        "on": 7,
+        "form": 2,
+        "contains": 1,
+        "within": 2,
+        "the": 9,
+        "meaning": 1,
+        "federal": 1,
+        "securities": 1,
+        "laws": 1,
+        "these": 4,
+        "include": 1,
+        "but": 1,
+        "are": 5,
+        "not": 1,
+        "limited": 1,
+        "to": 25,
+        "regarding": 2,
+        "our": 27,
+        "core": 2,
+        "strategy": 2,
+        "ability": 3,
+        "improve": 3,
+        "content": 16,
+        "offerings": 2,
+        "and": 33,
+        "service": 3,
+        "future": 3,
+        "financial": 2,
+        "performance": 1,
+        "including": 10,
+        "expectations": 1,
+        "revenues": 4,
+        "deferred": 2,
+        "revenue": 1,
+        "operating": 4,
+        "income": 3,
+        "margin": 2,
+        "net": 3,
+        "expenses": 1,
+        "profitability": 1,
+        "liquidity": 1,
+        "sufficiency": 1,
+        "capital": 2,
+        "resources": 1,
+        "cash": 2,
+        "provided": 1,
+        "by": 4,
+        "used": 1,
+        "in": 11,
+        "activities": 2,
+        "access": 1,
+        "financing": 1,
+        "sources": 3,
+        "free": 3,
+        "flows": 1,
+        "allocation": 1,
+        "strategies": 1,
+        "any": 4,
+        "stock": 2,
+        "repurchases": 1,
+        "or": 3,
+        "repurchase": 1,
+        "programs": 1,
+        "seasonality": 2,
+        "price": 2,
+        "volatility": 1,
+        "impact": 5,
+        "foreign": 1,
+        "exchange": 1,
+        "rate": 2,
+        "fluctuations": 2,
+        "average": 1,
+        "per": 1,
+        "paying": 1,
+        "member": 3,
+        "interest": 1,
+        "adequacy": 1,
+        "existing": 1,
+        "facilities": 1,
+        "regulatory": 1,
+        "changes": 4,
+        "their": 4,
+        "business": 4,
+        "intellectual": 1,
+        "property": 1,
+        "testing": 1,
+        "accounting": 1,
+        "treatment": 1,
+        "for": 9,
+        "related": 2,
+        "assets": 2,
+        "acquisitions": 1,
+        "actions": 1,
+        "competitors": 1,
+        "membership": 3,
+        "growth": 3,
+        "pricing": 1,
+        "partnerships": 1,
+        "advertising": 1,
+        "multi": 1,
+        "household": 1,
+        "usage": 1,
+        "viewing": 1,
+        "patterns": 1,
+        "dividends": 1,
+        "contractual": 1,
+        "obligations": 2,
+        "unknown": 1,
+        "timing": 1,
+        "payments": 1,
+        "global": 1,
+        "marketing": 1,
+        "investments": 2,
+        "original": 2,
+        "programming": 1,
+        "work": 1,
+        "stoppages": 1,
+        "amortization": 1,
+        "resolutions": 1,
+        "tax": 4,
+        "examinations": 1,
+        "expense": 1,
+        "unrecognized": 1,
+        "benefits": 1,
+        "effectively": 1,
+        "manage": 1,
+        "change": 3,
+        "company": 2,
+        "culture": 1,
+        "attract": 1,
+        "retain": 1,
+        "qualified": 1,
+        "employees": 1,
+        "key": 1,
+        "personnel": 1,
+        "subject": 2,
+        "risks": 2,
+        "uncertainties": 2,
+        "that": 6,
+        "could": 3,
+        "cause": 2,
+        "actual": 2,
+        "results": 2,
+        "events": 2,
+        "differ": 2,
+        "detailed": 1,
+        "discussion": 1,
+        "other": 3,
+        "materially": 1,
+        "from": 2,
+        "such": 3,
+        "is": 4,
+        "included": 2,
+        "throughout": 1,
+        "filing": 1,
+        "particularly": 1,
+        "item": 2,
+        "1a": 1,
+        "risk": 1,
+        "factors": 1,
+        "section": 1,
+        "set": 2,
+        "forth": 1,
+        "all": 1,
+        "document": 1,
+        "based": 1,
+        "information": 2,
+        "available": 1,
+        "us": 4,
+        "date": 1,
+        "hereof": 1,
+        "we": 11,
+        "assume": 1,
+        "no": 1,
+        "obligation": 1,
+        "revise": 1,
+        "publicly": 1,
+        "release": 1,
+        "revision": 1,
+        "statement": 1,
+        "except": 1,
+        "as": 6,
+        "may": 2,
+        "otherwise": 1,
+        "be": 1,
+        "required": 1,
+        "law": 1,
+        "about": 1,
+        "netflix": 2,
+        "inc": 1,
+        "registrant": 1,
+        "one": 2,
+        "world": 1,
+        "leading": 1,
+        "entertainment": 7,
+        "services": 2,
+        "with": 4,
+        "over": 2,
+        "million": 1,
+        "paid": 1,
+        "memberships": 1,
+        "countries": 1,
+        "enjoying": 1,
+        "tv": 2,
+        "series": 1,
+        "films": 1,
+        "games": 1,
+        "across": 1,
+        "wide": 1,
+        "variety": 1,
+        "genres": 1,
+        "languages": 1,
+        "members": 7,
+        "can": 2,
+        "play": 1,
+        "pause": 1,
+        "resume": 1,
+        "watching": 1,
+        "much": 1,
+        "they": 2,
+        "want": 1,
+        "anytime": 1,
+        "anywhere": 1,
+        "plans": 1,
+        "at": 1,
+        "time": 4,
+        "grow": 1,
+        "globally": 1,
+        "parameters": 1,
+        "target": 1,
+        "strive": 2,
+        "continuously": 2,
+        "experience": 1,
+        "offering": 1,
+        "compelling": 1,
+        "delights": 1,
+        "them": 1,
+        "attracts": 1,
+        "new": 1,
+        "seek": 2,
+        "drive": 1,
+        "conversation": 1,
+        "around": 1,
+        "further": 2,
+        "enhance": 1,
+        "joy": 1,
+        "enhancing": 1,
+        "user": 1,
+        "interface": 1,
+        "help": 1,
+        "more": 2,
+        "easily": 1,
+        "choose": 3,
+        "will": 1,
+        "find": 1,
+        "enjoyable": 1,
+        "segments": 1,
+        "operate": 1,
+        "segment": 2,
+        "primarily": 1,
+        "derived": 1,
+        "monthly": 1,
+        "fees": 1,
+        "streaming": 2,
+        "see": 1,
+        "note": 1,
+        "geographic": 1,
+        "accompanying": 1,
+        "notes": 1,
+        "consolidated": 1,
+        "detail": 1,
+        "competition": 1,
+        "market": 1,
+        "video": 4,
+        "intensely": 1,
+        "competitive": 1,
+        "rapid": 1,
+        "compete": 2,
+        "broad": 1,
+        "consumers": 3,
+        "leisure": 1,
+        "providers": 4,
+        "linear": 1,
+        "those": 1,
+        "provide": 1,
+        "pirated": 1,
+        "gaming": 1,
+        "broadly": 1,
+        "against": 2,
+        "like": 1,
+        "social": 1,
+        "media": 1,
+        "moments": 4,
+        "also": 1,
+        "producers": 1,
+        "obtaining": 1,
+        "both": 2,
+        "licensed": 1,
+        "projects": 1,
+        "while": 1,
+        "maintain": 1,
+        "simultaneous": 1,
+        "relationships": 1,
+        "multiple": 1,
+        "have": 1,
+        "often": 1,
+        "referred": 1,
+        "choice": 1,
+        "objective": 1,
+        "winning": 1,
+        "truth": 2,
+        "attempting": 1,
+        "win": 1,
+        "continually": 1,
+        "technology": 1
+      }
+    },
+    {
+      "type": "bag_of_digit_percent",
+      "bag_of_digit": {
+        "0": 4,
+        "1": 7,
+        "2": 2,
+        "6": 1,
+        "9": 1
+      }
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "10"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "12"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "190"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "1a"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "260"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ability"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "about"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "access"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "accompanying"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "accounting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "acquisitions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "across"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "actions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "activities"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "actual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "adequacy"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "advertising"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "against"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "all"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "allocation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "also"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "amortization"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "and"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "annual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "any"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "anytime"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "anywhere"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "are"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "around"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "as"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "assets"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "assume"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "at"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "attempting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "attract"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "attracts"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "available"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "average"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "based"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "be"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "benefits"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "both"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "broad"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "broadly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "business"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "but"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "by"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "can"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "capital"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "cash"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "cause"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "change"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "changes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "choice"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "choose"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "company"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "compelling"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "compete"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "competition"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "competitive"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "competitors"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consolidated"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consumers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "contains"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "content"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "contents"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "continually"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "continuously"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "contractual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "conversation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "core"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "could"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "countries"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "culture"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "date"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "deferred"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "delights"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "derived"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "detail"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "detailed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "differ"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "discussion"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "dividends"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "document"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "drive"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "easily"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "effectively"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "employees"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "enhance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "enhancing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "enjoyable"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "enjoying"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "entertainment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "events"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "examinations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "except"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "exchange"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "existing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "expectations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "expense"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "expenses"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "experience"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "facilities"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "factors"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "federal"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fees"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "filing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "films"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "financial"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "financing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "find"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "flows"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fluctuations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "for"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "foreign"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "form"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "forth"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "forward"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "free"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "from"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "further"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "future"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "games"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "gaming"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "genres"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "geographic"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "global"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "globally"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "grow"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "growth"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "have"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "help"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "hereof"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "household"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "impact"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "improve"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "in"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "inc"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "include"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "included"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "including"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "income"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "information"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "intellectual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "intensely"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "interest"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "interface"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "investments"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "is"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "item"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "joy"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "key"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "languages"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "law"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "laws"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "leading"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "leisure"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "licensed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "like"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "limited"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "linear"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "liquidity"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "looking"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "maintain"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "manage"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "margin"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "market"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "marketing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "materially"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "may"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "meaning"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "media"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "member"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "members"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "membership"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "memberships"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "million"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "moments"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "monthly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "more"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "much"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "multi"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "multiple"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "net"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "netflix"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "new"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "no"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "not"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "note"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "notes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "objective"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "obligation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "obligations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "obtaining"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "of"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "offering"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "offerings"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "often"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "on"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "one"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "operate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "operating"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "or"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "original"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "other"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "otherwise"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "our"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "over"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "paid"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "parameters"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "part"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "particularly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "partnerships"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "patterns"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pause"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "paying"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "payments"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "per"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "performance"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "personnel"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pirated"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "plans"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "play"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "price"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pricing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "primarily"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "producers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "profitability"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "programming"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "programs"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "projects"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "property"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "provide"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "provided"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "providers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "publicly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "qualified"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "rapid"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "rate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "referred"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regarding"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "registrant"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regulatory"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "related"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "relationships"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "release"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "report"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "repurchase"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "repurchases"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "required"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "resolutions"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "resources"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "results"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "resume"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "retain"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "revenue"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "revenues"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "revise"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "revision"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "risk"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "risks"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "seasonality"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "section"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "securities"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "see"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "seek"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "segment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "segments"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "series"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "service"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "services"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "set"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "simultaneous"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "social"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sources"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "statement"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "statements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "stock"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "stoppages"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "strategies"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "strategy"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "streaming"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "strive"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "subject"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "such"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sufficiency"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "table"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "target"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "tax"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "technology"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "testing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "that"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "the"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "their"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "them"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "these"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "they"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "this"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "those"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "throughout"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "time"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "timing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "to"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "treatment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "truth"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "tv"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "uncertainties"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "unknown"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "unrecognized"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "us"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "usage"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "used"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "user"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "variety"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "video"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "viewing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "volatility"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "want"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "watching"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "we"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "while"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "wide"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "will"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "win"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "winning"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "with"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "within"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "work"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "world"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "A detailed discussion of these and other risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included throughout this filing and particularly in Item 1A: \"Risk Factors\" section set forth in this Annual Report on Form 10-K"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "ABOUT US"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "All forward-looking statements included in this document are based on information available to us on the date hereof, and we assume no obligation to revise or publicly release any revision to any such forward-looking statement, except as may otherwise be required by law"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "BUSINESS SEGMENTS"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "COMPETITION"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "In attempting to win these moments of truth with our members, we seek to continually improve our service, including both our technology and our content offerings"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Item 1. Business"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Netflix\", \"the Company\", \"registrant\", \"we\", or \"us\") is one of the world's leading entertainment services with over 260 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Netflix, Inc"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our core strategy is to grow our business globally within the parameters of our operating margin target"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our revenues are primarily derived from monthly membership fees for services related to streaming content to our members"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "PART I Forward-Looking Statements"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "SEASONALITY 1"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "See Note 12, Segment and Geographic Information, in the accompanying notes to our consolidated financial statements for further detail"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Table of Contents"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The market for entertainment video is intensely competitive and subject to rapid change"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "These forward-looking statements are subject to risks and uncertainties that could cause actual results and events to differ"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "These forward-looking statements include, but are not limited to, statements regarding: our core strategy; our ability to improve our content offerings and service; our future financial performance, including expectations regarding revenues, deferred revenue, operating income and margin, net income, expenses, and profitability; liquidity, including the sufficiency of our capital resources, net cash provided by (used in) operating activities, access to financing sources, and free cash flows; capital allocation strategies, including any stock repurchases or repurchase programs; seasonality; stock price volatility; impact of foreign exchange rate fluctuations, including on net income, revenues and average revenues per paying member; impact of interest rate fluctuations; adequacy of existing facilities; future regulatory changes and their impact on our business; intellectual property; price changes and testing; accounting treatment for changes related to content assets; acquisitions; actions by competitors; membership growth, including impact of content and pricing changes on membership growth; partnerships; advertising; multi-household usage; member viewing patterns; dividends; future contractual obligations, including unknown content obligations and timing of payments; our global content and marketing investments, including investments in original programming; impact of work stoppages; content amortization; resolutions of tax examinations; tax expense; unrecognized tax benefits; deferred tax assets; our ability to effectively manage change and growth; our company culture; and our ability to attract and retain qualified employees and key personnel"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We also compete against entertainment video providers and content producers in obtaining content for our service, both for licensed content and for original content projects"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We compete with a broad set of activities for consumers' leisure time, including other entertainment video providers, such as linear TV, streaming entertainment providers (including those that provide pirated content), video gaming providers and more broadly against other sources of entertainment, like social media, that our members could choose in their moments of free time"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We have often referred to this choice as our objective of \"winning moments of truth"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We operate as one operating segment"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We seek to drive conversation around our content to further enhance member joy, and we are continuously enhancing our user interface to help our members more easily choose content that they will find enjoyable"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We strive to continuously improve our members' experience by offering compelling content that delights them and attracts new members"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "While consumers may maintain simultaneous relationships with multiple entertainment sources, we strive for consumers to choose us in their moments of free time"
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Forward-Looking Statements",
+      "after": "This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws.",
+      "after": "These forward-looking statements include, but are not limited to, statements regarding: our core strategy; our ability to improve our content offerings and service; our future financial performance, including expectations regarding revenues, deferred revenue, operating income and margin, net income, expenses, and profitability; liquidity, including the sufficiency of our capital resources, net cash provided by (used in) operating activities, access to financing sources, and free cash flows; capital allocation strategies, including any stock repurchases or repurchase programs; seasonality; stock price volatility; impact of foreign exchange rate fluctuations, including on net income, revenues and average revenues per paying member; impact of interest rate fluctuations; adequacy of existing facilities; future regulatory changes and their impact on our business; intellectual property; price changes and testing; accounting treatment for changes related to content assets; acquisitions; actions by competitors; membership growth, including impact of content and pricing changes on membership growth; partnerships; advertising; multi-household usage; member viewing patterns; dividends; future contractual obligations, including unknown content obligations and timing of payments; our global content and marketing investments, including investments in original programming; impact of work stoppages; content amortization; resolutions of tax examinations; tax expense; unrecognized tax benefits; deferred tax assets; our ability to effectively manage change and growth; our company culture; and our ability to attract and retain qualified employees and key personnel.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "These forward-looking statements include, but are not limited to, statements regarding: our core strategy; our ability to improve our content offerings and service; our future financial performance, including expectations regarding revenues, deferred revenue, operating income and margin, net income, expenses, and profitability; liquidity, including the sufficiency of our capital resources, net cash provided by (used in) operating activities, access to financing sources, and free cash flows; capital allocation strategies, including any stock repurchases or repurchase programs; seasonality; stock price volatility; impact of foreign exchange rate fluctuations, including on net income, revenues and average revenues per paying member; impact of interest rate fluctuations; adequacy of existing facilities; future regulatory changes and their impact on our business; intellectual property; price changes and testing; accounting treatment for changes related to content assets; acquisitions; actions by competitors; membership growth, including impact of content and pricing changes on membership growth; partnerships; advertising; multi-household usage; member viewing patterns; dividends; future contractual obligations, including unknown content obligations and timing of payments; our global content and marketing investments, including investments in original programming; impact of work stoppages; content amortization; resolutions of tax examinations; tax expense; unrecognized tax benefits; deferred tax assets; our ability to effectively manage change and growth; our company culture; and our ability to attract and retain qualified employees and key personnel.",
+      "after": "These forward-looking statements are subject to risks and uncertainties that could cause actual results and events to differ.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "These forward-looking statements are subject to risks and uncertainties that could cause actual results and events to differ.",
+      "after": "A detailed discussion of these and other risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included throughout this filing and particularly in Item 1A: \"Risk Factors\" section set forth in this Annual Report on Form 10-K.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "A detailed discussion of these and other risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included throughout this filing and particularly in Item 1A: \"Risk Factors\" section set forth in this Annual Report on Form 10-K.",
+      "after": "All forward-looking statements included in this document are based on information available to us on the date hereof, and we assume no obligation to revise or publicly release any revision to any such forward-looking statement, except as may otherwise be required by law.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "All forward-looking statements included in this document are based on information available to us on the date hereof, and we assume no obligation to revise or publicly release any revision to any such forward-looking statement, except as may otherwise be required by law.",
+      "after": "(\"Netflix\", \"the Company\", \"registrant\", \"we\", or \"us\") is one of the world's leading entertainment services with over 260 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "(\"Netflix\", \"the Company\", \"registrant\", \"we\", or \"us\") is one of the world's leading entertainment services with over 260 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages.",
+      "after": "Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.",
+      "after": "Our core strategy is to grow our business globally within the parameters of our operating margin target.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our core strategy is to grow our business globally within the parameters of our operating margin target.",
+      "after": "We strive to continuously improve our members' experience by offering compelling content that delights them and attracts new members.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We strive to continuously improve our members' experience by offering compelling content that delights them and attracts new members.",
+      "after": "We seek to drive conversation around our content to further enhance member joy, and we are continuously enhancing our user interface to help our members more easily choose content that they will find enjoyable.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We seek to drive conversation around our content to further enhance member joy, and we are continuously enhancing our user interface to help our members more easily choose content that they will find enjoyable.",
+      "after": "We operate as one operating segment.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We operate as one operating segment.",
+      "after": "Our revenues are primarily derived from monthly membership fees for services related to streaming content to our members.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our revenues are primarily derived from monthly membership fees for services related to streaming content to our members.",
+      "after": "See Note 12, Segment and Geographic Information , in the accompanying notes to our consolidated financial statements for further detail.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "See Note 12, Segment and Geographic Information , in the accompanying notes to our consolidated financial statements for further detail.",
+      "after": "The market for entertainment video is intensely competitive and subject to rapid change.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The market for entertainment video is intensely competitive and subject to rapid change.",
+      "after": "We compete with a broad set of activities for consumers' leisure time, including other entertainment video providers, such as linear TV, streaming entertainment providers (including those that provide pirated content), video gaming providers and more broadly against other sources of entertainment, like social media, that our members could choose in their moments of free time.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We compete with a broad set of activities for consumers' leisure time, including other entertainment video providers, such as linear TV, streaming entertainment providers (including those that provide pirated content), video gaming providers and more broadly against other sources of entertainment, like social media, that our members could choose in their moments of free time.",
+      "after": "We also compete against entertainment video providers and content producers in obtaining content for our service, both for licensed content and for original content projects.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We also compete against entertainment video providers and content producers in obtaining content for our service, both for licensed content and for original content projects.",
+      "after": "While consumers may maintain simultaneous relationships with multiple entertainment sources, we strive for consumers to choose us in their moments of free time.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "While consumers may maintain simultaneous relationships with multiple entertainment sources, we strive for consumers to choose us in their moments of free time.",
+      "after": "We have often referred to this choice as our objective of \"winning moments of truth.\"",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We have often referred to this choice as our objective of \"winning moments of truth.\"",
+      "after": "In attempting to win these moments of truth with our members, we seek to continually improve our service, including both our technology and our content offerings.",
+      "max_diffs": 0
+    },
+    {
+      "type": "is_title",
+      "text": "PART I",
+      "level": 1
+    },
+    {
+      "type": "is_title",
+      "text": "Forward-Looking Statements",
+      "level": 2
+    },
+    {
+      "type": "is_title",
+      "text": "Item 1. Business",
+      "level": 2
+    },
+    {
+      "type": "is_title",
+      "text": "ABOUT US",
+      "level": 3
+    },
+    {
+      "type": "is_title",
+      "text": "BUSINESS SEGMENTS",
+      "level": 3
+    },
+    {
+      "type": "is_title",
+      "text": "COMPETITION",
+      "level": 3
+    },
+    {
+      "type": "is_title",
+      "text": "SEASONALITY",
+      "level": 3
+    },
+    {
+      "type": "title_hierarchy_percent",
+      "title_hierarchy": {
+        "PART I": {
+          "Forward-Looking Statements": {},
+          "Item 1. Business": {
+            "ABOUT US": {},
+            "BUSINESS SEGMENTS": {},
+            "COMPETITION": {},
+            "SEASONALITY": {}
+          }
+        }
+      }
+    },
+    {
+      "type": "is_italic",
+      "text": "This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws. These forward-looking statements include, but are not limited to, statements regarding: our core strategy; our ability to improve our content offerings and service; our future financial performance, including expectations regarding revenues, deferred revenue, operating income and margin, net income, expenses, and profitability; liquidity, including the sufficiency of our capital resources, net cash provided by (used in) operating activities, access to financing sources, and free cash flows; capital allocation strategies, including any stock repurchases or repurchase programs; seasonality; stock price volatility; impact of foreign exchange rate fluctuations, including on net income, revenues and average revenues per paying member; impact of interest rate fluctuations; adequacy of existing facilities; future regulatory changes and their impact on our business; intellectual property; price changes and testing; accounting treatment for changes related to content assets; acquisitions; actions by competitors; membership growth, including impact of content and pricing changes on membership growth; partnerships; advertising; multi-household usage; member viewing patterns; dividends; future contractual obligations, including unknown content obligations and timing of payments; our global content and marketing investments, including investments in original programming; impact of work stoppages; content amortization; resolutions of tax examinations; tax expense; unrecognized tax benefits; deferred tax assets; our ability to effectively manage change and growth; our company culture; and our ability to attract and retain qualified employees and key personnel. These forward-looking statements are subject to risks and uncertainties that could cause actual results and events to differ. A detailed discussion of these and other risks and uncertainties that could cause actual results and events to differ materially from such forward-looking statements is included throughout this filing and particularly in Item 1A: \"Risk Factors\" section set forth in this Annual Report on Form 10-K. All forward-looking statements included in this document are based on information available to us on the date hereof, and we assume no obligation to revise or publicly release any revision to any such forward-looking statement, except as may otherwise be required by law."
+    },
+    {
+      "type": "is_italic",
+      "text": "Segment and Geographic Information"
+    },
+    {
+      "type": "is_header",
+      "text": "[Table of Contents](TableofContents)"
+    },
+    {
+      "type": "is_footer",
+      "text": "<page_number>1</page_number>"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/text.jsonl",
+    "parsebench_document": "text/text_simple__k10.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/nflx-20231231.htm",
+      "accession": "0001065280-24-000030",
+      "sha256": "ef8e3538c8ac9842e3ac71fa8773170beb03bf4ab1f4290a38849ef608795794",
+      "provider": "datamulehub",
+      "mapping_url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000034/nflx-20251231.htm",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 166117,
+        "byte_end_exclusive": 174699,
+        "page_fragment_index_0based": 2
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "07272b5d8bffd34877b43b333dc1cea999c4a368ca49e22a363befd19c1242b2",
+    "input_sha256": "ed9057ed9cf9183e2b67b6827ba84cadde349be1728b849416de777f8b2bda90"
+  },
+  "tags": [
+    "easy"
+  ]
+}

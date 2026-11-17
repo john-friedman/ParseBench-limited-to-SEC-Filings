@@ -1,0 +1,30 @@
+{
+  "id": "tables/Kimco-Realty-2023-Annual-Report-Web_page11",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "<table>\n      <tr>\n        <th>Title of each class</th>\n        <th>Trading Symbol(s)</th>\n        <th>Name of each exchange on which registered</th>\n    </tr>\n        <tr>\n        <td>Common Stock, par value $.01 per share.</td>\n<td>KIM</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>Depositary Shares, each representing one-thousandth of a share of 5.125% Class L Cumulative Redeemable Preferred Stock, $1.00 par value per share.</td>\n<td>KIMprL</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>Depositary Shares, each representing one-thousandth of a share of 5.250% Class M Cumulative Redeemable Preferred Stock, $1.00 par value per share.</td>\n<td>KIMprM</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>Depositary Shares, each representing one-thousandth of a share of 7.250% Class N Cumulative Convertible Preferred Stock, $1.00 par value per share.</td>\n<td>KIMprN</td>\n<td>New York Stock Exchange</td>\n    </tr>\n  </table>\n\n<table>\n      <tr>\n        <th>Title of each class</th>\n        <th>Trading Symbol(s)</th>\n        <th>Name of each exchange on which registered</th>\n    </tr>\n        <tr>\n        <td>None</td>\n<td>N/A</td>\n<td>N/A</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Kimco-Realty-2023-Annual-Report-Web_page11.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/879101/000120677424000291/kim4270861-ars.pdf",
+      "accession": "0001206774-24-000291",
+      "provider": "datamulehub",
+      "sha256": "1aac173014dade758baf8a14baaafe12521ea668bc51e17c10dec984dabfd36c",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 10,
+        "source_page_count": 168
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "d7623ce003aaa72d94572565baa9b79f034518d18ff4263d25a96340cb8098f2",
+    "input_sha256": "dca8213811410e87a7926fc7f2b152f701c49feefc3b0152dedec93cfae0cd81"
+  },
+  "tags": []
+}

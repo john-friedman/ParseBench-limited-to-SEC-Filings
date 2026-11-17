@@ -1,0 +1,49 @@
+{
+  "id": "financial_tables/thd-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "The Security and Technology Risk Leadership Committee provides leadership and oversight of our cybersecurity program. It is chaired by our CISO and composed of Company technology leaders, as well as a cross-functional group of representatives from other departments. Our Privacy and Data Governance Committee provides leadership and oversight of our privacy and data governance programs. It is chaired by our Chief Privacy Officer and composed of a cross-functional group across approximately 20 departments. These committees generally meet monthly or every other month and report to the Data Security and Privacy Governance Committee on a regular basis.\n\nItem 2. Properties.\n\nThe following table presents the percentage of our owned versus leased facilities in operation within our Primary segment at the end of fiscal 2025, along with the total square footage:\n\n<table>\n  <thead>\n    <tr>\n      <th>square footage in millions</th>\n      <th>Owned</th>\n      <th>Leased</th>\n      <th>Total Square Footage</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Stores (1)</td>\n      <td>90 %</td>\n      <td>10 %</td>\n      <td>244.7</td>\n    </tr>\n    <tr>\n      <td>Distribution and fulfillment centers and warehouses (2)</td>\n      <td>3 %</td>\n      <td>97 %</td>\n      <td>104.7</td>\n    </tr>\n    <tr>\n      <td>Offices and other (3)</td>\n      <td>27 %</td>\n      <td>73 %</td>\n      <td>4.6</td>\n    </tr>\n    <tr>\n      <td>Total Primary segment</td>\n      <td></td>\n      <td></td>\n      <td>354.0</td>\n    </tr>\n  </tbody>\n</table>\n\n(1) Our owned stores include those subject to ground leases.\n\n(2) We operated over 500 distribution and fulfillment centers and warehouses at the end of fiscal 2025.\n\n(3) Our Store Support Center (corporate headquarters) is located in Atlanta, GA.\n\nWe also operated over 1,250 locations within our SRS non-reportable operating segments throughout the U.S. and Canada at the end of fiscal 2025, the majority of which are leased.\n\nThe following table presents our U.S. store locations (including the Commonwealth of Puerto Rico and the territories of the U.S. Virgin Islands and Guam) within our Primary segment at the end of fiscal 2025:\n\n<table>\n  <thead>\n    <tr>\n      <th>U.S.</th>\n      <th>Stores</th>\n      <th>U.S.</th>\n      <th>Stores</th>\n      <th>U.S.</th>\n      <th>Stores</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Alabama</td>\n      <td>28</td>\n      <td>Kentucky</td>\n      <td>14</td>\n      <td>Ohio</td>\n      <td>70</td>\n    </tr>\n    <tr>\n      <td>Alaska</td>\n      <td>7</td>\n      <td>Louisiana</td>\n      <td>28</td>\n      <td>Oklahoma</td>\n      <td>16</td>\n    </tr>\n    <tr>\n      <td>Arizona</td>\n      <td>60</td>\n      <td>Maine</td>\n      <td>11</td>\n      <td>Oregon</td>\n      <td>27</td>\n    </tr>\n    <tr>\n      <td>Arkansas</td>\n      <td>14</td>\n      <td>Maryland</td>\n      <td>41</td>\n      <td>Pennsylvania</td>\n      <td>71</td>\n    </tr>\n    <tr>\n      <td>California</td>\n      <td>247</td>\n      <td>Massachusetts</td>\n      <td>45</td>\n      <td>Puerto Rico</td>\n      <td>10</td>\n    </tr>\n    <tr>\n      <td>Colorado</td>\n      <td>46</td>\n      <td>Michigan</td>\n      <td>70</td>\n      <td>Rhode Island</td>\n      <td>8</td>\n    </tr>\n    <tr>\n      <td>Connecticut</td>\n      <td>30</td>\n      <td>Minnesota</td>\n      <td>33</td>\n      <td>South Carolina</td>\n      <td>26</td>\n    </tr>\n    <tr>\n      <td>Delaware</td>\n      <td>9</td>\n      <td>Mississippi</td>\n      <td>14</td>\n      <td>South Dakota</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <td>District of Columbia</td>\n      <td>1</td>\n      <td>Missouri</td>\n      <td>34</td>\n      <td>Tennessee</td>\n      <td>39</td>\n    </tr>\n    <tr>\n      <td>Florida</td>\n      <td>163</td>\n      <td>Montana</td>\n      <td>6</td>\n      <td>Texas</td>\n      <td>190</td>\n    </tr>\n    <tr>\n      <td>Georgia</td>\n      <td>90</td>\n      <td>Nebraska</td>\n      <td>8</td>\n      <td>Utah</td>\n      <td>24</td>\n    </tr>\n    <tr>\n      <td>Guam</td>\n      <td>1</td>\n      <td>Nevada</td>\n      <td>21</td>\n      <td>Vermont</td>\n      <td>3</td>\n    </tr>\n    <tr>\n      <td>Hawaii</td>\n      <td>8</td>\n      <td>New Hampshire</td>\n      <td>20</td>\n      <td>Virgin Islands</td>\n      <td>2</td>\n    </tr>\n    <tr>\n      <td>Idaho</td>\n      <td>13</td>\n      <td>New Jersey</td>\n      <td>67</td>\n      <td>Virginia</td>\n      <td>51</td>\n    </tr>\n    <tr>\n      <td>Illinois</td>\n      <td>76</td>\n      <td>New Mexico</td>\n      <td>13</td>\n      <td>Washington</td>\n      <td>48</td>\n    </tr>\n    <tr>\n      <td>Indiana</td>\n      <td>24</td>\n      <td>New York</td>\n      <td>101</td>\n      <td>West Virginia</td>\n      <td>6</td>\n    </tr>\n    <tr>\n      <td>Iowa</td>\n      <td>10</td>\n      <td>North Carolina</td>\n      <td>40</td>\n      <td>Wisconsin</td>\n      <td>27</td>\n    </tr>\n    <tr>\n      <td>Kansas</td>\n      <td>16</td>\n      <td>North Dakota</td>\n      <td>2</td>\n      <td>Wyoming</td>\n      <td>5</td>\n    </tr>\n    <tr>\n      <td colspan=\"4\"></td>\n      <td>Total U.S.</td>\n      <td>2,035</td>\n    </tr>\n  </tbody>\n</table>\n\n\n\n\n\nlogo: The Home Depot",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "thd.pdf",
+    "source_sha256": "f0e7b95c59250824ece966a5009d5b8c18767b7881bbad51d8a21d7d9e7a82c8",
+    "annotated_at": "2026-08-14T05:57:25.087Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/thd-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000162828026019436/hd-20260201.htm",
+      "accession": "0001628280-26-019436",
+      "provider": "datamulehub",
+      "sha256": "e1bc8afd632ffc2ad23ec057200f78686bf420297d53e466cdf5dd141ad169a5",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 34,
+            "byte_start": 528507,
+            "byte_end_exclusive": 536907
+          },
+          {
+            "table_index_0based": 35,
+            "byte_start": 539095,
+            "byte_end_exclusive": 575404
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "f0e7b95c59250824ece966a5009d5b8c18767b7881bbad51d8a21d7d9e7a82c8",
+    "input_sha256": "678b2ee1e9ad10a229ce17affd33624253bf41ea3e11b7328e2b4b2fb6208f4d"
+  },
+  "tags": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "sec-evaluation",
+  "text": {
+    "preserve_styles": ["bold", "italic", "underline"],
+    "join_wrapped_lines": true,
+    "wrap_hyphenation": "preserve"
+  },
+  "headings": {
+    "infer": true,
+    "styles": ["bold", "all_caps", "proper_case"],
+    "max_words": 30,
+    "merge_adjacent": false
+  },
+  "headers": [
+    {"name": "part", "regex": "^part\\s+[ivx]+\\b", "level": 0, "requires": []},
+    {"name": "item", "regex": "^item\\s*\\d+\\.?[a-z]?(?![a-z])", "level": 1, "requires": []}
+  ],
+  "tables": {
+    "steps": [
+      "validate_structure",
+      "merge_formatting_chars",
+      "remove_empty_rows",
+      "remove_empty_columns",
+      "remove_subset_rows_bottom_to_top",
+      "remove_subset_rows_top_to_bottom",
+      "remove_subset_columns_left_to_right",
+      "remove_subset_columns_right_to_left"
+    ],
+    "protect_years": true,
+    "formatting_max_gap": 8
+  }
+}

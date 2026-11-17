@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/accenture-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "32\n\n* **Operating margin of 14.7%,** a decrease from 14.8% in fiscal 2024; adjusted operating margin of 15.6%, an increase compared to 15.5% in fiscal 2024;\n\n• **Diluted earnings per share of $12.15,** a 6% increase over diluted earnings per share of $11.44 in fiscal 2024; adjusted earnings per share of $12.93, an 8% increase over adjusted earnings per share of $11.95 in fiscal 2024; and\n\n• Cash returned to shareholders of $8.3 billion, including dividends of $3.7 billion and share purchases of $4.6 billion.\n\nRevenues\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\">(in billions of U.S. dollars)</th>\n      <th rowspan=\"2\"></th>\n      <th colspan=\"2\">Fiscal</th>\n      <th colspan=\"2\">Percent Increase (Decrease)</th>\n      <th colspan=\"2\">Percent of Total Revenues for Fiscal</th>\n    </tr>\n    <tr>\n      <th>2025</th>\n      <th>2024</th>\n      <th>U.S. Dollars</th>\n      <th>Local Currency</th>\n      <th>2025</th>\n      <th>2024</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td rowspan=4>Geographic Markets</td>\n      <td>Americas (1)</td>\n      <td>$ 35.1</td>\n      <td>$ 32.6</td>\n      <td>8 %</td>\n      <td>9 %</td>\n      <td>50 %</td>\n      <td>50 %</td>\n    </tr>\n    <tr>\n      <td>EMEA</td>\n      <td>24.6</td>\n      <td>22.8</td>\n      <td>8</td>\n      <td>6</td>\n      <td>35</td>\n      <td>35</td>\n    </tr>\n    <tr>\n      <td>Asia Pacific (1)</td>\n      <td>10.0</td>\n      <td>9.5</td>\n      <td>5</td>\n      <td>4</td>\n      <td>14</td>\n      <td>15</td>\n    </tr>\n    <tr>\n      <td>Total Revenues</td>\n      <td>$ 69.7</td>\n      <td>$ 64.9</td>\n      <td>7 %</td>\n      <td>7 %</td>\n      <td>100 %</td>\n      <td>100 %</td>\n    </tr>\n    <tr>\n      <td rowspan=6>Industry Groups</td>\n      <td>Communications, Media & Technology</td>\n      <td>$ 11.5</td>\n      <td>$ 10.8</td>\n      <td>6 %</td>\n      <td>6 %</td>\n      <td>16 %</td>\n      <td>17 %</td>\n    </tr>\n    <tr>\n      <td>Financial Services</td>\n      <td>12.8</td>\n      <td>11.6</td>\n      <td>10</td>\n      <td>10</td>\n      <td>18</td>\n      <td>18</td>\n    </tr>\n    <tr>\n      <td>Health & Public Service</td>\n      <td>14.8</td>\n      <td>13.8</td>\n      <td>7</td>\n      <td>6</td>\n      <td>21</td>\n      <td>21</td>\n    </tr>\n    <tr>\n      <td>Products</td>\n      <td>21.2</td>\n      <td>19.6</td>\n      <td>8</td>\n      <td>8</td>\n      <td>30</td>\n      <td>30</td>\n    </tr>\n    <tr>\n      <td>Resources</td>\n      <td>9.5</td>\n      <td>9.1</td>\n      <td>5</td>\n      <td>5</td>\n      <td>14</td>\n      <td>14</td>\n    </tr>\n    <tr>\n      <td>Total Revenues</td>\n      <td>$ 69.7</td>\n      <td>$ 64.9</td>\n      <td>7 %</td>\n      <td>7 %</td>\n      <td>100 %</td>\n      <td>100 %</td>\n    </tr>\n    <tr>\n      <td rowspan=3>Type of Work</td>\n      <td>Consulting</td>\n      <td>$ 35.1</td>\n      <td>$ 33.2</td>\n      <td>6 %</td>\n      <td>5 %</td>\n      <td>50 %</td>\n      <td>51 %</td>\n    </tr>\n    <tr>\n      <td>Managed Services</td>\n      <td>34.6</td>\n      <td>31.7</td>\n      <td>9</td>\n      <td>9</td>\n      <td>50</td>\n      <td>49</td>\n    </tr>\n    <tr>\n      <td>Total Revenues</td>\n      <td>$ 69.7</td>\n      <td>$ 64.9</td>\n      <td>7 %</td>\n      <td>7 %</td>\n      <td>100 %</td>\n      <td>100 %</td>\n    </tr>\n  </tbody>\n</table>\n\nAmounts in table may not total due to rounding.\n\n(1) During the first quarter of fiscal 2025, our Latin America market unit moved from Growth Markets to North America. With this change, North America became the Americas market and Growth Markets became the Asia Pacific market. Prior period amounts have been reclassified to conform with the current period presentation.\n\nRevenues for fiscal 2025 increased 7% in both U.S. dollars and local currency compared to fiscal 2024. During fiscal 2025, revenue growth in local currency was very strong in the Americas, strong in EMEA and solid in Asia Pacific. We experienced local currency revenue growth that was very strong in Financial Services & Products, strong in Health & Public Service and Communications, Media & Technology and solid in Resources. Revenue growth in local currency was very strong in managed services and solid in consulting. While the business environment remained competitive, pricing improved in several areas of our business. We define pricing as the contract profitability or margin on the work that we sell.\n\nIn our consulting business, revenues for fiscal 2025 increased 6% in U.S. dollars and 5% in local currency compared to fiscal 2024. Consulting revenue growth in local currency for fiscal 2025 was driven by strong growth in the Americas, solid growth in EMEA and modest growth in Asia Pacific. Our consulting revenue continues to be driven by helping our clients accelerate their reinvention, leveraging cloud, enterprise platforms, security, AI and data, including advanced AI, as well as our change capabilities to help clients build new skills and drive the successful adoption of new processes and technologies. In addition, clients continue to be focused on initiatives designed to deliver cost savings, supply chain and operational resilience, as well as to accelerate growth and improve customer experiences. While we continue to experience demand for these services, we are seeing a slower pace and level of client spending, particularly for smaller contracts with a shorter duration.\n\nIn our managed services business, revenues for fiscal 2025 increased 9% in both U.S. dollars and local currency compared to fiscal 2024. Managed services revenue growth in local currency for fiscal 2025 was driven by very strong growth in the Americas and strong growth in EMEA and Asia Pacific. We continue to experience growing demand to assist clients with reinvented operations, application development and maintenance, and infrastructure management including cloud and security. Clients continue to be focused on transforming their operations through technology, AI and data, and leveraging our proprietary assets and platforms and talent to drive productivity and cost savings.\n\nAs we are a global company, our revenues are denominated in multiple currencies and may be significantly affected by currency exchange rate fluctuations. While a significant portion of our revenues are in U.S. dollars, the majority of our revenues are denominated in other currencies, including the Euro, Japanese yen and U.K. pound. There continues to be volatility in foreign currency exchange rates. Unfavorable fluctuations in foreign currency exchange rates have had and could in the future have a material effect on our financial results. If the U.S. dollar weakens against other currencies, resulting in favorable currency translation, our revenues, revenue growth and results of operations in U.S. dollars may be higher. If the",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "accenture.pdf",
+    "source_sha256": "ad5b218f6ddaab7df740a392daf53c4585731106a9ec2b39d1579ef0625850b9",
+    "annotated_at": "2026-08-14T05:52:29.981Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/accenture-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737325000217/acn-20250831.htm",
+      "accession": "0001467373-25-000217",
+      "provider": "datamulehub",
+      "sha256": "b054530c913ff566a80a27e356bf2eb1081dcd3c092289b34ace51d2526b3a01",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 46,
+            "byte_start": 562036,
+            "byte_end_exclusive": 611393
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ad5b218f6ddaab7df740a392daf53c4585731106a9ec2b39d1579ef0625850b9",
+    "input_sha256": "254d54e3a4293b5e1583f3b31c3e2c0bd651cfe65b0dba2afcccae6fd5024e62"
+  },
+  "tags": []
+}

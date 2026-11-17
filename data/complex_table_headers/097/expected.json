@@ -1,0 +1,116 @@
+{
+  "id": "complex_table_headers/complex_header_097",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n        <th> </th>\n        <th colspan=\"3\">For the Years Ended December 31,</th>\n        <th colspan=\"2\">Change</th>\n    </tr>\n    <tr>\n        <th>(in millions, except percentages)</th>\n        <th>2024</th>\n        <th>2023</th>\n        <th>2022</th>\n        <th colspan=\"2\">2024 vs. 2023</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n        <th colspan=\"6\">Revenues</th>\n    </tr>\n    <tr>\n        <td>UnitedHealthcare</td>\n        <td>$ 298,208</td>\n        <td>$ 281,360</td>\n        <td>$ 249,741</td>\n        <td>$ 16,848</td>\n        <td>6%</td>\n    </tr>\n    <tr>\n        <td>Optum Health</td>\n        <td>105,358</td>\n        <td>95,319</td>\n        <td>71,174</td>\n        <td>10,039</td>\n        <td>11</td>\n    </tr>\n    <tr>\n        <td>Optum Insight</td>\n        <td>18,757</td>\n        <td>18,932</td>\n        <td>14,581</td>\n        <td>(175)</td>\n        <td>(1)</td>\n    </tr>\n    <tr>\n        <td>Optum Rx</td>\n        <td>133,231</td>\n        <td>116,087</td>\n        <td>99,773</td>\n        <td>17,144</td>\n        <td>15</td>\n    </tr>\n    <tr>\n        <td>Optum eliminations</td>\n        <td>(4,389)</td>\n        <td>(3,703)</td>\n        <td>(2,760)</td>\n        <td>(686)</td>\n        <td>19</td>\n    </tr>\n    <tr>\n        <td>Optum</td>\n        <td>252,957</td>\n        <td>226,635</td>\n        <td>182,768</td>\n        <td>26,322</td>\n        <td>12</td>\n    </tr>\n    <tr>\n        <td>Eliminations</td>\n        <td>(150,887)</td>\n        <td>(136,373)</td>\n        <td>(108,347)</td>\n        <td>(14,514)</td>\n        <td>11</td>\n    </tr>\n    <tr>\n        <td>Consolidated revenues</td>\n        <td>$ 400,278</td>\n        <td>$ 371,622</td>\n        <td>$ 324,162</td>\n        <td>$ 28,656</td>\n        <td>8%</td>\n    </tr>\n    <tr>\n        <th colspan=\"6\">Earnings from operations</th>\n    </tr>\n    <tr>\n        <td>UnitedHealthcare</td>\n        <td>$ 15,584</td>\n        <td>$ 16,415</td>\n        <td>$ 14,379</td>\n        <td>$ (831)</td>\n        <td>(5)%</td>\n    </tr>\n    <tr>\n        <td>Optum Health</td>\n        <td>7,770</td>\n        <td>6,560</td>\n        <td>6,032</td>\n        <td>1,210</td>\n        <td>18</td>\n    </tr>\n    <tr>\n        <td>Optum Insight</td>\n        <td>3,097</td>\n        <td>4,268</td>\n        <td>3,588</td>\n        <td>(1,171)</td>\n        <td>(27)</td>\n    </tr>\n    <tr>\n        <td>Optum Rx</td>\n        <td>5,836</td>\n        <td>5,115</td>\n        <td>4,436</td>\n        <td>721</td>\n        <td>14</td>\n    </tr>\n    <tr>\n        <td>Optum</td>\n        <td>16,703</td>\n        <td>15,943</td>\n        <td>14,056</td>\n        <td>760</td>\n        <td>5</td>\n    </tr>\n    <tr>\n        <td>Consolidated earnings from operations</td>\n        <td>$ 32,287</td>\n        <td>$ 32,358</td>\n        <td>$ 28,435</td>\n        <td>$ (71)</td>\n        <td>— %</td>\n    </tr>\n    <tr>\n        <th colspan=\"6\">Operating margin</th>\n    </tr>\n    <tr>\n        <td>UnitedHealthcare</td>\n        <td>5.2 %</td>\n        <td>5.8 %</td>\n        <td>5.8 %</td>\n        <td>(0.6)%</td>\n        <td> </td>\n    </tr>\n    <tr>\n        <td>Optum Health</td>\n        <td>7.4</td>\n        <td>6.9</td>\n        <td>8.5</td>\n        <td>0.5</td>\n        <td> </td>\n    </tr>\n    <tr>\n        <td>Optum Insight</td>\n        <td>16.5</td>\n        <td>22.5</td>\n        <td>24.6</td>\n        <td>(6.0)</td>\n        <td> </td>\n    </tr>\n    <tr>\n        <td>Optum Rx</td>\n        <td>4.4</td>\n        <td>4.4</td>\n        <td>4.4</td>\n        <td>—</td>\n        <td> </td>\n    </tr>\n    <tr>\n        <td>Optum</td>\n        <td>6.6</td>\n        <td>7.0</td>\n        <td>7.7</td>\n        <td>(0.4)</td>\n        <td> </td>\n    </tr>\n    <tr>\n        <td>Consolidated operating margin</td>\n        <td>8.1 %</td>\n        <td>8.7 %</td>\n        <td>8.8 %</td>\n        <td>(0.6)%</td>\n        <td> </td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [
+    {
+      "id": "complex_header_colspan_5b534ef3d4de",
+      "page": 1,
+      "type": "table_colspan",
+      "cell": "for the years ended december 31,",
+      "expected_colspan": 3,
+      "table_anchor_cells": [
+        "consolidated earnings from operations",
+        "(in millions, except percentages)",
+        "for the years ended december 31,"
+      ],
+      "pdf": "complex_header_097.pdf"
+    },
+    {
+      "id": "complex_header_colspan_77f92d03c456",
+      "page": 1,
+      "type": "table_colspan",
+      "cell": "change",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "consolidated earnings from operations",
+        "(in millions, except percentages)",
+        "for the years ended december 31,"
+      ],
+      "pdf": "complex_header_097.pdf"
+    },
+    {
+      "id": "complex_header_colspan_62a68929c16e",
+      "page": 1,
+      "type": "table_colspan",
+      "cell": "2024 vs. 2023",
+      "expected_colspan": 2,
+      "table_anchor_cells": [
+        "consolidated earnings from operations",
+        "(in millions, except percentages)",
+        "for the years ended december 31,"
+      ],
+      "pdf": "complex_header_097.pdf"
+    },
+    {
+      "page": 1,
+      "type": "table_header_chain",
+      "table_anchor_cells": [
+        "consolidated earnings from operations",
+        "(in millions, except percentages)",
+        "for the years ended december 31,"
+      ],
+      "pdf": "complex_header_097.pdf",
+      "data_cell": "$ 298,208",
+      "column_headers": [
+        "for the years ended december 31,",
+        "2024",
+        "revenues"
+      ],
+      "id": "header_v06_99b7e6ea51836355"
+    },
+    {
+      "page": 1,
+      "type": "table_header_chain",
+      "table_anchor_cells": [
+        "consolidated earnings from operations",
+        "(in millions, except percentages)",
+        "for the years ended december 31,"
+      ],
+      "pdf": "complex_header_097.pdf",
+      "data_cell": "$ 281,360",
+      "column_headers": [
+        "for the years ended december 31,",
+        "2023",
+        "revenues"
+      ],
+      "id": "header_v06_d66b5c9b05709b24"
+    },
+    {
+      "page": 1,
+      "type": "table_header_chain",
+      "table_anchor_cells": [
+        "consolidated earnings from operations",
+        "(in millions, except percentages)",
+        "for the years ended december 31,"
+      ],
+      "pdf": "complex_header_097.pdf",
+      "data_cell": "$ 249,741",
+      "column_headers": [
+        "for the years ended december 31,",
+        "2022",
+        "revenues"
+      ],
+      "id": "header_v06_fdf51d9b04d0b98e"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/complex_table_headers.jsonl",
+    "parsebench_document": "complex_table_headers/complex_header_097.pdf",
+    "sec_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000063/unh-20241231.htm",
+    "accession": "0000731766-25-000063",
+    "provider": "datamulehub",
+    "source_sha256": "9b4b75304ae41022031ea7f7eb17442ec6d62ff605a0caf5314b29090dd7ae2c",
+    "input_sha256": "981843ea87886971b63684a7ced5aa7f85f0be2f0de1a0e78dbc2c4889d2c4b0",
+    "extraction": {
+      "unit": "table",
+      "table_index_0based": 12,
+      "byte_start": 644830,
+      "byte_end_exclusive": 701462
+    },
+    "primary_metric": "table_next",
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "fe1ffe43656621e587807532e5f8414fdfdaa2b05e988e052e65a098c6854aba"
+  }
+}

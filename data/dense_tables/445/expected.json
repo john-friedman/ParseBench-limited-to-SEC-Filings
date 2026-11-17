@@ -1,0 +1,386 @@
+{
+  "id": "dense_tables/dense_table_445",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n<thead>\n<tr><th>In millions</th><th>2025</th><th>2024</th><th>2023</th></tr>\n</thead>\n<tbody>\n<tr><td>U.S.</td><td>$ 10,825</td><td>$ 10,631</td><td>$ 10,568</td></tr>\n<tr><td>International Operated Markets</td><td>13,633</td><td>12,628</td><td>12,382</td></tr>\n<tr><td>International Developmental Licensed Markets &amp; Corporate</td><td>2,427</td><td>2,661</td><td>2,543</td></tr>\n<tr><td>Total Revenues</td><td>$ 26,885</td><td>$ 25,920</td><td>$ 25,494</td></tr>\n<tr><td>U.S.</td><td>$ 1,293</td><td>$ 1,294</td><td>$ 1,286</td></tr>\n<tr><td>International Operated Markets</td><td>1,324</td><td>1,231</td><td>1,170</td></tr>\n<tr><td>International Developmental Licensed Markets &amp; Corporate</td><td>1</td><td>11</td><td>19</td></tr>\n<tr><td>Total Franchised restaurants-occupancy expenses</td><td>$ 2,618</td><td>$ 2,536</td><td>$ 2,475</td></tr>\n<tr><td>U.S.</td><td>$ 2,755</td><td>$ 2,780</td><td>$ 2,732</td></tr>\n<tr><td>International Operated Markets</td><td>5,101</td><td>4,765</td><td>4,707</td></tr>\n<tr><td>International Developmental Licensed Markets &amp; Corporate</td><td>413</td><td>790</td><td>785</td></tr>\n<tr><td>Total Company-operated restaurant expenses</td><td>$ 8,268</td><td>$ 8,334</td><td>$ 8,224</td></tr>\n<tr><td>U.S.</td><td>$ 653</td><td>$ 654</td><td>$ 661</td></tr>\n<tr><td>International Operated Markets</td><td>705</td><td>631</td><td>635</td></tr>\n<tr><td>International Developmental Licensed Markets &amp; Corporate</td><td>1,682</td><td>1,573</td><td>1,521</td></tr>\n<tr><td>Total Selling, general &amp; administrative expenses</td><td>$ 3,039</td><td>$ 2,858</td><td>$ 2,817</td></tr>\n<tr><td>U.S.</td><td>$ 316</td><td>$ 170</td><td>$ 195</td></tr>\n<tr><td>International Operated Markets</td><td>122</td><td>55</td><td>39</td></tr>\n<tr><td>International Developmental Licensed Markets &amp; Corporate</td><td>128</td><td>254</td><td>97</td></tr>\n<tr><td>Total Other segment items*</td><td>$ 566</td><td>$ 480</td><td>$ 331</td></tr>\n<tr><td>U.S.</td><td>$ 5,808</td><td>$ 5,733</td><td>$ 5,694</td></tr>\n<tr><td>International Operated Markets</td><td>6,382</td><td>5,946</td><td>5,831</td></tr>\n<tr><td>International Developmental Licensed Markets &amp; Corporate</td><td>203</td><td>33</td><td>121</td></tr>\n<tr><td>Total Operating income</td><td>$ 12,393</td><td>$ 11,712</td><td>$ 11,647</td></tr>\n<tr><td>U.S.</td><td>$ 23,008</td><td>$ 22,547</td><td>$ 22,477</td></tr>\n<tr><td>International Operated Markets</td><td>27,487</td><td>23,491</td><td>23,947</td></tr>\n<tr><td>International Developmental Licensed Markets &amp; Corporate</td><td>9,020</td><td>9,143</td><td>9,723</td></tr>\n<tr><td>Total Assets</td><td>$ 59,515</td><td>$ 55,182</td><td>$ 56,147</td></tr>\n<tr><td>U.S.</td><td>$ 1,277</td><td>$ 1,055</td><td>$ 963</td></tr>\n<tr><td>International Operated Markets</td><td>2,048</td><td>1,661</td><td>1,340</td></tr>\n<tr><td>International Developmental Licensed Markets &amp; Corporate</td><td>40</td><td>58</td><td>54</td></tr>\n<tr><td>Total Capital expenditures</td><td>$ 3,365</td><td>$ 2,775</td><td>$ 2,357</td></tr>\n<tr><td>U.S.</td><td>$ 995</td><td>$ 980</td><td>$ 969</td></tr>\n<tr><td>International Operated Markets</td><td>789</td><td>730</td><td>679</td></tr>\n<tr><td>International Developmental Licensed Markets &amp; Corporate</td><td>415</td><td>387</td><td>330</td></tr>\n<tr><td>Total Depreciation &amp; amortization**</td><td>$ 2,199</td><td>$ 2,097</td><td>$ 1,978</td></tr>\n</tbody>\n</table>\n\n*Other segment items is the difference between revenues less the significant expenses disclosed and operating income. This includes other restaurant expenses and other operating expenses detailed in the Other operating (income) expense, net footnote on page 55 of this Form 10-K.\n\n**Total depreciation & amortization is included within the respective expense lines disclosed above, such as Company-operated restaurant expenses, Franchised restaurants-occupancy expenses, and Selling, general & administrative expenses.\n\nTotal long-lived assets, primarily property and equipment and lease right-of-use asset, were (in billions)–Consolidated: 2025–$44.0; 2024–$39.6; U.S. based: 2025–$20.8; 2024–$20.2.\n\n52 **McDonald's Corporation** 2025 Annual Report",
+  "test_rules": [
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 10,825",
+      "column_headers": [
+        "2025"
+      ],
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_76b236f2c438b3ca"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 10,631",
+      "column_headers": [
+        "2024"
+      ],
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_7752733a931a2f1e"
+    },
+    {
+      "type": "table_header_chain",
+      "data_cell": "$ 10,568",
+      "column_headers": [
+        "2023"
+      ],
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_9bd4df4e58d27a47"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "$ 10,825",
+      "expected_neighbor": "$ 10,631",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_63dd6ebfd95be376"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "$ 10,568",
+      "expected_neighbor": "12,382",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_d67ad512dafd4776"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "$ 2,755",
+      "expected_neighbor": "$ 2,780",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_5d4f295334e4fb05"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "$ 2,732",
+      "expected_neighbor": "4,707",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_a60d36e5a6cf6e9e"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "122",
+      "expected_neighbor": "55",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_ee06529a85dc84b1"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "39",
+      "expected_neighbor": "97",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_187fb08565ba8393"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "9,020",
+      "expected_neighbor": "9,143",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_c8cd32b1e810a22b"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "9,723",
+      "expected_neighbor": "$ 56,147",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_4467ecc404ca2988"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "total depreciation & amortization",
+      "expected_neighbor": "$ 2,199",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_1b6a5df59f78134b"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "$ 2,199",
+      "expected_neighbor": "$ 2,097",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_e904ff827a75572e"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "total depreciation & amortization",
+      "cell_b": "$ 1,978",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_bacfad67b1a5283f"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "in millions",
+      "cell_b": "total depreciation & amortization",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_2e926564d3fb6dbd"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "2025",
+      "cell_b": "$ 2,199",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_0960297c3f0888cc"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "2023",
+      "cell_b": "$ 1,978",
+      "table_anchor_cells": [
+        "in millions",
+        "2025",
+        "2024",
+        "2023",
+        "total selling, general & administrative expenses"
+      ],
+      "page": 1,
+      "pdf": "dense_table_445.pdf",
+      "verified": false,
+      "id": "dense_v01_f711be417b352817"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_445",
+    "gt_status": "reannotated_confirmed",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_445.md",
+    "source_pdf": "/Volumes/T7/bigBagOfPdf11/MCD 2025 Annual Report.pdf",
+    "source_page": 60,
+    "source_n_pages": 86,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 287.0,
+      "rows": 41,
+      "cols": 7,
+      "cells": 341,
+      "fill": 1.0,
+      "numeric_ratio": 0.0,
+      "n_items": 269,
+      "tabular_line_ratio": 0.911,
+      "n_blocks": 1
+    },
+    "shape_class": "narrow/text/portrait",
+    "verify": {
+      "median_cell_len": 2,
+      "words_per_cell": 1.06,
+      "aligned_ratio": 0.956,
+      "row_coverage": 0.911,
+      "text_sha1": "8e19d2cbf95bc54b76264dffecc1ff2b6a18d170"
+    },
+    "header_preview": "\"?\u0001>:==:@?D | \b | \u0010\u000e\u0010\u0012 | \u0010\u000e\u0010\u0011",
+    "draft_check": {
+      "text_layer_numbers": 14,
+      "numeric_coverage": 0.286
+    },
+    "review": {
+      "date": "2026-09-15",
+      "by": "claude-visual-review",
+      "note": "Only $-spacing differences across tiers; accepted."
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_reviewed_text_layer_mismatch",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 1.0,
+        "blind_rows": 10,
+        "text_layer_token_precision": 0.0026,
+        "text_layer_token_recall": 0.0031,
+        "agreement_with_previous_reference_table_next": 1.0
+      },
+      "review": null,
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_445.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm",
+      "accession": "0000063908-26-000035",
+      "provider": "datamulehub",
+      "sha256": "4cee1e7be769f7305f0071ae3db216709f7bf77ab6a6ff6888e49a53b6b0f5b4",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 53,
+            "byte_start": 1429106,
+            "byte_end_exclusive": 1512265
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ce36a5e4bd04ece07a2ab2a17944405861399c176c2f3e5f72b891eebd1fbae0",
+    "input_sha256": "0994846140da7f308fc1c778ddc2c74e9ce878f13d0546ca301ded392e6f55b6"
+  },
+  "tags": [
+    "dense_table",
+    "narrow_columns",
+    "text_content",
+    "portrait",
+    "gt_draft",
+    "draft_text_layer_mismatch",
+    "gt_reviewed"
+  ]
+}

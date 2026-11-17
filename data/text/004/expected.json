@@ -1,0 +1,2648 @@
+{
+  "id": "text/text_simple__10victoria",
+  "subset": "text",
+  "dimension": "text",
+  "document": "sec_input.html",
+  "expected_markdown": "<page_header>\n[Table of Contents](TableofContents)\n</page_header>\n\n# PART I\n\n## ITEM 1. BUSINESS.\n\n### General\nVictoria's Secret & Co. (together with its subsidiaries unless the context otherwise requires, “we”, “us”, “our” or the “Company”) is a specialty retailer of women's intimate and other apparel and beauty products marketed under the Victoria's Secret, PINK and Adore Me brand names. We have more than 880 stores in the United States (“U.S.”), Canada and China, as well as our own websites, www.VictoriasSecret.com, www.PINK.com, www.AdoreMe.com and www.DailyLook.com, and other digital channels worldwide. Additionally, we have more than 500 stores in nearly 70 countries operating under franchise, license and wholesale arrangements. The Company also includes the merchandise sourcing and production function serving us and our international partners. We operate as a single segment designed to seamlessly serve customers worldwide through stores and digital channels.\n\nOn December 30, 2022, we completed our acquisition of AdoreMe, Inc. (“Adore Me”), a digitally-native intimates brand. For additional information, see Note 2 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data.\n\n### Our Brands\nOur business operates two market-leading intimate apparel brands, Victoria’s Secret and PINK, each complemented by an industry-leading beauty business. Adore Me, our technology-led, digital first intimates brand serves women of all sizes, budgets and lifestyles. Our brands share a common purpose of supporting women in all they do. We offer a range of products including signature bras, panties, lingerie, casual sleepwear, apparel, sport and swim, as well as prestige fragrances and body care.\n\n***Victoria’s Secret***\nThe Victoria’s Secret brand is a global leader in intimate apparel, renowned for its innovative, fashion-inspired collections including signature bras, panties, lingerie, casual sleepwear, swim, lounge and sport, as well as award-winning prestige fragrances and body care. Victoria’s Secret is a timeless staple for sexy, glamorous and affordable luxury for women around the world.\n\n***PINK***\nPINK is a lifestyle brand for young women providing fun, vibrant collections and heritage pieces, including apparel, loungewear, activewear, bras, panties, accessories, beauty and more. PINK's vibrant colors, playful designs and enduring commitment to community help customers feel supported, confident and stylish every day.\n\n***Adore Me***\nAdore Me is a direct-to-consumer lingerie and apparel brand that is focused on serving women of all sizes and budgets at all phases of life. Adore Me is transforming the way customers shop with a home try-on commerce service, a series of innovation-driven products and a mission of making sustainable shopping accessible to all.\n\n### Joint Venture Partnership\n***Victoria's Secret China***\nIn April 2022, we entered into a joint venture agreement with Regina Miracle International (Holdings) Limited (“Regina Miracle”), a company listed on the Hong Kong Stock Exchange, to operate Victoria's Secret stores and the related online business in China. Under the terms of the agreement, we own 51% of the joint venture and Regina Miracle owns the remaining 49%. Since we have retained control over the joint venture, the joint venture's assets, liabilities and results of operations continue to be consolidated in our consolidated financial statements. For additional information, see Note 5 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data.\n\n### Fiscal Year\nOur fiscal year ends on the Saturday nearest to January 31. As used herein, “2024” and “2022” refer to the fifty-two-week periods ended February 1, 2025 and January 28, 2023, respectively, and “2023” refers to the fifty-three-week period ended February 3, 2024.\n\nHistorically, Adore Me's fiscal year ended on December 31. As a result of our acquisition of Adore Me on December 30, 2022, Adore Me's financial information is included in our consolidated financial statements. Due to the timing and availability of financial information of Adore Me, we consolidate Adore Me's financial information on an approximate one-month reporting lag.\n\n<page_footer>\n1\n</page_footer>",
+  "test_rules": [
+    {
+      "type": "missing_sentence_percent",
+      "bag_of_sentence": {
+        "Table of Contents": 1,
+        "PART I ITEM 1. BUSINESS": 1,
+        "General": 1,
+        "Victoria's Secret & Co": 1,
+        "together with its subsidiaries unless the context otherwise requires, \"we\", \"us\", \"our\" or the \"Company\") is a specialty retailer of women's intimate and other apparel and beauty products marketed under the Victoria's Secret, PINK and Adore Me brand names": 1,
+        "We have more than 880 stores in the United States (\"U": 1,
+        "S \"), Canada and China, as well as our own websites, www": 1,
+        "VictoriasSecret": 1,
+        "com, www": 1,
+        "PINK com, www": 1,
+        "AdoreMe": 1,
+        "com and www": 1,
+        "DailyLook": 1,
+        "com, and other digital channels worldwide": 1,
+        "Additionally, we have more than 500 stores in nearly 70 countries operating under franchise, license and wholesale arrangements": 1,
+        "The Company also includes the merchandise sourcing and production function serving us and our international partners": 1,
+        "We operate as a single segment designed to seamlessly serve customers worldwide through stores and digital channels": 1,
+        "On December 30, 2022, we completed our acquisition of AdoreMe, Inc": 1,
+        "Adore Me\"), a digitally-native intimates brand": 1,
+        "For additional information, see Note 2 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data": 1,
+        "Our Brands": 1,
+        "Our business operates two market-leading intimate apparel brands, Victoria's Secret and PINK, each complemented by an industry-leading beauty business": 1,
+        "Adore Me, our technology-led, digital first intimates brand serves women of all sizes, budgets and lifestyles": 1,
+        "Our brands share a common purpose of supporting women in all they do": 1,
+        "We offer a range of products including signature bras, panties, lingerie, casual sleepwear, apparel, sport and swim, as well as prestige fragrances and body care": 1,
+        "Victoria's Secret": 1,
+        "The Victoria's Secret brand is a global leader in intimate apparel, renowned for its innovative, fashion-inspired collections including signature bras, panties, lingerie, casual sleepwear, swim, lounge and sport, as well as award-winning prestige fragrances and body care": 1,
+        "Victoria's Secret is a timeless staple for sexy, glamorous and affordable luxury for women around the world": 1,
+        "PINK PINK is a lifestyle brand for young women providing fun, vibrant collections and heritage pieces, including apparel, loungewear, activewear, bras, panties, accessories, beauty and more": 1,
+        "PINK's vibrant colors, playful designs and enduring commitment to community help customers feel supported, confident and stylish every day": 1,
+        "Adore Me": 1,
+        "Adore Me is a direct-to-consumer lingerie and apparel brand that is focused on serving women of all sizes and budgets at all phases of life": 1,
+        "Adore Me is transforming the way customers shop with a home try-on commerce service, a series of innovation-driven products and a mission of making sustainable shopping accessible to all": 1,
+        "Joint Venture Partnership": 1,
+        "Victoria's Secret China": 1,
+        "In April 2022, we entered into a joint venture agreement with Regina Miracle International (Holdings) Limited (\"Regina Miracle\"), a company listed on the Hong Kong Stock Exchange, to operate Victoria's Secret stores and the related online business in China": 1,
+        "Under the terms of the agreement, we own 51% of the joint venture and Regina Miracle owns the remaining 49": 1,
+        "Since we have retained control over the joint venture, the joint venture's assets, liabilities and results of operations continue to be consolidated in our consolidated financial statements": 1,
+        "For additional information, see Note 5 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data": 1,
+        "Fiscal Year": 1,
+        "Our fiscal year ends on the Saturday nearest to January 31. As used herein, \"2024\" and \"2022\" refer to the fifty-two-week periods ended February 1, 2025 and January 28, 2023, respectively, and \"2023\" refers to the fifty-three-week period ended February 3, 2024": 1,
+        "Historically, Adore Me's fiscal year ended on December 31. As a result of our acquisition of Adore Me on December 30, 2022, Adore Me's financial information is included in our consolidated financial statements": 1,
+        "Due to the timing and availability of financial information of Adore Me, we consolidate Adore Me's financial information on an approximate one-month reporting lag 1": 1
+      }
+    },
+    {
+      "type": "unexpected_sentence_percent",
+      "bag_of_sentence": {
+        "Table of Contents": 1,
+        "PART I ITEM 1. BUSINESS": 1,
+        "General": 1,
+        "Victoria's Secret & Co": 1,
+        "together with its subsidiaries unless the context otherwise requires, \"we\", \"us\", \"our\" or the \"Company\") is a specialty retailer of women's intimate and other apparel and beauty products marketed under the Victoria's Secret, PINK and Adore Me brand names": 1,
+        "We have more than 880 stores in the United States (\"U": 1,
+        "S \"), Canada and China, as well as our own websites, www": 1,
+        "VictoriasSecret": 1,
+        "com, www": 1,
+        "PINK com, www": 1,
+        "AdoreMe": 1,
+        "com and www": 1,
+        "DailyLook": 1,
+        "com, and other digital channels worldwide": 1,
+        "Additionally, we have more than 500 stores in nearly 70 countries operating under franchise, license and wholesale arrangements": 1,
+        "The Company also includes the merchandise sourcing and production function serving us and our international partners": 1,
+        "We operate as a single segment designed to seamlessly serve customers worldwide through stores and digital channels": 1,
+        "On December 30, 2022, we completed our acquisition of AdoreMe, Inc": 1,
+        "Adore Me\"), a digitally-native intimates brand": 1,
+        "For additional information, see Note 2 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data": 1,
+        "Our Brands": 1,
+        "Our business operates two market-leading intimate apparel brands, Victoria's Secret and PINK, each complemented by an industry-leading beauty business": 1,
+        "Adore Me, our technology-led, digital first intimates brand serves women of all sizes, budgets and lifestyles": 1,
+        "Our brands share a common purpose of supporting women in all they do": 1,
+        "We offer a range of products including signature bras, panties, lingerie, casual sleepwear, apparel, sport and swim, as well as prestige fragrances and body care": 1,
+        "Victoria's Secret": 1,
+        "The Victoria's Secret brand is a global leader in intimate apparel, renowned for its innovative, fashion-inspired collections including signature bras, panties, lingerie, casual sleepwear, swim, lounge and sport, as well as award-winning prestige fragrances and body care": 1,
+        "Victoria's Secret is a timeless staple for sexy, glamorous and affordable luxury for women around the world": 1,
+        "PINK PINK is a lifestyle brand for young women providing fun, vibrant collections and heritage pieces, including apparel, loungewear, activewear, bras, panties, accessories, beauty and more": 1,
+        "PINK's vibrant colors, playful designs and enduring commitment to community help customers feel supported, confident and stylish every day": 1,
+        "Adore Me": 1,
+        "Adore Me is a direct-to-consumer lingerie and apparel brand that is focused on serving women of all sizes and budgets at all phases of life": 1,
+        "Adore Me is transforming the way customers shop with a home try-on commerce service, a series of innovation-driven products and a mission of making sustainable shopping accessible to all": 1,
+        "Joint Venture Partnership": 1,
+        "Victoria's Secret China": 1,
+        "In April 2022, we entered into a joint venture agreement with Regina Miracle International (Holdings) Limited (\"Regina Miracle\"), a company listed on the Hong Kong Stock Exchange, to operate Victoria's Secret stores and the related online business in China": 1,
+        "Under the terms of the agreement, we own 51% of the joint venture and Regina Miracle owns the remaining 49": 1,
+        "Since we have retained control over the joint venture, the joint venture's assets, liabilities and results of operations continue to be consolidated in our consolidated financial statements": 1,
+        "For additional information, see Note 5 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data": 1,
+        "Fiscal Year": 1,
+        "Our fiscal year ends on the Saturday nearest to January 31. As used herein, \"2024\" and \"2022\" refer to the fifty-two-week periods ended February 1, 2025 and January 28, 2023, respectively, and \"2023\" refers to the fifty-three-week period ended February 3, 2024": 1,
+        "Historically, Adore Me's fiscal year ended on December 31. As a result of our acquisition of Adore Me on December 30, 2022, Adore Me's financial information is included in our consolidated financial statements": 1,
+        "Due to the timing and availability of financial information of Adore Me, we consolidate Adore Me's financial information on an approximate one-month reporting lag 1": 1
+      },
+      "original_md": "<page_header>\n[Table of Contents](TableofContents)\n</page_header>\n\n# PART I\n\n## ITEM 1. BUSINESS.\n\n### General\nVictoria's Secret & Co. (together with its subsidiaries unless the context otherwise requires, “we”, “us”, “our” or the “Company”) is a specialty retailer of women's intimate and other apparel and beauty products marketed under the Victoria's Secret, PINK and Adore Me brand names. We have more than 880 stores in the United States (“U.S.”), Canada and China, as well as our own websites, www.VictoriasSecret.com, www.PINK.com, www.AdoreMe.com and www.DailyLook.com, and other digital channels worldwide. Additionally, we have more than 500 stores in nearly 70 countries operating under franchise, license and wholesale arrangements. The Company also includes the merchandise sourcing and production function serving us and our international partners. We operate as a single segment designed to seamlessly serve customers worldwide through stores and digital channels.\n\nOn December 30, 2022, we completed our acquisition of AdoreMe, Inc. (“Adore Me”), a digitally-native intimates brand. For additional information, see Note 2 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data.\n\n### Our Brands\nOur business operates two market-leading intimate apparel brands, Victoria’s Secret and PINK, each complemented by an industry-leading beauty business. Adore Me, our technology-led, digital first intimates brand serves women of all sizes, budgets and lifestyles. Our brands share a common purpose of supporting women in all they do. We offer a range of products including signature bras, panties, lingerie, casual sleepwear, apparel, sport and swim, as well as prestige fragrances and body care.\n\n***Victoria’s Secret***\nThe Victoria’s Secret brand is a global leader in intimate apparel, renowned for its innovative, fashion-inspired collections including signature bras, panties, lingerie, casual sleepwear, swim, lounge and sport, as well as award-winning prestige fragrances and body care. Victoria’s Secret is a timeless staple for sexy, glamorous and affordable luxury for women around the world.\n\n***PINK***\nPINK is a lifestyle brand for young women providing fun, vibrant collections and heritage pieces, including apparel, loungewear, activewear, bras, panties, accessories, beauty and more. PINK's vibrant colors, playful designs and enduring commitment to community help customers feel supported, confident and stylish every day.\n\n***Adore Me***\nAdore Me is a direct-to-consumer lingerie and apparel brand that is focused on serving women of all sizes and budgets at all phases of life. Adore Me is transforming the way customers shop with a home try-on commerce service, a series of innovation-driven products and a mission of making sustainable shopping accessible to all.\n\n### Joint Venture Partnership\n***Victoria's Secret China***\nIn April 2022, we entered into a joint venture agreement with Regina Miracle International (Holdings) Limited (“Regina Miracle”), a company listed on the Hong Kong Stock Exchange, to operate Victoria's Secret stores and the related online business in China. Under the terms of the agreement, we own 51% of the joint venture and Regina Miracle owns the remaining 49%. Since we have retained control over the joint venture, the joint venture's assets, liabilities and results of operations continue to be consolidated in our consolidated financial statements. For additional information, see Note 5 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data.\n\n### Fiscal Year\nOur fiscal year ends on the Saturday nearest to January 31. As used herein, “2024” and “2022” refer to the fifty-two-week periods ended February 1, 2025 and January 28, 2023, respectively, and “2023” refers to the fifty-three-week period ended February 3, 2024.\n\nHistorically, Adore Me's fiscal year ended on December 31. As a result of our acquisition of Adore Me on December 30, 2022, Adore Me's financial information is included in our consolidated financial statements. Due to the timing and availability of financial information of Adore Me, we consolidate Adore Me's financial information on an approximate one-month reporting lag.\n\n<page_footer>\n1\n</page_footer>"
+    },
+    {
+      "type": "too_many_sentence_occurence_percent",
+      "bag_of_sentence": {
+        "Table of Contents": 1,
+        "PART I ITEM 1. BUSINESS": 1,
+        "General": 1,
+        "Victoria's Secret & Co": 1,
+        "together with its subsidiaries unless the context otherwise requires, \"we\", \"us\", \"our\" or the \"Company\") is a specialty retailer of women's intimate and other apparel and beauty products marketed under the Victoria's Secret, PINK and Adore Me brand names": 1,
+        "We have more than 880 stores in the United States (\"U": 1,
+        "S \"), Canada and China, as well as our own websites, www": 1,
+        "VictoriasSecret": 1,
+        "com, www": 1,
+        "PINK com, www": 1,
+        "AdoreMe": 1,
+        "com and www": 1,
+        "DailyLook": 1,
+        "com, and other digital channels worldwide": 1,
+        "Additionally, we have more than 500 stores in nearly 70 countries operating under franchise, license and wholesale arrangements": 1,
+        "The Company also includes the merchandise sourcing and production function serving us and our international partners": 1,
+        "We operate as a single segment designed to seamlessly serve customers worldwide through stores and digital channels": 1,
+        "On December 30, 2022, we completed our acquisition of AdoreMe, Inc": 1,
+        "Adore Me\"), a digitally-native intimates brand": 1,
+        "For additional information, see Note 2 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data": 1,
+        "Our Brands": 1,
+        "Our business operates two market-leading intimate apparel brands, Victoria's Secret and PINK, each complemented by an industry-leading beauty business": 1,
+        "Adore Me, our technology-led, digital first intimates brand serves women of all sizes, budgets and lifestyles": 1,
+        "Our brands share a common purpose of supporting women in all they do": 1,
+        "We offer a range of products including signature bras, panties, lingerie, casual sleepwear, apparel, sport and swim, as well as prestige fragrances and body care": 1,
+        "Victoria's Secret": 1,
+        "The Victoria's Secret brand is a global leader in intimate apparel, renowned for its innovative, fashion-inspired collections including signature bras, panties, lingerie, casual sleepwear, swim, lounge and sport, as well as award-winning prestige fragrances and body care": 1,
+        "Victoria's Secret is a timeless staple for sexy, glamorous and affordable luxury for women around the world": 1,
+        "PINK PINK is a lifestyle brand for young women providing fun, vibrant collections and heritage pieces, including apparel, loungewear, activewear, bras, panties, accessories, beauty and more": 1,
+        "PINK's vibrant colors, playful designs and enduring commitment to community help customers feel supported, confident and stylish every day": 1,
+        "Adore Me": 1,
+        "Adore Me is a direct-to-consumer lingerie and apparel brand that is focused on serving women of all sizes and budgets at all phases of life": 1,
+        "Adore Me is transforming the way customers shop with a home try-on commerce service, a series of innovation-driven products and a mission of making sustainable shopping accessible to all": 1,
+        "Joint Venture Partnership": 1,
+        "Victoria's Secret China": 1,
+        "In April 2022, we entered into a joint venture agreement with Regina Miracle International (Holdings) Limited (\"Regina Miracle\"), a company listed on the Hong Kong Stock Exchange, to operate Victoria's Secret stores and the related online business in China": 1,
+        "Under the terms of the agreement, we own 51% of the joint venture and Regina Miracle owns the remaining 49": 1,
+        "Since we have retained control over the joint venture, the joint venture's assets, liabilities and results of operations continue to be consolidated in our consolidated financial statements": 1,
+        "For additional information, see Note 5 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data": 1,
+        "Fiscal Year": 1,
+        "Our fiscal year ends on the Saturday nearest to January 31. As used herein, \"2024\" and \"2022\" refer to the fifty-two-week periods ended February 1, 2025 and January 28, 2023, respectively, and \"2023\" refers to the fifty-three-week period ended February 3, 2024": 1,
+        "Historically, Adore Me's fiscal year ended on December 31. As a result of our acquisition of Adore Me on December 30, 2022, Adore Me's financial information is included in our consolidated financial statements": 1,
+        "Due to the timing and availability of financial information of Adore Me, we consolidate Adore Me's financial information on an approximate one-month reporting lag 1": 1
+      }
+    },
+    {
+      "type": "unexpected_word_percent",
+      "bag_of_word": {
+        "28": 1,
+        "30": 2,
+        "31": 2,
+        "49": 1,
+        "51": 1,
+        "70": 1,
+        "500": 1,
+        "880": 1,
+        "2022": 4,
+        "2023": 2,
+        "2024": 2,
+        "2025": 1,
+        "table": 1,
+        "of": 17,
+        "contents": 1,
+        "part": 1,
+        "item": 3,
+        "business": 4,
+        "general": 1,
+        "victoria": 8,
+        "secret": 8,
+        "co": 1,
+        "together": 1,
+        "with": 3,
+        "its": 2,
+        "subsidiaries": 1,
+        "unless": 1,
+        "the": 23,
+        "context": 1,
+        "otherwise": 1,
+        "requires": 1,
+        "we": 10,
+        "us": 2,
+        "our": 12,
+        "or": 1,
+        "company": 3,
+        "is": 8,
+        "specialty": 1,
+        "retailer": 1,
+        "women": 6,
+        "intimate": 3,
+        "and": 33,
+        "other": 2,
+        "apparel": 6,
+        "beauty": 3,
+        "products": 3,
+        "marketed": 1,
+        "under": 3,
+        "pink": 6,
+        "adore": 11,
+        "me": 11,
+        "brand": 6,
+        "names": 1,
+        "have": 3,
+        "more": 3,
+        "than": 2,
+        "stores": 4,
+        "in": 10,
+        "united": 1,
+        "states": 1,
+        "canada": 1,
+        "china": 3,
+        "as": 9,
+        "well": 3,
+        "own": 2,
+        "websites": 1,
+        "www": 4,
+        "victoriassecret": 1,
+        "com": 4,
+        "adoreme": 2,
+        "dailylook": 1,
+        "digital": 3,
+        "channels": 2,
+        "worldwide": 2,
+        "additionally": 1,
+        "nearly": 1,
+        "countries": 1,
+        "operating": 1,
+        "franchise": 1,
+        "license": 1,
+        "wholesale": 1,
+        "arrangements": 1,
+        "also": 1,
+        "includes": 1,
+        "merchandise": 1,
+        "sourcing": 1,
+        "production": 1,
+        "function": 1,
+        "serving": 2,
+        "international": 2,
+        "partners": 1,
+        "operate": 2,
+        "single": 1,
+        "segment": 1,
+        "designed": 1,
+        "to": 12,
+        "seamlessly": 1,
+        "serve": 1,
+        "customers": 3,
+        "through": 1,
+        "on": 8,
+        "december": 3,
+        "completed": 1,
+        "acquisition": 2,
+        "inc": 1,
+        "digitally": 1,
+        "native": 1,
+        "intimates": 2,
+        "for": 6,
+        "additional": 2,
+        "information": 5,
+        "see": 2,
+        "note": 2,
+        "consolidated": 5,
+        "financial": 9,
+        "statements": 6,
+        "included": 3,
+        "supplementary": 2,
+        "data": 2,
+        "brands": 3,
+        "operates": 1,
+        "two": 2,
+        "market": 1,
+        "leading": 2,
+        "each": 1,
+        "complemented": 1,
+        "by": 1,
+        "an": 2,
+        "industry": 1,
+        "technology": 1,
+        "led": 1,
+        "first": 1,
+        "serves": 1,
+        "all": 5,
+        "sizes": 2,
+        "budgets": 2,
+        "lifestyles": 1,
+        "share": 1,
+        "common": 1,
+        "purpose": 1,
+        "supporting": 1,
+        "they": 1,
+        "do": 1,
+        "offer": 1,
+        "range": 1,
+        "including": 3,
+        "signature": 2,
+        "bras": 3,
+        "panties": 3,
+        "lingerie": 3,
+        "casual": 2,
+        "sleepwear": 2,
+        "sport": 2,
+        "swim": 2,
+        "prestige": 2,
+        "fragrances": 2,
+        "body": 2,
+        "care": 2,
+        "global": 1,
+        "leader": 1,
+        "renowned": 1,
+        "innovative": 1,
+        "fashion": 1,
+        "inspired": 1,
+        "collections": 2,
+        "lounge": 1,
+        "award": 1,
+        "winning": 1,
+        "timeless": 1,
+        "staple": 1,
+        "sexy": 1,
+        "glamorous": 1,
+        "affordable": 1,
+        "luxury": 1,
+        "around": 1,
+        "world": 1,
+        "lifestyle": 1,
+        "young": 1,
+        "providing": 1,
+        "fun": 1,
+        "vibrant": 2,
+        "heritage": 1,
+        "pieces": 1,
+        "loungewear": 1,
+        "activewear": 1,
+        "accessories": 1,
+        "colors": 1,
+        "playful": 1,
+        "designs": 1,
+        "enduring": 1,
+        "commitment": 1,
+        "community": 1,
+        "help": 1,
+        "feel": 1,
+        "supported": 1,
+        "confident": 1,
+        "stylish": 1,
+        "every": 1,
+        "day": 1,
+        "direct": 1,
+        "consumer": 1,
+        "that": 1,
+        "focused": 1,
+        "at": 1,
+        "phases": 1,
+        "life": 1,
+        "transforming": 1,
+        "way": 1,
+        "shop": 1,
+        "home": 1,
+        "try": 1,
+        "commerce": 1,
+        "service": 1,
+        "series": 1,
+        "innovation": 1,
+        "driven": 1,
+        "mission": 1,
+        "making": 1,
+        "sustainable": 1,
+        "shopping": 1,
+        "accessible": 1,
+        "joint": 5,
+        "venture": 5,
+        "partnership": 1,
+        "april": 1,
+        "entered": 1,
+        "into": 1,
+        "agreement": 2,
+        "regina": 3,
+        "miracle": 3,
+        "holdings": 1,
+        "limited": 1,
+        "listed": 1,
+        "hong": 1,
+        "kong": 1,
+        "stock": 1,
+        "exchange": 1,
+        "related": 1,
+        "online": 1,
+        "terms": 1,
+        "owns": 1,
+        "remaining": 1,
+        "since": 1,
+        "retained": 1,
+        "control": 1,
+        "over": 1,
+        "assets": 1,
+        "liabilities": 1,
+        "results": 1,
+        "operations": 1,
+        "continue": 1,
+        "be": 1,
+        "fiscal": 3,
+        "year": 3,
+        "ends": 1,
+        "saturday": 1,
+        "nearest": 1,
+        "january": 2,
+        "used": 1,
+        "herein": 1,
+        "refer": 1,
+        "fifty": 2,
+        "week": 2,
+        "periods": 1,
+        "ended": 3,
+        "february": 2,
+        "respectively": 1,
+        "refers": 1,
+        "three": 1,
+        "period": 1,
+        "historically": 1,
+        "result": 1,
+        "due": 1,
+        "timing": 1,
+        "availability": 1,
+        "consolidate": 1,
+        "approximate": 1,
+        "one": 1,
+        "month": 1,
+        "reporting": 1,
+        "lag": 1
+      }
+    },
+    {
+      "type": "too_many_word_occurence_percent",
+      "bag_of_word": {
+        "28": 1,
+        "30": 2,
+        "31": 2,
+        "49": 1,
+        "51": 1,
+        "70": 1,
+        "500": 1,
+        "880": 1,
+        "2022": 4,
+        "2023": 2,
+        "2024": 2,
+        "2025": 1,
+        "table": 1,
+        "of": 17,
+        "contents": 1,
+        "part": 1,
+        "item": 3,
+        "business": 4,
+        "general": 1,
+        "victoria": 8,
+        "secret": 8,
+        "co": 1,
+        "together": 1,
+        "with": 3,
+        "its": 2,
+        "subsidiaries": 1,
+        "unless": 1,
+        "the": 23,
+        "context": 1,
+        "otherwise": 1,
+        "requires": 1,
+        "we": 10,
+        "us": 2,
+        "our": 12,
+        "or": 1,
+        "company": 3,
+        "is": 8,
+        "specialty": 1,
+        "retailer": 1,
+        "women": 6,
+        "intimate": 3,
+        "and": 33,
+        "other": 2,
+        "apparel": 6,
+        "beauty": 3,
+        "products": 3,
+        "marketed": 1,
+        "under": 3,
+        "pink": 6,
+        "adore": 11,
+        "me": 11,
+        "brand": 6,
+        "names": 1,
+        "have": 3,
+        "more": 3,
+        "than": 2,
+        "stores": 4,
+        "in": 10,
+        "united": 1,
+        "states": 1,
+        "canada": 1,
+        "china": 3,
+        "as": 9,
+        "well": 3,
+        "own": 2,
+        "websites": 1,
+        "www": 4,
+        "victoriassecret": 1,
+        "com": 4,
+        "adoreme": 2,
+        "dailylook": 1,
+        "digital": 3,
+        "channels": 2,
+        "worldwide": 2,
+        "additionally": 1,
+        "nearly": 1,
+        "countries": 1,
+        "operating": 1,
+        "franchise": 1,
+        "license": 1,
+        "wholesale": 1,
+        "arrangements": 1,
+        "also": 1,
+        "includes": 1,
+        "merchandise": 1,
+        "sourcing": 1,
+        "production": 1,
+        "function": 1,
+        "serving": 2,
+        "international": 2,
+        "partners": 1,
+        "operate": 2,
+        "single": 1,
+        "segment": 1,
+        "designed": 1,
+        "to": 12,
+        "seamlessly": 1,
+        "serve": 1,
+        "customers": 3,
+        "through": 1,
+        "on": 8,
+        "december": 3,
+        "completed": 1,
+        "acquisition": 2,
+        "inc": 1,
+        "digitally": 1,
+        "native": 1,
+        "intimates": 2,
+        "for": 6,
+        "additional": 2,
+        "information": 5,
+        "see": 2,
+        "note": 2,
+        "consolidated": 5,
+        "financial": 9,
+        "statements": 6,
+        "included": 3,
+        "supplementary": 2,
+        "data": 2,
+        "brands": 3,
+        "operates": 1,
+        "two": 2,
+        "market": 1,
+        "leading": 2,
+        "each": 1,
+        "complemented": 1,
+        "by": 1,
+        "an": 2,
+        "industry": 1,
+        "technology": 1,
+        "led": 1,
+        "first": 1,
+        "serves": 1,
+        "all": 5,
+        "sizes": 2,
+        "budgets": 2,
+        "lifestyles": 1,
+        "share": 1,
+        "common": 1,
+        "purpose": 1,
+        "supporting": 1,
+        "they": 1,
+        "do": 1,
+        "offer": 1,
+        "range": 1,
+        "including": 3,
+        "signature": 2,
+        "bras": 3,
+        "panties": 3,
+        "lingerie": 3,
+        "casual": 2,
+        "sleepwear": 2,
+        "sport": 2,
+        "swim": 2,
+        "prestige": 2,
+        "fragrances": 2,
+        "body": 2,
+        "care": 2,
+        "global": 1,
+        "leader": 1,
+        "renowned": 1,
+        "innovative": 1,
+        "fashion": 1,
+        "inspired": 1,
+        "collections": 2,
+        "lounge": 1,
+        "award": 1,
+        "winning": 1,
+        "timeless": 1,
+        "staple": 1,
+        "sexy": 1,
+        "glamorous": 1,
+        "affordable": 1,
+        "luxury": 1,
+        "around": 1,
+        "world": 1,
+        "lifestyle": 1,
+        "young": 1,
+        "providing": 1,
+        "fun": 1,
+        "vibrant": 2,
+        "heritage": 1,
+        "pieces": 1,
+        "loungewear": 1,
+        "activewear": 1,
+        "accessories": 1,
+        "colors": 1,
+        "playful": 1,
+        "designs": 1,
+        "enduring": 1,
+        "commitment": 1,
+        "community": 1,
+        "help": 1,
+        "feel": 1,
+        "supported": 1,
+        "confident": 1,
+        "stylish": 1,
+        "every": 1,
+        "day": 1,
+        "direct": 1,
+        "consumer": 1,
+        "that": 1,
+        "focused": 1,
+        "at": 1,
+        "phases": 1,
+        "life": 1,
+        "transforming": 1,
+        "way": 1,
+        "shop": 1,
+        "home": 1,
+        "try": 1,
+        "commerce": 1,
+        "service": 1,
+        "series": 1,
+        "innovation": 1,
+        "driven": 1,
+        "mission": 1,
+        "making": 1,
+        "sustainable": 1,
+        "shopping": 1,
+        "accessible": 1,
+        "joint": 5,
+        "venture": 5,
+        "partnership": 1,
+        "april": 1,
+        "entered": 1,
+        "into": 1,
+        "agreement": 2,
+        "regina": 3,
+        "miracle": 3,
+        "holdings": 1,
+        "limited": 1,
+        "listed": 1,
+        "hong": 1,
+        "kong": 1,
+        "stock": 1,
+        "exchange": 1,
+        "related": 1,
+        "online": 1,
+        "terms": 1,
+        "owns": 1,
+        "remaining": 1,
+        "since": 1,
+        "retained": 1,
+        "control": 1,
+        "over": 1,
+        "assets": 1,
+        "liabilities": 1,
+        "results": 1,
+        "operations": 1,
+        "continue": 1,
+        "be": 1,
+        "fiscal": 3,
+        "year": 3,
+        "ends": 1,
+        "saturday": 1,
+        "nearest": 1,
+        "january": 2,
+        "used": 1,
+        "herein": 1,
+        "refer": 1,
+        "fifty": 2,
+        "week": 2,
+        "periods": 1,
+        "ended": 3,
+        "february": 2,
+        "respectively": 1,
+        "refers": 1,
+        "three": 1,
+        "period": 1,
+        "historically": 1,
+        "result": 1,
+        "due": 1,
+        "timing": 1,
+        "availability": 1,
+        "consolidate": 1,
+        "approximate": 1,
+        "one": 1,
+        "month": 1,
+        "reporting": 1,
+        "lag": 1
+      }
+    },
+    {
+      "type": "missing_word_percent",
+      "bag_of_word": {
+        "28": 1,
+        "30": 2,
+        "31": 2,
+        "49": 1,
+        "51": 1,
+        "70": 1,
+        "500": 1,
+        "880": 1,
+        "2022": 4,
+        "2023": 2,
+        "2024": 2,
+        "2025": 1,
+        "table": 1,
+        "of": 17,
+        "contents": 1,
+        "part": 1,
+        "item": 3,
+        "business": 4,
+        "general": 1,
+        "victoria": 8,
+        "secret": 8,
+        "co": 1,
+        "together": 1,
+        "with": 3,
+        "its": 2,
+        "subsidiaries": 1,
+        "unless": 1,
+        "the": 23,
+        "context": 1,
+        "otherwise": 1,
+        "requires": 1,
+        "we": 10,
+        "us": 2,
+        "our": 12,
+        "or": 1,
+        "company": 3,
+        "is": 8,
+        "specialty": 1,
+        "retailer": 1,
+        "women": 6,
+        "intimate": 3,
+        "and": 33,
+        "other": 2,
+        "apparel": 6,
+        "beauty": 3,
+        "products": 3,
+        "marketed": 1,
+        "under": 3,
+        "pink": 6,
+        "adore": 11,
+        "me": 11,
+        "brand": 6,
+        "names": 1,
+        "have": 3,
+        "more": 3,
+        "than": 2,
+        "stores": 4,
+        "in": 10,
+        "united": 1,
+        "states": 1,
+        "canada": 1,
+        "china": 3,
+        "as": 9,
+        "well": 3,
+        "own": 2,
+        "websites": 1,
+        "www": 4,
+        "victoriassecret": 1,
+        "com": 4,
+        "adoreme": 2,
+        "dailylook": 1,
+        "digital": 3,
+        "channels": 2,
+        "worldwide": 2,
+        "additionally": 1,
+        "nearly": 1,
+        "countries": 1,
+        "operating": 1,
+        "franchise": 1,
+        "license": 1,
+        "wholesale": 1,
+        "arrangements": 1,
+        "also": 1,
+        "includes": 1,
+        "merchandise": 1,
+        "sourcing": 1,
+        "production": 1,
+        "function": 1,
+        "serving": 2,
+        "international": 2,
+        "partners": 1,
+        "operate": 2,
+        "single": 1,
+        "segment": 1,
+        "designed": 1,
+        "to": 12,
+        "seamlessly": 1,
+        "serve": 1,
+        "customers": 3,
+        "through": 1,
+        "on": 8,
+        "december": 3,
+        "completed": 1,
+        "acquisition": 2,
+        "inc": 1,
+        "digitally": 1,
+        "native": 1,
+        "intimates": 2,
+        "for": 6,
+        "additional": 2,
+        "information": 5,
+        "see": 2,
+        "note": 2,
+        "consolidated": 5,
+        "financial": 9,
+        "statements": 6,
+        "included": 3,
+        "supplementary": 2,
+        "data": 2,
+        "brands": 3,
+        "operates": 1,
+        "two": 2,
+        "market": 1,
+        "leading": 2,
+        "each": 1,
+        "complemented": 1,
+        "by": 1,
+        "an": 2,
+        "industry": 1,
+        "technology": 1,
+        "led": 1,
+        "first": 1,
+        "serves": 1,
+        "all": 5,
+        "sizes": 2,
+        "budgets": 2,
+        "lifestyles": 1,
+        "share": 1,
+        "common": 1,
+        "purpose": 1,
+        "supporting": 1,
+        "they": 1,
+        "do": 1,
+        "offer": 1,
+        "range": 1,
+        "including": 3,
+        "signature": 2,
+        "bras": 3,
+        "panties": 3,
+        "lingerie": 3,
+        "casual": 2,
+        "sleepwear": 2,
+        "sport": 2,
+        "swim": 2,
+        "prestige": 2,
+        "fragrances": 2,
+        "body": 2,
+        "care": 2,
+        "global": 1,
+        "leader": 1,
+        "renowned": 1,
+        "innovative": 1,
+        "fashion": 1,
+        "inspired": 1,
+        "collections": 2,
+        "lounge": 1,
+        "award": 1,
+        "winning": 1,
+        "timeless": 1,
+        "staple": 1,
+        "sexy": 1,
+        "glamorous": 1,
+        "affordable": 1,
+        "luxury": 1,
+        "around": 1,
+        "world": 1,
+        "lifestyle": 1,
+        "young": 1,
+        "providing": 1,
+        "fun": 1,
+        "vibrant": 2,
+        "heritage": 1,
+        "pieces": 1,
+        "loungewear": 1,
+        "activewear": 1,
+        "accessories": 1,
+        "colors": 1,
+        "playful": 1,
+        "designs": 1,
+        "enduring": 1,
+        "commitment": 1,
+        "community": 1,
+        "help": 1,
+        "feel": 1,
+        "supported": 1,
+        "confident": 1,
+        "stylish": 1,
+        "every": 1,
+        "day": 1,
+        "direct": 1,
+        "consumer": 1,
+        "that": 1,
+        "focused": 1,
+        "at": 1,
+        "phases": 1,
+        "life": 1,
+        "transforming": 1,
+        "way": 1,
+        "shop": 1,
+        "home": 1,
+        "try": 1,
+        "commerce": 1,
+        "service": 1,
+        "series": 1,
+        "innovation": 1,
+        "driven": 1,
+        "mission": 1,
+        "making": 1,
+        "sustainable": 1,
+        "shopping": 1,
+        "accessible": 1,
+        "joint": 5,
+        "venture": 5,
+        "partnership": 1,
+        "april": 1,
+        "entered": 1,
+        "into": 1,
+        "agreement": 2,
+        "regina": 3,
+        "miracle": 3,
+        "holdings": 1,
+        "limited": 1,
+        "listed": 1,
+        "hong": 1,
+        "kong": 1,
+        "stock": 1,
+        "exchange": 1,
+        "related": 1,
+        "online": 1,
+        "terms": 1,
+        "owns": 1,
+        "remaining": 1,
+        "since": 1,
+        "retained": 1,
+        "control": 1,
+        "over": 1,
+        "assets": 1,
+        "liabilities": 1,
+        "results": 1,
+        "operations": 1,
+        "continue": 1,
+        "be": 1,
+        "fiscal": 3,
+        "year": 3,
+        "ends": 1,
+        "saturday": 1,
+        "nearest": 1,
+        "january": 2,
+        "used": 1,
+        "herein": 1,
+        "refer": 1,
+        "fifty": 2,
+        "week": 2,
+        "periods": 1,
+        "ended": 3,
+        "february": 2,
+        "respectively": 1,
+        "refers": 1,
+        "three": 1,
+        "period": 1,
+        "historically": 1,
+        "result": 1,
+        "due": 1,
+        "timing": 1,
+        "availability": 1,
+        "consolidate": 1,
+        "approximate": 1,
+        "one": 1,
+        "month": 1,
+        "reporting": 1,
+        "lag": 1
+      }
+    },
+    {
+      "type": "bag_of_digit_percent",
+      "bag_of_digit": {
+        "0": 15,
+        "1": 6,
+        "2": 24,
+        "3": 7,
+        "4": 3,
+        "5": 4,
+        "7": 1,
+        "8": 5,
+        "9": 1
+      }
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "2022"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "2023"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "2024"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "2025"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "28"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "30"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "31"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "49"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "500"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "51"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "70"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "880"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "accessible"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "accessories"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "acquisition"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "activewear"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "additional"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "additionally"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "adore"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "adoreme"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "affordable"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "agreement"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "all"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "also"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "an"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "and"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "apparel"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "approximate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "april"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "around"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "arrangements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "as"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "assets"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "at"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "availability"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "award"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "be"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "beauty"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "body"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "brand"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "brands"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "bras"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "budgets"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "business"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "by"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "canada"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "care"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "casual"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "channels"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "china"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "co"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "collections"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "colors"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "com"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "commerce"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "commitment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "common"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "community"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "company"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "complemented"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "completed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "confident"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consolidate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consolidated"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "consumer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "contents"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "context"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "continue"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "control"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "countries"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "customers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "dailylook"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "data"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "day"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "december"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "designed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "designs"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "digital"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "digitally"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "direct"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "do"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "driven"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "due"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "each"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ended"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "ends"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "enduring"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "entered"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "every"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "exchange"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fashion"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "february"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "feel"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fifty"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "financial"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "first"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fiscal"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "focused"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "for"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fragrances"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "franchise"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "fun"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "function"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "general"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "glamorous"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "global"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "have"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "help"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "herein"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "heritage"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "historically"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "holdings"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "home"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "hong"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "in"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "inc"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "included"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "includes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "including"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "industry"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "information"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "innovation"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "innovative"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "inspired"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "international"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "intimate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "intimates"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "into"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "is"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "item"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "its"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "january"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "joint"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "kong"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "lag"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "leader"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "leading"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "led"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "liabilities"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "license"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "life"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "lifestyle"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "lifestyles"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "limited"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "lingerie"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "listed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "lounge"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "loungewear"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "luxury"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "making"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "market"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "marketed"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "me"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "merchandise"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "miracle"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "mission"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "month"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "more"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "names"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "native"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "nearest"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "nearly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "note"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "of"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "offer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "on"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "one"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "online"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "operate"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "operates"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "operating"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "operations"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "or"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "other"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "otherwise"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "our"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "over"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "own"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "owns"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "panties"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "part"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "partners"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "partnership"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "period"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "periods"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "phases"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pieces"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "pink"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "playful"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "prestige"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "production"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "products"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "providing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "purpose"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "range"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "refer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "refers"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "regina"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "related"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "remaining"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "renowned"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "reporting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "requires"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "respectively"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "result"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "results"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "retailer"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "retained"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "saturday"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "seamlessly"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "secret"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "see"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "segment"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "series"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "serve"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "serves"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "service"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "serving"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sexy"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "share"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "shop"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "shopping"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "signature"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "since"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "single"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sizes"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sleepwear"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sourcing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "specialty"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sport"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "staple"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "statements"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "states"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "stock"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "stores"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "stylish"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "subsidiaries"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "supplementary"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "supported"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "supporting"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "sustainable"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "swim"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "table"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "technology"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "terms"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "than"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "that"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "the"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "they"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "three"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "through"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "timeless"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "timing"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "to"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "together"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "transforming"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "try"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "two"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "under"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "united"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "unless"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "us"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "used"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "venture"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "vibrant"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "victoria"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "victoriassecret"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "way"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "we"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "websites"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "week"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "well"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "wholesale"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "winning"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "with"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "women"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "world"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "worldwide"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "www"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "year"
+    },
+    {
+      "type": "missing_specific_word",
+      "word": "young"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Additionally, we have more than 500 stores in nearly 70 countries operating under franchise, license and wholesale arrangements"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Adore Me"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Adore Me is a direct-to-consumer lingerie and apparel brand that is focused on serving women of all sizes and budgets at all phases of life"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Adore Me is transforming the way customers shop with a home try-on commerce service, a series of innovation-driven products and a mission of making sustainable shopping accessible to all"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Adore Me\"), a digitally-native intimates brand"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Adore Me, our technology-led, digital first intimates brand serves women of all sizes, budgets and lifestyles"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "AdoreMe"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "DailyLook"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Due to the timing and availability of financial information of Adore Me, we consolidate Adore Me's financial information on an approximate one-month reporting lag 1"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Fiscal Year"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "For additional information, see Note 2 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "For additional information, see Note 5 to the Consolidated Financial Statements included in Item 8. Financial Statements and Supplementary Data"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "General"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Historically, Adore Me's fiscal year ended on December 31. As a result of our acquisition of Adore Me on December 30, 2022, Adore Me's financial information is included in our consolidated financial statements"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "In April 2022, we entered into a joint venture agreement with Regina Miracle International (Holdings) Limited (\"Regina Miracle\"), a company listed on the Hong Kong Stock Exchange, to operate Victoria's Secret stores and the related online business in China"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Joint Venture Partnership"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "On December 30, 2022, we completed our acquisition of AdoreMe, Inc"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our Brands"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our brands share a common purpose of supporting women in all they do"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our business operates two market-leading intimate apparel brands, Victoria's Secret and PINK, each complemented by an industry-leading beauty business"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Our fiscal year ends on the Saturday nearest to January 31. As used herein, \"2024\" and \"2022\" refer to the fifty-two-week periods ended February 1, 2025 and January 28, 2023, respectively, and \"2023\" refers to the fifty-three-week period ended February 3, 2024"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "PART I ITEM 1. BUSINESS"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "PINK PINK is a lifestyle brand for young women providing fun, vibrant collections and heritage pieces, including apparel, loungewear, activewear, bras, panties, accessories, beauty and more"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "PINK com, www"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "PINK's vibrant colors, playful designs and enduring commitment to community help customers feel supported, confident and stylish every day"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "S \"), Canada and China, as well as our own websites, www"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Since we have retained control over the joint venture, the joint venture's assets, liabilities and results of operations continue to be consolidated in our consolidated financial statements"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Table of Contents"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The Company also includes the merchandise sourcing and production function serving us and our international partners"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "The Victoria's Secret brand is a global leader in intimate apparel, renowned for its innovative, fashion-inspired collections including signature bras, panties, lingerie, casual sleepwear, swim, lounge and sport, as well as award-winning prestige fragrances and body care"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Under the terms of the agreement, we own 51% of the joint venture and Regina Miracle owns the remaining 49"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Victoria's Secret"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Victoria's Secret & Co"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Victoria's Secret China"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "Victoria's Secret is a timeless staple for sexy, glamorous and affordable luxury for women around the world"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "VictoriasSecret"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We have more than 880 stores in the United States (\"U"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We offer a range of products including signature bras, panties, lingerie, casual sleepwear, apparel, sport and swim, as well as prestige fragrances and body care"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "We operate as a single segment designed to seamlessly serve customers worldwide through stores and digital channels"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "com and www"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "com, and other digital channels worldwide"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "com, www"
+    },
+    {
+      "type": "missing_specific_sentence",
+      "sentence": "together with its subsidiaries unless the context otherwise requires, \"we\", \"us\", \"our\" or the \"Company\") is a specialty retailer of women's intimate and other apparel and beauty products marketed under the Victoria's Secret, PINK and Adore Me brand names"
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Victoria's Secret & Co. (together with its subsidiaries unless the context otherwise requires, \"we\", \"us\", \"our\" or the \"Company\") is a specialty retailer of women's intimate and other apparel and beauty products marketed under the Victoria's Secret, PINK and Adore Me brand names.",
+      "after": "We have more than 880 stores in the United States (\"U.S.\"), Canada and China, as well as our own websites, www.VictoriasSecret.com, www.PINK.com, www.AdoreMe.com and www.DailyLook.com, and other digital channels worldwide.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We have more than 880 stores in the United States (\"U.S.\"), Canada and China, as well as our own websites, www.VictoriasSecret.com, www.PINK.com, www.AdoreMe.com and www.DailyLook.com, and other digital channels worldwide.",
+      "after": "Additionally, we have more than 500 stores in nearly 70 countries operating under franchise, license and wholesale arrangements.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Additionally, we have more than 500 stores in nearly 70 countries operating under franchise, license and wholesale arrangements.",
+      "after": "The Company also includes the merchandise sourcing and production function serving us and our international partners.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The Company also includes the merchandise sourcing and production function serving us and our international partners.",
+      "after": "We operate as a single segment designed to seamlessly serve customers worldwide through stores and digital channels.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We operate as a single segment designed to seamlessly serve customers worldwide through stores and digital channels.",
+      "after": "On December 30, 2022, we completed our acquisition of AdoreMe, Inc.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "On December 30, 2022, we completed our acquisition of AdoreMe, Inc.",
+      "after": "(\"Adore Me\"), a digitally-native intimates brand.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "(\"Adore Me\"), a digitally-native intimates brand.",
+      "after": "For additional information, see Note 2 to the Consolidated Financial Statements included in Item 8.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "For additional information, see Note 2 to the Consolidated Financial Statements included in Item 8.",
+      "after": "Our business operates two market-leading intimate apparel brands, Victoria's Secret and PINK, each complemented by an industry-leading beauty business.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our business operates two market-leading intimate apparel brands, Victoria's Secret and PINK, each complemented by an industry-leading beauty business.",
+      "after": "Adore Me, our technology-led, digital first intimates brand serves women of all sizes, budgets and lifestyles.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Adore Me, our technology-led, digital first intimates brand serves women of all sizes, budgets and lifestyles.",
+      "after": "Our brands share a common purpose of supporting women in all they do.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our brands share a common purpose of supporting women in all they do.",
+      "after": "We offer a range of products including signature bras, panties, lingerie, casual sleepwear, apparel, sport and swim, as well as prestige fragrances and body care.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "We offer a range of products including signature bras, panties, lingerie, casual sleepwear, apparel, sport and swim, as well as prestige fragrances and body care.",
+      "after": "The Victoria's Secret brand is a global leader in intimate apparel, renowned for its innovative, fashion-inspired collections including signature bras, panties, lingerie, casual sleepwear, swim, lounge and sport, as well as award-winning prestige fragrances and body care.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "The Victoria's Secret brand is a global leader in intimate apparel, renowned for its innovative, fashion-inspired collections including signature bras, panties, lingerie, casual sleepwear, swim, lounge and sport, as well as award-winning prestige fragrances and body care.",
+      "after": "Victoria's Secret is a timeless staple for sexy, glamorous and affordable luxury for women around the world.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Victoria's Secret is a timeless staple for sexy, glamorous and affordable luxury for women around the world.",
+      "after": "PINK is a lifestyle brand for young women providing fun, vibrant collections and heritage pieces, including apparel, loungewear, activewear, bras, panties, accessories, beauty and more.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "PINK is a lifestyle brand for young women providing fun, vibrant collections and heritage pieces, including apparel, loungewear, activewear, bras, panties, accessories, beauty and more.",
+      "after": "PINK's vibrant colors, playful designs and enduring commitment to community help customers feel supported, confident and stylish every day.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "PINK's vibrant colors, playful designs and enduring commitment to community help customers feel supported, confident and stylish every day.",
+      "after": "Adore Me is a direct-to-consumer lingerie and apparel brand that is focused on serving women of all sizes and budgets at all phases of life.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Adore Me is a direct-to-consumer lingerie and apparel brand that is focused on serving women of all sizes and budgets at all phases of life.",
+      "after": "Adore Me is transforming the way customers shop with a home try-on commerce service, a series of innovation-driven products and a mission of making sustainable shopping accessible to all.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Adore Me is transforming the way customers shop with a home try-on commerce service, a series of innovation-driven products and a mission of making sustainable shopping accessible to all.",
+      "after": "Joint Venture Partnership",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Joint Venture Partnership",
+      "after": "Victoria's Secret China",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Victoria's Secret China",
+      "after": "In April 2022, we entered into a joint venture agreement with Regina Miracle International (Holdings) Limited (\"Regina Miracle\"), a company listed on the Hong Kong Stock Exchange, to operate Victoria's Secret stores and the related online business in China.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "In April 2022, we entered into a joint venture agreement with Regina Miracle International (Holdings) Limited (\"Regina Miracle\"), a company listed on the Hong Kong Stock Exchange, to operate Victoria's Secret stores and the related online business in China.",
+      "after": "Under the terms of the agreement, we own 51% of the joint venture and Regina Miracle owns the remaining 49%.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Under the terms of the agreement, we own 51% of the joint venture and Regina Miracle owns the remaining 49%.",
+      "after": "Since we have retained control over the joint venture, the joint venture's assets, liabilities and results of operations continue to be consolidated in our consolidated financial statements.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Since we have retained control over the joint venture, the joint venture's assets, liabilities and results of operations continue to be consolidated in our consolidated financial statements.",
+      "after": "For additional information, see Note 5 to the Consolidated Financial Statements included in Item 8.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "For additional information, see Note 5 to the Consolidated Financial Statements included in Item 8.",
+      "after": "Our fiscal year ends on the Saturday nearest to January 31.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Our fiscal year ends on the Saturday nearest to January 31.",
+      "after": "As used herein, \"2024\" and \"2022\" refer to the fifty-two-week periods ended February 1, 2025 and January 28, 2023, respectively, and \"2023\" refers to the fifty-three-week period ended February 3, 2024.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "As used herein, \"2024\" and \"2022\" refer to the fifty-two-week periods ended February 1, 2025 and January 28, 2023, respectively, and \"2023\" refers to the fifty-three-week period ended February 3, 2024.",
+      "after": "Historically, Adore Me's fiscal year ended on December 31.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "Historically, Adore Me's fiscal year ended on December 31.",
+      "after": "As a result of our acquisition of Adore Me on December 30, 2022, Adore Me's financial information is included in our consolidated financial statements.",
+      "max_diffs": 0
+    },
+    {
+      "type": "order",
+      "verified": true,
+      "before": "As a result of our acquisition of Adore Me on December 30, 2022, Adore Me's financial information is included in our consolidated financial statements.",
+      "after": "Due to the timing and availability of financial information of Adore Me, we consolidate Adore Me's financial information on an approximate one-month reporting lag.",
+      "max_diffs": 0
+    },
+    {
+      "type": "is_title",
+      "text": "PART I",
+      "level": 1
+    },
+    {
+      "type": "is_title",
+      "text": "ITEM 1. BUSINESS.",
+      "level": 2
+    },
+    {
+      "type": "is_title",
+      "text": "General",
+      "level": 3
+    },
+    {
+      "type": "is_title",
+      "text": "Our Brands",
+      "level": 3
+    },
+    {
+      "type": "is_title",
+      "text": "Victoria's Secret"
+    },
+    {
+      "type": "is_title",
+      "text": "PINK"
+    },
+    {
+      "type": "is_title",
+      "text": "Adore Me"
+    },
+    {
+      "type": "is_title",
+      "text": "Joint Venture Partnership",
+      "level": 3
+    },
+    {
+      "type": "is_title",
+      "text": "Victoria's Secret China"
+    },
+    {
+      "type": "is_title",
+      "text": "Fiscal Year",
+      "level": 3
+    },
+    {
+      "type": "title_hierarchy_percent",
+      "title_hierarchy": {
+        "PART I": {
+          "ITEM 1. BUSINESS.": {
+            "General": {},
+            "Our Brands": {
+              "Victoria's Secret": {},
+              "PINK": {},
+              "Adore Me": {}
+            },
+            "Joint Venture Partnership": {
+              "Victoria's Secret China": {}
+            },
+            "Fiscal Year": {}
+          }
+        }
+      }
+    },
+    {
+      "type": "is_bold",
+      "text": "Victoria's Secret"
+    },
+    {
+      "type": "is_italic",
+      "text": "Victoria's Secret"
+    },
+    {
+      "type": "is_bold",
+      "text": "PINK"
+    },
+    {
+      "type": "is_italic",
+      "text": "PINK"
+    },
+    {
+      "type": "is_bold",
+      "text": "Adore Me"
+    },
+    {
+      "type": "is_italic",
+      "text": "Adore Me"
+    },
+    {
+      "type": "is_bold",
+      "text": "Victoria's Secret China"
+    },
+    {
+      "type": "is_italic",
+      "text": "Victoria's Secret China"
+    },
+    {
+      "type": "is_header",
+      "text": "[Table of Contents](TableofContents)"
+    },
+    {
+      "type": "is_footer",
+      "text": "1"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/text.jsonl",
+    "parsebench_document": "text/text_simple__10victoria.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643725000006/vsco-20250201.htm",
+      "accession": "0001856437-25-000006",
+      "provider": "datamulehub",
+      "sha256": "c61188a3b679a072e3532c138c245992615b963995f761959e0a919d49e04d05",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 178783,
+        "byte_end_exclusive": 187134,
+        "page_fragment_index_0based": 2
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "44b1c6132d1d1d5ccfaacd84d244add3818b457ca811a30e8b6a0d078f16dc0f",
+    "input_sha256": "aa7d7acaeefd2f8b21e319b16dc1ace1f90c959a59aa96939b425a26ea40e02d"
+  },
+  "tags": [
+    "easy"
+  ]
+}

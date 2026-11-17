@@ -1,0 +1,40 @@
+{
+  "id": "financial_tables/ri-2026-08-13_page2",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# Consolidated Statements of Income\n\n(in thousands, except per share amounts) (unaudited)\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"2\">Three months ended September 30,</th>\n      <th colspan=\"2\">Nine months ended September 30,</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>2024</th>\n      <th>2023</th>\n      <th>2024</th>\n      <th>2023</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>REVENUE</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Rental (including reimbursable)<sup>(1)</sup></td>\n      <td>$ 1,271,153</td>\n      <td>$ 1,008,862</td>\n      <td>$ 3,764,050</td>\n      <td>$ 2,929,440</td>\n    </tr>\n    <tr>\n      <td>Other</td>\n      <td>59,762</td>\n      <td>30,242</td>\n      <td>166,793</td>\n      <td>73,268</td>\n    </tr>\n    <tr>\n      <td>Total revenue</td>\n      <td>1,330,915</td>\n      <td>1,039,104</td>\n      <td>3,930,843</td>\n      <td>3,002,708</td>\n    </tr>\n    <tr>\n      <td>EXPENSES</td>\n      <td></td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Depreciation and amortization</td>\n      <td>602,339</td>\n      <td>495,566</td>\n      <td>1,788,973</td>\n      <td>1,419,321</td>\n    </tr>\n    <tr>\n      <td>Interest</td>\n      <td>261,261</td>\n      <td>184,121</td>\n      <td>748,806</td>\n      <td>522,110</td>\n    </tr>\n    <tr>\n      <td>Property (including reimbursable)</td>\n      <td>92,154</td>\n      <td>70,981</td>\n      <td>281,366</td>\n      <td>235,081</td>\n    </tr>\n    <tr>\n      <td>General and administrative</td>\n      <td>41,869</td>\n      <td>35,525</td>\n      <td>127,781</td>\n      <td>106,521</td>\n    </tr>\n    <tr>\n      <td>Provisions for impairment</td>\n      <td>96,920</td>\n      <td>16,808</td>\n      <td>282,867</td>\n      <td>59,801</td>\n    </tr>\n    <tr>\n      <td>Merger, transaction, and other costs</td>\n      <td>8,610</td>\n      <td>2,884</td>\n      <td>105,468</td>\n      <td>4,532</td>\n    </tr>\n    <tr>\n      <td>Total expenses</td>\n      <td>1,103,153</td>\n      <td>805,885</td>\n      <td>3,335,261</td>\n      <td>2,347,366</td>\n    </tr>\n    <tr>\n      <td>Gain on sales of real estate</td>\n      <td>50,563</td>\n      <td>7,572</td>\n      <td>92,290</td>\n      <td>19,675</td>\n    </tr>\n    <tr>\n      <td>Foreign currency and derivative (loss) gain, net</td>\n      <td>(1,672)</td>\n      <td>(2,813)</td>\n      <td>2,885</td>\n      <td>4,957</td>\n    </tr>\n    <tr>\n      <td>Equity in earnings of unconsolidated entities</td>\n      <td>5,087</td>\n      <td>—</td>\n      <td>5,440</td>\n      <td>411</td>\n    </tr>\n    <tr>\n      <td>Other income, net</td>\n      <td>4,739</td>\n      <td>7,235</td>\n      <td>16,293</td>\n      <td>12,985</td>\n    </tr>\n    <tr>\n      <td>Income before income taxes</td>\n      <td>286,479</td>\n      <td>245,213</td>\n      <td>712,490</td>\n      <td>693,370</td>\n    </tr>\n    <tr>\n      <td>Income taxes</td>\n      <td>(15,355)</td>\n      <td>(11,336)</td>\n      <td>(46,499)</td>\n      <td>(36,218)</td>\n    </tr>\n    <tr>\n      <td>Net income</td>\n      <td>271,124</td>\n      <td>233,877</td>\n      <td>665,991</td>\n      <td>657,152</td>\n    </tr>\n    <tr>\n      <td>Net income attributable to noncontrolling interests</td>\n      <td>(1,639)</td>\n      <td>(404)</td>\n      <td>(4,831)</td>\n      <td>(3,248)</td>\n    </tr>\n    <tr>\n      <td>Net income attributable to the Company</td>\n      <td>269,485</td>\n      <td>233,473</td>\n      <td>661,160</td>\n      <td>653,904</td>\n    </tr>\n    <tr>\n      <td>Preferred stock dividends</td>\n      <td>(2,588)</td>\n      <td>—</td>\n      <td>(7,763)</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Excess of redemption value over carrying value of preferred shares redeemed</td>\n      <td>(5,116)</td>\n      <td>—</td>\n      <td>(5,116)</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Net income available to common stockholders</td>\n      <td>$ 261,781</td>\n      <td>$ 233,473</td>\n      <td>$ 648,281</td>\n      <td>$ 653,904</td>\n    </tr>\n    <tr>\n      <td>Net income available to common stockholders per common share, basic and diluted:</td>\n      <td>$ 0.30</td>\n      <td>$ 0.33</td>\n      <td>$ 0.75</td>\n      <td>$ 0.96</td>\n    </tr>\n  </tbody>\n</table>\n\n<sup>(1)</sup> Includes rental revenue (reimbursable) of $74.3 million and $61.3 million for the three months ended September 30, 2024 and 2023, respectively, and $227.6 million and $208.6 million for the nine months ended September 30, 2024 and 2023, respectively. Additionally, it includes reserves to rental revenue, exclusive of non-cash reserves, of $7.0 million and $16.2 million for the three and nine months ended September 30, 2024, respectively, and reserve reversals to rental revenue, exclusive of non-cash reserves of $2.6 million and $7.1 million for the three and nine months ended September 30, 2023, respectively.\n\n\n\n\n\nlogo",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "ri.pdf",
+    "source_sha256": "6d128974b5833581b11c435cbe07dcc12b74e9f71ede0d8934454f6eaa77cbf4",
+    "annotated_at": "2026-08-13T08:11:49.604Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/ri-2026-08-13_page2.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000127/realtyincomeq32024supple.htm",
+      "accession": "0000726728-24-000127",
+      "provider": "datamulehub",
+      "sha256": "6f3ad808db77d1a056689175d9651d8c70b32ec17fd698b9be33e5606d8fc68e",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "image_url": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000127/realtyincomeq32024supple004.jpg",
+        "image_sha256": "678c686673b553086dbfbd731dff96bda2e28fc3863c71a9b49f7026a40f1062",
+        "image_embedded": true
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "6d128974b5833581b11c435cbe07dcc12b74e9f71ede0d8934454f6eaa77cbf4",
+    "input_sha256": "08ab84368f019161fec39d0f5b33691b04ea9361937f4a3cc28b078afd60b40a"
+  },
+  "tags": []
+}

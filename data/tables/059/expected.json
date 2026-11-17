@@ -1,0 +1,35 @@
+{
+  "id": "tables/IT.2009.page_74.pdf_78635_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\"></th>\n      <th colspan=\"4\">2009 vs. 2008</th>\n      <th colspan=\"4\">2008 vs. 2007</th>\n    </tr>\n    <tr>\n      <th>Twelve Months Ended December 31, 2009 (a)</th>\n      <th>Twelve Months Ended December 31, 2008</th>\n      <th>Dollar Increase (Decrease)</th>\n      <th>Percentage Increase (Decrease)</th>\n      <th>Twelve Months Ended December 31, 2008</th>\n      <th>Twelve Months Ended December 31, 2007</th>\n      <th>Dollar Increase (Decrease)</th>\n      <th>Percentage Increase (Decrease)</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Total revenues</td>\n      <td>$1,139,800</td>\n      <td>$1,279,065</td>\n      <td>$(139,265)</td>\n      <td>(11)%</td>\n      <td>$1,279,065</td>\n      <td>$1,168,475</td>\n      <td>$110,590</td>\n      <td>9%</td>\n    </tr>\n    <tr>\n      <td colspan=\"9\">Costs and expenses:</td>\n    </tr>\n    <tr>\n      <td>Cost of services and product development</td>\n      <td>498,363</td>\n      <td>572,208</td>\n      <td>73,845</td>\n      <td>13%</td>\n      <td>572,208</td>\n      <td>546,569</td>\n      <td>(25,639)</td>\n      <td>(5)%</td>\n    </tr>\n    <tr>\n      <td>Selling, general and administrative</td>\n      <td>477,003</td>\n      <td>514,994</td>\n      <td>37,991</td>\n      <td>7%</td>\n      <td>514,994</td>\n      <td>456,975</td>\n      <td>(58,019)</td>\n      <td>(13)%</td>\n    </tr>\n    <tr>\n      <td>Depreciation</td>\n      <td>25,387</td>\n      <td>25,880</td>\n      <td>493</td>\n      <td>2%</td>\n      <td>25,880</td>\n      <td>24,298</td>\n      <td>(1,582)</td>\n      <td>(7)%</td>\n    </tr>\n    <tr>\n      <td>Amortization of intangibles</td>\n      <td>1,636</td>\n      <td>1,615</td>\n      <td>(21)</td>\n      <td>(1)%</td>\n      <td>1,615</td>\n      <td>2,091</td>\n      <td>476</td>\n      <td>(23)%</td>\n    </tr>\n    <tr>\n      <td>Acquisition and integration charges</td>\n      <td>2,934</td>\n      <td>—</td>\n      <td>(2,934)</td>\n      <td>(100)%</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Other charges</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n      <td>9,084</td>\n      <td>9,084</td>\n      <td>100%</td>\n    </tr>\n    <tr>\n      <td>Operating income</td>\n      <td>134,477</td>\n      <td>164,368</td>\n      <td>(29,891)</td>\n      <td>(18)%</td>\n      <td>164,368</td>\n      <td>129,458</td>\n      <td>34,910</td>\n      <td>27%</td>\n    </tr>\n    <tr>\n      <td>Interest expense, net</td>\n      <td>(16,032)</td>\n      <td>(19,269)</td>\n      <td>3,237</td>\n      <td>17%</td>\n      <td>(19,269)</td>\n      <td>(22,154)</td>\n      <td>2,885</td>\n      <td>13%</td>\n    </tr>\n    <tr>\n      <td>Other (expense) income, net</td>\n      <td>(2,919)</td>\n      <td>(358)</td>\n      <td>(2,561)</td>\n      <td>&gt;(100)%</td>\n      <td>(358)</td>\n      <td>3,193</td>\n      <td>(3,551)</td>\n      <td>&gt;(100)%</td>\n    </tr>\n    <tr>\n      <td>Provision for income taxes</td>\n      <td>32,562</td>\n      <td>47,593</td>\n      <td>15,031</td>\n      <td>32%</td>\n      <td>47,593</td>\n      <td>39,831</td>\n      <td>(7,762)</td>\n      <td>(19)%</td>\n    </tr>\n    <tr>\n      <td>Income from continuing operations</td>\n      <td>82,964</td>\n      <td>97,148</td>\n      <td>(14,184)</td>\n      <td>(15)%</td>\n      <td>97,148</td>\n      <td>70,666</td>\n      <td>26,482</td>\n      <td>37%</td>\n    </tr>\n    <tr>\n      <td>Income from discontinued operations, net of taxes</td>\n      <td>—</td>\n      <td>6,723</td>\n      <td>(6,723)</td>\n      <td>(100)%</td>\n      <td>6,723</td>\n      <td>2,887</td>\n      <td>3,836</td>\n      <td>&gt;100%</td>\n    </tr>\n    <tr>\n      <td>Net income</td>\n      <td>$82,964</td>\n      <td>$103,871</td>\n      <td>$(20,907)</td>\n      <td>(20)%</td>\n      <td>$103,871</td>\n      <td>$73,553</td>\n      <td>$30,318</td>\n      <td>41%</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/IT.2009.page_74.pdf_78635_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/749251/000095012310014517/y81529e10vk.htm",
+      "accession": "0000950123-10-014517",
+      "provider": "datamulehub",
+      "sha256": "89aa04f743b6eba4ec47d4dc4db75739ee453e2195a8a15f76fc5a54fafc37f9",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 34,
+            "byte_start": 243444,
+            "byte_end_exclusive": 276929
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "9fe86f752cae3fcd1ce939fd51cafc8b6430c73a5ebabd190c34672f1a890141",
+    "input_sha256": "167dfece8fff030613987c336c4d8a2d843790649073244bbc2a953b570d32ec"
+  },
+  "tags": []
+}

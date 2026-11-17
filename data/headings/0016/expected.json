@@ -1,0 +1,70 @@
+{
+  "id": "headings/case-0016-afe56fa6fd7c",
+  "subset": "headings",
+  "dimension": "formatting",
+  "document": "sec_input.html",
+  "expected_markdown": null,
+  "test_rules": [
+    {
+      "type": "heading_structure",
+      "id": "case-0016-afe56fa6fd7c:heading-structure-001",
+      "page": 1,
+      "headings": [
+        {
+          "text": "Accenture plc Operating Income by Geographic Market",
+          "level": 2
+        },
+        {
+          "text": "Accenture plc Reconciliation of Operating Income, as Reported (GAAP) to Operating Income as Adjusted (Non-GAAP)",
+          "level": 2
+        }
+      ],
+      "tags": [
+        "heading-structure",
+        "financial",
+        "full-document-reviewed"
+      ]
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "accentures-second-quarter-fiscal-2026-earnings-press-release.pdf",
+    "source_sha256": "afe56fa6fd7c9d63158aa480cb137ee9d3bb60098becec66c5ec1cc10deb6b8e",
+    "source_page": 10,
+    "source_page_count": 13,
+    "cohort": "financial",
+    "annotation_evidence": [
+      "target_page_raster",
+      "adjacent_page_context",
+      "full_document_outline"
+    ],
+    "scoring": "next",
+    "primary_metric": "formatting_v2",
+    "headline": "feature",
+    "headline_reason": "complete page heading list (heading_structure rule)",
+    "next_version": "v0.4",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/headings.jsonl",
+    "parsebench_document": "headings/case-0016-afe56fa6fd7c.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1467373/000146737326000013/q2fy26earnings8-kexhibit.htm",
+      "accession": "0001467373-26-000013",
+      "provider": "datamulehub",
+      "sha256": "e8bdd0934bf8bbef684bf96c1cd0edc15a34f417266f81f0ba6e36e63de8ff98",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 333844,
+        "byte_end_exclusive": 393606,
+        "page_fragment_index_0based": 9
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "83a19384a798e2891549f342c5198507564b47a4146fb76954e551e3fa0f576f",
+    "input_sha256": "e0d5b9b5b06fb45245f7a6c7c65c23b3e7051f1457d28ff93ffc955535d3851b"
+  },
+  "tags": [
+    "heading-structure",
+    "financial",
+    "full-document-reviewed"
+  ]
+}

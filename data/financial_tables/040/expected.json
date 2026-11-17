@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page161",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n  <thead>\n    <tr>\n      <th><b>Milestone Achieved</b></th>\n      <th>Significance to Long-Term Strategy</th>\n      <th>Stellantis Sustainability and Future</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>European LEV sales mix at 15%<br><br><i>(achieved in 2022)</i></td>\n      <td>\n        <ul>\n          <li>European LEV sales mix &lt; 9% prior to 2021</li>\n          <li>Industry is transforming away from carbon-emitting internal combustion engines</li>\n        </ul>\n      </td>\n      <td>\n        <ul>\n          <li>Beginning of the journey to become a global leader in electrification and mobility</li>\n          <li>Drive Stellantis in the LEV (BEV/PHEV) competition to be a top player in industry</li>\n        </ul>\n      </td>\n    </tr>\n    <tr>\n      <td>First start of production of e-motors made at Nidec PSA E-motors (NPE)<br><br><i>(achieved in 2023)</i></td>\n      <td>\n        <ul>\n          <li>Starting from ground up – modify plants to produce new technology and retraining employees</li>\n          <li>Cornerstone for e-components vertical integration (not outsource like competition)</li>\n          <li>Provides highest efficiency at competitive costs</li>\n          <li>Over €93M of industrial investments to date</li>\n        </ul>\n      </td>\n      <td>\n        <ul>\n          <li>Stellantis Trémery plant first facility to produce electric motors</li>\n          <li>Aims to drive electrification growth while also meeting the needs of other automakers</li>\n        </ul>\n      </td>\n    </tr>\n    <tr>\n      <td>First start of production of eDCT electrified<br><br><i>(achieved in 2023)</i></td>\n      <td>\n        <ul>\n          <li>Starting from ground up – modify plants to produce new technology and retraining employees</li>\n          <li>Cornerstone for e-components vertical integration insource (not outsource like competition)</li>\n          <li>Provides broader availability of affordable electrified powertrains on global market</li>\n          <li>Over €57M of industrial investments to date</li>\n        </ul>\n      </td>\n      <td>\n        <ul>\n          <li>Stellantis Metz site ramping up production of 600,000 electrified dual-clutch gearboxes per year</li>\n          <li>Supply mild Hybrid Electric Vehicles and PHEV</li>\n          <li>Solution will gradually be extended to all brand models in Europe to reduce CO<sub>2</sub> emissions</li>\n        </ul>\n      </td>\n    </tr>\n    <tr>\n      <td>Achieve over 15 million Over the Air Software update of Vehicles over three years beginning 2021<br><br><i>(achieved in 2024)</i></td>\n      <td>\n        <ul>\n          <li>Increase the attractiveness and residual values of our vehicles</li>\n          <li>Controls and reduces the number of SW versions in operation</li>\n          <li>Creates revenue opportunity over the life cycle of the vehicle, an in car communication channel for CRM and cross selling</li>\n          <li>Meaningful warranty cost avoidance and customer satisfaction achieved avoiding physical recalls</li>\n        </ul>\n      </td>\n      <td>\n        <ul>\n          <li>Additional revenue opportunities over the vehicle’s life cycle</li>\n        </ul>\n      </td>\n    </tr>\n  </tbody>\n</table>\n\n## **Shareholder Return Incentive**\n\nThe Shareholder Return Incentive is directly aligned with shareholder interests as the incentive becomes vested only in the event shareholders gain at least an 80 percent return on investment. The Shareholder Return Incentive provides an equity grant of 1,000,000 PSUs to the CEO, based on the absolute TSR from the merger date to December 31, 2025.\n\nThe value of the Shareholder Return Incentive is reflected in Table 1 above under the Long-Term Incentives column.\n\n161",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Stellantis-NV-20241231-Annual-Report.pdf",
+    "source_sha256": "9ce2bdcc2dc65bb9db02380b973ef955826f18c820295ab43a1c37329682e6b1",
+    "annotated_at": "2026-08-21T17:51:15.034Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page161.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548425000013/stellantis-20241231.htm",
+      "accession": "0001605484-25-000013",
+      "provider": "datamulehub",
+      "sha256": "8c091fc8484651b8f35e9a6cb267afdc871222516a86fb13071942d8f06deab8",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 87,
+            "byte_start": 6275273,
+            "byte_end_exclusive": 6314183
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "9ce2bdcc2dc65bb9db02380b973ef955826f18c820295ab43a1c37329682e6b1",
+    "input_sha256": "c7e7d9b861352c1c09ea2540194c61295b0b0e1468f7071bccc14e2188e57ff0"
+  },
+  "tags": []
+}

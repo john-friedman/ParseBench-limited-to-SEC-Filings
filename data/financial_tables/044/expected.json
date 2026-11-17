@@ -1,0 +1,44 @@
+{
+  "id": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page29",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "## *South America Distribution*\n\nIn Brazil and Argentina, distribution is through dealers of each brand, although it is common for the same distributor to have several stores in order to offer different brands. In other countries, distribution is through multi-brands importers or dealers.\n\n## *South America Dealer and Customer Financing*\n\nIn the South America segment, we provide access to dealer and retail customer financing as well as rental products through captive finance companies and through strategic relationships with financial institutions.\n\nIn Argentina, we have a 100 percent owned captive finance company, FCA Compañia Financiera S.A. (“FCA CF”) that offers dealer and retail customer financing for the former FCA brands. In December 2024, Fidis S.p.A signed an agreement with Banco BBVA Argentina S.A. (“BBVA”) for the disposal of 50 percent of FCA CF. This transaction is subject to regulatory approvals and other customary closing conditions.\n\nIn addition, we have a 50 percent owned joint venture, PSA Finance Argentina Compañia Financiera S.A., that offers dealer and retail customer financing and leasing services for the former PSA brands (with BBVA owning the other 50 percent).\n\nIn Brazil, we have three 100 percent owned captive finance companies that offers dealer and retail customer financing and rental services with Banco Stellantis S.A. mainly focusing on dealer financing, Stellantis Financiamentos Sociedade de Credito, Financiamento e Investimento S.A. on retail financing and Stellantis Locadora de Automoveis Ltda on rental services.\n\n# ***China and India & Asia Pacific***\n\n## *China and India & Asia Pacific Sales and Competition*\n\nThe following table presents Stellantis’ vehicle sales and market share in the China and India & Asia Pacific segment:\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"6\"><b>Years ended December 31,</b></th>\n    </tr>\n    <tr>\n      <th rowspan=\"2\">China and India &amp;<br>Asia Pacific</th>\n      <th colspan=\"2\">2024<sup>(1)(5)</sup></th>\n      <th colspan=\"2\">2023<sup>(1)(5)</sup></th>\n      <th colspan=\"2\">2022<sup>(1)(5)</sup></th>\n    </tr>\n    <tr>\n      <th>Sales</th>\n      <th>Market Share</th>\n      <th>Sales</th>\n      <th>Market Share</th>\n      <th>Sales</th>\n      <th>Market Share</th>\n    </tr>\n    <tr>\n      <th colspan=\"7\"><b>Thousands of units (except percentages)</b></th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>China<sup>(2)*</sup></td>\n      <td>48</td>\n      <td>0.2%</td>\n      <td>69</td>\n      <td>0.3%</td>\n      <td>94</td>\n      <td>0.4%</td>\n    </tr>\n    <tr>\n      <td>Japan</td>\n      <td>25</td>\n      <td>0.7%</td>\n      <td>33</td>\n      <td>0.8%</td>\n      <td>34</td>\n      <td>1.0%</td>\n    </tr>\n    <tr>\n      <td>India<sup>(3)</sup></td>\n      <td>12</td>\n      <td>0.3%</td>\n      <td>17</td>\n      <td>0.4%</td>\n      <td>20</td>\n      <td>0.5%</td>\n    </tr>\n    <tr>\n      <td>Australia</td>\n      <td>11</td>\n      <td>0.9%</td>\n      <td>18</td>\n      <td>1.5%</td>\n      <td>18</td>\n      <td>1.7%</td>\n    </tr>\n    <tr>\n      <td>Asean &amp; General<br>Distributors (“AGD”)<sup>(4)</sup></td>\n      <td>11</td>\n      <td>0.3%</td>\n      <td>12</td>\n      <td>0.3%</td>\n      <td>20</td>\n      <td>0.6%</td>\n    </tr>\n    <tr>\n      <td>South Korea</td>\n      <td>4</td>\n      <td>0.2%</td>\n      <td>7</td>\n      <td>0.4%</td>\n      <td>9</td>\n      <td>0.6%</td>\n    </tr>\n    <tr>\n      <td>New Zealand</td>\n      <td>1</td>\n      <td>1.2%</td>\n      <td>3</td>\n      <td>1.8%</td>\n      <td>3</td>\n      <td>2.1%</td>\n    </tr>\n    <tr>\n      <td>China and India &amp; Asia<br>Pacific major Markets</td>\n      <td>112</td>\n      <td>0.3%</td>\n      <td>157</td>\n      <td>0.4%</td>\n      <td>198</td>\n      <td>0.6%</td>\n    </tr>\n    <tr>\n      <td>Other China and India<br>&amp; Asia Pacific</td>\n      <td>1</td>\n      <td>—%</td>\n      <td>2</td>\n      <td>—%</td>\n      <td>1</td>\n      <td>—%</td>\n    </tr>\n    <tr>\n      <td><strong><b>Total</b></strong></td>\n      <td><strong>113</strong></td>\n      <td><strong>0.3%</strong></td>\n      <td><strong>159</strong></td>\n      <td><strong>0.4%</strong></td>\n      <td><strong>199</strong></td>\n      <td><strong>0.5%</strong></td>\n    </tr>\n  </tbody>\n</table>\n** Includes Hong Kong and Taiwan*\n*(1) Estimated market share information is derived from third-party industry sources of China & Asia Pacific countries (e.g. CADA and CPCA (China PC Domestic), CATARC (China PC Import), FCAI (Australia), SIAM (India PC), JADA and JAIA (Japan), MIA (New Zealand), IHS (Thailand), MAA (Malaysia)) and internal information*\n*(2) Data include vehicles sold by our joint ventures in China for Stellantis brands*\n*(3) India market share is based on wholesale volumes*\n*(4) AGD includes Bangladesh, Brunei, Cambodia, French Polynesia, Indonesia, Laos, Malaysia, Myanmar, Nepal, New Caledonia, Philippines, Singapore, Sri Lanka, Thailand and Vietnam*",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Stellantis-NV-20241231-Annual-Report.pdf",
+    "source_sha256": "eafbeca340aa5c1c71a8afcba9e5a9a5b6003d7228e9884f31e28da082c71f57",
+    "annotated_at": "2026-08-21T17:43:30.127Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Stellantis-NV-20241231-Annual-Report-2026-08-21_page29.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1605484/000160548425000013/stellantis-20241231.htm",
+      "accession": "0001605484-25-000013",
+      "provider": "datamulehub",
+      "sha256": "8c091fc8484651b8f35e9a6cb267afdc871222516a86fb13071942d8f06deab8",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 27,
+            "byte_start": 2029873,
+            "byte_end_exclusive": 2106410
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "eafbeca340aa5c1c71a8afcba9e5a9a5b6003d7228e9884f31e28da082c71f57",
+    "input_sha256": "5b9de06ed11e6c9552b0f8e27f8e53a4ce3c8675bd3a11e4da7a9164a1d99bb1"
+  },
+  "tags": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tables/Home Depot 10-k unrestricted_page31",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th>Period</th>\n        <th>Total Number of Shares Purchased<sup>(1)</sup></th>\n        <th>Average Price Paid Per Share<sup>(1)</sup></th>\n        <th>Total Number of Shares Purchased as Part of Publicly Announced Program<sup>(2)</sup></th>\n        <th>Dollar Value of Shares that May Yet Be Purchased Under the Program<sup>(2)(3)</sup></th>\n    </tr>\n        <tr>\n        <td>October 28, 2024 – November 24, 2024</td>\n<td>8,166</td>\n<td>$ 411.08</td>\n<td>—</td>\n<td>$ 11,657,503,041</td>\n    </tr>\n<tr>\n        <td>November 25, 2024 – December 22, 2024</td>\n<td>3,650</td>\n<td>422.79</td>\n<td>—</td>\n<td>11,657,503,041</td>\n    </tr>\n<tr>\n        <td>December 23, 2024 – February 2, 2025</td>\n<td>2,694</td>\n<td>395.74</td>\n<td>—</td>\n<td>11,657,503,041</td>\n    </tr>\n<tr>\n        <td></td>\n<td>14,510</td>\n<td>411.18</td>\n<td>—</td>\n<td></td>\n    </tr>\n  </table>\n\n<table>\n      <tr>\n        <th colspan=\"2\">TABLE OF CONTENTS</th>\n    </tr>\n<tr>\n        <td>Executive Summary</td>\n<td>28</td>\n    </tr>\n<tr>\n        <td>Results of Operations</td>\n<td>29</td>\n    </tr>\n<tr>\n        <td>Liquidity and Capital Resources</td>\n<td>31</td>\n    </tr>\n<tr>\n        <td>Critical Accounting Estimates</td>\n<td>34</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Home Depot 10-k unrestricted_page31.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000085/hd-20250202.htm",
+      "accession": "0000354950-25-000085",
+      "provider": "datamulehub",
+      "sha256": "cff28db2d142e0e74a2f6460460c9a150d26933fac043782cf790360ca1f0057",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 42,
+            "byte_start": 584872,
+            "byte_end_exclusive": 595969
+          },
+          {
+            "table_index_0based": 43,
+            "byte_start": 602209,
+            "byte_end_exclusive": 606377
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "d78e8b797c3d110a8fd96224fe4f7f0257e04f68f480609576d0bfb3f81550e6",
+    "input_sha256": "f2bb7a15912936a5e28da66840456804a3132be9eb890a4c43adf71e34cb78bf"
+  },
+  "tags": []
+}

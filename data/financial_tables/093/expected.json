@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/oralb-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "<page_header>The Procter & Gamble Company<page_number>11</page_number><page_header>\n\n**INFORMATION ABOUT OUR EXECUTIVE OFFICERS**\n\nThe names, ages and positions held by the Executive Officers of the Company on August 4, 2025, are:\n\n<table>\n  <thead>\n    <tr>\n      <th>Name</th>\n      <th>Position</th>\n      <th>Age</th>\n      <th>First Elected to Officer Position</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Jon R. Moeller</td>\n      <td>Chairman of the Board, President and Chief Executive Officer</td>\n      <td>61</td>\n      <td>2009 <sup>(1)</sup></td>\n    </tr>\n    <tr>\n      <td>Shailesh Jejurikar</td>\n      <td>Chief Operating Officer</td>\n      <td>58</td>\n      <td>2018 <sup>(2)</sup></td>\n    </tr>\n    <tr>\n      <td>Andre Schulten</td>\n      <td>Chief Financial Officer</td>\n      <td>54</td>\n      <td>2021 <sup>(3)</sup></td>\n    </tr>\n    <tr>\n      <td>Gary A. Coombe</td>\n      <td>Chief Executive Officer - Grooming</td>\n      <td>61</td>\n      <td>2014</td>\n    </tr>\n    <tr>\n      <td>Jennifer L. Davis</td>\n      <td>Chief Executive Officer - Health Care</td>\n      <td>54</td>\n      <td>2022 <sup>(4)</sup></td>\n    </tr>\n    <tr>\n      <td>Ma. Fatima D. Francisco</td>\n      <td>Chief Executive Officer - Baby, Feminine and Family Care</td>\n      <td>57</td>\n      <td>2018 <sup>(5)</sup></td>\n    </tr>\n    <tr>\n      <td>R. Alexandra Keith</td>\n      <td>Chief Executive Officer - Beauty and Executive Sponsor for Corporate Sustainability</td>\n      <td>57</td>\n      <td>2017 <sup>(6)</sup></td>\n    </tr>\n    <tr>\n      <td>Sundar Raman</td>\n      <td>Chief Executive Officer - Fabric and Home Care</td>\n      <td>50</td>\n      <td>2021 <sup>(7)</sup></td>\n    </tr>\n    <tr>\n      <td>Victor Aguilar</td>\n      <td>Chief Research, Development and Innovation Officer</td>\n      <td>58</td>\n      <td>2020 <sup>(8)</sup></td>\n    </tr>\n    <tr>\n      <td>Marc S. Pritchard</td>\n      <td>Chief Brand Officer</td>\n      <td>65</td>\n      <td>2008</td>\n    </tr>\n    <tr>\n      <td>Balaji Purushothaman</td>\n      <td>Chief Human Resources Officer</td>\n      <td>56</td>\n      <td>2023 <sup>(9)</sup></td>\n    </tr>\n    <tr>\n      <td>Susan Street Whaley</td>\n      <td>Chief Legal Officer and Secretary</td>\n      <td>51</td>\n      <td>2022 <sup>(10)</sup></td>\n    </tr>\n  </tbody>\n</table>\n\nAll the Executive Officers named above have been employed by the Company for more than the past five years.\n\n<sup>(1)</sup> Mr. Moeller previously served as President and Chief Executive Officer (2021 - 2022), Vice Chairman, Chief Operating Officer and Chief Financial Officer (2019 - 2021), Vice Chairman and Chief Financial Officer (2017 - 2019) and as Chief Financial Officer (2009 - 2017).\n\n<sup>(2)</sup> Mr. Jejurikar previously served as Chief Executive Officer - Fabric and Home Care (2019 - 2021).\n\n<sup>(3)</sup> Mr. Schulten previously served as Senior Vice President - Baby Care, North America (2018 - 2021).\n\n<sup>(4)</sup> Ms. Davis previously served as President - Feminine Care (2019 - 2022).\n\n<sup>(5)</sup> Ms. Francisco previously served as Chief Executive Officer - Baby and Feminine Care (2019 - 2021).\n\n<sup>(6)</sup> Ms. Keith previously served as Chief Executive Officer - Beauty (2017 - 2022).\n\n<sup>(7)</sup> Mr. Raman previously served as President - Home Care and P&G Professional (2020 - 2021) and President - Fabric Care, North America and P&G Professional (2019 - 2020).\n\n<sup>(8)</sup> Mr. Aguilar previously served as Senior Vice President - Research & Development, Corporate Function Research & Development (2020).\n\n<sup>(9)</sup> Mr. Purushothaman previously served as Senior Vice President - Human Resources, Global Total Rewards, Employee and Labor Relations and Corporate Services (2020 - 2022) and as Senior Vice President - Human Resources, Beauty, Grooming and Family Care (2015 - 2020).\n\n<sup>(10)</sup> Ms. Whaley previously served as Senior Vice President and General Counsel - North America, Practice Groups and Sector Business Units (2019 - 2022).",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "oralb.pdf",
+    "source_sha256": "a0f4c3694459eec5855e6fd793051bfdf1b11e75fc0e9d2b056e8c02b5b0ad68",
+    "annotated_at": "2026-08-14T09:32:03.177Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/oralb-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/80424/000119312525191752/d879413dars.pdf",
+      "accession": "0001193125-25-191752",
+      "provider": "datamulehub",
+      "sha256": "f03516f76f3a291574339918478119ea1b875146a2d3d6c4708ddef908cc0272",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 22,
+        "source_page_count": 92
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "a0f4c3694459eec5855e6fd793051bfdf1b11e75fc0e9d2b056e8c02b5b0ad68",
+    "input_sha256": "2aff74536ebe44d137df7f116670566fcdf8f713d6f37a7566c53386795e33fd"
+  },
+  "tags": []
+}

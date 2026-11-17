@@ -1,0 +1,341 @@
+{
+  "id": "dense_tables/dense_table_492",
+  "subset": "dense_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# NVIDIA CORPORATION AND SUBSIDIARIES\n# CONSOLIDATED STATEMENTS OF CASH FLOWS\n(In millions)\n\n<table>\n<thead>\n<tr><th></th><th colspan=\"3\">Year Ended</th></tr>\n<tr><th></th><th>January 30, 2022</th><th>January 31, 2021</th><th>January 26, 2020</th></tr>\n</thead>\n<tbody>\n<tr><td>Cash flows from operating activities:</td><td></td><td></td><td></td></tr>\n<tr><td>Net income</td><td>$ 9,752</td><td>$ 4,332</td><td>$ 2,796</td></tr>\n<tr><td>Adjustments to reconcile net income to net cash provided by operating activities:</td><td></td><td></td><td></td></tr>\n<tr><td>Stock-based compensation expense</td><td>2,004</td><td>1,397</td><td>844</td></tr>\n<tr><td>Depreciation and amortization</td><td>1,174</td><td>1,098</td><td>381</td></tr>\n<tr><td>Deferred income taxes</td><td>(406)</td><td>(282)</td><td>18</td></tr>\n<tr><td>(Gains) losses on investments in non-affiliates, net</td><td>(100)</td><td>—</td><td>1</td></tr>\n<tr><td>Other</td><td>47</td><td>(20)</td><td>4</td></tr>\n<tr><td>Changes in operating assets and liabilities, net of acquisitions:</td><td></td><td></td><td></td></tr>\n<tr><td>Accounts receivable</td><td>(2,215)</td><td>(550)</td><td>(233)</td></tr>\n<tr><td>Inventories</td><td>(774)</td><td>(524)</td><td>597</td></tr>\n<tr><td>Prepaid expenses and other assets</td><td>(1,715)</td><td>(394)</td><td>77</td></tr>\n<tr><td>Accounts payable</td><td>568</td><td>312</td><td>194</td></tr>\n<tr><td>Accrued and other current liabilities</td><td>581</td><td>290</td><td>54</td></tr>\n<tr><td>Other long-term liabilities</td><td>192</td><td>163</td><td>28</td></tr>\n<tr><td>Net cash provided by operating activities</td><td>9,108</td><td>5,822</td><td>4,761</td></tr>\n<tr><td>Cash flows from investing activities:</td><td></td><td></td><td></td></tr>\n<tr><td>Proceeds from maturities of marketable securities</td><td>15,197</td><td>8,792</td><td>4,744</td></tr>\n<tr><td>Proceeds from sales of marketable securities</td><td>1,023</td><td>527</td><td>3,365</td></tr>\n<tr><td>Purchases of marketable securities</td><td>(24,787)</td><td>(19,308)</td><td>(1,461)</td></tr>\n<tr><td>Purchases related to property and equipment and intangible assets</td><td>(976)</td><td>(1,128)</td><td>(489)</td></tr>\n<tr><td>Acquisitions, net of cash acquired</td><td>(263)</td><td>(8,524)</td><td>(4)</td></tr>\n<tr><td>Investments and other, net</td><td>(24)</td><td>(34)</td><td>(10)</td></tr>\n<tr><td>Net cash provided by (used in) investing activities</td><td>(9,830)</td><td>(19,675)</td><td>6,145</td></tr>\n<tr><td>Cash flows from financing activities:</td><td></td><td></td><td></td></tr>\n<tr><td>Issuance of debt, net of issuance costs</td><td>4,977</td><td>4,968</td><td>—</td></tr>\n<tr><td>Proceeds related to employee stock plans</td><td>281</td><td>194</td><td>149</td></tr>\n<tr><td>Payments related to tax on restricted stock units</td><td>(1,904)</td><td>(942)</td><td>(551)</td></tr>\n<tr><td>Repayment of debt</td><td>(1,000)</td><td>—</td><td>—</td></tr>\n<tr><td>Dividends paid</td><td>(399)</td><td>(395)</td><td>(390)</td></tr>\n<tr><td>Principal payments on property and equipment</td><td>(83)</td><td>(17)</td><td>—</td></tr>\n<tr><td>Other</td><td>(7)</td><td>(4)</td><td>—</td></tr>\n<tr><td>Net cash provided by (used in) financing activities</td><td>1,865</td><td>3,804</td><td>(792)</td></tr>\n<tr><td>Change in cash and cash equivalents</td><td>1,143</td><td>(10,049)</td><td>10,114</td></tr>\n<tr><td>Cash and cash equivalents at beginning of period</td><td>847</td><td>10,896</td><td>782</td></tr>\n<tr><td>Cash and cash equivalents at end of period</td><td>$ 1,990</td><td>$ 847</td><td>$ 10,896</td></tr>\n<tr><td>Supplemental disclosures of cash flow information:</td><td></td><td></td><td></td></tr>\n<tr><td>Cash paid for income taxes, net</td><td>$ 396</td><td>$ 249</td><td>$ 176</td></tr>\n<tr><td>Cash paid for interest</td><td>$ 246</td><td>$ 138</td><td>$ 54</td></tr>\n</tbody>\n</table>\n\nSee accompanying notes to the consolidated financial statements.\n\n51",
+  "test_rules": [
+    {
+      "type": "table_colspan",
+      "cell": "year ended",
+      "expected_colspan": 3,
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_6ab0d76c10711532"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "cash flows from operating activities:",
+      "expected_neighbor": "net income",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_798fac06a1a51142"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "accounts receivable",
+      "expected_neighbor": "(2,215)",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_13f01cb6bd873eea"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "(2,215)",
+      "expected_neighbor": "(550)",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_04e52840905750aa"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "(233)",
+      "expected_neighbor": "597",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_dd1fc32fa8f5b79e"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "purchases of marketable securities",
+      "expected_neighbor": "(24,787)",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_b895d71aeee6591a"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "(24,787)",
+      "expected_neighbor": "(19,308)",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_42cb78db3f461470"
+    },
+    {
+      "type": "table_adjacent_down",
+      "anchor_cell": "(1,461)",
+      "expected_neighbor": "(489)",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_cedd1a947ff4eba9"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "repayment of debt",
+      "expected_neighbor": "(1,000)",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_6c5e58e524792457"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "(1,000)",
+      "expected_neighbor": "-",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_f44540b19ae8ece6"
+    },
+    {
+      "type": "table_adjacent_right",
+      "anchor_cell": "cash paid for interest",
+      "expected_neighbor": "$ 246",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_f3405d76688dc2a7"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "purchases of marketable securities",
+      "cell_b": "(1,461)",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_41970433dee5238f"
+    },
+    {
+      "type": "table_same_row",
+      "cell_a": "cash paid for interest",
+      "cell_b": "$ 54",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_67c1d398a483af16"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "january 30, 2022",
+      "cell_b": "$ 246",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_3779383e5d6ca2f6"
+    },
+    {
+      "type": "table_same_column",
+      "cell_a": "january 26, 2020",
+      "cell_b": "$ 54",
+      "table_anchor_cells": [
+        "january 30, 2022",
+        "january 31, 2021",
+        "january 26, 2020",
+        "year ended",
+        "adjustments to reconcile net income to net cash provided by operating activities:"
+      ],
+      "page": 1,
+      "pdf": "dense_table_492.pdf",
+      "verified": false,
+      "id": "dense_v01_0e3dc07a29fc81fc"
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "dataset": "dense_tables",
+    "id": "dense_table_492",
+    "gt_status": "reannotated_confirmed",
+    "gt_source": "../investigations/2026-09-15-agentic-run/outputs/dense_table_492.md",
+    "source_pdf": "/Users/pierre/Code/pdfDataSetOrdered/nvidia/2022-annual-report-insert-web-IR-update.pdf",
+    "source_page": 163,
+    "source_n_pages": 200,
+    "extraction": "page_extracted_pymupdf",
+    "scanner": {
+      "score": 146.0,
+      "rows": 32,
+      "cols": 5,
+      "cells": 132,
+      "fill": 0.825,
+      "numeric_ratio": 0.689,
+      "n_items": 157,
+      "tabular_line_ratio": 0.729,
+      "n_blocks": 1
+    },
+    "shape_class": "narrow/numeric/portrait",
+    "verify": {
+      "median_cell_len": 5,
+      "words_per_cell": 1.98,
+      "aligned_ratio": 0.833,
+      "row_coverage": 0.667,
+      "text_sha1": "ddf1e580755975ff93fc55fa190aee59ed631e27"
+    },
+    "header_preview": "Stock-based compensation expense | 2,004 | 1,397 | 844",
+    "draft_check": {
+      "text_layer_numbers": 95,
+      "numeric_coverage": 1.0
+    },
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "diagnostic_metrics": [
+      "table_adjacent_right",
+      "table_adjacent_down",
+      "table_header_chain",
+      "table_same_row"
+    ],
+    "next_version": "v0.3",
+    "previous_gt_status": "draft_ours_agentic_2026-09-15_unreviewed",
+    "annotation": {
+      "date": "2026-10-25",
+      "method": "claude-opus-5-5 transcription from the page image (full page + high-resolution tiles) and the PDF text layer; independent of every parser",
+      "checks": {
+        "blind_reread_cell_agreement": 1.0,
+        "blind_rows": 10,
+        "text_layer_token_precision": 1.0,
+        "text_layer_token_recall": 1.0,
+        "agreement_with_previous_reference_table_next": 1.0
+      },
+      "review": null,
+      "symbol_cells": false
+    },
+    "rule_mining": {
+      "status": "ok",
+      "self_check_failures": 0
+    },
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/dense_tables.jsonl",
+    "parsebench_document": "dense_tables/dense_table_492.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000036/nvda-20220130.htm",
+      "accession": "0001045810-22-000036",
+      "provider": "datamulehub",
+      "sha256": "75a6fe236c978cb8c926993ca1170a103a20ce79bcad09816bc5713040406791",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 19,
+            "byte_start": 1057574,
+            "byte_end_exclusive": 1176433
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "c8a58f16a2cb4f077d6a8d1bb8fed73fcad65d1908124d95ca97240425a73169",
+    "input_sha256": "bcf28effbf60e2325252c7012825028d7bd9f791cb5b3ec1f21c47f82e74fe31"
+  },
+  "tags": [
+    "dense_table",
+    "narrow_columns",
+    "numeric_content",
+    "portrait",
+    "gt_draft"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "financial_tables/shell4-2026-08-14_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<page_header>Strategic Report | Performance in the year</page_header>\n\n## Generating shareholder value | Chemicals and Products continued\n\nOil Sands\n\nSynthetic crude oil is produced by mining bitumen-saturated sands, extracting the bitumen and transporting it to a processing facility where hydrogen is added to make a wide range of feedstocks for refineries. The Athabasca Oil Sands Project (AOSP) in Alberta, Canada, includes the Albian Sands mining and extraction operations, the Scotford upgrader and the Quest CCS project.\n\nWe have a 50% interest in 1745844 Alberta Ltd. (formerly known as Marathon Oil Canada Corporation), which holds a 20% interest in the Athabasca Oil Sands Project.\n\n### Chemicals and Products data tables\n\nThe tables below reflect Shell subsidiaries and instances where Shell owns the crude oil or feedstocks processed by a refinery. Other joint ventures and associates are only included where explicitly stated.\n\n**Refining & Trading sales volumes [A][B]**\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"4\">Thousand b/d</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>2023</th>\n      <th>2022</th>\n      <th>2021</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Europe</td>\n      <td>809</td>\n      <td>830</td>\n      <td>426</td>\n    </tr>\n    <tr>\n      <td>Asia</td>\n      <td>324</td>\n      <td>377</td>\n      <td>870</td>\n    </tr>\n    <tr>\n      <td>Africa</td>\n      <td>27</td>\n      <td>39</td>\n      <td>47</td>\n    </tr>\n    <tr>\n      <td>Americas</td>\n      <td>410</td>\n      <td>454</td>\n      <td>683</td>\n    </tr>\n    <tr>\n      <td>Total</td>\n      <td>1,570</td>\n      <td>1,700</td>\n      <td>2,026</td>\n    </tr>\n    <tr>\n      <td>Gasolines</td>\n      <td>293</td>\n      <td>410</td>\n      <td>551</td>\n    </tr>\n    <tr>\n      <td>Kerosenes</td>\n      <td>124</td>\n      <td>117</td>\n      <td>123</td>\n    </tr>\n    <tr>\n      <td>Gas/Diesel oils</td>\n      <td>642</td>\n      <td>616</td>\n      <td>735</td>\n    </tr>\n    <tr>\n      <td>Fuel oil</td>\n      <td>232</td>\n      <td>270</td>\n      <td>337</td>\n    </tr>\n    <tr>\n      <td>Other products [C]</td>\n      <td>279</td>\n      <td>287</td>\n      <td>280</td>\n    </tr>\n    <tr>\n      <td>Total</td>\n      <td>1,570</td>\n      <td>1,700</td>\n      <td>2,026</td>\n    </tr>\n  </tbody>\n</table>\n\n[A] Excludes deliveries to other companies under reciprocal sale and purchase arrangements, that are in the nature of exchanges. Sales of condensate are included.\n\n[B] Certain contracts are held for trading purposes and reported net rather than gross. The effect in 2023 was a reduction in refining and trading sales of around 1,202 thousand b/d (2022: 1,197 thousand b/d; 2021: 1,127 thousand b/d).\n\n[C] Includes LPG sales volumes of 70 thousand b/d (2022: 67 thousand b/d; 2021: 81 thousand b/d).\n\n**Cost of crude oil processed or consumed [A]**\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"3\"></th>\n      <th>$/barrel</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>2023</th>\n      <th>2022</th>\n      <th>2021</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Total</td>\n      <td>71.13</td>\n      <td>84.39</td>\n      <td>60.51</td>\n    </tr>\n  </tbody>\n</table>\n\n[A] Includes Upstream and Integrated Gas margins on crude oil supplied by Shell subsidiaries, joint ventures and associates.\n\n**Crude distillation capacity [A]**\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"4\">Thousand b/stream day [B]</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>2023</th>\n      <th>2022</th>\n      <th>2021</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Europe</td>\n      <td>975</td>\n      <td>990</td>\n      <td>1,023</td>\n    </tr>\n    <tr>\n      <td>Asia</td>\n      <td>237</td>\n      <td>237</td>\n      <td>307</td>\n    </tr>\n    <tr>\n      <td>Africa</td>\n      <td>—</td>\n      <td>23</td>\n      <td>90</td>\n    </tr>\n    <tr>\n      <td>Americas</td>\n      <td>435</td>\n      <td>449</td>\n      <td>729</td>\n    </tr>\n    <tr>\n      <td>Total</td>\n      <td>1,646</td>\n      <td>1,698</td>\n      <td>2,149</td>\n    </tr>\n  </tbody>\n</table>\n\n[A] Average operating capacity for the year, excluding mothballed capacity. [B] Stream day capacity is the maximum capacity with no allowance for downtime.\n\n**Crude oil processed [A]**\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"4\" style=\"text-align: right;\">Thousand b/d</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>2023</th>\n      <th>2022</th>\n      <th>2021</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Europe</td>\n      <td>732</td>\n      <td>715</td>\n      <td>761</td>\n    </tr>\n    <tr>\n      <td>Asia</td>\n      <td>168</td>\n      <td>184</td>\n      <td>223</td>\n    </tr>\n    <tr>\n      <td>Africa</td>\n      <td>—</td>\n      <td>16</td>\n      <td>57</td>\n    </tr>\n    <tr>\n      <td>Americas</td>\n      <td>322</td>\n      <td>353</td>\n      <td>455</td>\n    </tr>\n    <tr>\n      <td>Total</td>\n      <td>1,222</td>\n      <td>1,268</td>\n      <td>1,496</td>\n    </tr>\n  </tbody>\n</table>\n\n[A] Includes natural gas liquids, share of joint ventures and associates and processing for others.\n\n**Refinery processing intake [A]**\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"4\">Thousand b/d</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>2023</th>\n      <th>2022</th>\n      <th>2021</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Crude oil</td>\n      <td>1,222</td>\n      <td>1,267</td>\n      <td>1,496</td>\n    </tr>\n    <tr>\n      <td>Feedstocks</td>\n      <td>127</td>\n      <td>135</td>\n      <td>143</td>\n    </tr>\n    <tr>\n      <td>Total</td>\n      <td>1,349</td>\n      <td>1,402</td>\n      <td>1,639</td>\n    </tr>\n    <tr>\n      <td>Europe</td>\n      <td>764</td>\n      <td>763</td>\n      <td>806</td>\n    </tr>\n    <tr>\n      <td>Asia</td>\n      <td>171</td>\n      <td>184</td>\n      <td>225</td>\n    </tr>\n    <tr>\n      <td>Africa</td>\n      <td>—</td>\n      <td>16</td>\n      <td>57</td>\n    </tr>\n    <tr>\n      <td>Americas</td>\n      <td>414</td>\n      <td>439</td>\n      <td>551</td>\n    </tr>\n    <tr>\n      <td>Total</td>\n      <td>1,349</td>\n      <td>1,402</td>\n      <td>1,639</td>\n    </tr>\n  </tbody>\n</table>\n\n[A] Includes crude oil, natural gas liquids and feedstocks processed in crude distillation units and in secondary conversion units.\n\n**Refinery processing outturn [A]**\n\n<table>\n  <thead>\n    <tr>\n      <th colspan=\"4\">Thousand b/d</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>2023</th>\n      <th>2022</th>\n      <th>2021</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Gasolines</td>\n      <td>489</td>\n      <td>477</td>\n      <td>624</td>\n    </tr>\n    <tr>\n      <td>Kerosenes</td>\n      <td>168</td>\n      <td>166</td>\n      <td>141</td>\n    </tr>\n    <tr>\n      <td>Gas/Diesel oils</td>\n      <td>516</td>\n      <td>512</td>\n      <td>611</td>\n    </tr>\n    <tr>\n      <td>Fuel oil</td>\n      <td>88</td>\n      <td>90</td>\n      <td>108</td>\n    </tr>\n    <tr>\n      <td>Other</td>\n      <td>149</td>\n      <td>193</td>\n      <td>258</td>\n    </tr>\n    <tr>\n      <td>Total</td>\n      <td>1,410</td>\n      <td>1,438</td>\n      <td>1,742</td>\n    </tr>\n  </tbody>\n</table>\n\n[A] Excludes own use and products acquired for blending purposes.\n\n<page_footer>\n<page_number>71</page_number>\nShell Annual Report and Accounts 2023\n</page_footer>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "shell4.pdf",
+    "source_sha256": "59671fb162a74b309d5e3fc705786444da3685067bb781408c3c0e2552558e58",
+    "annotated_at": "2026-08-14T14:08:16.338Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/shell4-2026-08-14_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1306965/000130696524000026/shel-20231231.htm",
+      "accession": "0001306965-24-000026",
+      "provider": "datamulehub",
+      "sha256": "5f3ee281b91f4890644227b558e4f10fe7f92804b09681160fdb4425b4392544",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 214,
+            "byte_start": 2305195,
+            "byte_end_exclusive": 2317919
+          },
+          {
+            "table_index_0based": 216,
+            "byte_start": 2319902,
+            "byte_end_exclusive": 2322461
+          },
+          {
+            "table_index_0based": 218,
+            "byte_start": 2323590,
+            "byte_end_exclusive": 2330222
+          },
+          {
+            "table_index_0based": 220,
+            "byte_start": 2331521,
+            "byte_end_exclusive": 2338138
+          },
+          {
+            "table_index_0based": 222,
+            "byte_start": 2339078,
+            "byte_end_exclusive": 2348752
+          },
+          {
+            "table_index_0based": 224,
+            "byte_start": 2349726,
+            "byte_end_exclusive": 2357379
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "59671fb162a74b309d5e3fc705786444da3685067bb781408c3c0e2552558e58",
+    "input_sha256": "c5252d936a965980c37905b3ad04488ba9e14eeca48b630b79159b73574a341c"
+  },
+  "tags": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tables/Coca Cola 10-k_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th>Title of each class</th>\n        <th>Trading Symbol(s)</th>\n        <th>Name of each exchange on which registered</th>\n    </tr>\n        <tr>\n        <td>Common Stock, $0.25 Par Value</td>\n<td>KO</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>1.875% Notes Due 2026</td>\n<td>KO26</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>0.750% Notes Due 2026</td>\n<td>KO26C</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>1.125% Notes Due 2027</td>\n<td>KO27</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>0.125% Notes Due 2029</td>\n<td>KO29A</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>0.125% Notes Due 2029</td>\n<td>KO29B</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>0.400% Notes Due 2030</td>\n<td>KO30B</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>1.250% Notes Due 2031</td>\n<td>KO31</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>3.125% Notes Due 2032</td>\n<td>KO32</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>0.375% Notes Due 2033</td>\n<td>KO33</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>0.500% Notes Due 2033</td>\n<td>KO33A</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>1.625% Notes Due 2035</td>\n<td>KO35</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>1.100% Notes Due 2036</td>\n<td>KO36</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>0.950% Notes Due 2036</td>\n<td>KO36A</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>3.375% Notes Due 2037</td>\n<td>KO37</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>0.800% Notes Due 2040</td>\n<td>KO40B</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>1.000% Notes Due 2041</td>\n<td>KO41</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>3.500% Notes Due 2044</td>\n<td>KO44</td>\n<td>New York Stock Exchange</td>\n    </tr>\n<tr>\n        <td>3.750% Notes Due 2053</td>\n<td>KO53</td>\n<td>New York Stock Exchange</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Coca Cola 10-k_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231.htm",
+      "accession": "0000021344-25-000011",
+      "provider": "datamulehub",
+      "sha256": "53b4326879bbec609a92485c7bab2e584e25372d805253cf6f89be5f3f656f6c",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 3,
+            "byte_start": 355350,
+            "byte_end_exclusive": 374998
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ca9e4ec73d5193bc0ae1ddc7cc03641640dd89b5ac3115602411dd23182f32cd",
+    "input_sha256": "b6a4368d969e7b5cf813b535d19262018f5bcfe315d59cf530d2f033a6b20818"
+  },
+  "tags": []
+}

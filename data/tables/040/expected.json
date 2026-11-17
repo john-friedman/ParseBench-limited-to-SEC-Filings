@@ -1,0 +1,40 @@
+{
+  "id": "tables/Goldman Sachs 10-k_page74",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n<thead>\n      <tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">As of December</th>\n    </tr>\n        <tr>\n        <th>$ in millions</th>\n        <th>2024</th>\n        <th>2023</th>\n    </tr>\n</thead>\n<tbody>\n        <tr>\n        <td class=\"\">Global Banking &amp; Markets</td>\n<td>$1,420,142</td>\n<td>$1,381,247</td>\n    </tr>\n<tr>\n        <td class=\"\">Asset &amp; Wealth Management</td>\n<td>193,328</td>\n<td>191,863</td>\n    </tr>\n<tr>\n        <td class=\"\">Platform Solutions</td>\n<td>62,502</td>\n<td>68,484</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>$1,675,972</td>\n<td>$1,641,594</td>\n    </tr>\n</tbody>\n  </table>\n\n<table>\n<thead>\n      <tr>\n        <td class=\"\"></td>\n        <th colspan=\"3\">Year Ended December</th>\n    </tr>\n        <tr>\n        <th>$ in millions</th>\n        <th>2024</th>\n        <th>2023</th>\n        <th>2022</th>\n    </tr>\n</thead>\n<tbody>\n        <tr>\n        <td class=\"\">Global Banking &amp; Markets</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Net revenues</td>\n<td>$ 34,943</td>\n<td>$ 29,996</td>\n<td>$ 32,487</td>\n    </tr>\n<tr>\n        <td class=\"\">Provision for credit losses</td>\n<td>40</td>\n<td>401</td>\n<td>468</td>\n    </tr>\n<tr>\n        <td class=\"\">Compensation and benefits expenses</td>\n<td>9,426</td>\n<td>8,571</td>\n<td>8,661</td>\n    </tr>\n<tr>\n        <td class=\"\">Other operating expenses</td>\n<td>10,554</td>\n<td>9,469</td>\n<td>9,190</td>\n    </tr>\n<tr>\n        <td class=\"\">Total operating expenses</td>\n<td>19,980</td>\n<td>18,040</td>\n<td>17,851</td>\n    </tr>\n<tr>\n        <td class=\"\">Pre-tax earnings</td>\n<td>$ 14,923</td>\n<td>$ 11,555</td>\n<td>$ 14,168</td>\n    </tr>\n<tr>\n        <td class=\"\">Net earnings to common</td>\n<td>$ 10,998</td>\n<td>$ 8,703</td>\n<td>$ 11,458</td>\n    </tr>\n<tr>\n        <td class=\"\">Average common equity</td>\n<td>$ 75,796</td>\n<td>$ 71,863</td>\n<td>$ 69,951</td>\n    </tr>\n<tr>\n        <td class=\"\">Return on average common equity</td>\n<td>14.5%</td>\n<td>12.1%</td>\n<td>16.4%</td>\n    </tr>\n<tr>\n        <td class=\"\">Asset &amp; Wealth Management</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Net revenues</td>\n<td>$ 16,142</td>\n<td>$ 13,880</td>\n<td>$ 13,376</td>\n    </tr>\n<tr>\n        <td class=\"\">Provision for credit losses</td>\n<td>(232)</td>\n<td>(508)</td>\n<td>519</td>\n    </tr>\n<tr>\n        <td class=\"\">Compensation and benefits expenses</td>\n<td>6,595</td>\n<td>6,144</td>\n<td>5,927</td>\n    </tr>\n<tr>\n        <td class=\"\">Other operating expenses</td>\n<td>5,230</td>\n<td>6,885</td>\n<td>5,623</td>\n    </tr>\n<tr>\n        <td class=\"\">Total operating expenses</td>\n<td>11,825</td>\n<td>13,029</td>\n<td>11,550</td>\n    </tr>\n<tr>\n        <td class=\"\">Pre-tax earnings</td>\n<td>$ 4,549</td>\n<td>$ 1,359</td>\n<td>$ 1,307</td>\n    </tr>\n<tr>\n        <td class=\"\">Net earnings to common</td>\n<td>$ 3,386</td>\n<td>$ 952</td>\n<td>$ 979</td>\n    </tr>\n<tr>\n        <td class=\"\">Average common equity</td>\n<td>$ 26,405</td>\n<td>$ 30,078</td>\n<td>$ 31,762</td>\n    </tr>\n<tr>\n        <td class=\"\">Return on average common equity</td>\n<td>12.8%</td>\n<td>3.2%</td>\n<td>3.1%</td>\n    </tr>\n<tr>\n        <td class=\"\">Platform Solutions</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Net revenues</td>\n<td>$ 2,427</td>\n<td>$ 2,378</td>\n<td>$ 1,502</td>\n    </tr>\n<tr>\n        <td class=\"\">Provision for credit losses</td>\n<td>1,540</td>\n<td>1,135</td>\n<td>1,728</td>\n    </tr>\n<tr>\n        <td class=\"\">Compensation and benefits expenses</td>\n<td>685</td>\n<td>784</td>\n<td>560</td>\n    </tr>\n<tr>\n        <td class=\"\">Other operating expenses</td>\n<td>1,277</td>\n<td>2,634</td>\n<td>1,203</td>\n    </tr>\n<tr>\n        <td class=\"\">Total operating expenses</td>\n<td>1,962</td>\n<td>3,418</td>\n<td>1,763</td>\n    </tr>\n<tr>\n        <td class=\"\">Pre-tax earnings/(loss)</td>\n<td>$ (1,075)</td>\n<td>$ (2,175)</td>\n<td>$ (1,989)</td>\n    </tr>\n<tr>\n        <td class=\"\">Net earnings/(loss) to common</td>\n<td>$ (859)</td>\n<td>$ (1,748)</td>\n<td>$ (1,673)</td>\n    </tr>\n<tr>\n        <td class=\"\">Average common equity</td>\n<td>$ 4,573</td>\n<td>$ 3,863</td>\n<td>$ 3,574</td>\n    </tr>\n<tr>\n        <td class=\"\">Return on average common equity</td>\n<td>(18.8)%</td>\n<td>(45.2)%</td>\n<td>(46.8)%</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Net revenues</td>\n<td>$ 53,512</td>\n<td>$ 46,254</td>\n<td>$ 47,365</td>\n    </tr>\n<tr>\n        <td class=\"\">Provision for credit losses</td>\n<td>1,348</td>\n<td>1,028</td>\n<td>2,715</td>\n    </tr>\n<tr>\n        <td class=\"\">Compensation and benefits expenses</td>\n<td>16,706</td>\n<td>15,499</td>\n<td>15,148</td>\n    </tr>\n<tr>\n        <td class=\"\">Other operating expenses</td>\n<td>17,061</td>\n<td>18,988</td>\n<td>16,016</td>\n    </tr>\n<tr>\n        <td class=\"\">Total operating expenses</td>\n<td>33,767</td>\n<td>34,487</td>\n<td>31,164</td>\n    </tr>\n<tr>\n        <td class=\"\">Pre-tax earnings</td>\n<td>$ 18,397</td>\n<td>$ 10,739</td>\n<td>$ 13,486</td>\n    </tr>\n<tr>\n        <td class=\"\">Net earnings to common</td>\n<td>$ 13,525</td>\n<td>$ 7,907</td>\n<td>$ 10,764</td>\n    </tr>\n<tr>\n        <td class=\"\">Average common equity</td>\n<td>$106,774</td>\n<td>$105,804</td>\n<td>$105,287</td>\n    </tr>\n<tr>\n        <td class=\"\">Return on average common equity</td>\n<td>12.7%</td>\n<td>7.5%</td>\n<td>10.2%</td>\n    </tr>\n</tbody>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Goldman Sachs 10-k_page74.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "d554e0a5bf3de29bb63f28f76d693d7cc759f6dcde34d6a8657a6ee6d3580a24",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 90,
+            "byte_start": 2056023,
+            "byte_end_exclusive": 2062898
+          },
+          {
+            "table_index_0based": 91,
+            "byte_start": 2064324,
+            "byte_end_exclusive": 2132204
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "89b56efc3c045099110378f5860fb86b0a6302e0f450e9fb1b0c0921d8d0b0da",
+    "input_sha256": "cd6971b0ffd410e83051356b06bcf7078ddfedb4f99b70fd856f1f0651df124d"
+  },
+  "tags": []
+}

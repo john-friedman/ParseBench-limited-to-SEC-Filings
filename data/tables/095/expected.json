@@ -1,0 +1,35 @@
+{
+  "id": "tables/walmart-earnings-release-fy24-q4__p4_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th>Sam's Club U.S.</th>\n        <th>FY'24Q4</th>\n        <th>FY'23Q4</th>\n        <th colspan=\"2\">Change</th>\n        <th>FY'24</th>\n        <th>FY'23</th>\n        <th colspan=\"2\">Change</th>\n    </tr>\n        <tr>\n        <td>Net sales</td>\n<td>$21.9</td>\n<td>$21.4</td>\n<td>$0.4</td>\n<td>2.0%</td>\n<td>$86.2</td>\n<td>$84.3</td>\n<td>$1.8</td>\n<td>2.2%</td>\n    </tr>\n<tr>\n        <td>Net sales (ex. fuel)</td>\n<td>$19.4</td>\n<td>$18.8</td>\n<td>$0.6</td>\n<td>3.3%</td>\n<td>$75.1</td>\n<td>$71.7</td>\n<td>$3.4</td>\n<td>4.7%</td>\n    </tr>\n<tr>\n        <td>Comp sales (ex. fuel)<sup>1</sup></td>\n<td>3.1%</td>\n<td>12.2%</td>\n<td>NP</td>\n<td>NP</td>\n<td>4.8%</td>\n<td>10.5%</td>\n<td>NP</td>\n<td>NP</td>\n    </tr>\n<tr>\n        <td>Transactions</td>\n<td>3.6%</td>\n<td>6.7%</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n    </tr>\n<tr>\n        <td>Average Ticket</td>\n<td>-0.4%</td>\n<td>5.2%</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n    </tr>\n<tr>\n        <td>eCommerce contribution to comp</td>\n<td>~190 bps</td>\n<td>~120 bps</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n<td>NP</td>\n    </tr>\n<tr>\n        <td>Operating income</td>\n<td>$0.6</td>\n<td>$0.5</td>\n<td>$0.1</td>\n<td>20.4%</td>\n<td>$2.2</td>\n<td>$2.0</td>\n<td>$0.2</td>\n<td>11.6%</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/walmart-earnings-release-fy24-q4__p4_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416924000019/earningsreleasefy24q4.htm",
+      "accession": "0000104169-24-000019",
+      "provider": "datamulehub",
+      "sha256": "e5ee3e8d267e3a7f363151d24ddb1cf0158546f3dda956fb7a49c638a07f16da",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 6,
+            "byte_start": 74245,
+            "byte_end_exclusive": 90950
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "59b239bf6a9282cde10f97706ca710b03c4b701f1a88dd1120c9ec2f08e94113",
+    "input_sha256": "f762f19b35a258cbe9cf8a9caf85824853547ba8f42fc7ef6d74e14efb1956de"
+  },
+  "tags": []
+}

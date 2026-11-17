@@ -1,0 +1,40 @@
+{
+  "id": "financial_tables/ri-2026-08-13_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "# Corporate Overview\n\n# Corporate Profile\n\nRealty Income (NYSE: O), an S&P 500 company, is real estate partner to the world's leading companies. Founded in 1969, we invest in diversified commercial real estate and have a portfolio of over 15,450 properties in all 50 U.S. states, the U.K., and six other countries in Europe. We are known as “The Monthly Dividend Company®,” and have a mission to invest in people and places to deliver dependable monthly dividends that increase over time. Since our founding, we have declared 652 consecutive monthly dividends and are a member of the S&P 500 Dividend Aristocrats® index for having increased our dividend for the last 30 consecutive years. Additional information about the company can be found at www.realtyincome.com.\n\n# Portfolio Overview\n\nAs of September 30, 2024, we owned or held interests in 15,457 properties, with approximately 336.6 million square feet of leasable space. Our properties are leased to 1,552 different clients doing business in 90 industries. Also as of September 30, 2024, approximately 79.4% of our total annualized contractual rent<sup>(1)</sup> was generated from retail properties, 14.6% from industrial properties, 3.2% from gaming properties, and the remaining 2.8% from other property types. Our physical occupancy as of September 30, 2024 was 98.7%, with a weighted average remaining lease term of approximately 9.4 years. Total annualized contractual rent on our leases as of September 30, 2024 was $4.93 billion<sup>(2)</sup>.\n\n# Common Stock\n\nOur common stock is traded on the New York Stock Exchange under the symbol \"O\" (in thousands, except per share amount).\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th></th>\n      <th>September 30, 2024</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Closing price</td>\n      <td>$</td>\n      <td>63.42</td>\n    </tr>\n    <tr>\n      <td>Shares and units outstanding</td>\n      <td></td>\n      <td>877,879</td>\n    </tr>\n    <tr>\n      <td>Market value of common equity</td>\n      <td>$</td>\n      <td>55,675,086</td>\n    </tr>\n    <tr>\n      <td>Total market capitalization</td>\n      <td>$</td>\n      <td>82,771,321</td>\n    </tr>\n  </tbody>\n</table>\n\n# Transfer Agent\n\nComputershare\nPhone: (877) 218-2434\nWebsite: www.computershare.com\n\n# One Team Senior Management\n\n* Neil M. Abraham, EVP, Chief Strategy Officer, Realty Income International - President\n* Michelle Bushore, EVP, Chief Legal Officer, General Counsel and Secretary\n* Mark E. Hagan, EVP, Chief Investment Officer\n* Shannon Kehle, EVP, Chief People Officer\n* Jonathan Pong, EVP, Chief Financial Officer and Treasurer\n* Sumit Roy, President, Chief Executive Officer\n* Gregory J. Whyte, EVP, Chief Operating Officer\n\n# Credit Ratings\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th>Senior Unsecured</th>\n      <th>Outlook</th>\n      <th>Commercial Paper</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Moody's</td>\n      <td>A3</td>\n      <td>Stable</td>\n      <td>P-2</td>\n    </tr>\n    <tr>\n      <td>Standard & Poor's</td>\n      <td>A-</td>\n      <td>Stable</td>\n      <td>A-2</td>\n    </tr>\n  </tbody>\n</table>\n\n# Dividend Information as of October 2024\n\n* Current annualized dividend of $3.162 per share\n* Compound average annual dividend growth rate of approximately 4.3%\n* 652 consecutive monthly dividends declared\n* 108 consecutive quarterly dividend increases\n\n# Corporate Headquarters\n\n11995 El Camino Real\nSan Diego, CA 92130\nPhone: +1 (858) 284-5000\nWebsite: www.realtyincome.com\n\n# London Office\n\n19 Wells Street\nLondon, United Kingdom W1T 3PQ\nPhone: +44 (20) 3931 6858\n\n# Amsterdam Office\n\nEduard van Beinumstraat 8\nAmsterdam, Netherlands 1077 CZ\n\n<sup>(1)</sup> Total annualized contractual rent is a supplemental operating measure. Please see the Glossary for our definition, reconciliation, and an explanation of how we utilize this metric.\n\n<sup>(2)</sup> Total annualized contractual rent includes 0.8% of rent from clients accounted for on a cash basis.",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "ri.pdf",
+    "source_sha256": "13f98e15f8fab5ef6c47d45df8347fdd5a76340e4eda2c387ba3c61cb70543e0",
+    "annotated_at": "2026-08-13T08:10:39.156Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/ri-2026-08-13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000127/realtyincomeq32024supple.htm",
+      "accession": "0000726728-24-000127",
+      "provider": "datamulehub",
+      "sha256": "6f3ad808db77d1a056689175d9651d8c70b32ec17fd698b9be33e5606d8fc68e",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "image_url": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000127/realtyincomeq32024supple003.jpg",
+        "image_sha256": "027a77a831c57cb05c18b32e3aef736a13a6778f8d410989e6d0b3e080c50885",
+        "image_embedded": true
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "13f98e15f8fab5ef6c47d45df8347fdd5a76340e4eda2c387ba3c61cb70543e0",
+    "input_sha256": "cc52f18469b709259010a0f76e8d4a3f8e156e9ededde29f376896cf257de90b"
+  },
+  "tags": []
+}

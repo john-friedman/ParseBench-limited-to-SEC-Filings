@@ -1,0 +1,40 @@
+{
+  "id": "financial_tables/interim-2026-08-13_page1",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "Interim condensed consolidated statement of cash flows\n\n(Unaudited) (in € millions)\n\n<table>\n  <thead>\n    <tr>\n      <th></th>\n      <th colspan=\"3\">Three months ended</th>\n    </tr>\n    <tr>\n      <th></th>\n      <th>September 30, 2024</th>\n      <th>June 30, 2024</th>\n      <th>September 30, 2023</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Operating activities</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Net income</td>\n      <td>300</td>\n      <td>274</td>\n      <td>65</td>\n    </tr>\n    <tr>\n      <td>Adjustments to reconcile net income to net cash flows</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Depreciation of property and equipment</td>\n      <td>21</td>\n      <td>21</td>\n      <td>26</td>\n    </tr>\n    <tr>\n      <td>Amortization of intangible assets</td>\n      <td>9</td>\n      <td>9</td>\n      <td>10</td>\n    </tr>\n    <tr>\n      <td>Impairment charges on real estate assets</td>\n      <td>—</td>\n      <td>14</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Write-off of content assets</td>\n      <td>—</td>\n      <td>—</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Share-based compensation expense</td>\n      <td>63</td>\n      <td>81</td>\n      <td>85</td>\n    </tr>\n    <tr>\n      <td>Finance income</td>\n      <td>(66)</td>\n      <td>(76)</td>\n      <td>(55)</td>\n    </tr>\n    <tr>\n      <td>Finance costs</td>\n      <td>122</td>\n      <td>72</td>\n      <td>14</td>\n    </tr>\n    <tr>\n      <td>Income tax expense</td>\n      <td>98</td>\n      <td>(4)</td>\n      <td>8</td>\n    </tr>\n    <tr>\n      <td>Other</td>\n      <td>—</td>\n      <td>(1)</td>\n      <td>(1)</td>\n    </tr>\n    <tr>\n      <td>Changes in working capital:</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>(Increase)/decrease in trade receivables and other assets</td>\n      <td>(4)</td>\n      <td>40</td>\n      <td>(69)</td>\n    </tr>\n    <tr>\n      <td>Increase in trade and other liabilities</td>\n      <td>86</td>\n      <td>28</td>\n      <td>62</td>\n    </tr>\n    <tr>\n      <td>Increase in deferred revenue</td>\n      <td>33</td>\n      <td>21</td>\n      <td>56</td>\n    </tr>\n    <tr>\n      <td>Increase/(decrease) in provisions</td>\n      <td>—</td>\n      <td>4</td>\n      <td>(2)</td>\n    </tr>\n    <tr>\n      <td>Interest paid on lease liabilities</td>\n      <td>(9)</td>\n      <td>(9)</td>\n      <td>(9)</td>\n    </tr>\n    <tr>\n      <td>Interest received</td>\n      <td>77</td>\n      <td>41</td>\n      <td>28</td>\n    </tr>\n    <tr>\n      <td>Income tax paid</td>\n      <td>(15)</td>\n      <td>(23)</td>\n      <td>(7)</td>\n    </tr>\n    <tr>\n      <td>Net cash flows from operating activities</td>\n      <td>715</td>\n      <td>492</td>\n      <td>211</td>\n    </tr>\n    <tr>\n      <td>Investing activities</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Payment of deferred consideration pertaining to business combinations</td>\n      <td>—</td>\n      <td>(3)</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Purchases of property and equipment</td>\n      <td>(4)</td>\n      <td>(2)</td>\n      <td>(1)</td>\n    </tr>\n    <tr>\n      <td>Purchases of short term investments</td>\n      <td>(1,439)</td>\n      <td>(1,285)</td>\n      <td>(406)</td>\n    </tr>\n    <tr>\n      <td>Sales and maturities of short term investments</td>\n      <td>1,364</td>\n      <td>1,179</td>\n      <td>201</td>\n    </tr>\n    <tr>\n      <td>Dividends recieved</td>\n      <td>—</td>\n      <td>18</td>\n      <td>—</td>\n    </tr>\n    <tr>\n      <td>Change in restricted cash</td>\n      <td>—</td>\n      <td>—</td>\n      <td>6</td>\n    </tr>\n    <tr>\n      <td>Other</td>\n      <td>(3)</td>\n      <td>1</td>\n      <td>(3)</td>\n    </tr>\n    <tr>\n      <td>Net cash flows used in investing activities</td>\n      <td>(82)</td>\n      <td>(92)</td>\n      <td>(203)</td>\n    </tr>\n    <tr>\n      <td>Financing activities</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Proceeds from exercise of stock options</td>\n      <td>152</td>\n      <td>240</td>\n      <td>32</td>\n    </tr>\n    <tr>\n      <td>Payments of lease liabilities</td>\n      <td>(18)</td>\n      <td>(24)</td>\n      <td>(13)</td>\n    </tr>\n    <tr>\n      <td>Payments for employee taxes withheld from restricted stock unit releases</td>\n      <td>(35)</td>\n      <td>(32)</td>\n      <td>(20)</td>\n    </tr>\n    <tr>\n      <td>Net cash flows from/(used in) financing activities</td>\n      <td>99</td>\n      <td>184</td>\n      <td>(1)</td>\n    </tr>\n    <tr>\n      <td>Net increase in cash and cash equivalents</td>\n      <td>732</td>\n      <td>584</td>\n      <td>7</td>\n    </tr>\n    <tr>\n      <td>Cash and cash equivalents at beginning of the period</td>\n      <td>4,054</td>\n      <td>3,451</td>\n      <td>2,550</td>\n    </tr>\n    <tr>\n      <td>Net foreign exchange (losses)/gains on cash and cash equivalents</td>\n      <td>(98)</td>\n      <td>19</td>\n      <td>58</td>\n    </tr>\n    <tr>\n      <td>Cash and cash equivalents at period end</td>\n      <td>4,688</td>\n      <td>4,054</td>\n      <td>2,615</td>\n    </tr>\n  </tbody>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "interim.pdf",
+    "source_sha256": "a24b80101359298de39e9b1ae0ae839c0b4fd90da8ca3a07638fde1d17ba0212",
+    "annotated_at": "2026-08-13T04:17:13.564Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/interim-2026-08-13_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1639920/000114036124046169/ef20038206_ex99-1.htm",
+      "accession": "0001140361-24-046169",
+      "provider": "datamulehub",
+      "sha256": "19e3d2733729e789ecb722aa94630ad26c3411022dfe13bc8f1ed03b3fa10c9f",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "image_url": "https://www.sec.gov/Archives/edgar/data/1639920/000114036124046169/ef20038206_ex99-1slide27.jpg",
+        "image_sha256": "6ce8696e9957130baebfcb08a119251c5095ce78d021062d1c29e9cc1cc416e2",
+        "image_embedded": true
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "a24b80101359298de39e9b1ae0ae839c0b4fd90da8ca3a07638fde1d17ba0212",
+    "input_sha256": "e14b2acbc8db061b745b8cfdb8222c0fb9d0da714921e3e8a9927b2e85fac531"
+  },
+  "tags": []
+}

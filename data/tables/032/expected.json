@@ -1,0 +1,40 @@
+{
+  "id": "tables/Goldman Sachs 10-k_page113",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">As of December</th>\n    </tr>\n        <tr>\n        <th>$ in millions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Equity</td>\n<td>$ 1,567</td>\n<td>$ 1,562</td>\n    </tr>\n<tr>\n        <td class=\"\">Debt</td>\n<td>1,904</td>\n<td>2,446</td>\n    </tr>\n<tr>\n        <td class=\"\">Total</td>\n<td>$ 3,471</td>\n<td>$ 4,008</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th colspan=\"2\">As of December</th>\n    </tr>\n        <tr>\n        <th>$ in millions</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">+100 basis points parallel shift in rates</td>\n<td>$ 140</td>\n<td>$ 225</td>\n    </tr>\n<tr>\n        <td class=\"\">-100 basis points parallel shift in rates</td>\n<td>$ (270)</td>\n<td>$ (232)</td>\n    </tr>\n<tr>\n        <td class=\"\">+200 basis points parallel shift in rates</td>\n<td>$ 196</td>\n<td>$ 445</td>\n    </tr>\n<tr>\n        <td class=\"\">-200 basis points parallel shift in rates</td>\n<td>$ (525)</td>\n<td>$ (475)</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Goldman Sachs 10-k_page113.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/gs-20241231.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "d554e0a5bf3de29bb63f28f76d693d7cc759f6dcde34d6a8657a6ee6d3580a24",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 188,
+            "byte_start": 3341679,
+            "byte_end_exclusive": 3347704
+          },
+          {
+            "table_index_0based": 189,
+            "byte_start": 3353564,
+            "byte_end_exclusive": 3360674
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "e8e6fc65b5478289e9d500fc4d8e317af5450fc54d3580646c5449a089d40bac",
+    "input_sha256": "d1a9e00aecd6ba7491da464c9dc2edfde8991253fe12b6ddcba943a42bb8a60c"
+  },
+  "tags": []
+}

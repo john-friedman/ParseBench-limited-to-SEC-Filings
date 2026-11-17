@@ -1,0 +1,40 @@
+{
+  "id": "tables/Apple 10-k_page45",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>2025</th>\n        <th>2024</th>\n        <th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Beginning balances</td>\n<td>$ 22,038</td>\n<td>$ 19,454</td>\n<td>$ 16,758</td>\n    </tr>\n<tr>\n        <td class=\"\">Increases related to tax positions taken during a prior year</td>\n<td>1,971</td>\n<td>1,727</td>\n<td>2,044</td>\n    </tr>\n<tr>\n        <td class=\"\">Decreases related to tax positions taken during a prior year</td>\n<td>(71)</td>\n<td>(386)</td>\n<td>(1,463)</td>\n    </tr>\n<tr>\n        <td class=\"\">Increases related to tax positions taken during the current year</td>\n<td>3,795</td>\n<td>2,542</td>\n<td>2,628</td>\n    </tr>\n<tr>\n        <td class=\"\">Decreases related to settlements with taxing authorities</td>\n<td>(2,939)</td>\n<td>(1,070)</td>\n<td>(19)</td>\n    </tr>\n<tr>\n        <td class=\"\">Decreases related to expiration of the statute of limitations</td>\n<td>(1,552)</td>\n<td>(229)</td>\n<td>(494)</td>\n    </tr>\n<tr>\n        <td class=\"\">Ending balances</td>\n<td>$ 23,242</td>\n<td>$ 22,038</td>\n<td>$ 19,454</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <th>Lease-Related Assets and Liabilities</th>\n        <th>Financial Statement Line Items</th>\n        <th>2025</th>\n        <th>2024</th>\n    </tr>\n<tr>\n        <td class=\"\">Right-of-use assets:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Operating leases</td>\n<td>Other non-current assets</td>\n<td>$ 11,205</td>\n<td>$ 10,234</td>\n    </tr>\n<tr>\n        <td class=\"\">Finance leases</td>\n<td>Property, plant and equipment, net</td>\n<td>1,033</td>\n<td>1,069</td>\n    </tr>\n<tr>\n        <td class=\"\">Total right-of-use assets</td>\n<td></td>\n<td>$ 12,238</td>\n<td>$ 11,303</td>\n    </tr>\n<tr>\n        <td class=\"\">Lease liabilities:</td>\n<td></td>\n<td></td>\n<td></td>\n    </tr>\n<tr>\n        <td class=\"\">Operating leases</td>\n<td>Other current liabilities</td>\n<td>$ 1,579</td>\n<td>$ 1,488</td>\n    </tr>\n<tr>\n        <td class=\"\"></td>\n<td>Other non-current liabilities</td>\n<td>10,911</td>\n<td>10,046</td>\n    </tr>\n<tr>\n        <td class=\"\">Finance leases</td>\n<td>Other current liabilities</td>\n<td>538</td>\n<td>144</td>\n    </tr>\n<tr>\n        <td class=\"\"></td>\n<td>Other non-current liabilities</td>\n<td>692</td>\n<td>752</td>\n    </tr>\n<tr>\n        <td class=\"\">Total lease liabilities</td>\n<td></td>\n<td>$ 13,720</td>\n<td>$ 12,430</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Apple 10-k_page45.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "accession": "0000320193-25-000079",
+      "provider": "datamulehub",
+      "sha256": "274361a794f84b24d75b4ee98bc8eff5a031b4fc1be1a1210dbc2b10d92c5179",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 38,
+            "byte_start": 1057154,
+            "byte_end_exclusive": 1074503
+          },
+          {
+            "table_index_0based": 39,
+            "byte_start": 1080557,
+            "byte_end_exclusive": 1100707
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "ddbfc5af91dba3ee4b227689138b3754ee5ea084bf2d0e54792b49244aa1f2ea",
+    "input_sha256": "5ed1b9b658bfd7d90a6f327df8b40c3d600175a23571a9b28b33eaaab3f3a648"
+  },
+  "tags": []
+}

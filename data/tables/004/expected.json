@@ -1,0 +1,35 @@
+{
+  "id": "tables/Apple 10-k_page23",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n        <th>September 2020</th>\n        <th>September 2021</th>\n        <th>September 2022</th>\n        <th>September 2023</th>\n        <th>September 2024</th>\n        <th>September 2025</th>\n    </tr>\n        <tr>\n        <td class=\"\">Apple Inc.</td>\n<td>$100</td>\n<td>$132</td>\n<td>$136</td>\n<td>$155</td>\n<td>$208</td>\n<td>$234</td>\n    </tr>\n<tr>\n        <td class=\"\">S&amp;P 500 Index</td>\n<td>$100</td>\n<td>$137</td>\n<td>$115</td>\n<td>$136</td>\n<td>$185</td>\n<td>$217</td>\n    </tr>\n<tr>\n        <td class=\"\">Dow Jones U.S. Technology Total Stock Market Index</td>\n<td>$100</td>\n<td>$147</td>\n<td>$107</td>\n<td>$147</td>\n<td>$220</td>\n<td>$287</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Apple 10-k_page23.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "accession": "0000320193-25-000079",
+      "provider": "datamulehub",
+      "sha256": "274361a794f84b24d75b4ee98bc8eff5a031b4fc1be1a1210dbc2b10d92c5179",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 13,
+            "byte_start": 330639,
+            "byte_end_exclusive": 344962
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "47d79d0869e560b649e4f1336e3e2aa6db8b86fb7b5d1fd4d9871682ed55df80",
+    "input_sha256": "19c61d2afe06c19fc44f2c0cd2428458461f7a438718351831a5e8808f6180c5"
+  },
+  "tags": []
+}

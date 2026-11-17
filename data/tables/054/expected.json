@@ -1,0 +1,40 @@
+{
+  "id": "tables/Home Depot 10-k unrestricted_page72",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <th>shares in thousands</th>\n        <th class=\"\">Number of Shares</th>\n        <th colspan=\"2\">Weighted Average<br>Grant Date Fair Value</th>\n    </tr>\n        <tr>\n        <td class=\"\">Nonvested at beginning of year</td>\n<td>3,033</td>\n<td colspan=\"2\">$ 277.09</td>\n    </tr>\n<tr>\n        <td class=\"\">Granted (1)</td>\n<td>1,330</td>\n<td colspan=\"2\">375.21</td>\n    </tr>\n<tr>\n        <td class=\"\">Vested</td>\n<td>(1,113)</td>\n<td colspan=\"2\">260.05</td>\n    </tr>\n<tr>\n        <td class=\"\">Forfeited</td>\n<td>(200)</td>\n<td colspan=\"2\">315.04</td>\n    </tr>\n<tr>\n        <td class=\"\">Nonvested at end of year</td>\n<td>3,050</td>\n<td colspan=\"2\">323.61</td>\n    </tr>\n  </tbody></table>\n\n<table>\n      <tbody><tr>\n        <th>in millions</th>\n        <th colspan=\"2\">Fiscal 2024</th>\n        <th colspan=\"2\">Fiscal 2023</th>\n        <th colspan=\"2\">Fiscal 2022</th>\n    </tr>\n        <tr>\n        <td class=\"\">Total fair value vested</td>\n<td colspan=\"2\">$ 429</td>\n<td colspan=\"2\">$ 312</td>\n<td colspan=\"2\">$ 387</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Home Depot 10-k unrestricted_page72.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495025000085/hd-20250202.htm",
+      "accession": "0000354950-25-000085",
+      "provider": "datamulehub",
+      "sha256": "cff28db2d142e0e74a2f6460460c9a150d26933fac043782cf790360ca1f0057",
+      "scope": "tables",
+      "extraction": {
+        "unit": "tables",
+        "tables": [
+          {
+            "table_index_0based": 133,
+            "byte_start": 1905316,
+            "byte_end_exclusive": 1914615
+          },
+          {
+            "table_index_0based": 134,
+            "byte_start": 1916669,
+            "byte_end_exclusive": 1921876
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "2cf4c1ffa4f25a71841404c0362315261040f7b289bd8ee6945c98cb80a24ac3",
+    "input_sha256": "f64661ad3d743f1d91523148d43adc906bc8e343ec5837eb8589b5456894affd"
+  },
+  "tags": []
+}

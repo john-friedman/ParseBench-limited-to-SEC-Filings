@@ -1,0 +1,35 @@
+{
+  "id": "tables/Goldman Sachs 10-k_page411",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th>MRT Classification</th>\n<th>MRT Appendix</th>\n    </tr>\n<tr>\n        <td>EU MRT, GSAMI MRT, GSAMI Senior Management and/or UK MRT</td>\n<td>EU and UK Material Risk Taker Appendix</td>\n    </tr>\n<tr>\n        <td>GSBE MRT and GSBE Senior Management</td>\n<td>GSBE Material Risk Taker Appendix</td>\n    </tr>\n<tr>\n        <td>GSBE MRT or GSBE Senior Management <i>and</i> any combination of EU MRT, GSAMI MRT, GSAMI Senior Management or UK MRT</td>\n<td>GSBE Material Risk Taker Appendix <i>and</i> EU and UK Material Risk Taker Appendix]</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Goldman Sachs 10-k_page411.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698225000005/a1037_formxofxone-timexyea.htm",
+      "accession": "0000886982-25-000005",
+      "provider": "datamulehub",
+      "sha256": "2d74d8ece1df9568a4b07bd20d894e9c2a877a8ffb88f50f01b8bd26aa18ed93",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 0,
+            "byte_start": 22082,
+            "byte_end_exclusive": 25998
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "785bd16352e7fb3239207e76d370a2cd780a63f5e385b81431439dbb88734cbb",
+    "input_sha256": "d3adf714d1f99ae8d8b2d543a0dbad1a8c32e7d34fb0b9bb502b9f550402200c"
+  },
+  "tags": []
+}

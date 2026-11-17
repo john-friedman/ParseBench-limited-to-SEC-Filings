@@ -1,0 +1,35 @@
+{
+  "id": "tables/corp-q1-2025_page10",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tr>\n        <th></th>\n        <th colspan=\"3\">Three months ended March 31,</th>\n    </tr>\n<tr>\n        <th>(in millions)</th>\n        <th>2025</th>\n        <th>2024</th>\n        <th>Change</th>\n    </tr>\n        <tr>\n        <th>Consumer, excluding credit card</th>\n<td>$ 204</td>\n<td>$ 77</td>\n<td>165 %</td>\n    </tr>\n<tr>\n        <th>Credit card</th>\n<td>2,382</td>\n<td>1,837</td>\n<td>30</td>\n    </tr>\n<tr>\n        <th>Total consumer</th>\n<td>2,586</td>\n<td>1,914</td>\n<td>35</td>\n    </tr>\n<tr>\n        <th>Wholesale</th>\n<td>736</td>\n<td>(56)</td>\n<td>NM</td>\n    </tr>\n<tr>\n        <th>Investment securities</th>\n<td>(17)</td>\n<td>26</td>\n<td>NM</td>\n    </tr>\n<tr>\n        <th>Total provision for credit losses</th>\n<td>$ 3,305</td>\n<td>$ 1,884</td>\n<td>75 %</td>\n    </tr>\n  </table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/corp-q1-2025_page10.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961725000421/jpm-20250331.htm",
+      "accession": "0000019617-25-000421",
+      "provider": "datamulehub",
+      "sha256": "c7286d1178951eee383da709c30d0dd6f7eb8b2ea8e923ff13423e8e38aa7413",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 16,
+            "byte_start": 1272252,
+            "byte_end_exclusive": 1286211
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "0857a0c874915136aabe46ab975af581710d1123ff84412a9b3f4b106e33808b",
+    "input_sha256": "81572cbaa109801589e72daa34d5bb2041ce521f39e24b1ba2fb2db21f53058d"
+  },
+  "tags": []
+}

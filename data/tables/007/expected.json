@@ -1,0 +1,35 @@
+{
+  "id": "tables/Apple 10-k_page28",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n      <tbody><tr>\n        <td class=\"\"></td>\n<th>2025</th>\n<th>2024</th>\n<th>2023</th>\n    </tr>\n<tr>\n        <td class=\"\">Provision for income taxes</td>\n<td>$  20,719</td>\n<td>$  29,749</td>\n<td>$  16,741</td>\n    </tr>\n<tr>\n        <td class=\"\">Effective tax rate</td>\n<td>15.6%</td>\n<td>24.1%</td>\n<td>14.7%</td>\n    </tr>\n<tr>\n        <td class=\"\">Statutory federal income tax rate</td>\n<td>21%</td>\n<td>21%</td>\n<td>21%</td>\n    </tr>\n  </tbody></table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/Apple 10-k_page28.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "accession": "0000320193-25-000079",
+      "provider": "datamulehub",
+      "sha256": "274361a794f84b24d75b4ee98bc8eff5a031b4fc1be1a1210dbc2b10d92c5179",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 19,
+            "byte_start": 439896,
+            "byte_end_exclusive": 446778
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "011f3ee0f1bcf8418b5594177be3806f3d4a2ede0f061d5e1be589e9e8327c00",
+    "input_sha256": "0e98a2d558363e66ea5975ff0b1b537639ba8cebfa7769fd30bbc1b125cabd5c"
+  },
+  "tags": []
+}

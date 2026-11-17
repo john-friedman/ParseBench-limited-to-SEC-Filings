@@ -1,0 +1,39 @@
+{
+  "id": "financial_tables/Visa-Fiscal-2025-Annual-Report-1-2026-08-21_page127",
+  "subset": "financial_tables",
+  "dimension": "tables",
+  "document": "sec_input.pdf",
+  "expected_markdown": "# **EXHIBIT INDEX**\n\n<table>\n  <thead>\n    <tr>\n      <th rowspan=\"2\">Exhibit Number</th>\n      <th rowspan=\"2\">Exhibit <b>Description</b></th>\n      <th colspan=\"4\"><b>Incorporated by Reference</b></th>\n    </tr>\n    <tr>\n      <th>Form</th>\n      <th><b>File</b> Number</th>\n      <th>Exhibit Number</th>\n      <th><b>Filing</b> <b>Date</b></th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>2.1#</td>\n      <td>Amended and Restated Transaction Agreement, dated as of May 10, 2016, between Visa Inc. and Visa Europe Limited</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>2.1</td>\n      <td>5/10/2016</td>\n    </tr>\n    <tr>\n      <td>3.1</td>\n      <td>Eighth Restated Certificate of Incorporation of Visa Inc.</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>3.2</td>\n      <td>1/24/2024</td>\n    </tr>\n    <tr>\n      <td>3.2</td>\n      <td>Amended and Restated Bylaws of Visa Inc.</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>3.2</td>\n      <td>7/23/2025</td>\n    </tr>\n    <tr>\n      <td>4.1</td>\n      <td>Form of stock certificate of Visa Inc.</td>\n      <td>S-4/A</td>\n      <td>333-143966</td>\n      <td>4.1</td>\n      <td>9/13/2007</td>\n    </tr>\n    <tr>\n      <td>4.2</td>\n      <td>Form of specimen certificate for class C common stock of Visa Inc.</td>\n      <td>8-A</td>\n      <td>000-53572</td>\n      <td>4.2</td>\n      <td>1/28/2009</td>\n    </tr>\n    <tr>\n      <td>4.3</td>\n      <td>Certificate of Designations of Series A Convertible Participating Preferred Stock of Visa Inc.</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>3.1</td>\n      <td>6/21/2016</td>\n    </tr>\n    <tr>\n      <td>4.4</td>\n      <td>Certificate of Designations of Series B Convertible Participating Preferred Stock of Visa Inc.</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>3.2</td>\n      <td>6/21/2016</td>\n    </tr>\n    <tr>\n      <td>4.5</td>\n      <td>Certificate of Designations of Series C Convertible Participating Preferred Stock of Visa Inc.</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>3.3</td>\n      <td>6/21/2016</td>\n    </tr>\n    <tr>\n      <td>4.6</td>\n      <td>Indenture dated December 14, 2015 between Visa Inc. and U.S. Bank National Association</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.1</td>\n      <td>12/14/2015</td>\n    </tr>\n    <tr>\n      <td>4.7</td>\n      <td>Form of 3.150% Senior Note due 2025</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.5</td>\n      <td>12/14/2015</td>\n    </tr>\n    <tr>\n      <td>4.8</td>\n      <td>Form of 1.500% Senior Note due 2026</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.1</td>\n      <td>6/1/2022</td>\n    </tr>\n    <tr>\n      <td>4.9</td>\n      <td>Form of 0.750% Senior Note due 2027</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.1</td>\n      <td>8/17/2020</td>\n    </tr>\n    <tr>\n      <td>4.10</td>\n      <td>Form of 1.900% Senior Note due 2027</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.1</td>\n      <td>4/2/2020</td>\n    </tr>\n    <tr>\n      <td>4.11</td>\n      <td>Form of 2.750% Senior Note due 2027</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.2</td>\n      <td>9/11/2017</td>\n    </tr>\n    <tr>\n      <td>4.12</td>\n      <td>Form of 2.250% Senior Notes due 2028</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.1</td>\n      <td>5/15/2025</td>\n    </tr>\n    <tr>\n      <td>4.13</td>\n      <td>Form of 2.000% Senior Note due 2029</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.2</td>\n      <td>6/1/2022</td>\n    </tr>\n    <tr>\n      <td>4.14</td>\n      <td>Form of 2.050% Senior Note due 2030</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.2</td>\n      <td>4/2/2020</td>\n    </tr>\n    <tr>\n      <td>4.15</td>\n      <td>Form of 1.100% Senior Note due 2031</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.2</td>\n      <td>8/17/2020</td>\n    </tr>\n    <tr>\n      <td>4.16</td>\n      <td>Form of 3.125% Senior Notes due 2033</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.2</td>\n      <td>5/15/2025</td>\n    </tr>\n    <tr>\n      <td>4.17</td>\n      <td>Form of 2.375% Senior Note due 2034</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.3</td>\n      <td>6/1/2022</td>\n    </tr>\n    <tr>\n      <td>4.18</td>\n      <td>Form of 4.150% Senior Note due 2035</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.6</td>\n      <td>12/14/2015</td>\n    </tr>\n    <tr>\n      <td>4.19</td>\n      <td>Form of 3.500% Senior Notes due 2037</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.3</td>\n      <td>5/15/2025</td>\n    </tr>\n    <tr>\n      <td>4.20</td>\n      <td>Form of 2.700% Senior Note due 2040</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.3</td>\n      <td>4/2/2020</td>\n    </tr>\n    <tr>\n      <td>4.21</td>\n      <td>Form of 3.875% Senior Notes due 2044</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.4</td>\n      <td>5/15/2025</td>\n    </tr>\n    <tr>\n      <td>4.22</td>\n      <td>Form of 4.300% Senior Note due 2045</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.7</td>\n      <td>12/14/2015</td>\n    </tr>\n    <tr>\n      <td>4.23</td>\n      <td>Form of 3.650% Senior Note due 2047</td>\n      <td>8-K</td>\n      <td>001-33977</td>\n      <td>4.3</td>\n      <td>9/11/2017</td>\n    </tr>\n  </tbody>\n</table>\n\n112",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Visa-Fiscal-2025-Annual-Report (1).pdf",
+    "source_sha256": "d3177cdb73ab771f5c097ff999813cb7f4645829c4f01faa13587ce2a0883e54",
+    "annotated_at": "2026-08-21T17:42:44.868Z",
+    "annotator_dataset": "pierre_table_finance",
+    "scoring": "next",
+    "primary_metric": "table_next",
+    "headline": "feature",
+    "headline_reason": "page Markdown holds every table",
+    "feature_group": "financial_table",
+    "next_version": "v0.6",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/financial_tables.jsonl",
+    "parsebench_document": "financial_tables/Visa-Fiscal-2025-Annual-Report-1-2026-08-21_page127.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000130817925000637/v014524-ars.pdf",
+      "accession": "0001308179-25-000637",
+      "provider": "datamulehub",
+      "sha256": "50377feb2f7fa51cad3a1168487c3268b5cb261004f31b12dfa5e2230d68c85b",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "page_index_0based": 126,
+        "source_page_count": 136
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "d3177cdb73ab771f5c097ff999813cb7f4645829c4f01faa13587ce2a0883e54",
+    "input_sha256": "a613482b116adb014d323ef217d840e07f52d6ddc951330d97495fb9421df47f"
+  },
+  "tags": []
+}

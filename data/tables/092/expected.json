@@ -1,0 +1,35 @@
+{
+  "id": "tables/WU.2015.page_161.pdf_68095_page1",
+  "subset": "tables",
+  "dimension": "tables",
+  "document": "sec_input.html",
+  "expected_markdown": "<table>\n<tr><th rowspan=\"2\">(in millions, except per share amounts)</th><th colspan=\"3\">Year Ended December 31,</th><th colspan=\"2\">% Change</th></tr>\n<tr><th>2015</th><th>2014</th><th>2013</th><th>2015 vs. 2014</th><th>2014 vs. 2013</th></tr>\n<tr><td>Revenues:</td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Transaction fees</td><td>$ 3,915.6</td><td>$ 4,083.6</td><td>$ 4,065.8</td><td>(4)%</td><td>0 %</td></tr>\n<tr><td>Foreign exchange revenues</td><td>1,436.2</td><td>1,386.3</td><td>1,348.0</td><td>4 %</td><td>3 %</td></tr>\n<tr><td>Other revenues</td><td>131.9</td><td>137.3</td><td>128.2</td><td>(4)%</td><td>7 %</td></tr>\n<tr><td>Total revenues</td><td>5,483.7</td><td>5,607.2</td><td>5,542.0</td><td>(2)%</td><td>1 %</td></tr>\n<tr><td>Expenses:</td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Cost of services</td><td>3,199.4</td><td>3,297.4</td><td>3,235.0</td><td>(3)%</td><td>2 %</td></tr>\n<tr><td>Selling, general and administrative</td><td>1,174.9</td><td>1,169.3</td><td>1,199.6</td><td>0 %</td><td>(3)%</td></tr>\n<tr><td>Total expenses</td><td>4,374.3</td><td>4,466.7</td><td>4,434.6</td><td>(2)%</td><td>1 %</td></tr>\n<tr><td>Operating income</td><td>1,109.4</td><td>1,140.5</td><td>1,107.4</td><td>(3)%</td><td>3 %</td></tr>\n<tr><td>Other income/(expense):</td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Interest income</td><td>10.9</td><td>11.5</td><td>9.4</td><td>(5)%</td><td>22 %</td></tr>\n<tr><td>Interest expense</td><td>(167.9)</td><td>(176.6)</td><td>(195.6)</td><td>(5)%</td><td>(10)%</td></tr>\n<tr><td>Derivative gains/(losses), net</td><td>1.2</td><td>(2.2)</td><td>(1.3)</td><td>(a)</td><td>(a)</td></tr>\n<tr><td>Other income/(expense), net</td><td>(11.8)</td><td>(5.0)</td><td>7.0</td><td>(a)</td><td>(a)</td></tr>\n<tr><td>Total other expense, net</td><td>(167.6)</td><td>(172.3)</td><td>(180.5)</td><td>(3)%</td><td>(5)%</td></tr>\n<tr><td>Income before income taxes</td><td>941.8</td><td>968.2</td><td>926.9</td><td>(3)%</td><td>4 %</td></tr>\n<tr><td>Provision for income taxes</td><td>104.0</td><td>115.8</td><td>128.5</td><td>(10)%</td><td>(10)%</td></tr>\n<tr><td>Net income</td><td>$ 837.8</td><td>$ 852.4</td><td>$ 798.4</td><td>(2)%</td><td>7 %</td></tr>\n<tr><td>Earnings per share:</td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Basic</td><td>$ 1.63</td><td>$ 1.60</td><td>$ 1.43</td><td>2 %</td><td>12 %</td></tr>\n<tr><td>Diluted</td><td>$ 1.62</td><td>$ 1.59</td><td>$ 1.43</td><td>2 %</td><td>11 %</td></tr>\n<tr><td>Weighted-average shares outstanding:</td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>Basic</td><td>512.6</td><td>533.4</td><td>556.6</td><td></td><td></td></tr>\n<tr><td>Diluted</td><td>516.7</td><td>536.8</td><td>559.7</td><td></td><td></td></tr>\n</table>",
+  "test_rules": [],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "scoring": "next",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/tables.jsonl",
+    "parsebench_document": "tables/WU.2015.page_161.pdf_68095_page1.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1365135/000136513516000062/wu-12312015x10k.htm",
+      "accession": "0001365135-16-000062",
+      "provider": "datamulehub",
+      "sha256": "9a81cfdcabbdbbdf6fb68531a28f1b1d13086f5e902d70eec9126bbb261bd981",
+      "scope": "table",
+      "extraction": {
+        "unit": "table",
+        "tables": [
+          {
+            "table_index_0based": 110,
+            "byte_start": 689548,
+            "byte_end_exclusive": 777012
+          }
+        ]
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "a74bee35f435291a2cdeb12226b90a5359a117bf7ed09cc061784eee2598716b",
+    "input_sha256": "299a2e0e2c76dc8c0a758e79b8d5120ef4499fba09281ea4b5d7ba497bdc640e"
+  },
+  "tags": []
+}

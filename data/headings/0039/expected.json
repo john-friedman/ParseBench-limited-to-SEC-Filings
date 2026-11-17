@@ -1,0 +1,78 @@
+{
+  "id": "headings/case-0039-4cc9f1c2251b",
+  "subset": "headings",
+  "dimension": "formatting",
+  "document": "sec_input.html",
+  "expected_markdown": null,
+  "test_rules": [
+    {
+      "type": "heading_structure",
+      "id": "case-0039-4cc9f1c2251b:heading-structure-001",
+      "page": 1,
+      "headings": [
+        {
+          "text": "Transactions with Related Parties",
+          "level": 2
+        },
+        {
+          "text": "Off-Balance Sheet Arrangements",
+          "level": 2
+        },
+        {
+          "text": "Accounting Policies and Critical Accounting Estimates and Judgments",
+          "level": 2
+        },
+        {
+          "text": "Allowance for Credit Losses",
+          "level": 3
+        }
+      ],
+      "tags": [
+        "heading-structure",
+        "financial",
+        "full-document-reviewed"
+      ]
+    }
+  ],
+  "metadata": {
+    "modification_notice": "Modified by John Friedman: repackaged this ParseBench-2 case, paired it with a SEC filing input, and added provenance metadata. Original expected answers and evaluation rules are retained. See NOTICE and LICENSES/ParseBench-Apache-2.0.txt.",
+    "source_filename": "Q226_ReportToShareholders.pdf",
+    "source_sha256": "4cc9f1c2251b5a4ff32d510b99dcf16085d5f93d3486808a1b7e8d2827bfc3e6",
+    "source_page": 30,
+    "source_page_count": 68,
+    "cohort": "financial",
+    "annotation_evidence": [
+      "target_page_raster",
+      "adjacent_page_context",
+      "full_document_outline"
+    ],
+    "scoring": "next",
+    "primary_metric": "formatting_v2",
+    "headline": "feature",
+    "headline_reason": "complete page heading list (heading_structure rule)",
+    "next_version": "v0.4",
+    "parsebench_annotations": "https://huggingface.co/datasets/llamaindex/ParseBench-2/resolve/d4e0eaa1b5181f7a84636149eb5717a7aad56c80/headings.jsonl",
+    "parsebench_document": "headings/case-0039-4cc9f1c2251b.pdf",
+    "sec": {
+      "url": "https://www.sec.gov/Archives/edgar/data/927971/000092797126000086/q22026mda.htm",
+      "accession": "0000927971-26-000086",
+      "provider": "datamulehub",
+      "sha256": "68e39001d962388c8c834a484d7ebf68fa8d3162e057f5fa1cc770eb7f8bb3a0",
+      "scope": "page",
+      "extraction": {
+        "unit": "page",
+        "byte_start": 1284221,
+        "byte_end_exclusive": 1295052,
+        "page_fragment_index_0based": 29
+      }
+    },
+    "parsebench_input": "parsebench_input.pdf",
+    "parsebench_input_sha256": "947e65e62aef1f929be24d20ee0cd137e3701e4b609468350e11ffddf5f90337",
+    "input_sha256": "2ceffe10755564e0163079cec335cdc149b5e2f3a25e179eacb2dd2364c5b2c4"
+  },
+  "tags": [
+    "heading-structure",
+    "financial",
+    "full-document-reviewed"
+  ]
+}
