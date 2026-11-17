@@ -17,7 +17,7 @@ Pairing was done using GPT Sol 6.1, and may have bugs.
 
 ## benchmark 
 
-As of 11/16/2026.
+As of 11/16/2026
 
 | Rank | Provider | Category | Overall | Text | Formatting | Tables | Charts | Visual Ground. | Forms | ¢ / Page |
 |---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -33,10 +33,7 @@ As of 11/16/2026.
 | 10 | Pulse (Ultra 2) | Document Parsers | 82.73 | 86.09 | 88.68 | 84.80 | 86.80 | 73.54 | 76.50 | 1.50¢ |
 | 11 | Extend (Parse Light) | Document Parsers | 81.58 | 78.29 | 78.65 | 81.39 | 85.35 | 84.66 | 81.16 | 0.62¢ |
 
-
-
-
-† Doc2struct's **88.84 partial score** is the unweighted mean of its limited dimensions. PDF tables are excluded, as doc2struct currently lacks table parsing support for PDFs.
+† Doc2struct's **88.84 partial score** is the unweighted mean of its limited dimensions. PDF tables are excluded, as doc2struct currently lacks table parsing support for PDFs. Other models scores are their full scores on the full ParseBench. Apples to oranges!
 
 
 ## doc2struct scores by metric
